@@ -148,6 +148,33 @@ details.sx .sxbody{margin-top:8px;font:15px/1.6 var(--serif);color:var(--ink);ba
 details.about{background:var(--paper);border:1px solid var(--rule);border-radius:12px;padding:10px 14px}
 details.about summary{cursor:pointer;font:600 14px var(--sans);color:var(--ink)}
 details.about p{margin:8px 0 0;font:14px/1.6 var(--sans);color:var(--muted)}
+details.about ol{margin:10px 0 0;padding:0;list-style:none;counter-reset:st;display:grid;gap:10px}
+details.about li{counter-increment:st;display:grid;grid-template-columns:28px 1fr;gap:10px;font:14px/1.6 var(--sans);color:var(--muted)}
+details.about li::before{content:counter(st);width:26px;height:26px;border-radius:50%;background:var(--goldsoft);color:var(--ink);font:600 13px/26px var(--sans);text-align:center}
+details.about li b{display:block;color:var(--ink)}
+.contact{display:grid;gap:10px;border-radius:16px;padding:18px;background:radial-gradient(100% 120% at 100% 0%,var(--goldsoft),var(--paper) 70%);border:1px solid var(--rule)}
+.contact h3{margin:0;font:600 17px var(--sans);color:var(--ink)}
+.contact p{margin:0;font:14.5px/1.6 var(--sans);color:var(--muted)}
+.contact .btns{display:flex;flex-wrap:wrap;gap:8px}
+.contact a{text-decoration:none;font:600 14px var(--sans);padding:9px 14px;border-radius:999px;border:1px solid var(--rule);background:var(--bg);color:var(--ink)}
+.contact a:hover{border-color:var(--gold)}
+.picker{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.card>*,.card section,.readings,.rd,.rd>*,.strip,.dcell{min-width:0}
+.rd>*{overflow-wrap:anywhere}
+.card header{grid-template-columns:minmax(0,1fr)}.picker{min-width:0}
+.picker select{flex:1 1 140px;min-width:0;max-width:100%;font:15px var(--sans);padding:9px 12px;border-radius:10px;border:1px solid var(--rule);background:var(--bg);color:var(--ink)}
+.picker button{font:600 18px var(--sans);width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--paper);color:var(--ink);cursor:pointer}
+.picker .count{font:13px var(--sans);color:var(--muted)}
+.welcome{position:fixed;inset:0;z-index:50;display:grid;place-items:center;padding:16px;background:rgba(10,12,20,.62)}
+.welcome[hidden]{display:none}
+.wbox{width:min(460px,100%);max-height:92vh;overflow:auto;background:var(--paper);color:var(--ink);border-radius:20px;padding:24px 20px;display:grid;gap:14px;box-shadow:0 20px 60px rgba(0,0,0,.35);font-family:var(--sans)}
+.wbox h2{margin:0;font:600 28px var(--display)}
+.wbox p{margin:0;font:14.5px/1.6 var(--sans);color:var(--muted)}
+.wbox .wl{font:600 13px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.wbox .wopts{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px}
+.wbox .wopts button{font:600 15px var(--sans);padding:12px;border-radius:12px;border:1px solid var(--rule);background:var(--bg);color:var(--ink);cursor:pointer}
+.wbox .wopts button[aria-pressed="true"]{border-color:var(--gold);background:var(--goldsoft)}
+.wbox .go{font:600 16px var(--sans);padding:13px;border-radius:12px;border:0;background:var(--ink);color:var(--paper);cursor:pointer}
 .term{font-family:var(--display);font-size:28px;font-weight:600;margin:0}
 :lang(ml) .term{font-family:var(--mlserif);font-size:22px}
 #sample,.empty .pill{display:none!important}
@@ -186,13 +213,16 @@ details.about p{margin:8px 0 0;font:14px/1.6 var(--sans);color:var(--muted)}
     <button role="tab" id="t-cal" data-tab="cal"></button>
     <button role="tab" id="t-family" data-tab="family"></button>
     <button role="tab" id="t-lit" data-tab="lit"></button>
+    <button role="tab" id="t-occ" data-tab="occ"></button>
   </div>
 
   <div class="note" id="note"></div>
   <article class="card" id="card"></article>
-  <details class="about" id="about"><summary id="about-s"></summary><p id="about-p1"></p><p id="about-p2"></p></details>
+  <section class="contact" id="contact"></section>
+  <details class="about" id="about"><summary id="about-s"></summary><div id="about-b"></div></details>
   <footer id="foot"></footer>
 </div>
+<div class="welcome" id="welcome" hidden role="dialog" aria-modal="true" aria-labelledby="w-h"><div class="wbox" id="wbox"></div></div>
 
 <script>
 var CONTENT={};
@@ -716,7 +746,7 @@ var SMC={"2025-11-30":{"t":["First Sunday of Annunciation"],"g":[{"h":"25 days f
 "2026-11-28":{"t":["Fourth Saturday of Dedication of the Church"],"g":[{"h":"","r":[["Rev 21:22-27","The temple is the Lord God and the Lamb"],["Jn 4:19-26","Worship in Spirit and Truth"]]},{"h":"Saint Andrew, the Apostle (November 29)","r":[]},{"h":"Patron'","r":[]},{"h":"s day of Mar Andrews Thazhath","r":[["Gen 28:10-17","Dream of Jacob"],["Zech 8:20-23","Let us pray for the favour of Yahweh"],["Rom 10:9-18","Beautiful are the feet of the messengers of the Gospel"],["Mt 4:18-22","Jesus calls Andrew ANNUNCIATION-NATIVITY (SUVARA-YALDA)"]]}]}};
 var UI={
  en:{eyebrow:"God's Word for every day",brand:"Daily Word",sub:"Readings, reflection and homily notes for every day · Syro-Malabar · Syro-Malankara · Latin",
-  rites:{smc:"Syro-Malabar",smk:"Syro-Malankara",lat:"Latin"},tabs:{lectern:"Lectern",homily:"Homily notes",cal:"Calendar page",family:"Family",lit:"Know your liturgy"},
+  rites:{smc:"Syro-Malabar",smk:"Syro-Malankara",lat:"Latin"},tabs:{lectern:"Lectern",homily:"Homily notes",cal:"Calendar page",family:"Prayer meeting",lit:"Know your liturgy",occ:"Special occasions"},
   today:"Today",sample:"Sample day",days:["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],dshort:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
   months:["January","February","March","April","May","June","July","August","September","October","November","December"],
   h:{readings:"Readings",verse:"Word for the day",theo:"Theological reflection",conn:"Promises fulfilled · biblical connections",altar:"At the altar",outline:"Homily outline",live:"Living the Word this week",fathers:"Voices of the Fathers",magis:"Magisterium and recent documents",saints:"Saints of the week",week:"This week",prayer:"Prayer",post:"Ready to post on WhatsApp or Telegram",feasts:"Feasts and memorials this week"},
@@ -725,11 +755,11 @@ var UI={
   smcsrc:"Season, week and readings from the official Syro-Malabar Liturgical Calendar (Second Set) 2025–26.",
   smcnone:"This date is outside the 2025–26 Syro-Malabar calendar loaded in this sample.",
   latsrc:"Season and week calculated from the Roman calendar; check feasts in the official Ordo.",
-  smknone:"Syro-Malankara readings will be added from the official Malankara Panchangom.",
+  smknone:"Syro-Malankara readings and reflection for this day will be added from the official Sacred Lectionary.",smksrc:"Readings from the Sacred Lectionary of the Syro-Malankara Catholic Church (Sunday pattern of 2025–26; to be confirmed with the 2026–27 lectionary).",
   cycle:function(s,w){return "Sunday cycle "+s+" · Weekday cycle "+w},
   foot:["References only. Read the full texts in the POC Bible or your approved lectionary. Quotations from the Fathers and the Magisterium should be checked against the original documents before printing."]},
  ml:{eyebrow:"ദൈവവചനം ഓരോ ദിവസവും",brand:"അനുദിന വചനം",sub:"വായനകളും വിചിന്തനവും പ്രസംഗക്കുറിപ്പുകളും · സീറോ മലബാർ · സീറോ മലങ്കര · ലത്തീൻ",
-  rites:{smc:"സീറോ മലബാർ",smk:"സീറോ മലങ്കര",lat:"ലത്തീൻ"},tabs:{lectern:"വായനാപീഠം",homily:"പ്രസംഗക്കുറിപ്പുകൾ",cal:"കലണ്ടർ താൾ",family:"കുടുംബം",lit:"ആരാധനക്രമം അറിയാൻ"},
+  rites:{smc:"സീറോ മലബാർ",smk:"സീറോ മലങ്കര",lat:"ലത്തീൻ"},tabs:{lectern:"വായനാപീഠം",homily:"പ്രസംഗക്കുറിപ്പുകൾ",cal:"കലണ്ടർ താൾ",family:"പ്രാർഥനാകൂട്ടായ്മ",lit:"ആരാധനക്രമം അറിയാൻ",occ:"വിശേഷാവസരങ്ങൾ"},
   today:"ഇന്ന്",sample:"മാതൃകാദിവസം",days:["ഞായർ","തിങ്കൾ","ചൊവ്വ","ബുധൻ","വ്യാഴം","വെള്ളി","ശനി"],dshort:["ഞാ","തി","ചൊ","ബു","വ്യാ","വെ","ശ"],
   months:["ജനുവരി","ഫെബ്രുവരി","മാർച്ച്","ഏപ്രിൽ","മേയ്","ജൂൺ","ജൂലൈ","ഓഗസ്റ്റ്","സെപ്റ്റംബർ","ഒക്ടോബർ","നവംബർ","ഡിസംബർ"],
   h:{readings:"വായനകൾ",verse:"ഇന്നത്തെ വചനം",theo:"ദൈവശാസ്ത്രവിചിന്തനം",conn:"നിറവേറിയ വാഗ്ദാനങ്ങൾ · ബൈബിൾബന്ധങ്ങൾ",altar:"ബലിപീഠത്തിങ്കൽ",outline:"പ്രസംഗത്തിന്റെ രൂപരേഖ",live:"ഈ ആഴ്ച വചനം ജീവിക്കാൻ",fathers:"സഭാപിതാക്കന്മാരുടെ സ്വരം",magis:"സഭാപ്രബോധനവും സമീപകാല രേഖകളും",saints:"ഈ ആഴ്ചയിലെ വിശുദ്ധർ",week:"ഈ ആഴ്ച",prayer:"പ്രാർഥന",post:"വാട്സാപ്പിലോ ടെലിഗ്രാമിലോ പോസ്റ്റ് ചെയ്യാൻ",feasts:"ഈ ആഴ്ചയിലെ തിരുനാളുകളും ഓർമകളും"},
@@ -738,7 +768,7 @@ var UI={
   smcsrc:"കാലവും ആഴ്ചയും വായനകളും ഔദ്യോഗിക സീറോ മലബാർ ആരാധനക്രമ കലണ്ടറിൽനിന്ന് (രണ്ടാം ഗണം, 2025–26; ഇംഗ്ലീഷ് പതിപ്പ്).",
   smcnone:"ഈ മാതൃകയിൽ ചേർത്തിരിക്കുന്ന 2025–26 സീറോ മലബാർ കലണ്ടറിനു പുറത്താണ് ഈ തീയതി.",
   latsrc:"കാലവും ആഴ്ചയും റോമൻ കലണ്ടർപ്രകാരം കണക്കാക്കിയത്; തിരുനാളുകൾ ഔദ്യോഗിക ഓർദോയിൽ ഒത്തുനോക്കുക.",
-  smknone:"സീറോ മലങ്കര വായനകൾ ഔദ്യോഗിക മലങ്കര പഞ്ചാംഗത്തിൽനിന്നു ചേർക്കും.",
+  smknone:"ഈ ദിവസത്തെ സീറോ മലങ്കര വായനകളും വിചിന്തനവും ഔദ്യോഗിക വിശുദ്ധ വായനാപുസ്തകത്തിൽനിന്നു ചേർക്കും.",smksrc:"വായനകൾ സീറോ മലങ്കര കത്തോലിക്കാസഭയുടെ വിശുദ്ധ വായനാപുസ്തകത്തിൽനിന്ന് (2025–26-ലെ ഞായർക്രമം; 2026–27-ലെ വായനാപുസ്തകവുമായി ഒത്തുനോക്കണം).",
   cycle:function(s,w){return "ഞായർ ചക്രം "+s+" · വാരദിന ചക്രം "+w},
   foot:["വായനകളുടെ സൂചന മാത്രം. പൂർണപാഠം പി.ഒ.സി. ബൈബിളിലോ അംഗീകൃത വായനാപുസ്തകത്തിലോ വായിക്കുക. സഭാപിതാക്കന്മാരിൽനിന്നും സഭാപ്രബോധനത്തിൽനിന്നുമുള്ള ഉദ്ധരണികൾ അച്ചടിക്കുംമുമ്പു മൂലരേഖകളുമായി ഒത്തുനോക്കണം."]}
 };
@@ -748,7 +778,7 @@ function iso(t){var d=new Date(t);return d.getUTCFullYear()+"-"+String(d.getUTCM
 function parseISO(s){var p=s.split("-");return Date.UTC(+p[0],+p[1]-1,+p[2])}
 function todayISO(){var n=new Date();return iso(Date.UTC(n.getFullYear(),n.getMonth(),n.getDate()))}
 var S={rite:"smc",lang:"en",tab:"lectern",date:todayISO(),view:"day"};
-try{var sv=JSON.parse(localStorage.getItem("av-state3")||"{}");["rite","lang","tab"].forEach(function(k){if(sv[k])S[k]=sv[k]})}catch(e){}
+try{var sv=JSON.parse(localStorage.getItem("av-state3")||"{}");["rite","lang","tab","occ"].forEach(function(k){if(sv[k])S[k]=sv[k]})}catch(e){}
 function $(id){return document.getElementById(id)}
 function esc(t){return String(t==null?"":t).replace(/&/g,"&amp;").replace(/</g,"&lt;")}
 
@@ -797,12 +827,12 @@ function smcReadings(k){var x=SMC[k];if(!x)return "";return '<div class="reading
 
 var U2={
  en:{quick:"In 30 seconds",action:"Today",question:"Question for the day",special:"Note for this Sunday",illus:"Illustration",kids:"For the children in the front rows",diaspora:"For our diaspora",diasporaPh:"Space for a note for Malayali Catholics abroad: feasts kept on other dates, local Mass times, intentions for migrants.",
-  famcorner:"Family prayer corner",read:"Read",explain:"In simple words",intention:"Tonight's intention",ask:"At the table",catech:"Catechism link",kidsaint:"Saint for the children",
+  famcorner:"For family prayer and prayer meetings",read:"Read",explain:"In simple words",intention:"Tonight's intention",ask:"At the table",catech:"Catechism link",kidsaint:"Saint for the children",
   req:"Prayer requests",reqtxt:"Send your intentions. Every Friday they are remembered at the Holy Qurbana offered for the readers of Anudina Vachanam.",reqbtn:"A request form will be linked here",
   term:"Word of the day",season:"About this season",more:"Did you know?",search:"Search by date, feast, saint, Bible book or keyword",noresult:"Nothing found.",
   about:"About Anudina Vachanam",about1:"Anudina Vachanam is prepared prayerfully by a Catholic priest in Kerala who prefers to remain unnamed, so that the Word alone is seen. It follows the official liturgical calendars of the Syro-Malabar, Syro-Malankara and Latin Churches and the POC Bible.",about2:"Readings are given as references only. Reflections and homily notes are original. To write to us or send a prayer request, use the form that will be linked here."},
  ml:{quick:"30 സെക്കൻഡിൽ",action:"ഇന്ന്",question:"ഇന്നത്തെ ചോദ്യം",special:"ഈ ഞായറിനെപ്പറ്റി",illus:"ഉദാഹരണം",kids:"മുൻനിരയിലെ കുഞ്ഞുങ്ങൾക്ക്",diaspora:"പ്രവാസികൾക്കായി",diasporaPh:"വിദേശത്തുള്ള മലയാളി കത്തോലിക്കർക്കായുള്ള കുറിപ്പിനുള്ള ഇടം: മറ്റു തീയതികളിൽ ആചരിക്കുന്ന തിരുനാളുകൾ, പ്രാദേശിക കുർബാനസമയങ്ങൾ, പ്രവാസികൾക്കായുള്ള നിയോഗങ്ങൾ.",
-  famcorner:"കുടുംബപ്രാർഥനയ്ക്ക്",read:"വായിക്കുക",explain:"ലളിതമായി",intention:"ഇന്നു രാത്രിയിലെ നിയോഗം",ask:"ഭക്ഷണമേശയിൽ",catech:"മതബോധനബന്ധം",kidsaint:"കുഞ്ഞുങ്ങൾക്കായി ഒരു വിശുദ്ധൻ",
+  famcorner:"കുടുംബപ്രാർഥനയ്ക്കും പ്രാർഥനാകൂട്ടായ്മയ്ക്കും",read:"വായിക്കുക",explain:"ലളിതമായി",intention:"ഇന്നു രാത്രിയിലെ നിയോഗം",ask:"ഭക്ഷണമേശയിൽ",catech:"മതബോധനബന്ധം",kidsaint:"കുഞ്ഞുങ്ങൾക്കായി ഒരു വിശുദ്ധൻ",
   req:"പ്രാർഥനാനിയോഗങ്ങൾ",reqtxt:"നിങ്ങളുടെ നിയോഗങ്ങൾ അയയ്ക്കുക. എല്ലാ വെള്ളിയാഴ്ചയും അനുദിന വചനത്തിന്റെ വായനക്കാർക്കായി അർപ്പിക്കുന്ന വിശുദ്ധ കുർബാനയിൽ അവ ഓർക്കപ്പെടുന്നു.",reqbtn:"നിയോഗങ്ങൾ അയയ്ക്കാനുള്ള ഫോം ഇവിടെ ചേർക്കും",
   term:"ഇന്നത്തെ വാക്ക്",season:"ഈ കാലത്തെപ്പറ്റി",more:"നിങ്ങൾക്കറിയാമോ?",search:"തീയതി, തിരുനാൾ, വിശുദ്ധൻ, ബൈബിൾ പുസ്തകം, വാക്ക് എന്നിവകൊണ്ടു തിരയുക",noresult:"ഒന്നും കണ്ടെത്തിയില്ല.",
   about:"അനുദിന വചനത്തെപ്പറ്റി",about1:"വചനം മാത്രം കാണപ്പെടാൻവേണ്ടി പേരു വെളിപ്പെടുത്താൻ ആഗ്രഹിക്കാത്ത കേരളത്തിലെ ഒരു കത്തോലിക്കാ വൈദികനാണ് അനുദിന വചനം പ്രാർഥനാപൂർവം തയ്യാറാക്കുന്നത്. സീറോ മലബാർ, സീറോ മലങ്കര, ലത്തീൻ സഭകളുടെ ഔദ്യോഗിക ആരാധനക്രമ കലണ്ടറുകളും പി.ഒ.സി. ബൈബിളും ഇതു പിന്തുടരുന്നു.",about2:"വായനകൾ സൂചനകളായി മാത്രം നൽകുന്നു. വിചിന്തനങ്ങളും പ്രസംഗക്കുറിപ്പുകളും മൗലികമാണ്. ഞങ്ങൾക്ക് എഴുതാനോ പ്രാർഥനാനിയോഗം അയയ്ക്കാനോ ഇവിടെ ചേർക്കുന്ന ഫോം ഉപയോഗിക്കുക."}
@@ -841,10 +871,11 @@ function render(){
  $("eyebrow").textContent=u.eyebrow;$("brand").textContent=u.brand;$("bandsub").textContent=u.sub;
  ["smc","smk","lat"].forEach(function(r){$("r-"+r).textContent=u.rites[r];$("r-"+r).setAttribute("aria-pressed",S.rite===r)});
  if(LANGS[S.rite].indexOf(S.lang)<0)S.lang="en";$("langseg").innerHTML=LANGS[S.rite].map(function(l){return "<button data-lang=\"" + l + "\" aria-pressed=\""+(S.lang===l)+"\">"+LNAME[l]+"</button>"}).join("");
- ["lectern","homily","cal","family","lit"].forEach(function(k){$("t-"+k).textContent=u.tabs[k];$("t-"+k).setAttribute("aria-selected",S.tab===k)});
+ ["lectern","homily","cal","family","lit","occ"].forEach(function(k){$("t-"+k).textContent=u.tabs[k];$("t-"+k).setAttribute("aria-selected",S.tab===k)});
  $("today").textContent=u.today;$("sample").textContent=u.sample;$("q").placeholder=v.search;
  $("dlabel").textContent=dateLabel(t,S.lang);$("dpick").value=S.date;
- var hw=HOW[S.lang]||HOW.en;$("about-s").textContent=hw[0];$("about-p1").textContent=hw[1];$("about-p2").textContent=hw[2];
+ var hw=HOW[S.lang]||HOW.en;$("about-s").textContent=hw.t;$("about-b").innerHTML="<p>"+esc(hw.intro)+"</p><ol>"+hw.steps.map(function(s){return "<li><span><b>"+esc(s[0])+"</b>"+esc(s[1])+"</span></li>"}).join("")+"</ol><p>"+esc(hw.bible)+"</p>";
+ renderContact();
 
  var C=getC(),X=getX(),H=getH();
  $("bandverse").textContent=C?"“"+C.verse+"” — "+C.cite:"";
@@ -853,7 +884,7 @@ function render(){
  if(S.rite==="smc"){sk=smcSeason(S.date);week=smcTitle(S.date);src=SMC[S.date]?u.smcsrc:u.smcnone}
  else if(S.rite==="lat"){L=latin(t);sk=L.s;week=latinLabel(L,S.lang)+" · "+u.cycle(L.cyc,L.wk);src=u.latsrc;
    colour=(L.s==="ot")?(en?"Liturgical colour: green":"ആരാധനക്രമനിറം: പച്ച"):(L.s==="adv"||L.s==="lent")?(en?"Liturgical colour: violet":"ആരാധനക്രമനിറം: വയലറ്റ്"):(L.special==="palm"||L.special==="pent")?(en?"Liturgical colour: red":"ആരാധനക്രമനിറം: ചുവപ്പ്"):(en?"Liturgical colour: white":"ആരാധനക്രമനിറം: വെള്ള")}
- else {src=u.smknone}
+ else {src=C?u.smksrc:u.smknone}
  var sx=sk&&SX[sk]?SX[sk][li]:null;
  var seasonName=sx?sx[0]:(S.rite==="smk"?u.rites.smk:"");if(L&&DI[S.lang])seasonName=DI[S.lang].seas[L.s];
  var title=C?C.title:(S.rite==="smc"?(week||dateLabel(t,S.lang)):L?latinLabel(L,S.lang):dateLabel(t,S.lang));
@@ -908,20 +939,73 @@ function render(){
    html+=sec(v.catech,items(X.catechism));
    html+=sec(v.kidsaint,items([X.kidsaint]));
   } else html+=empty;
-  html+='<div class="reqcard"><b>'+esc(v.req)+"</b><div>"+esc(v.reqtxt)+'</div><div class="placeholder">'+esc(v.reqbtn)+"</div></div>";
+ }
+ else if(S.tab==="lit"){
+  var GL=glossList(X,li),gk=S.rite+S.lang+S.date;if(S.gk!==gk){S.gk=gk;S.gi=0}if(S.gi>=GL.length)S.gi=0;
+  var g=GL[S.gi],GT=LIT[S.lang]||LIT.en;
+  html+='<div class="picker"><button id="g-prev" aria-label="'+esc(GT.prev)+'">‹</button><select id="gsel" aria-label="'+esc(GT.all)+'">'+GL.map(function(e,i){return '<option value="'+i+'"'+(i===S.gi?" selected":"")+">"+esc(e[0])+"</option>"}).join("")+'</select><button id="g-next" aria-label="'+esc(GT.next)+'">›</button><span class="count">'+(S.gi+1)+" / "+GL.length+"</span></div>";
+  html+=sec(g[2]==="day"?v.term:g[2]==="more"?v.more:g[2]==="season"?v.season:GT.word,'<p class="term">'+esc(g[0])+'</p><div class="prose"><p>'+esc(g[1])+"</p></div>");
  }
  else {
-  if(X){html+=sec(v.term,'<p class="term">'+esc(X.term[0])+'</p><div class="prose"><p>'+esc(X.term[1])+"</p></div>");html+=sec(v.more,items([X.termMore]))}
-  if(sx)html+=sec(v.season,items([sx]));
-  if(!X)html+=empty;
+  html=renderOcc();
  }
  $("card").innerHTML=html;
  $("foot").innerHTML=u.foot.map(function(f){return "<div>"+esc(f)+"</div>"}).join("");
  var cb=$("copybtn");if(cb)cb.addEventListener("click",function(){
   function sel(){var r=document.createRange();r.selectNodeContents($("posttext"));var s=getSelection();s.removeAllRanges();s.addRange(r);cb.textContent=u.copyfail}
   try{navigator.clipboard.writeText($("posttext").textContent).then(function(){cb.textContent=u.copied;setTimeout(function(){cb.textContent=u.copy},1800)},sel)}catch(e){sel()}});
- try{localStorage.setItem("av-state3",JSON.stringify({rite:S.rite,lang:S.lang,tab:S.tab}))}catch(e){}
+ try{localStorage.setItem("av-state3",JSON.stringify({rite:S.rite,lang:S.lang,tab:S.tab,occ:S.occ}))}catch(e){}
 }
+
+/* ---- know your liturgy: browsable list ---- */
+var LIT={en:{prev:"Previous word",next:"Next word",all:"All words",word:"Know your liturgy"},ml:{prev:"മുമ്പത്തെ വാക്ക്",next:"അടുത്ത വാക്ക്",all:"എല്ലാ വാക്കുകളും",word:"ആരാധനക്രമം അറിയാൻ"},
+ de:{prev:"Vorheriger Begriff",next:"Nächster Begriff",all:"Alle Begriffe",word:"Liturgie verstehen"},it:{prev:"Termine precedente",next:"Termine successivo",all:"Tutti i termini",word:"Conoscere la liturgia"},
+ ta:{prev:"முந்தைய சொல்",next:"அடுத்த சொல்",all:"எல்லாச் சொற்களும்",word:"வழிபாட்டை அறிவோம்"},hi:{prev:"पिछला शब्द",next:"अगला शब्द",all:"सभी शब्द",word:"धर्मविधि को जानें"}};
+function glossList(X,li){var L=[],seen={};function add(n,t,k){if(!n||seen[n])return;seen[n]=1;L.push([n,t,k])}
+ if(X){if(X.term)add(X.term[0],X.term[1],"day");if(X.termMore)add(X.termMore[0],X.termMore[1],"more")}
+ var G=GLOSS[S.rite]||{};(G[S.lang]||G.en||[]).forEach(function(e){add(e[0],e[1],"word")});
+ var ks=S.rite==="smc"?["sub","den","fast","qyam","sliha","qaita","esm","qud"]:S.rite==="lat"?["adv","chr","ot","lent","holy","east"]:[];
+ ks.forEach(function(k){if(SX[k])add(SX[k][li][0],SX[k][li][1],"season")});
+ return L}
+
+/* ---- special occasions ---- */
+var OCT={en:{h:"Special occasions",choose:"Choose the occasion",read:"Suggested readings",readnote:"Suggestions only. Use the readings appointed in the ritual book of your Church.",verse:"Word for the occasion",points:"Homily points",homily:"Homily",prayer:"Prayer",eng:""},
+ ml:{h:"വിശേഷാവസരങ്ങൾ",choose:"അവസരം തിരഞ്ഞെടുക്കുക",read:"നിർദേശിക്കുന്ന വായനകൾ",readnote:"നിർദേശങ്ങൾ മാത്രം. നിങ്ങളുടെ സഭയുടെ ക്രമപുസ്തകത്തിൽ നിശ്ചയിച്ചിരിക്കുന്ന വായനകൾ ഉപയോഗിക്കുക.",verse:"ഈ അവസരത്തിനുള്ള വചനം",points:"പ്രസംഗാശയങ്ങൾ",homily:"പ്രസംഗം",prayer:"പ്രാർഥന",eng:""},
+ de:{h:"Besondere Anlässe",choose:"Anlass wählen",eng:"Dieser Bereich ist vorerst auf Englisch."},it:{h:"Occasioni speciali",choose:"Scegliete l'occasione",eng:"Questa sezione è per ora in inglese."},
+ ta:{h:"சிறப்பு நிகழ்வுகள்",choose:"நிகழ்வைத் தேர்ந்தெடுங்கள்",eng:"இந்தப் பகுதி இப்போதைக்கு ஆங்கிலத்தில் உள்ளது."},hi:{h:"विशेष अवसर",choose:"अवसर चुनें",eng:"यह भाग अभी अंग्रेज़ी में है।"}};
+function renderOcc(){
+ var list=OCC.filter(function(o){return !o.rites||o.rites.indexOf(S.rite)>=0});
+ if(!list.some(function(o){return o.id===S.occ}))S.occ=list[0].id;
+ var o=list.filter(function(x){return x.id===S.occ})[0],lk=o[S.lang]?S.lang:"en",L=o[lk],T=Object.assign({},OCT.en,OCT[lk],{h:(OCT[S.lang]||OCT.en).h,choose:(OCT[S.lang]||OCT.en).choose,eng:(OCT[S.lang]||OCT.en).eng}),q=(QNAME[lk]||QNAME.en)[S.rite];
+ function f(s){return String(s||"").replace(/\{Q\}/g,q)}
+ var h='<header style="display:grid;gap:8px"><div class="season">'+esc(T.h)+'</div><div class="picker"><select id="occsel" aria-label="'+esc(T.choose)+'">'+list.map(function(x){var y=x[lk]||x.en;return '<option value="'+x.id+'"'+(x.id===S.occ?" selected":"")+">"+esc(f(y.t))+"</option>"}).join("")+'</select></div><h2 class="dtitle">'+esc(f(L.t))+'</h2><div class="week">'+esc(f(L.sub))+"</div></header>";
+ if(T.eng)h+='<div class="placeholder">'+esc(T.eng)+"</div>";
+ h+=sec(T.read,'<div class="readings">'+L.read.map(function(r){return '<div class="rd"><span class="lab">'+esc(r[0])+'</span><span class="ref">'+esc(r[1])+"</span></div>"}).join("")+'</div><p class="alt">'+esc(T.readnote)+"</p>");
+ if(L.verse)h+=sec(T.verse,'<blockquote class="key">“'+esc(L.verse)+"”<cite>"+esc(L.cite)+"</cite></blockquote>");
+ h+=sec(T.points,outline(L.points.map(function(p){return [f(p[0]),f(p[1])]})));
+ h+=sec(T.homily,paras(L.homily.map(f)));
+ h+='<p class="prayer">'+esc(f(L.prayer))+"</p>";
+ return h}
+
+/* ---- prayer intentions, suggestions, comments ---- */
+var CONTACT={form:"",user:"contactdailywordreflections",host:"gmail.com"};
+var CT={en:{h:"Prayer intentions, suggestions and comments",p:"Send us your prayer intentions: every Friday they are remembered at the {Q} offered for the readers of this page. Your suggestions and comments help us to improve it.",b:["Send a prayer intention","Send a suggestion","Send a comment"]},
+ ml:{h:"പ്രാർഥനാനിയോഗങ്ങളും നിർദേശങ്ങളും അഭിപ്രായങ്ങളും",p:"നിങ്ങളുടെ പ്രാർഥനാനിയോഗങ്ങൾ ഞങ്ങൾക്ക് അയയ്ക്കുക: എല്ലാ വെള്ളിയാഴ്ചയും ഈ പേജിന്റെ വായനക്കാർക്കായി അർപ്പിക്കുന്ന {Q}യിൽ അവ ഓർക്കപ്പെടുന്നു. നിങ്ങളുടെ നിർദേശങ്ങളും അഭിപ്രായങ്ങളും ഈ പേജ് മെച്ചപ്പെടുത്താൻ ഞങ്ങളെ സഹായിക്കുന്നു.",b:["പ്രാർഥനാനിയോഗം അയയ്ക്കുക","നിർദേശം അയയ്ക്കുക","അഭിപ്രായം അയയ്ക്കുക"]},
+ de:{h:"Gebetsanliegen, Vorschläge und Kommentare",p:"Senden Sie uns Ihre Gebetsanliegen: Jeden Freitag werden sie in der Heiligen Messe für die Leser dieser Seite mitgetragen. Ihre Vorschläge und Kommentare helfen uns, die Seite zu verbessern.",b:["Gebetsanliegen senden","Vorschlag senden","Kommentar senden"]},
+ it:{h:"Intenzioni di preghiera, suggerimenti e commenti",p:"Inviateci le vostre intenzioni di preghiera: ogni venerdì sono ricordate nella Santa Messa offerta per i lettori di questa pagina. I vostri suggerimenti e commenti ci aiutano a migliorarla.",b:["Invia un'intenzione","Invia un suggerimento","Invia un commento"]},
+ ta:{h:"செபக் கருத்துகள், ஆலோசனைகள், கருத்துகள்",p:"உங்கள் செபக் கருத்துகளை எங்களுக்கு அனுப்புங்கள்: ஒவ்வொரு வெள்ளிக்கிழமையும் இந்தப் பக்கத்தின் வாசகர்களுக்காக ஒப்புக்கொடுக்கப்படும் திருப்பலியில் அவை நினைவுகூரப்படுகின்றன. உங்கள் ஆலோசனைகளும் கருத்துகளும் இதை மேம்படுத்த உதவுகின்றன.",b:["செபக் கருத்தை அனுப்புங்கள்","ஆலோசனை அனுப்புங்கள்","கருத்து அனுப்புங்கள்"]},
+ hi:{h:"प्रार्थना-निवेदन, सुझाव और टिप्पणियाँ",p:"अपने प्रार्थना-निवेदन हमें भेजें: हर शुक्रवार इस पृष्ठ के पाठकों के लिए अर्पित मिस्सा में उन्हें याद किया जाता है। आपके सुझाव और टिप्पणियाँ इसे बेहतर बनाने में हमारी मदद करते हैं।",b:["प्रार्थना-निवेदन भेजें","सुझाव भेजें","टिप्पणी भेजें"]}};
+function renderContact(){var c=CT[S.lang]||CT.en,q=(QNAME[S.lang]||QNAME.en)[S.rite],subj=["Prayer intention","Suggestion","Comment"];
+ $("contact").innerHTML="<h3>"+esc(c.h)+"</h3><p>"+esc(c.p.replace(/\{Q\}/g,q))+'</p><div class="btns">'+c.b.map(function(b,i){var href=CONTACT.form?CONTACT.form:"mailto:"+CONTACT.user+"@"+CONTACT.host+"?subject="+encodeURIComponent("Daily Word: "+subj[i]);return '<a href="'+esc(href)+'" target="_blank" rel="noopener">'+esc(b)+"</a>"}).join("")+"</div>"}
+
+/* ---- first visit: choose rite and language ---- */
+var LEN={ml:"Malayalam",en:"English",ta:"Tamil",hi:"Hindi",de:"German",it:"Italian"},WS={rite:S.rite,lang:S.lang};
+function renderWelcome(){var rn={smc:"Syro-Malabar",smk:"Syro-Malankara",lat:"Latin"};if(LANGS[WS.rite].indexOf(WS.lang)<0)WS.lang="en";
+ $("wbox").innerHTML='<h2 id="w-h">Welcome to Daily Word</h2><p>Readings, reflections and homily notes for every day. Please choose your rite and language. You can change them at any time at the top of the page.</p><div class="wl">Your rite</div><div class="wopts">'+["smc","smk","lat"].map(function(r){return '<button data-wr="'+r+'" aria-pressed="'+(WS.rite===r)+'">'+rn[r]+"</button>"}).join("")+'</div><div class="wl">Your language</div><div class="wopts">'+LANGS[WS.rite].map(function(l){return '<button data-wl="'+l+'" aria-pressed="'+(WS.lang===l)+'">'+LEN[l]+(l!=="en"?" · "+LNAME[l]:"")+"</button>"}).join("")+'</div><button class="go" id="wgo">Start reading</button>'}
+function showWelcome(){var seen=false;try{seen=!!localStorage.getItem("av-welcome")}catch(e){}if(seen)return;renderWelcome();$("welcome").hidden=false}
+$("wbox").addEventListener("click",function(e){var r=e.target.closest("[data-wr]"),l=e.target.closest("[data-wl]");
+ if(r){WS.rite=r.dataset.wr;renderWelcome()}else if(l){WS.lang=l.dataset.wl;renderWelcome()}
+ else if(e.target.id==="wgo"){S.rite=WS.rite;S.lang=WS.lang;S.view="day";try{localStorage.setItem("av-welcome","1")}catch(x){}$("welcome").hidden=true;render()}});
 
 /* ---- search ---- */
 var IDX=null;
@@ -972,6 +1056,8 @@ $("sample").addEventListener("click",function(){go("2026-10-18")});
 $("card").addEventListener("click",function(e){var b=e.target.closest("[data-go]");if(b)go(b.dataset.go)});
 $("note").addEventListener("change",function(e){if(e.target.id==="smcset"){S.set=e.target.value;S.setManual=true;render()}});
 $("r-docs").addEventListener("click",function(){S.view="docs";render()});
+$("card").addEventListener("change",function(e){if(e.target.id==="gsel"){S.gi=+e.target.value;render()}else if(e.target.id==="occsel"){S.occ=e.target.value;render()}});
+$("card").addEventListener("click",function(e){if(e.target.id==="g-prev"||e.target.id==="g-next"){var n=document.querySelectorAll("#gsel option").length;S.gi=(S.gi+(e.target.id==="g-next"?1:n-1))%n;render()}});
 $("fs-m").addEventListener("click",function(){if(FS>14){FS--;applyFS()}});
 $("fs-p").addEventListener("click",function(){if(FS<24){FS++;applyFS()}});
 $("q").addEventListener("input",function(){doSearch(this.value)});
@@ -982,7 +1068,7 @@ var LANGS={smc:["ml","en","ta","hi"],smk:["ml","en","ta","hi"],lat:["ml","en","d
 var LNAME={ml:"മലയാളം",en:"English",ta:"தமிழ்",hi:"हिन्दी",de:"Deutsch",it:"Italiano"};
 var PACK={
  de:{u:{eyebrow:"Gottes Wort für jeden Tag",brand:"Das Wort des Tages",sub:"Lesungen, Betrachtung und Predigthilfen für jeden Tag · Syro-Malabarisch · Syro-Malankarisch · Lateinisch",
-   rites:{smc:"Syro-Malabarisch",smk:"Syro-Malankarisch",lat:"Lateinisch"},tabs:{lectern:"Ambo",homily:"Predigt",cal:"Kalenderblatt",family:"Familie",lit:"Liturgie verstehen"},
+   rites:{smc:"Syro-Malabarisch",smk:"Syro-Malankarisch",lat:"Lateinisch"},tabs:{lectern:"Ambo",homily:"Predigt",cal:"Kalenderblatt",family:"Gebetskreis",lit:"Liturgie verstehen",occ:"Besondere Anlässe"},
    today:"Heute",sample:"Beispieltag",days:["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],dshort:["So","Mo","Di","Mi","Do","Fr","Sa"],
    months:["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],
    h:{homily:"Predigt für die Messe",kidsMass:"Kinder- und Schulgottesdienst"},copy:"Text kopieren",copied:"Kopiert",
@@ -991,7 +1077,7 @@ var PACK={
    partial:"Die Predigt, die Kinderpredigt, die Lesungen und das Gebet sind auf Deutsch; die übrigen Abschnitte vorerst auf Englisch."},
   v:{search:"Suche nach Datum, Fest, Heiligen, Bibelbuch oder Stichwort",quick:"In 30 Sekunden",action:"Heute",question:"Frage für den Tag",noresult:"Nichts gefunden."}},
  it:{u:{eyebrow:"La Parola di Dio per ogni giorno",brand:"La Parola di ogni giorno",sub:"Letture, riflessione e tracce per l'omelia per ogni giorno · Siro-malabarese · Siro-malankarese · Latino",
-   rites:{smc:"Siro-malabarese",smk:"Siro-malankarese",lat:"Latino"},tabs:{lectern:"Ambone",homily:"Omelia",cal:"Pagina del calendario",family:"Famiglia",lit:"Conoscere la liturgia"},
+   rites:{smc:"Siro-malabarese",smk:"Siro-malankarese",lat:"Latino"},tabs:{lectern:"Ambone",homily:"Omelia",cal:"Pagina del calendario",family:"Gruppo di preghiera",lit:"Conoscere la liturgia",occ:"Occasioni speciali"},
    today:"Oggi",sample:"Giorno di esempio",days:["Domenica","Lunedì","Martedì","Mercoledì","Giovedì","Venerdì","Sabato"],dshort:["Do","Lu","Ma","Me","Gi","Ve","Sa"],
    months:["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],
    h:{homily:"Omelia per la Messa",kidsMass:"Messa dei bambini e delle scuole"},copy:"Copia il testo",copied:"Copiato",
@@ -1000,7 +1086,7 @@ var PACK={
    partial:"L'omelia, l'omelia per i bambini, le letture e la preghiera sono in italiano; le altre sezioni per ora in inglese."},
   v:{search:"Cerca per data, festa, santo, libro biblico o parola chiave",quick:"In 30 secondi",action:"Oggi",question:"Domanda del giorno",noresult:"Nessun risultato."}},
  ta:{u:{eyebrow:"ஒவ்வொரு நாளும் கடவுளின் வார்த்தை",brand:"அனுதின இறைவார்த்தை",sub:"ஒவ்வொரு நாளுக்கான வாசகங்கள், சிந்தனை, மறையுரைக் குறிப்புகள் · சீரோ-மலபார் · சீரோ-மலங்கரா · இலத்தீன்",
-   rites:{smc:"சீரோ-மலபார்",smk:"சீரோ-மலங்கரா",lat:"இலத்தீன்"},tabs:{lectern:"வாசக மேடை",homily:"மறையுரை",cal:"நாள்காட்டி",family:"குடும்பம்",lit:"வழிபாட்டை அறிவோம்"},
+   rites:{smc:"சீரோ-மலபார்",smk:"சீரோ-மலங்கரா",lat:"இலத்தீன்"},tabs:{lectern:"வாசக மேடை",homily:"மறையுரை",cal:"நாள்காட்டி",family:"செபக் கூட்டம்",lit:"வழிபாட்டை அறிவோம்",occ:"சிறப்பு நிகழ்வுகள்"},
    today:"இன்று",sample:"மாதிரி நாள்",days:["ஞாயிறு","திங்கள்","செவ்வாய்","புதன்","வியாழன்","வெள்ளி","சனி"],dshort:["ஞா","தி","செ","பு","வி","வெ","ச"],
    months:["ஜனவரி","பிப்ரவரி","மார்ச்","ஏப்ரல்","மே","ஜூன்","ஜூலை","ஆகஸ்ட்","செப்டம்பர்","அக்டோபர்","நவம்பர்","டிசம்பர்"],
    h:{homily:"திருப்பலிக்கான மறையுரை",kidsMass:"குழந்தைகள் / பள்ளித் திருப்பலி"},copy:"நகலெடு",copied:"நகலெடுக்கப்பட்டது",
@@ -1008,7 +1094,7 @@ var PACK={
    partial:"மறையுரை, குழந்தைகள் மறையுரை, வாசகங்கள், செபம் ஆகியவை தமிழில் உள்ளன; மற்ற பகுதிகள் இப்போதைக்கு ஆங்கிலத்தில்."},
   v:{search:"தேதி, திருநாள், புனிதர், விவிலிய நூல் அல்லது சொல் மூலம் தேடுங்கள்",quick:"30 வினாடிகளில்",action:"இன்று",question:"இன்றைய கேள்வி",noresult:"எதுவும் கிடைக்கவில்லை."}},
  hi:{u:{eyebrow:"हर दिन के लिए ईश्वर का वचन",brand:"दैनिक वचन",sub:"हर दिन के पाठ, मनन और प्रवचन-संकेत · सीरो-मलबार · सीरो-मलंकरा · लैटिन",
-   rites:{smc:"सीरो-मलबार",smk:"सीरो-मलंकरा",lat:"लैटिन"},tabs:{lectern:"पाठ-मंच",homily:"प्रवचन",cal:"कैलेंडर पृष्ठ",family:"परिवार",lit:"धर्मविधि को जानें"},
+   rites:{smc:"सीरो-मलबार",smk:"सीरो-मलंकरा",lat:"लैटिन"},tabs:{lectern:"पाठ-मंच",homily:"प्रवचन",cal:"कैलेंडर पृष्ठ",family:"प्रार्थना सभा",lit:"धर्मविधि को जानें",occ:"विशेष अवसर"},
    today:"आज",sample:"नमूना दिन",days:["रविवार","सोमवार","मंगलवार","बुधवार","गुरुवार","शुक्रवार","शनिवार"],dshort:["रवि","सोम","मंगल","बुध","गुरु","शुक्र","शनि"],
    months:["जनवरी","फ़रवरी","मार्च","अप्रैल","मई","जून","जुलाई","अगस्त","सितंबर","अक्तूबर","नवंबर","दिसंबर"],
    h:{homily:"मिस्सा के लिए प्रवचन",kidsMass:"बच्चों / स्कूल की मिस्सा"},copy:"कॉपी करें",copied:"कॉपी हो गया",
@@ -1042,20 +1128,386 @@ function getC(){var d=CONTENT[S.date],r=d&&d[S.rite];if(!r)return null;if(r[S.la
 function getX(){var d=EXTRA[S.date],r=d&&d[S.rite];if(!r)return null;return r[S.lang]||r.en||null}
 function getH(){var d=HOM[S.date],r=d&&d[S.rite];return r&&r[S.lang]||null}
 
-/* How to use, Bible versions, Vatican links, Syro-Malabar calendar set */
+/* How to use (step by step), Bible versions, Vatican links */
 var HOW={
- en:["How to use","Choose your rite and language at the top. Use ‹ › or the date box to move to any day; the page opens on today's date. The five tabs give: Lectern (readings and reflection), Homily notes (homily for Mass, children's Mass, outline), Calendar page (the week, Fathers, Church documents, saints), Family, and Know your liturgy. Tap the season name for an explanation. Search finds any date, feast, saint, Bible book or word. A− and A+ change the text size.","Bible quotations: POC Bible (Malayalam), NRSV (English), Einheitsübersetzung (German), CEI 2008 (Italian), Tiruviviliam CLT (Tamil), Hindi Catholic Bible (Hindi)."],
- ml:["ഉപയോഗിക്കേണ്ട വിധം","മുകളിൽ നിങ്ങളുടെ റീത്തും ഭാഷയും തിരഞ്ഞെടുക്കുക. ‹ › ഉപയോഗിച്ചോ തീയതിക്കള്ളി ഉപയോഗിച്ചോ ഏതു ദിവസത്തിലേക്കും പോകാം; പേജ് ഇന്നത്തെ തീയതിയിലാണു തുറക്കുന്നത്. അഞ്ചു വിഭാഗങ്ങൾ: വായനാപീഠം (വായനകളും വിചിന്തനവും), പ്രസംഗക്കുറിപ്പുകൾ (കുർബാനയ്ക്കുള്ള പ്രസംഗം, കുട്ടികളുടെ കുർബാന, രൂപരേഖ), കലണ്ടർ താൾ (ആഴ്ച, പിതാക്കന്മാർ, സഭാരേഖകൾ, വിശുദ്ധർ), കുടുംബം, ആരാധനക്രമം അറിയാൻ. വിശദീകരണത്തിനു കാലത്തിന്റെ പേരിൽ തൊടുക. ഏതു തീയതിയും തിരുനാളും വിശുദ്ധനും ബൈബിൾ പുസ്തകവും വാക്കും തിരയൽ കണ്ടെത്തും. A−, A+ അക്ഷരവലുപ്പം മാറ്റുന്നു.","ബൈബിൾ ഉദ്ധരണികൾ: പി.ഒ.സി. ബൈബിൾ (മലയാളം), NRSV (ഇംഗ്ലീഷ്), ഐൻഹൈറ്റ്സ്യൂബർസെറ്റ്സുങ് (ജർമൻ), CEI 2008 (ഇറ്റാലിയൻ), തിരുവിവിലിയം CLT (തമിഴ്), ഹിന്ദി കത്തോലിക്കാ ബൈബിൾ (ഹിന്ദി)."],
- de:["Hinweise zur Nutzung","Wählen Sie oben Ritus und Sprache. Mit ‹ › oder dem Datumsfeld gelangen Sie zu jedem Tag; die Seite öffnet sich mit dem heutigen Datum. Die fünf Bereiche: Ambo (Lesungen und Betrachtung), Predigt (Predigt für die Messe, Kinder- und Schulgottesdienst, Gliederung), Kalenderblatt (Woche, Kirchenväter, kirchliche Dokumente, Heilige), Familie und Liturgie verstehen. Tippen Sie auf den Namen der Zeit für eine Erklärung. Die Suche findet Datum, Fest, Heilige, biblisches Buch oder Stichwort. A− und A+ ändern die Schriftgröße.","Bibelzitate: Einheitsübersetzung (Deutsch); Quellen der übrigen Sprachen siehe englische Fassung."],
- it:["Come usare","Scegliete in alto il rito e la lingua. Con ‹ › o la casella della data potete andare a qualsiasi giorno; la pagina si apre sulla data di oggi. Le cinque sezioni: Ambone (letture e riflessione), Omelia (omelia per la Messa, Messa dei bambini, schema), Pagina del calendario (settimana, Padri, documenti della Chiesa, santi), Famiglia e Conoscere la liturgia. Toccate il nome del tempo liturgico per una spiegazione. La ricerca trova data, festa, santo, libro biblico o parola. A− e A+ cambiano la dimensione del testo.","Citazioni bibliche: Bibbia CEI 2008 (italiano)."],
- ta:["பயன்படுத்தும் முறை","மேலே உங்கள் வழிபாட்டு முறையையும் மொழியையும் தேர்ந்தெடுங்கள். ‹ › அல்லது தேதிப் பெட்டியைப் பயன்படுத்தி எந்த நாளுக்கும் செல்லலாம்; பக்கம் இன்றைய தேதியில் திறக்கும். ஐந்து பகுதிகள்: வாசக மேடை (வாசகங்கள், சிந்தனை), மறையுரை (திருப்பலி மறையுரை, குழந்தைகள் திருப்பலி, திட்டம்), நாள்காட்டி (வாரம், திருச்சபைத் தந்தையர், திருச்சபை ஆவணங்கள், புனிதர்கள்), குடும்பம், வழிபாட்டை அறிவோம். விளக்கத்திற்குக் காலத்தின் பெயரைத் தொடுங்கள். தேடல் எந்தத் தேதி, திருநாள், புனிதர், விவிலிய நூல் அல்லது சொல்லையும் கண்டுபிடிக்கும். A−, A+ எழுத்தின் அளவை மாற்றும்.","விவிலிய மேற்கோள்கள்: திருவிவிலியம் (பொது மொழிபெயர்ப்பு, CLT)."],
- hi:["उपयोग कैसे करें","ऊपर अपनी रीति और भाषा चुनें। ‹ › या तारीख़ के बॉक्स से किसी भी दिन पर जा सकते हैं; पृष्ठ आज की तारीख़ पर खुलता है। पाँच भाग हैं: पाठ-मंच (पाठ और मनन), प्रवचन (मिस्सा का प्रवचन, बच्चों की मिस्सा, रूपरेखा), कैलेंडर पृष्ठ (सप्ताह, कलीसिया के आचार्य, कलीसियाई दस्तावेज़, संत), परिवार, और धर्मविधि को जानें। व्याख्या के लिए ऋतु के नाम को छुएँ। खोज किसी भी तारीख़, पर्व, संत, बाइबिल ग्रंथ या शब्द को ढूँढ़ती है। A− और A+ अक्षरों का आकार बदलते हैं।","बाइबिल उद्धरण: हिन्दी काथलिक बाइबिल।"]
+ en:{t:"How to use this page",intro:"Everything is on one page. Here is how to find your way.",
+  steps:[["Choose your rite and language","Tap Syro-Malabar, Syro-Malankara or Latin at the top, then your language. The page remembers your choice for next time."],
+   ["Go to any day","The page opens on today. Use ‹ and › for the previous or next day, tap the date box to pick any date, or tap Today to come back."],
+   ["Open the tabs","Lectern: readings and reflection. Homily notes: homily for Mass, children's homily, outline and a post to share. Calendar page: the week, the Fathers, Church documents and saints. Prayer meeting: for family prayer and prayer groups. Know your liturgy: words and signs of the liturgy. Special occasions: sermons for sacraments, funerals, jubilees and other occasions."],
+   ["Tap to learn more","Tap the name of the season (just above the day's title) for a short explanation. In Know your liturgy, use ‹ › or the list to move through all the words."],
+   ["Search","Type in the search box: a date, a feast, a saint, a Bible book or any word. Tap a result to open that day."],
+   ["Read comfortably and share","A− and A+ change the text size. In Homily notes, “Copy post” copies a short message ready for WhatsApp or Telegram."],
+   ["Papal documents","The button after the rite names opens encyclicals and other documents of the Popes, with links to the latest news, audiences and messages from the Vatican."],
+   ["Write to us","At the bottom of the page you can send a prayer intention, a suggestion or a comment."]],
+  bible:"Bible quotations: POC Bible (Malayalam), NRSV (English), Einheitsübersetzung (German), CEI 2008 (Italian), Tiruviviliam CLT (Tamil), Hindi Catholic Bible (Hindi)."},
+ ml:{t:"ഈ പേജ് ഉപയോഗിക്കേണ്ട വിധം",intro:"എല്ലാം ഒരു പേജിലാണ്. വഴി കണ്ടെത്താൻ ഇതാ:",
+  steps:[["റീത്തും ഭാഷയും തിരഞ്ഞെടുക്കുക","മുകളിൽ സീറോ മലബാർ, സീറോ മലങ്കര, ലത്തീൻ ഇവയിലൊന്നിൽ തൊടുക; പിന്നെ ഭാഷ. അടുത്ത തവണയ്ക്കായി പേജ് നിങ്ങളുടെ തിരഞ്ഞെടുപ്പ് ഓർത്തുവയ്ക്കും."],
+   ["ഏതു ദിവസത്തിലേക്കും പോകുക","പേജ് ഇന്നത്തെ ദിവസത്തിലാണു തുറക്കുന്നത്. തലേദിവസത്തിനും പിറ്റേദിവസത്തിനും ‹ › ഉപയോഗിക്കുക; ഏതു തീയതിയും തിരഞ്ഞെടുക്കാൻ തീയതിക്കള്ളിയിൽ തൊടുക; തിരികെ വരാൻ “ഇന്ന്” അമർത്തുക."],
+   ["വിഭാഗങ്ങൾ തുറക്കുക","വായനാപീഠം: വായനകളും വിചിന്തനവും. പ്രസംഗക്കുറിപ്പുകൾ: കുർബാനയ്ക്കുള്ള പ്രസംഗം, കുട്ടികൾക്കുള്ള പ്രസംഗം, രൂപരേഖ, പങ്കുവയ്ക്കാനുള്ള പോസ്റ്റ്. കലണ്ടർ താൾ: ആഴ്ച, സഭാപിതാക്കന്മാർ, സഭാരേഖകൾ, വിശുദ്ധർ. പ്രാർഥനാകൂട്ടായ്മ: കുടുംബപ്രാർഥനയ്ക്കും പ്രാർഥനാഗ്രൂപ്പുകൾക്കും. ആരാധനക്രമം അറിയാൻ: ആരാധനയിലെ വാക്കുകളും അടയാളങ്ങളും. വിശേഷാവസരങ്ങൾ: കൂദാശകൾ, മൃതസംസ്കാരം, ജൂബിലി തുടങ്ങിയ അവസരങ്ങൾക്കുള്ള പ്രസംഗങ്ങൾ."],
+   ["കൂടുതൽ അറിയാൻ തൊടുക","വിശദീകരണത്തിനു കാലത്തിന്റെ പേരിൽ (ദിവസത്തിന്റെ തലക്കെട്ടിനു തൊട്ടുമുകളിൽ) തൊടുക. “ആരാധനക്രമം അറിയാൻ” എന്ന വിഭാഗത്തിൽ എല്ലാ വാക്കുകളിലൂടെയും നീങ്ങാൻ ‹ › അല്ലെങ്കിൽ പട്ടിക ഉപയോഗിക്കുക."],
+   ["തിരയുക","തിരയൽക്കള്ളിയിൽ ഒരു തീയതി, തിരുനാൾ, വിശുദ്ധൻ, ബൈബിൾ പുസ്തകം, അല്ലെങ്കിൽ ഏതെങ്കിലും വാക്ക് ടൈപ്പ് ചെയ്യുക. ആ ദിവസം തുറക്കാൻ ഫലത്തിൽ തൊടുക."],
+   ["സുഖമായി വായിക്കുക, പങ്കുവയ്ക്കുക","A−, A+ അക്ഷരവലുപ്പം മാറ്റുന്നു. പ്രസംഗക്കുറിപ്പുകളിലെ “പോസ്റ്റ് പകർത്തുക” വാട്സാപ്പിലോ ടെലിഗ്രാമിലോ അയയ്ക്കാൻ തയ്യാറായ ഒരു ചെറിയ സന്ദേശം പകർത്തുന്നു."],
+   ["മാർപാപ്പമാരുടെ രേഖകൾ","റീത്തുകളുടെ പേരുകൾക്കുശേഷമുള്ള ബട്ടൺ മാർപാപ്പമാരുടെ ചാക്രികലേഖനങ്ങളും മറ്റു രേഖകളും, വത്തിക്കാനിൽനിന്നുള്ള പുതിയ വാർത്തകളിലേക്കും പ്രഭാഷണങ്ങളിലേക്കും സന്ദേശങ്ങളിലേക്കുമുള്ള ലിങ്കുകളോടൊപ്പം തുറക്കുന്നു."],
+   ["ഞങ്ങൾക്ക് എഴുതുക","പേജിന്റെ ഏറ്റവും താഴെ പ്രാർഥനാനിയോഗമോ നിർദേശമോ അഭിപ്രായമോ അയയ്ക്കാം."]],
+  bible:"ബൈബിൾ ഉദ്ധരണികൾ: പി.ഒ.സി. ബൈബിൾ (മലയാളം), NRSV (ഇംഗ്ലീഷ്), ഐൻഹൈറ്റ്സ്യൂബർസെറ്റ്സുങ് (ജർമൻ), CEI 2008 (ഇറ്റാലിയൻ), തിരുവിവിലിയം CLT (തമിഴ്), ഹിന്ദി കത്തോലിക്കാ ബൈബിൾ (ഹിന്ദി)."},
+ de:{t:"So benutzen Sie diese Seite",intro:"Alles befindet sich auf einer Seite. So finden Sie sich zurecht.",
+  steps:[["Ritus und Sprache wählen","Tippen Sie oben auf Syro-Malabarisch, Syro-Malankarisch oder Lateinisch und dann auf Ihre Sprache. Die Seite merkt sich Ihre Wahl."],
+   ["Zu jedem Tag gehen","Die Seite öffnet sich mit dem heutigen Tag. Mit ‹ und › gehen Sie einen Tag zurück oder vor; im Datumsfeld wählen Sie jedes Datum; „Heute“ bringt Sie zurück."],
+   ["Die Bereiche öffnen","Ambo: Lesungen und Betrachtung. Predigt: Predigt für die Messe, Kinderpredigt, Gliederung und ein Text zum Teilen. Kalenderblatt: die Woche, Kirchenväter, kirchliche Dokumente und Heilige. Gebetskreis: für das Gebet in Familie und Gruppe. Liturgie verstehen: Worte und Zeichen der Liturgie. Besondere Anlässe: Predigten für Sakramente, Beerdigungen, Jubiläen und andere Anlässe."],
+   ["Mehr erfahren","Tippen Sie auf den Namen der liturgischen Zeit für eine kurze Erklärung. In „Liturgie verstehen“ blättern Sie mit ‹ › oder über die Liste durch alle Begriffe."],
+   ["Suchen","Geben Sie ein Datum, ein Fest, einen Heiligen, ein biblisches Buch oder ein Wort ein und tippen Sie auf ein Ergebnis."],
+   ["Bequem lesen und teilen","A− und A+ ändern die Schriftgröße. Unter „Predigt“ kopiert „Text kopieren“ eine kurze Nachricht für WhatsApp oder Telegram."],
+   ["Päpstliche Dokumente","Die Schaltfläche nach den Riten öffnet Enzykliken und andere Dokumente der Päpste sowie Links zu aktuellen Nachrichten, Audienzen und Botschaften aus dem Vatikan."],
+   ["Schreiben Sie uns","Ganz unten auf der Seite können Sie ein Gebetsanliegen, einen Vorschlag oder einen Kommentar senden."]],
+  bible:"Bibelzitate: Einheitsübersetzung (Deutsch)."},
+ it:{t:"Come usare questa pagina",intro:"Tutto si trova in una sola pagina. Ecco come orientarsi.",
+  steps:[["Scegliete rito e lingua","Toccate in alto Siro-malabarese, Siro-malankarese o Latino, poi la vostra lingua. La pagina ricorda la vostra scelta."],
+   ["Andate a qualsiasi giorno","La pagina si apre sul giorno di oggi. Con ‹ e › andate al giorno precedente o successivo; nella casella della data scegliete qualsiasi data; “Oggi” vi riporta indietro."],
+   ["Aprite le sezioni","Ambone: letture e riflessione. Omelia: omelia per la Messa, omelia per i bambini, schema e un testo da condividere. Pagina del calendario: la settimana, i Padri, i documenti della Chiesa e i santi. Gruppo di preghiera: per la preghiera in famiglia e nei gruppi. Conoscere la liturgia: parole e segni della liturgia. Occasioni speciali: omelie per sacramenti, funerali, giubilei e altre occasioni."],
+   ["Toccate per saperne di più","Toccate il nome del tempo liturgico per una breve spiegazione. In “Conoscere la liturgia” scorrete tutti i termini con ‹ › o dall'elenco."],
+   ["Cercate","Scrivete una data, una festa, un santo, un libro biblico o una parola, e toccate un risultato."],
+   ["Leggete con comodo e condividete","A− e A+ cambiano la dimensione del testo. In “Omelia”, “Copia il testo” copia un breve messaggio per WhatsApp o Telegram."],
+   ["Documenti pontifici","Il pulsante dopo i riti apre encicliche e altri documenti dei Papi, con collegamenti alle ultime notizie, udienze e messaggi dal Vaticano."],
+   ["Scriveteci","In fondo alla pagina potete inviare un'intenzione di preghiera, un suggerimento o un commento."]],
+  bible:"Citazioni bibliche: Bibbia CEI 2008 (italiano)."},
+ ta:{t:"இந்தப் பக்கத்தைப் பயன்படுத்தும் முறை",intro:"எல்லாமே ஒரே பக்கத்தில் உள்ளன. வழியைக் கண்டுபிடிக்க இதோ:",
+  steps:[["வழிபாட்டு முறையையும் மொழியையும் தேர்ந்தெடுங்கள்","மேலே சீரோ-மலபார், சீரோ-மலங்கரா அல்லது இலத்தீன் என்பதைத் தொட்டு, பின்னர் உங்கள் மொழியைத் தேர்ந்தெடுங்கள். அடுத்த முறைக்காகப் பக்கம் உங்கள் தேர்வை நினைவில் வைத்துக்கொள்ளும்."],
+   ["எந்த நாளுக்கும் செல்லுங்கள்","பக்கம் இன்றைய நாளில் திறக்கும். முந்தைய அல்லது அடுத்த நாளுக்கு ‹ › பயன்படுத்துங்கள்; எந்தத் தேதியையும் தேர்ந்தெடுக்கத் தேதிப் பெட்டியைத் தொடுங்கள்; திரும்ப வர “இன்று” என்பதைத் தொடுங்கள்."],
+   ["பகுதிகளைத் திறவுங்கள்","வாசக மேடை: வாசகங்களும் சிந்தனையும். மறையுரை: திருப்பலி மறையுரை, குழந்தைகள் மறையுரை, திட்டம், பகிர்வதற்கான செய்தி. நாள்காட்டி: வாரம், திருச்சபைத் தந்தையர், திருச்சபை ஆவணங்கள், புனிதர்கள். செபக் கூட்டம்: குடும்பச் செபத்திற்கும் செபக் குழுக்களுக்கும். வழிபாட்டை அறிவோம்: வழிபாட்டின் சொற்களும் அடையாளங்களும். சிறப்பு நிகழ்வுகள்: அருளடையாளங்கள், அடக்கச் சடங்கு, யூபிலி போன்ற நிகழ்வுகளுக்கான மறையுரைகள்."],
+   ["மேலும் அறியத் தொடுங்கள்","சுருக்கமான விளக்கத்திற்குக் காலத்தின் பெயரைத் தொடுங்கள். “வழிபாட்டை அறிவோம்” பகுதியில் ‹ › அல்லது பட்டியல் மூலம் எல்லாச் சொற்களையும் பார்க்கலாம்."],
+   ["தேடுங்கள்","தேதி, திருநாள், புனிதர், விவிலிய நூல் அல்லது ஏதாவது ஒரு சொல்லைத் தட்டச்சு செய்து, ஒரு முடிவைத் தொடுங்கள்."],
+   ["வசதியாக வாசித்துப் பகிருங்கள்","A−, A+ எழுத்தின் அளவை மாற்றும். மறையுரைப் பகுதியில் “நகலெடு” வாட்ஸ்அப் அல்லது டெலிகிராமுக்கான சிறு செய்தியை நகலெடுக்கும்."],
+   ["திருத்தந்தையரின் ஆவணங்கள்","வழிபாட்டு முறைகளின் பெயர்களுக்குப் பின் உள்ள பொத்தான் திருத்தந்தையரின் சுற்றுமடல்களையும் பிற ஆவணங்களையும், வத்திக்கானின் புதிய செய்திகள், உரைகள், செய்திகளுக்கான இணைப்புகளுடன் திறக்கும்."],
+   ["எங்களுக்கு எழுதுங்கள்","பக்கத்தின் அடியில் செபக் கருத்து, ஆலோசனை அல்லது கருத்தை அனுப்பலாம்."]],
+  bible:"விவிலிய மேற்கோள்கள்: திருவிவிலியம் (பொது மொழிபெயர்ப்பு, CLT)."},
+ hi:{t:"इस पृष्ठ का उपयोग कैसे करें",intro:"सब कुछ एक ही पृष्ठ पर है। रास्ता ऐसे खोजें:",
+  steps:[["अपनी रीति और भाषा चुनें","ऊपर सीरो-मलबार, सीरो-मलंकरा या लैटिन को छुएँ, फिर अपनी भाषा चुनें। अगली बार के लिए पृष्ठ आपकी पसंद याद रखेगा।"],
+   ["किसी भी दिन पर जाएँ","पृष्ठ आज के दिन पर खुलता है। पिछले या अगले दिन के लिए ‹ › का उपयोग करें; कोई भी तारीख़ चुनने के लिए तारीख़ के बॉक्स को छुएँ; वापस आने के लिए “आज” छुएँ।"],
+   ["भाग खोलें","पाठ-मंच: पाठ और मनन। प्रवचन: मिस्सा का प्रवचन, बच्चों का प्रवचन, रूपरेखा और साझा करने के लिए संदेश। कैलेंडर पृष्ठ: सप्ताह, कलीसिया के आचार्य, कलीसियाई दस्तावेज़ और संत। प्रार्थना सभा: परिवार की प्रार्थना और प्रार्थना-समूहों के लिए। धर्मविधि को जानें: धर्मविधि के शब्द और चिह्न। विशेष अवसर: संस्कारों, अंतिम संस्कार, जयंती आदि अवसरों के लिए प्रवचन।"],
+   ["और जानने के लिए छुएँ","छोटी व्याख्या के लिए ऋतु के नाम को छुएँ। “धर्मविधि को जानें” में ‹ › या सूची से सभी शब्द देखें।"],
+   ["खोजें","कोई तारीख़, पर्व, संत, बाइबिल ग्रंथ या कोई भी शब्द लिखें और परिणाम को छुएँ।"],
+   ["आराम से पढ़ें और साझा करें","A− और A+ अक्षरों का आकार बदलते हैं। प्रवचन भाग में “कॉपी करें” व्हाट्सऐप या टेलीग्राम के लिए एक छोटा संदेश कॉपी करता है।"],
+   ["संत पापाओं के दस्तावेज़","रीतियों के नामों के बाद का बटन संत पापाओं के विश्वपत्र और अन्य दस्तावेज़, वाटिकन के ताज़ा समाचारों, प्रवचनों और संदेशों की कड़ियों के साथ खोलता है।"],
+   ["हमें लिखें","पृष्ठ के सबसे नीचे आप प्रार्थना-निवेदन, सुझाव या टिप्पणी भेज सकते हैं।"]],
+  bible:"बाइबिल उद्धरण: हिन्दी काथलिक बाइबिल।"}
 };
 var VLINK={en:"en",ml:"ml",de:"de",it:"it",ta:"ta",hi:"hi"};
+/* Know your liturgy: standing glossary per rite. Day-specific terms from EXTRA are added in front. Other languages fall back to English. */
+var GLOSS={
+smc:{
+ en:[["Holy Qurbana","Syriac for “offering”. The Eucharistic liturgy of the Syro-Malabar Church, which belongs to the East Syriac tradition received from the Church of the East."],
+  ["Raza","“Mystery”. The most solemn form of the Holy Qurbana, celebrated on great feasts."],
+  ["Thaksa","“Order”. The liturgical book containing the text of the Holy Qurbana."],
+  ["Madbaha","The sanctuary, where the altar stands. It is raised and set apart, a sign of heaven."],
+  ["Qestroma","The space between the sanctuary and the nave, a sign of paradise between heaven and earth."],
+  ["Hykala","The nave, where the faithful stand. It is a sign of the earth, and of the people of God on pilgrimage."],
+  ["Bema","In the ancient East Syriac church, a raised platform in the middle of the nave from which the Word of God was proclaimed."],
+  ["Mar Thoma Sleeva","The St Thomas Cross: a cross without the body of Christ, with a dove above it, often standing on a lotus. It proclaims the risen Christ and the gift of the Holy Spirit."],
+  ["Anaphora of Mar Addai and Mar Mari","One of the most ancient Eucharistic prayers of the Church, attributed to the apostles of Edessa; the principal anaphora of the Syro-Malabar Qurbana."],
+  ["Lakhu Mara","“To you, O Lord”. A hymn of praise to Christ sung near the beginning of the Holy Qurbana."],
+  ["Karozutha","A litany proclaimed by the deacon or server, to which the people answer with a short response."],
+  ["Onitha","A hymn or antiphon of the liturgy. The “Onitha d'Raze” is sung during the procession with the gifts."],
+  ["Dukrana","“Commemoration”. The feast of a saint, usually the day of his or her death. The Dukrana of St Thomas is kept on 3 July."],
+  ["Ramsa, Lelya, Sapra","The evening, night and morning prayers of the Liturgy of the Hours in the East Syriac tradition."],
+  ["Moonnu Nombu","The three-day fast of the Ninevites, kept from Monday to Wednesday of the third week before the Great Fast (Jonah 3)."],
+  ["Pesaha","“Passover”. Maundy Thursday, when the Lord instituted the Holy Qurbana. In Kerala homes the Pesaha appam and paal are blessed and shared."]],
+ ml:[["വിശുദ്ധ കുർബാന","“കാഴ്ചവയ്പ്” എന്നർഥമുള്ള സുറിയാനിപദം. പൗരസ്ത്യസുറിയാനി പാരമ്പര്യത്തിൽപ്പെട്ട സീറോ മലബാർ സഭയുടെ ദിവ്യകാരുണ്യ ആരാധനക്രമം."],
+  ["റാസ","“രഹസ്യം”. വലിയ തിരുനാളുകളിൽ അർപ്പിക്കുന്ന വിശുദ്ധ കുർബാനയുടെ ഏറ്റവും ആഘോഷമായ രൂപം."],
+  ["തക്സ","“ക്രമം”. വിശുദ്ധ കുർബാനയുടെ പാഠമടങ്ങിയ ആരാധനക്രമഗ്രന്ഥം."],
+  ["മദ്ബഹാ","ബലിപീഠം സ്ഥിതിചെയ്യുന്ന ശ്രീകോവിൽ. ഉയർത്തി വേർതിരിച്ചിരിക്കുന്ന ഇതു സ്വർഗത്തിന്റെ പ്രതീകമാണ്."],
+  ["ഖസ്രോമ","ശ്രീകോവിലിനും ദേവാലയാങ്കണത്തിനും ഇടയിലുള്ള ഭാഗം; സ്വർഗത്തിനും ഭൂമിക്കും ഇടയിലുള്ള പറുദീസായുടെ പ്രതീകം."],
+  ["ഹൈക്കല","വിശ്വാസികൾ നിൽക്കുന്ന ദേവാലയാങ്കണം. ഭൂമിയുടെയും തീർഥാടകരായ ദൈവജനത്തിന്റെയും പ്രതീകം."],
+  ["ബേമ്മ","പുരാതന പൗരസ്ത്യസുറിയാനി ദേവാലയങ്ങളിൽ ദേവാലയാങ്കണത്തിന്റെ മധ്യത്തിലുണ്ടായിരുന്ന ഉയർന്ന വേദി; അവിടെനിന്നാണു ദൈവവചനം പ്രഘോഷിച്ചിരുന്നത്."],
+  ["മാർ തോമാ സ്ലീവാ","ക്രിസ്തുവിന്റെ ശരീരമില്ലാത്ത, മുകളിൽ പ്രാവും പലപ്പോഴും താമരയിൽ നിൽക്കുന്നതുമായ കുരിശ്. ഉത്ഥിതനായ ക്രിസ്തുവിനെയും പരിശുദ്ധാത്മാവിന്റെ ദാനത്തെയും അതു പ്രഘോഷിക്കുന്നു."],
+  ["മാർ അദ്ദായിയുടെയും മാർ മാറിയുടെയും അനാഫൊറ","എദേസ്സായിലെ ശ്ലീഹന്മാരുടെ പേരിലുള്ള, സഭയിലെ ഏറ്റവും പുരാതനമായ ദിവ്യകാരുണ്യപ്രാർഥനകളിലൊന്ന്; സീറോ മലബാർ കുർബാനയുടെ പ്രധാന അനാഫൊറ."],
+  ["ലാക്കുമാറാ","“കർത്താവേ, അങ്ങേക്ക്”. വിശുദ്ധ കുർബാനയുടെ ആരംഭത്തിൽ ആലപിക്കുന്ന ക്രിസ്തുസ്തുതിഗീതം."],
+  ["കാറോസൂസ","ശുശ്രൂഷി പ്രഘോഷിക്കുകയും ജനം ചെറിയ പ്രത്യുത്തരം നൽകുകയും ചെയ്യുന്ന പ്രാർഥനാമാലിക."],
+  ["ഓനീസ","ആരാധനക്രമത്തിലെ ഗീതം. കാഴ്ചവസ്തുക്കളുടെ പ്രദക്ഷിണസമയത്ത് “ഓനീസ ദ്റാസേ” (രഹസ്യങ്ങളുടെ ഗീതം) ആലപിക്കുന്നു."],
+  ["ദുക്റാന","“ഓർമ”. ഒരു വിശുദ്ധന്റെ തിരുനാൾ, സാധാരണയായി മരണദിവസം. മാർ തോമാശ്ലീഹായുടെ ദുക്റാന ജൂലൈ 3-ന്."],
+  ["റംശ, ലെലിയ, സപ്ര","പൗരസ്ത്യസുറിയാനി യാമപ്രാർഥനകളിലെ സന്ധ്യാ, രാത്രി, പ്രഭാത പ്രാർഥനകൾ."],
+  ["മൂന്നുനോമ്പ്","നിനിവേക്കാരുടെ മൂന്നു ദിവസത്തെ ഉപവാസം; വലിയ നോമ്പിനു മുമ്പുള്ള മൂന്നാം ആഴ്ചയിലെ തിങ്കൾമുതൽ ബുധൻവരെ (യോനാ 3)."],
+  ["പെസഹാ","“കടന്നുപോകൽ”. കർത്താവു വിശുദ്ധ കുർബാന സ്ഥാപിച്ച പെസഹാവ്യാഴം. കേരളത്തിലെ ഭവനങ്ങളിൽ പെസഹാ അപ്പവും പാലും ആശീർവദിച്ചു പങ്കുവയ്ക്കുന്നു."]]},
+smk:{
+ en:[["Holy Qurbono","The Eucharistic liturgy of the Syro-Malankara Catholic Church, in the West Syriac (Antiochene) tradition."],
+  ["Anaphora of St James","The Eucharistic prayer attributed to St James, brother of the Lord and first bishop of Jerusalem; the mother of the West Syriac anaphoras. The Malankara liturgy also has a number of other anaphoras."],
+  ["Thronos","“Throne”. The altar, the throne of God, on which the holy Mysteries are offered."],
+  ["Madbaho","The sanctuary, separated from the nave by a curtain that is drawn and opened at the great moments of the liturgy."],
+  ["Promiun and Sedro","The opening prayer (Promiun) and the long expository prayer (Sedro), said with incense, in the Qurbono and in the Hours."],
+  ["Hoosoyo","The service of forgiveness and reconciliation with incense, asking God to accept the prayers of his people."],
+  ["Qauma","A unit of prayer beginning with the Trisagion, “Holy are you, O God”, followed by “Kurielaison” and the Lord's Prayer."],
+  ["Shehimo","The book of daily prayer for ordinary weekdays. The book for Sundays, feasts and seasons is the Penkitho."],
+  ["Qolo","A hymn sung to a set melody. The Shehimo is arranged in Qolos that change through the year."],
+  ["Bovutho","Petitionary hymns attributed to St Ephrem, St Jacob of Serugh and St Balai, sung in the Hours."],
+  ["Thubden","The diptychs: the solemn commemorations in the anaphora of the living, the saints and the faithful departed."],
+  ["Qudos Eetho and Hudos Eetho","The Sanctification and the Renewal of the Church: the two Sundays that open the liturgical year."],
+  ["Hasho","The Passion. Hasho Week is Holy Week, from Hosanna Sunday to the Resurrection."],
+  ["Qyomtho","The Resurrection of the Lord, and the season of fifty days that follows it."],
+  ["Sleebo","The Cross. The season of the Holy Cross closes the liturgical year."],
+  ["Reunion of 1930","On 20 September 1930 Archbishop Mar Ivanios and his companions entered full communion with the Catholic Church, keeping their West Syriac liturgy. Since 2005 the Church is a Major Archiepiscopal Church, headed by the Major Archbishop-Catholicos."]],
+ ml:[["വിശുദ്ധ കുർബാന (ഖുർബോനോ)","പാശ്ചാത്യസുറിയാനി (അന്ത്യോക്യൻ) പാരമ്പര്യത്തിലുള്ള സീറോ മലങ്കര കത്തോലിക്കാസഭയുടെ ദിവ്യകാരുണ്യ ആരാധനക്രമം."],
+  ["മാർ യാക്കോബിന്റെ അനാഫൊറ","കർത്താവിന്റെ സഹോദരനും ജറുസലെമിലെ പ്രഥമ മെത്രാനുമായ വിശുദ്ധ യാക്കോബിന്റെ പേരിലുള്ള ദിവ്യകാരുണ്യപ്രാർഥന; പാശ്ചാത്യസുറിയാനി അനാഫൊറകളുടെ മാതാവ്. മലങ്കര ആരാധനക്രമത്തിൽ മറ്റു പല അനാഫൊറകളുമുണ്ട്."],
+  ["ത്രോണോസ്","“സിംഹാസനം”. വിശുദ്ധ രഹസ്യങ്ങൾ അർപ്പിക്കപ്പെടുന്ന ബലിപീഠം; ദൈവത്തിന്റെ സിംഹാസനം."],
+  ["മദ്ബഹ","ആരാധനയുടെ പ്രധാന നിമിഷങ്ങളിൽ തുറക്കുകയും അടയ്ക്കുകയും ചെയ്യുന്ന തിരശ്ശീലയാൽ ദേവാലയാങ്കണത്തിൽനിന്നു വേർതിരിക്കപ്പെട്ട ശ്രീകോവിൽ."],
+  ["പ്രുമിയോനും സെദറായും","ധൂപത്തോടെ ചൊല്ലുന്ന ആമുഖപ്രാർഥനയും (പ്രുമിയോൻ) വിശദമായ പ്രാർഥനയും (സെദറാ); കുർബാനയിലും യാമപ്രാർഥനകളിലും."],
+  ["ഹൂസോയോ","തന്റെ ജനത്തിന്റെ പ്രാർഥനകൾ സ്വീകരിക്കാൻ ദൈവത്തോടപേക്ഷിക്കുന്ന, ധൂപത്തോടെയുള്ള പാപമോചന-അനുരഞ്ജന ശുശ്രൂഷ."],
+  ["കൗമ","“ദൈവമേ, നീ പരിശുദ്ധനാകുന്നു” എന്ന ത്രിശുദ്ധകീർത്തനത്തോടെ ആരംഭിച്ച്, “കുറിയേലായിസോൻ”, കർതൃപ്രാർഥന എന്നിവയോടെ തുടരുന്ന പ്രാർഥനാഘടകം."],
+  ["ശ്ഹീമോ","സാധാരണ ദിവസങ്ങളിലെ യാമപ്രാർഥനാപുസ്തകം. ഞായറാഴ്ചകൾക്കും തിരുനാളുകൾക്കും കാലങ്ങൾക്കുമുള്ളതു പെങ്കീസാ."],
+  ["ഖോലോ","നിശ്ചിത ഈണത്തിൽ ആലപിക്കുന്ന ഗീതം. വർഷത്തിലുടനീളം മാറിവരുന്ന ഖോലോകളായി ശ്ഹീമോ ക്രമീകരിച്ചിരിക്കുന്നു."],
+  ["ബോവൂസോ","മാർ അപ്രേം, മാർ യാക്കോബ്, മാർ ബാലായി എന്നിവരുടെ പേരിലുള്ള, യാമപ്രാർഥനകളിൽ ആലപിക്കുന്ന യാചനാഗീതങ്ങൾ."],
+  ["തുബ്ദേൻ","അനാഫൊറയിൽ ജീവിച്ചിരിക്കുന്നവരെയും വിശുദ്ധരെയും മരിച്ച വിശ്വാസികളെയും ഓർക്കുന്ന ആഘോഷമായ സ്മരണകൾ."],
+  ["കൂദോശ് ഈത്തോയും ഹൂദോശ് ഈത്തോയും","സഭയുടെ വിശുദ്ധീകരണവും നവീകരണവും: ആരാധനാവത്സരം തുറക്കുന്ന രണ്ടു ഞായറാഴ്ചകൾ."],
+  ["ഹാശാ","“പീഡാനുഭവം”. ഓശാന ഞായർമുതൽ ഉയിർപ്പുവരെയുള്ള ഹാശാആഴ്ച."],
+  ["ക്യംതോ","കർത്താവിന്റെ ഉയിർപ്പും അതിനെത്തുടർന്നുള്ള അമ്പതു ദിവസത്തെ കാലവും."],
+  ["സ്ലീബാ","“കുരിശ്”. വിശുദ്ധ കുരിശിന്റെ കാലം ആരാധനാവത്സരം അവസാനിപ്പിക്കുന്നു."],
+  ["1930-ലെ പുനരൈക്യം","1930 സെപ്റ്റംബർ 20-ന് മാർ ഈവാനിയോസ് മെത്രാപ്പോലീത്തായും സഹചാരികളും തങ്ങളുടെ പാശ്ചാത്യസുറിയാനി ആരാധനക്രമം കാത്തുകൊണ്ടു കത്തോലിക്കാസഭയുമായി പൂർണ കൂട്ടായ്മയിൽ പ്രവേശിച്ചു. 2005 മുതൽ മേജർ ആർച്ച്ബിഷപ്-കാതോലിക്കോസിന്റെ നേതൃത്വത്തിലുള്ള മേജർ ആർക്കിഎപ്പിസ്കോപ്പൽ സഭയാണിത്."]]},
+lat:{
+ en:[["Holy Mass","The celebration of the Eucharist in the Roman Rite, in two main parts: the Liturgy of the Word and the Liturgy of the Eucharist."],
+  ["Lectionary and cycles","Sunday readings follow a three-year cycle (Years A, B and C, with Matthew, Mark and Luke); weekday first readings follow a two-year cycle (I and II)."],
+  ["Responsorial Psalm","The psalm sung or said after the first reading, with a refrain repeated by the people. It is part of the Word of God, not an extra song."],
+  ["Gospel Acclamation","The “Alleluia” and verse that welcome the Gospel. In Lent another acclamation replaces the Alleluia."],
+  ["Homily","The explanation of the readings and the liturgy, given by a bishop, priest or deacon, applying God's Word to life."],
+  ["Universal Prayer","The Prayer of the Faithful, in which the people exercise their baptismal priesthood by praying for the Church, the world, those in need and the local community."],
+  ["Eucharistic Prayer","The centre of the Mass: the Preface, the Sanctus, the invocation of the Holy Spirit (epiclesis), the institution narrative and consecration, the memorial, the intercessions and the final doxology answered by the great Amen."],
+  ["Liturgical colours","Green for Ordinary Time; violet for Advent and Lent; white (or gold) for Christmas, Easter and feasts of the Lord, Mary and non-martyr saints; red for Palm Sunday, Good Friday, Pentecost, the apostles and martyrs."],
+  ["Solemnity, Feast, Memorial","The three ranks of celebration. A solemnity is the highest; a memorial may be obligatory or optional."],
+  ["Ordinary Time","The numbered weeks of the year outside the great seasons, when the Church follows the public life and teaching of Christ."],
+  ["Easter Triduum","The three holy days from the evening Mass of the Lord's Supper on Holy Thursday to Easter Sunday evening: the summit of the liturgical year."],
+  ["Liturgy of the Hours","The Church's daily prayer that sanctifies the hours of the day; Morning Prayer (Lauds) and Evening Prayer (Vespers) are its two hinges."],
+  ["Ambo, altar, tabernacle","The ambo is the place of the Word; the altar is the place of the sacrifice and the Lord's table; the tabernacle keeps the Blessed Sacrament for the sick and for adoration."],
+  ["Advent wreath","A wreath of evergreen with four candles, lit one by one on the Sundays of Advent, marking the growing light as Christmas approaches."]],
+ ml:[["ദിവ്യബലി","റോമൻ റീത്തിലെ ദിവ്യകാരുണ്യ ആഘോഷം; വചനശുശ്രൂഷ, ദിവ്യകാരുണ്യശുശ്രൂഷ എന്നീ രണ്ടു പ്രധാന ഭാഗങ്ങൾ."],
+  ["വായനാപുസ്തകവും ചക്രങ്ങളും","ഞായറാഴ്ചകളിലെ വായനകൾ മൂന്നു വർഷത്തെ ചക്രം പിന്തുടരുന്നു (A, B, C വർഷങ്ങൾ: മത്തായി, മർക്കോസ്, ലൂക്കാ); വാരദിവസങ്ങളിലെ ഒന്നാം വായന രണ്ടു വർഷത്തെ ചക്രവും (I, II)."],
+  ["പ്രതിവചനസങ്കീർത്തനം","ഒന്നാം വായനയ്ക്കുശേഷം ജനം ആവർത്തിക്കുന്ന പല്ലവിയോടെ ആലപിക്കുന്നതോ ചൊല്ലുന്നതോ ആയ സങ്കീർത്തനം. ഇതു ദൈവവചനത്തിന്റെ ഭാഗമാണ്, ഒരു അധികഗാനമല്ല."],
+  ["സുവിശേഷപ്രഘോഷണഗീതം","സുവിശേഷത്തെ സ്വാഗതം ചെയ്യുന്ന “അല്ലേലൂയാ”യും വാക്യവും. നോമ്പുകാലത്ത് അല്ലേലൂയായ്ക്കു പകരം മറ്റൊരു പ്രഘോഷണം."],
+  ["വചനസന്ദേശം","മെത്രാനോ വൈദികനോ ഡീക്കനോ നൽകുന്ന, വായനകളെയും ആരാധനക്രമത്തെയും വിശദീകരിച്ചു ദൈവവചനം ജീവിതത്തോടു ബന്ധിപ്പിക്കുന്ന പ്രസംഗം."],
+  ["വിശ്വാസികളുടെ പ്രാർഥന","സഭയ്ക്കും ലോകത്തിനും ആവശ്യക്കാർക്കും പ്രാദേശികസമൂഹത്തിനുംവേണ്ടി പ്രാർഥിച്ചുകൊണ്ട് ജനം തങ്ങളുടെ മാമ്മോദീസാപൗരോഹിത്യം നിർവഹിക്കുന്ന സാർവത്രികപ്രാർഥന."],
+  ["ദിവ്യകാരുണ്യപ്രാർഥന","ദിവ്യബലിയുടെ കേന്ദ്രം: ആമുഖഗീതം, പരിശുദ്ധൻ, പരിശുദ്ധാത്മാവിനെ വിളിച്ചപേക്ഷിക്കൽ, സ്ഥാപനവിവരണവും കൂദാശയും, സ്മരണ, മധ്യസ്ഥപ്രാർഥനകൾ, മഹത്തായ ആമേനോടെ അവസാനിക്കുന്ന സ്തുതി."],
+  ["ആരാധനക്രമനിറങ്ങൾ","സാധാരണകാലത്തിനു പച്ച; ആഗമനകാലത്തിനും നോമ്പുകാലത്തിനും വയലറ്റ്; ക്രിസ്മസ്, ഉയിർപ്പുകാലം, കർത്താവിന്റെയും മറിയത്തിന്റെയും രക്തസാക്ഷികളല്ലാത്ത വിശുദ്ധരുടെയും തിരുനാളുകൾക്കു വെള്ള (അല്ലെങ്കിൽ സ്വർണനിറം); ഓശാന ഞായർ, ദുഃഖവെള്ളി, പന്തക്കുസ്താ, ശ്ലീഹന്മാർ, രക്തസാക്ഷികൾ എന്നിവർക്കു ചുവപ്പ്."],
+  ["മഹോത്സവം, തിരുനാൾ, ഓർമ","ആഘോഷങ്ങളുടെ മൂന്നു പദവികൾ. മഹോത്സവമാണ് ഏറ്റവും ഉയർന്നത്; ഓർമ നിർബന്ധിതമോ ഐച്ഛികമോ ആകാം."],
+  ["സാധാരണകാലം","പ്രധാന കാലങ്ങൾക്കു പുറത്തുള്ള, എണ്ണമിട്ട ആഴ്ചകൾ; ക്രിസ്തുവിന്റെ പരസ്യജീവിതവും പ്രബോധനവും സഭ പിന്തുടരുന്ന കാലം."],
+  ["ഉയിർപ്പിന്റെ ത്രിദിനം","പെസഹാവ്യാഴത്തിലെ കർത്താവിന്റെ അത്താഴത്തിന്റെ സന്ധ്യാബലിമുതൽ ഉയിർപ്പുഞായർ സന്ധ്യവരെയുള്ള മൂന്നു വിശുദ്ധ ദിനങ്ങൾ: ആരാധനാവത്സരത്തിന്റെ ഉച്ചസ്ഥാനം."],
+  ["യാമപ്രാർഥനകൾ","ദിവസത്തിലെ യാമങ്ങളെ വിശുദ്ധീകരിക്കുന്ന സഭയുടെ അനുദിനപ്രാർഥന; പ്രഭാതപ്രാർഥനയും സന്ധ്യാപ്രാർഥനയുമാണ് അതിന്റെ രണ്ടു തൂണുകൾ."],
+  ["വചനവേദി, ബലിപീഠം, സക്രാരി","വചനവേദി ദൈവവചനത്തിന്റെ ഇടം; ബലിപീഠം ബലിയുടെയും കർത്താവിന്റെ മേശയുടെയും ഇടം; രോഗികൾക്കും ആരാധനയ്ക്കുമായി വിശുദ്ധ കുർബാന സൂക്ഷിക്കുന്നതു സക്രാരിയിൽ."],
+  ["ആഗമനകാലറീത്ത്","ആഗമനകാലത്തിലെ ഞായറാഴ്ചകളിൽ ഓരോന്നായി കത്തിക്കുന്ന നാലു തിരികളുള്ള നിത്യഹരിതറീത്ത്; ക്രിസ്മസ് അടുക്കുമ്പോൾ വളരുന്ന വെളിച്ചത്തിന്റെ അടയാളം."]]}
+};
+/* Sermons for special occasions. {Q} is replaced by the rite's name for the Eucharist. Key verses: POC (Malayalam), NRSV (English). */
+var QNAME={en:{smc:"Holy Qurbana",smk:"Holy Qurbono",lat:"Holy Mass"},ml:{smc:"വിശുദ്ധ കുർബാന",smk:"വിശുദ്ധ കുർബാന",lat:"ദിവ്യബലി"}};
+var OCC=[
+{id:"baptism",
+ en:{t:"Holy Baptism",sub:"For the baptism of a child or an adult",
+  read:[["Old Testament","Ezekiel 36:24–28"],["Epistle","Romans 6:3–11"],["Gospel","John 3:1–8 or Matthew 28:16–20"]],
+  verse:"Very truly, I tell you, no one can enter the kingdom of God without being born of water and Spirit.",cite:"John 3:5",
+  points:[["New birth","Baptism is not only a name-giving or a family custom. It is a new birth by water and the Spirit: original sin is washed away and the child becomes a child of God."],["Into the Church","The baptised person becomes a member of the Body of Christ, the Church. The whole parish receives a new member today."],["The white garment and the light","The white garment and the lighted candle are signs of a life to be kept pure and bright. In the Eastern Churches holy Myron (Chrismation) is given together with Baptism, sealing the gift of the Spirit."],["Parents and godparents","The promises made today are kept at home: morning and night prayer, the sign of the cross, Sunday {Q}."]],
+  homily:["Dear parents, godparents and friends, today we bring this child to the font. Jesus said to Nicodemus, “No one can enter the kingdom of God without being born of water and Spirit.” What happens here is a birth: the child was born once to you; today the child is born to God.","In Baptism original sin is washed away, and this little one becomes a child of the Father, a brother or sister of Christ, and a temple of the Holy Spirit. The child also becomes a member of the Church. That is why we celebrate it in the church and not only at home: the whole parish receives a new member.","The white garment says: keep this life pure. The burning candle says: keep this light alive. But a candle cannot guard itself. Dear parents and godparents, the promises you make today must be kept in your home: in the first prayers you teach, in the sign of the cross you trace on this forehead, in the Sunday {Q} you never miss.","Let us thank God for this child, and let us all renew our own Baptism today. Each of us was once carried to the font like this. May we live as children of God. Amen."],
+  prayer:"Heavenly Father, you have given this child a new birth by water and the Spirit. Keep the white garment unstained and the light of faith burning, and bless the parents and godparents who will lead this child to you. Amen."},
+ ml:{t:"വിശുദ്ധ മാമ്മോദീസ",sub:"ഒരു കുഞ്ഞിന്റെയോ മുതിർന്നയാളിന്റെയോ മാമ്മോദീസയ്ക്ക്",
+  read:[["പഴയനിയമം","എസെക്കിയേൽ 36:24–28"],["ലേഖനം","റോമാ 6:3–11"],["സുവിശേഷം","യോഹന്നാൻ 3:1–8 അല്ലെങ്കിൽ മത്തായി 28:16–20"]],
+  verse:"സത്യം സത്യമായി ഞാൻ നിന്നോടു പറയുന്നു, ജലത്താലും ആത്മാവിനാലും ജനിക്കുന്നില്ലെങ്കിൽ ഒരുവനും ദൈവരാജ്യത്തിൽ പ്രവേശിക്കുക സാധ്യമല്ല.",cite:"യോഹന്നാൻ 3:5",
+  points:[["പുതിയ ജനനം","മാമ്മോദീസ ഒരു പേരിടൽ ചടങ്ങോ കുടുംബാചാരമോ മാത്രമല്ല. ജലത്താലും ആത്മാവിനാലുമുള്ള പുതിയ ജനനമാണ്: ഉത്ഭവപാപം കഴുകിക്കളയപ്പെടുന്നു; കുഞ്ഞ് ദൈവത്തിന്റെ മകനോ മകളോ ആകുന്നു."],["സഭയിലേക്ക്","മാമ്മോദീസ സ്വീകരിക്കുന്നയാൾ ക്രിസ്തുവിന്റെ ശരീരമായ സഭയിലെ അംഗമാകുന്നു. ഇന്ന് ഇടവക മുഴുവൻ ഒരു പുതിയ അംഗത്തെ സ്വീകരിക്കുന്നു."],["വെള്ളവസ്ത്രവും ദീപവും","വെള്ളവസ്ത്രവും കത്തിച്ച തിരിയും നിർമലവും ശോഭയുള്ളതുമായി കാക്കേണ്ട ഒരു ജീവിതത്തിന്റെ അടയാളങ്ങളാണ്. പൗരസ്ത്യസഭകളിൽ മാമ്മോദീസയോടൊപ്പംതന്നെ വിശുദ്ധ മൂറോൻ അഭിഷേകം (സ്ഥൈര്യലേപനം) നൽകി ആത്മാവിന്റെ ദാനം മുദ്രവയ്ക്കുന്നു."],["മാതാപിതാക്കളും തലതൊട്ടപ്പന്മാരും","ഇന്നു നൽകുന്ന വാഗ്ദാനങ്ങൾ വീട്ടിലാണു പാലിക്കപ്പെടുന്നത്: രാവിലെയും രാത്രിയുമുള്ള പ്രാർഥന, കുരിശുവര, ഞായറാഴ്ചത്തെ {Q}."]],
+  homily:["പ്രിയ മാതാപിതാക്കളേ, തലതൊട്ടപ്പന്മാരേ, സുഹൃത്തുക്കളേ, ഇന്നു നാം ഈ കുഞ്ഞിനെ മാമ്മോദീസത്തൊട്ടിയിലേക്കു കൊണ്ടുവരുന്നു. യേശു നിക്കൊദേമോസിനോടു പറഞ്ഞു: “ജലത്താലും ആത്മാവിനാലും ജനിക്കുന്നില്ലെങ്കിൽ ഒരുവനും ദൈവരാജ്യത്തിൽ പ്രവേശിക്കുക സാധ്യമല്ല.” ഇവിടെ നടക്കുന്നത് ഒരു ജനനമാണ്: കുഞ്ഞ് ഒരിക്കൽ നിങ്ങൾക്കു ജനിച്ചു; ഇന്നു ദൈവത്തിനു ജനിക്കുന്നു.","മാമ്മോദീസയിൽ ഉത്ഭവപാപം കഴുകിക്കളയപ്പെടുന്നു; ഈ കുഞ്ഞ് പിതാവിന്റെ മകനും ക്രിസ്തുവിന്റെ സഹോദരനും പരിശുദ്ധാത്മാവിന്റെ ആലയവുമാകുന്നു. കുഞ്ഞ് സഭയിലെ അംഗവുമാകുന്നു. അതുകൊണ്ടാണ് ഇതു വീട്ടിൽ മാത്രമല്ല, പള്ളിയിൽ ആഘോഷിക്കുന്നത്: ഇടവക മുഴുവൻ ഒരു പുതിയ അംഗത്തെ സ്വീകരിക്കുന്നു.","വെള്ളവസ്ത്രം പറയുന്നു: ഈ ജീവിതം നിർമലമായി കാക്കുക. കത്തുന്ന തിരി പറയുന്നു: ഈ വെളിച്ചം അണയാതെ സൂക്ഷിക്കുക. പക്ഷേ ഒരു തിരിക്കു തന്നെത്താൻ കാക്കാനാവില്ല. പ്രിയ മാതാപിതാക്കളേ, തലതൊട്ടപ്പന്മാരേ, ഇന്നു നിങ്ങൾ നൽകുന്ന വാഗ്ദാനങ്ങൾ നിങ്ങളുടെ വീട്ടിലാണു പാലിക്കപ്പെടേണ്ടത്: നിങ്ങൾ പഠിപ്പിക്കുന്ന ആദ്യപ്രാർഥനകളിൽ, ഈ നെറ്റിയിൽ നിങ്ങൾ വരയ്ക്കുന്ന കുരിശടയാളത്തിൽ, ഒരിക്കലും മുടക്കാത്ത ഞായറാഴ്ചത്തെ {Q}യിൽ.","ഈ കുഞ്ഞിനുവേണ്ടി നമുക്കു ദൈവത്തിനു നന്ദി പറയാം; നമ്മുടെ സ്വന്തം മാമ്മോദീസ ഇന്നു നമുക്കു നവീകരിക്കാം. നാമോരോരുത്തരും ഒരിക്കൽ ഇതുപോലെ മാമ്മോദീസത്തൊട്ടിയിലേക്കു കൊണ്ടുവരപ്പെട്ടവരാണ്. ദൈവമക്കളായി നമുക്കു ജീവിക്കാം. ആമേൻ."],
+  prayer:"സ്വർഗസ്ഥനായ പിതാവേ, ജലത്താലും ആത്മാവിനാലും ഈ കുഞ്ഞിന് അങ്ങു പുതിയ ജനനം നൽകി. വെള്ളവസ്ത്രം കളങ്കമില്ലാതെയും വിശ്വാസദീപം അണയാതെയും കാക്കണമേ; ഈ കുഞ്ഞിനെ അങ്ങയിലേക്കു നയിക്കുന്ന മാതാപിതാക്കളെയും തലതൊട്ടപ്പന്മാരെയും അനുഗ്രഹിക്കണമേ. ആമേൻ."}},
 
-var _render=render;render=function(){var docs=S.view==="docs";_render();document.querySelector(".datebar").hidden=docs;document.querySelector(".tabs").hidden=docs;$("note").hidden=docs;$("r-docs").textContent=S.lang==="en"?"Papal documents":"മാർപാപ്പമാരുടെ രേഖകൾ";$("r-docs").setAttribute("aria-pressed",docs);if(docs){["smc","smk","lat"].forEach(function(r){$("r-"+r).setAttribute("aria-pressed","false")});renderDocs()}};
+{id:"communion",
+ en:{t:"First Holy Communion",sub:"For the day children receive the Body and Blood of the Lord for the first time",
+  read:[["Old Testament","Exodus 16:2–4, 12–15"],["Epistle","1 Corinthians 11:23–26"],["Gospel","John 6:30–40 or Luke 22:14–20"]],
+  verse:"I am the bread of life. Whoever comes to me will never be hungry, and whoever believes in me will never be thirsty.",cite:"John 6:35",
+  points:[["Not a sign only","What the children receive today looks like bread, but it is truly the Body and Blood of Jesus, given for them."],["The manna and the true bread","God fed Israel in the desert with manna; Jesus gives himself as the bread that gives eternal life."],["A first, not a last","The danger is that First Communion becomes the last. Ask parents to bring the children every Sunday."],["Prepared hearts","Confession, the fast before Communion, reverence and thanksgiving afterwards."]],
+  homily:["Dear children, today is one of the most beautiful days of your life. For many weeks you have prepared, learnt your prayers and made your first Confession. Today Jesus himself comes to live in your heart.","When the priest gives you the Holy Communion, it will look like bread. But Jesus said, “I am the bread of life.” It is really Jesus: his Body and Blood, his whole self, with all his love. In the desert God gave the people manna; today he gives you his own Son.","When you receive Jesus, close your eyes and speak to him. Thank him. Tell him about your family, your friends, your fears. He is listening. And remember: this is your first Holy Communion, not your last! Jesus wants to meet you every Sunday.","Dear parents, the beautiful clothes and photographs will soon be put away. Please do not put away the {Q}. Bring your children every Sunday, and receive with them. Amen."],
+  prayer:"Lord Jesus, bread of life, today these children receive you for the first time. Stay in their hearts, make them hungry for you every Sunday, and keep them always close to you. Amen."},
+ ml:{t:"ആദ്യകുർബാനസ്വീകരണം",sub:"കുഞ്ഞുങ്ങൾ ആദ്യമായി കർത്താവിന്റെ ശരീരരക്തങ്ങൾ സ്വീകരിക്കുന്ന ദിവസത്തിന്",
+  read:[["പഴയനിയമം","പുറപ്പാട് 16:2–4, 12–15"],["ലേഖനം","1 കോറിന്തോസ് 11:23–26"],["സുവിശേഷം","യോഹന്നാൻ 6:30–40 അല്ലെങ്കിൽ ലൂക്കാ 22:14–20"]],
+  verse:"ഞാനാണ് ജീവന്റെ അപ്പം. എന്റെ അടുത്തു വരുന്നവന് ഒരിക്കലും വിശക്കുകയില്ല. എന്നിൽ വിശ്വസിക്കുന്നവന് ദാഹിക്കുകയുമില്ല.",cite:"യോഹന്നാൻ 6:35",
+  points:[["ഒരു അടയാളം മാത്രമല്ല","കുഞ്ഞുങ്ങൾ ഇന്നു സ്വീകരിക്കുന്നത് അപ്പംപോലെ കാണപ്പെടുന്നു; എന്നാൽ അതു യഥാർഥത്തിൽ അവർക്കായി നൽകപ്പെട്ട യേശുവിന്റെ ശരീരവും രക്തവുമാണ്."],["മന്നായും യഥാർഥ അപ്പവും","മരുഭൂമിയിൽ ദൈവം ഇസ്രായേലിനെ മന്നാകൊണ്ടു പോഷിപ്പിച്ചു; നിത്യജീവൻ നൽകുന്ന അപ്പമായി യേശു തന്നെത്തന്നെ നൽകുന്നു."],["ആദ്യത്തേത്, അവസാനത്തേതല്ല","ആദ്യകുർബാന അവസാനകുർബാനയാകുന്നതാണ് അപകടം. എല്ലാ ഞായറാഴ്ചയും കുഞ്ഞുങ്ങളെ കൊണ്ടുവരാൻ മാതാപിതാക്കളോട് ആവശ്യപ്പെടുക."],["ഒരുങ്ങിയ ഹൃദയങ്ങൾ","കുമ്പസാരം, കുർബാനസ്വീകരണത്തിനു മുമ്പുള്ള ഉപവാസം, ഭക്ത്യാദരം, സ്വീകരണശേഷമുള്ള നന്ദിപ്രകാശനം."]],
+  homily:["പ്രിയ കുഞ്ഞുങ്ങളേ, ഇന്നു നിങ്ങളുടെ ജീവിതത്തിലെ ഏറ്റവും മനോഹരമായ ദിവസങ്ങളിലൊന്നാണ്. ആഴ്ചകളോളം നിങ്ങൾ ഒരുങ്ങി, പ്രാർഥനകൾ പഠിച്ചു, ആദ്യത്തെ കുമ്പസാരം നടത്തി. ഇന്നു യേശുതന്നെ നിങ്ങളുടെ ഹൃദയത്തിൽ വസിക്കാൻ വരുന്നു.","വൈദികൻ നിങ്ങൾക്കു വിശുദ്ധ കുർബാന നൽകുമ്പോൾ അത് അപ്പംപോലെ കാണപ്പെടും. പക്ഷേ യേശു പറഞ്ഞു: “ഞാനാണ് ജീവന്റെ അപ്പം.” അതു യഥാർഥത്തിൽ യേശുവാണ്: അവിടുത്തെ ശരീരവും രക്തവും, അവിടുത്തെ സ്നേഹം മുഴുവനോടുംകൂടെ. മരുഭൂമിയിൽ ദൈവം ജനത്തിനു മന്നാ നൽകി; ഇന്ന് അവിടുന്നു തന്റെ സ്വന്തം പുത്രനെ നിങ്ങൾക്കു നൽകുന്നു.","യേശുവിനെ സ്വീകരിക്കുമ്പോൾ കണ്ണുകളടച്ച് അവിടുത്തോടു സംസാരിക്കുക. നന്ദി പറയുക. നിങ്ങളുടെ കുടുംബത്തെയും കൂട്ടുകാരെയും പേടികളെയുംപറ്റി പറയുക. അവിടുന്നു കേൾക്കുന്നുണ്ട്. ഓർക്കുക: ഇതു നിങ്ങളുടെ ആദ്യകുർബാനയാണ്, അവസാനത്തേതല്ല! എല്ലാ ഞായറാഴ്ചയും നിങ്ങളെ കാണാൻ യേശു ആഗ്രഹിക്കുന്നു.","പ്രിയ മാതാപിതാക്കളേ, മനോഹരമായ വസ്ത്രങ്ങളും ഫോട്ടോകളും താമസിയാതെ മാറ്റിവയ്ക്കപ്പെടും. {Q}യെ ദയവായി മാറ്റിവയ്ക്കരുത്. എല്ലാ ഞായറാഴ്ചയും കുഞ്ഞുങ്ങളെ കൊണ്ടുവരുക; അവരോടൊപ്പം നിങ്ങളും സ്വീകരിക്കുക. ആമേൻ."],
+  prayer:"ജീവന്റെ അപ്പമായ കർത്താവായ യേശുവേ, ഇന്ന് ഈ കുഞ്ഞുങ്ങൾ ആദ്യമായി അങ്ങയെ സ്വീകരിക്കുന്നു. അവരുടെ ഹൃദയങ്ങളിൽ വസിക്കണമേ; എല്ലാ ഞായറാഴ്ചയും അങ്ങേക്കായി അവരിൽ വിശപ്പുണർത്തണമേ; അവരെ എപ്പോഴും അങ്ങയോടു ചേർത്തു കാക്കണമേ. ആമേൻ."}},
+
+{id:"confirmation",rites:["lat"],
+ en:{t:"Confirmation",sub:"For the celebration of the sacrament of Confirmation",
+  read:[["Old Testament","Isaiah 11:1–4"],["Acts","Acts 2:1–6, 14, 22–24"],["Gospel","John 14:15–17 or Luke 4:16–21"]],
+  verse:"But you will receive power when the Holy Spirit has come upon you; and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.",cite:"Acts 1:8",
+  points:[["The seal of the Spirit","Confirmation completes the grace of Baptism. The bishop anoints with chrism: “Be sealed with the Gift of the Holy Spirit.”"],["The seven gifts","Wisdom, understanding, counsel, fortitude, knowledge, piety and fear of the Lord (Isaiah 11:2)."],["Witnesses","Not a graduation from the Church, but a sending into the world as witnesses."],["A practical gift","Name one place where each young person will need courage this year: school, friends, social media."]],
+  homily:["Dear young people, today the Holy Spirit comes upon you in a new way. You were baptised as infants; others spoke for you. Today you say your own “yes”, and the Church seals you with the Gift of the Holy Spirit.","At Pentecost the frightened apostles became bold witnesses. The same Spirit gives you his seven gifts: wisdom, understanding, counsel, fortitude, knowledge, piety and fear of the Lord. These are not ornaments; they are tools for life.","Confirmation is sometimes treated as the end of catechism, the day after which we need not come to church. It is exactly the opposite. Jesus says, “You will be my witnesses.” You are being sent: to your school, your friends, your phone, your future work.","Ask the Holy Spirit today for one gift you need most. And come back next Sunday to the {Q}, where the Spirit keeps strengthening you. Amen."],
+  prayer:"Come, Holy Spirit, fill the hearts of these young people. Seal them with your gifts, make them brave witnesses of Christ, and keep them faithful all their lives. Amen."},
+ ml:{t:"സ്ഥൈര്യലേപനം",sub:"സ്ഥൈര്യലേപനകൂദാശയുടെ ആഘോഷത്തിന്",
+  read:[["പഴയനിയമം","ഏശയ്യാ 11:1–4"],["അപ്പസ്തോലപ്രവർത്തനങ്ങൾ","അപ്പ. പ്രവ. 2:1–6, 14, 22–24"],["സുവിശേഷം","യോഹന്നാൻ 14:15–17 അല്ലെങ്കിൽ ലൂക്കാ 4:16–21"]],
+  verse:"എന്നാൽ, പരിശുദ്ധാത്മാവു നിങ്ങളുടെമേൽ വന്നുകഴിയുമ്പോൾ നിങ്ങൾ ശക്തിപ്രാപിക്കും. ജറുസലെമിലും യൂദയാ മുഴുവനിലും സമരിയായിലും ഭൂമിയുടെ അതിർത്തികൾ വരെയും നിങ്ങൾ എനിക്കു സാക്ഷികളായിരിക്കുകയും ചെയ്യും.",cite:"അപ്പ. പ്രവ. 1:8",
+  points:[["ആത്മാവിന്റെ മുദ്ര","സ്ഥൈര്യലേപനം മാമ്മോദീസയുടെ കൃപ പൂർത്തിയാക്കുന്നു. മെത്രാൻ വിശുദ്ധ തൈലംകൊണ്ട് അഭിഷേകം ചെയ്യുന്നു: പരിശുദ്ധാത്മാവിന്റെ ദാനത്താൽ മുദ്രിതനാകുക."],["ഏഴു ദാനങ്ങൾ","ജ്ഞാനം, ബുദ്ധി, ആലോചന, ആത്മശക്തി, അറിവ്, ഭക്തി, ദൈവഭയം (ഏശയ്യാ 11:2)."],["സാക്ഷികൾ","സഭയിൽനിന്നുള്ള ഒരു ബിരുദദാനമല്ല; സാക്ഷികളായി ലോകത്തിലേക്കുള്ള ഒരു അയയ്ക്കലാണ്."],["പ്രായോഗികമായ ഒരു ദാനം","ഈ വർഷം ഓരോ യുവാവിനും ധൈര്യം ആവശ്യമായിവരുന്ന ഒരിടം പറയുക: സ്കൂൾ, കൂട്ടുകാർ, സാമൂഹികമാധ്യമങ്ങൾ."]],
+  homily:["പ്രിയ യുവജനങ്ങളേ, ഇന്നു പരിശുദ്ധാത്മാവ് ഒരു പുതിയ വിധത്തിൽ നിങ്ങളുടെമേൽ വരുന്നു. ശിശുക്കളായിരിക്കുമ്പോൾ നിങ്ങൾ മാമ്മോദീസ സ്വീകരിച്ചു; അന്നു മറ്റുള്ളവർ നിങ്ങൾക്കുവേണ്ടി സംസാരിച്ചു. ഇന്നു നിങ്ങൾ സ്വന്തമായി “അതെ” എന്നു പറയുന്നു; പരിശുദ്ധാത്മാവിന്റെ ദാനത്താൽ സഭ നിങ്ങളെ മുദ്രിതരാക്കുന്നു.","പന്തക്കുസ്തായിൽ ഭയന്നിരുന്ന ശ്ലീഹന്മാർ ധീരരായ സാക്ഷികളായി. അതേ ആത്മാവ് തന്റെ ഏഴു ദാനങ്ങൾ നിങ്ങൾക്കു നൽകുന്നു: ജ്ഞാനം, ബുദ്ധി, ആലോചന, ആത്മശക്തി, അറിവ്, ഭക്തി, ദൈവഭയം. ഇവ ആഭരണങ്ങളല്ല; ജീവിതത്തിനുള്ള ഉപകരണങ്ങളാണ്.","ചിലപ്പോൾ സ്ഥൈര്യലേപനം മതബോധനത്തിന്റെ അവസാനമായി, അതിനുശേഷം പള്ളിയിൽ വരേണ്ടതില്ലാത്ത ദിവസമായി, കാണപ്പെടുന്നു. സത്യം നേരേ മറിച്ചാണ്. യേശു പറയുന്നു: “നിങ്ങൾ എനിക്കു സാക്ഷികളായിരിക്കും.” നിങ്ങൾ അയയ്ക്കപ്പെടുകയാണ്: നിങ്ങളുടെ സ്കൂളിലേക്ക്, കൂട്ടുകാരിലേക്ക്, നിങ്ങളുടെ ഫോണിലേക്ക്, നിങ്ങളുടെ ഭാവി ജോലിയിലേക്ക്.","നിങ്ങൾക്ക് ഏറ്റവും ആവശ്യമുള്ള ഒരു ദാനം ഇന്നു പരിശുദ്ധാത്മാവിനോടു ചോദിക്കുക. അടുത്ത ഞായറാഴ്ച {Q}യിലേക്കു തിരിച്ചുവരുക; അവിടെ ആത്മാവു നിങ്ങളെ നിരന്തരം ശക്തിപ്പെടുത്തുന്നു. ആമേൻ."],
+  prayer:"പരിശുദ്ധാത്മാവേ, എഴുന്നള്ളിവരണമേ; ഈ യുവജനങ്ങളുടെ ഹൃദയങ്ങളെ നിറയ്ക്കണമേ. അങ്ങയുടെ ദാനങ്ങളാൽ അവരെ മുദ്രിതരാക്കണമേ; ക്രിസ്തുവിന്റെ ധീരസാക്ഷികളാക്കണമേ; ജീവിതകാലം മുഴുവൻ വിശ്വസ്തരായി കാക്കണമേ. ആമേൻ."}},
+
+{id:"betrothal",
+ en:{t:"Betrothal (Manasammatham)",sub:"For the betrothal or engagement in church before marriage",
+  read:[["Old Testament","Genesis 2:18–24"],["Epistle","1 Corinthians 13:1–8"],["Gospel","John 15:9–12"]],
+  verse:"It is not good that the man should be alone; I will make him a helper as his partner.",cite:"Genesis 2:18",
+  points:[["A free consent","The heart of the betrothal is a free promise. No one may be forced; the Church asks, and each answers freely."],["God's plan from the beginning","“It is not good that the man should be alone.” Marriage is God's idea before it is ours."],["Love that is patient","1 Corinthians 13 describes love as a decision, not only a feeling."],["The time of preparation","Prayer together, the marriage preparation course, a good Confession, honesty about finances and families, and chastity."]],
+  homily:["Dear brother and sister, today you stand before God and his Church and declare your intention to marry. This is not yet the wedding, but it is a holy beginning. The Church asks you whether you come freely, and you answer for yourselves.","In the very first pages of the Bible God says: “It is not good that the man should be alone; I will make him a helper as his partner.” Your love is not an accident. It belongs to God's plan from the beginning.","The weeks before a wedding are often filled with halls, dresses, food and invitations. Do not let them steal the real preparation. Pray together. Take the marriage preparation course seriously. Speak honestly about your families, your money and your hopes. Make a good Confession before the wedding.","St Paul tells us that love is patient and kind, that it bears all things and hopes all things. Ask God for that love now, and you will carry it into your marriage. Amen."],
+  prayer:"Lord God, you created man and woman for each other. Bless these two who have promised to marry; prepare their hearts by your grace, and lead them in purity and joy to the day of their wedding. Amen."},
+ ml:{t:"മനസ്സമ്മതം",sub:"വിവാഹത്തിനു മുമ്പു പള്ളിയിൽ നടക്കുന്ന മനസ്സമ്മതത്തിന്",
+  read:[["പഴയനിയമം","ഉൽപത്തി 2:18–24"],["ലേഖനം","1 കോറിന്തോസ് 13:1–8"],["സുവിശേഷം","യോഹന്നാൻ 15:9–12"]],
+  verse:"മനുഷ്യൻ ഏകനായിരിക്കുന്നതു നന്നല്ല; അവനു ചേർന്ന ഇണയെ ഞാൻ നൽകും.",cite:"ഉൽപത്തി 2:18",
+  points:[["സ്വതന്ത്രമായ സമ്മതം","മനസ്സമ്മതത്തിന്റെ ഹൃദയം സ്വതന്ത്രമായ ഒരു വാഗ്ദാനമാണ്. ആരെയും നിർബന്ധിക്കാനാവില്ല; സഭ ചോദിക്കുന്നു, ഓരോരുത്തരും സ്വതന്ത്രമായി ഉത്തരം നൽകുന്നു."],["ആദിമുതലുള്ള ദൈവികപദ്ധതി","“മനുഷ്യൻ ഏകനായിരിക്കുന്നതു നന്നല്ല.” വിവാഹം നമ്മുടേതാകുംമുമ്പേ ദൈവത്തിന്റെ ആശയമാണ്."],["ക്ഷമയുള്ള സ്നേഹം","1 കോറിന്തോസ് 13 സ്നേഹത്തെ ഒരു വികാരം മാത്രമായല്ല, ഒരു തീരുമാനമായി വിവരിക്കുന്നു."],["ഒരുക്കത്തിന്റെ കാലം","ഒന്നിച്ചുള്ള പ്രാർഥന, വിവാഹ ഒരുക്ക കോഴ്സ്, നല്ല ഒരു കുമ്പസാരം, കുടുംബങ്ങളെയും സാമ്പത്തികകാര്യങ്ങളെയുംപറ്റിയുള്ള തുറന്ന സംസാരം, നിർമലത."]],
+  homily:["പ്രിയ സഹോദരാ, സഹോദരീ, ഇന്നു നിങ്ങൾ ദൈവത്തിന്റെയും അവിടുത്തെ സഭയുടെയും മുമ്പിൽനിന്നു വിവാഹം കഴിക്കാനുള്ള നിങ്ങളുടെ ഉദ്ദേശ്യം പ്രഖ്യാപിക്കുന്നു. ഇതു വിവാഹമല്ല; എങ്കിലും ഒരു വിശുദ്ധമായ ആരംഭമാണ്. നിങ്ങൾ സ്വതന്ത്രമായാണോ വരുന്നതെന്നു സഭ ചോദിക്കുന്നു; നിങ്ങൾ സ്വന്തമായി ഉത്തരം നൽകുന്നു.","ബൈബിളിന്റെ ആദ്യതാളുകളിൽത്തന്നെ ദൈവം പറയുന്നു: “മനുഷ്യൻ ഏകനായിരിക്കുന്നതു നന്നല്ല; അവനു ചേർന്ന ഇണയെ ഞാൻ നൽകും.” നിങ്ങളുടെ സ്നേഹം ഒരു യാദൃച്ഛികസംഭവമല്ല. ആദിമുതലുള്ള ദൈവികപദ്ധതിയുടെ ഭാഗമാണ്.","വിവാഹത്തിനു മുമ്പുള്ള ആഴ്ചകൾ പലപ്പോഴും ഹാളുകളും വസ്ത്രങ്ങളും ഭക്ഷണവും ക്ഷണക്കത്തുകളുംകൊണ്ടു നിറഞ്ഞിരിക്കും. യഥാർഥ ഒരുക്കം അവ കവർന്നെടുക്കാൻ അനുവദിക്കരുത്. ഒന്നിച്ചു പ്രാർഥിക്കുക. വിവാഹ ഒരുക്ക കോഴ്സ് ഗൗരവമായെടുക്കുക. നിങ്ങളുടെ കുടുംബങ്ങളെയും പണത്തെയും പ്രതീക്ഷകളെയുംപറ്റി തുറന്നു സംസാരിക്കുക. വിവാഹത്തിനു മുമ്പു നല്ല ഒരു കുമ്പസാരം നടത്തുക.","സ്നേഹം ക്ഷമയും ദയയുമുള്ളതാണെന്നും, എല്ലാം സഹിക്കുന്നതും എല്ലാം പ്രത്യാശിക്കുന്നതുമാണെന്നും വിശുദ്ധ പൗലോസ് നമ്മോടു പറയുന്നു. ആ സ്നേഹം ഇപ്പോൾത്തന്നെ ദൈവത്തോടു ചോദിക്കുക; നിങ്ങളുടെ വിവാഹജീവിതത്തിലേക്കു നിങ്ങൾ അതു കൊണ്ടുപോകും. ആമേൻ."],
+  prayer:"കർത്താവായ ദൈവമേ, പുരുഷനെയും സ്ത്രീയെയും പരസ്പരം അങ്ങു സൃഷ്ടിച്ചു. വിവാഹം കഴിക്കാമെന്നു വാഗ്ദാനം ചെയ്ത ഇവരെ അനുഗ്രഹിക്കണമേ; അങ്ങയുടെ കൃപയാൽ അവരുടെ ഹൃദയങ്ങളെ ഒരുക്കണമേ; നിർമലതയിലും സന്തോഷത്തിലും അവരുടെ വിവാഹദിനത്തിലേക്ക് അവരെ നയിക്കണമേ. ആമേൻ."}},
+
+{id:"marriage",
+ en:{t:"Holy Matrimony",sub:"For the celebration of marriage",
+  read:[["Old Testament","Genesis 1:26–28, 31 or Tobit 8:4–8"],["Epistle","Ephesians 5:21–33"],["Gospel","Matthew 19:3–6 or John 2:1–11"]],
+  verse:"So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.",cite:"Matthew 19:6",
+  points:[["A covenant, not a contract","Marriage is a covenant of the whole life, sealed before God; for the baptised it is a sacrament."],["Christ and the Church","St Paul compares the love of husband and wife to the love of Christ for his Church: faithful, self-giving, to the cross."],["One, faithful, for ever","“What God has joined together, let no one separate.” Unity, fidelity, openness to life."],["Invite Jesus","At Cana the wine ran out. In every marriage it sometimes does. Keep Jesus and Mary at the table."]],
+  homily:["Dear bride and bridegroom, dear families, today two lives become one. Jesus said: “They are no longer two, but one flesh. Therefore what God has joined together, let no one separate.” What happens at this altar is not only a promise between you; it is God himself joining you.","Marriage is a covenant, not a contract. A contract says, “I will give as long as you give.” A covenant says, “I give myself, whatever comes.” St Paul tells husbands and wives to love as Christ loved the Church. And how did Christ love? To the cross.","At Cana the wine ran out in the middle of the wedding. In every marriage, at some time, the wine runs out: patience, money, health, feelings. Do what Mary said: “Do whatever he tells you.” Keep Jesus in your home. Pray together every day. Forgive before you sleep. Come together to the {Q}.","Dear families, support this new home with your prayers and your respect, not with interference. And may God, who began this good work in you today, bring it to completion. Amen."],
+  prayer:"Lord God, you have joined these two in holy marriage. Make their love faithful and fruitful, keep Jesus and Mary in their home, and when the wine runs short, fill their jars again. Amen."},
+ ml:{t:"വിവാഹം",sub:"വിവാഹകൂദാശയുടെ ആഘോഷത്തിന്",
+  read:[["പഴയനിയമം","ഉൽപത്തി 1:26–28, 31 അല്ലെങ്കിൽ തോബിത് 8:4–8"],["ലേഖനം","എഫേസോസ് 5:21–33"],["സുവിശേഷം","മത്തായി 19:3–6 അല്ലെങ്കിൽ യോഹന്നാൻ 2:1–11"]],
+  verse:"പിന്നീടൊരിക്കലും അവർ രണ്ടല്ല, ഒറ്റ ശരീരമായിരിക്കും. ആകയാൽ, ദൈവം യോജിപ്പിച്ചതു മനുഷ്യൻ വേർപെടുത്താതിരിക്കട്ടെ.",cite:"മത്തായി 19:6",
+  points:[["ഉടമ്പടി, കരാറല്ല","ദൈവസന്നിധിയിൽ മുദ്രവയ്ക്കപ്പെടുന്ന, ജീവിതം മുഴുവനുമുള്ള ഒരു ഉടമ്പടിയാണു വിവാഹം; മാമ്മോദീസ സ്വീകരിച്ചവർക്ക് അതൊരു കൂദാശയാണ്."],["ക്രിസ്തുവും സഭയും","ഭാര്യാഭർത്താക്കന്മാരുടെ സ്നേഹത്തെ ക്രിസ്തുവിനു സഭയോടുള്ള സ്നേഹത്തോടു വിശുദ്ധ പൗലോസ് ഉപമിക്കുന്നു: വിശ്വസ്തം, ആത്മദാനപരം, കുരിശോളം."],["ഏകം, വിശ്വസ്തം, എന്നേക്കും","“ദൈവം യോജിപ്പിച്ചതു മനുഷ്യൻ വേർപെടുത്താതിരിക്കട്ടെ.” ഐക്യം, വിശ്വസ്തത, ജീവനോടുള്ള തുറവി."],["യേശുവിനെ ക്ഷണിക്കുക","കാനായിൽ വീഞ്ഞു തീർന്നുപോയി. ഓരോ കുടുംബത്തിലും ചിലപ്പോൾ അതു സംഭവിക്കുന്നു. യേശുവിനെയും മറിയത്തെയും മേശയിൽ കൂടെ നിർത്തുക."]],
+  homily:["പ്രിയ വധൂവരന്മാരേ, പ്രിയ കുടുംബാംഗങ്ങളേ, ഇന്നു രണ്ടു ജീവിതങ്ങൾ ഒന്നാകുന്നു. യേശു പറഞ്ഞു: “പിന്നീടൊരിക്കലും അവർ രണ്ടല്ല, ഒറ്റ ശരീരമായിരിക്കും. ആകയാൽ, ദൈവം യോജിപ്പിച്ചതു മനുഷ്യൻ വേർപെടുത്താതിരിക്കട്ടെ.” ഈ ബലിപീഠത്തിനു മുമ്പിൽ നടക്കുന്നതു നിങ്ങൾ തമ്മിലുള്ള ഒരു വാഗ്ദാനം മാത്രമല്ല; ദൈവംതന്നെ നിങ്ങളെ യോജിപ്പിക്കുകയാണ്.","വിവാഹം ഒരു ഉടമ്പടിയാണ്, കരാറല്ല. കരാർ പറയുന്നു: “നീ തരുന്നിടത്തോളം ഞാൻ തരും.” ഉടമ്പടി പറയുന്നു: “എന്തു വന്നാലും ഞാൻ എന്നെത്തന്നെ നൽകുന്നു.” ക്രിസ്തു സഭയെ സ്നേഹിച്ചതുപോലെ സ്നേഹിക്കാൻ വിശുദ്ധ പൗലോസ് ഭാര്യാഭർത്താക്കന്മാരോടു പറയുന്നു. ക്രിസ്തു എങ്ങനെയാണു സ്നേഹിച്ചത്? കുരിശോളം.","കാനായിൽ വിവാഹത്തിനിടയിൽ വീഞ്ഞു തീർന്നുപോയി. ഓരോ കുടുംബജീവിതത്തിലും, ഏതെങ്കിലും ഒരു സമയത്ത്, വീഞ്ഞു തീരുന്നു: ക്ഷമ, പണം, ആരോഗ്യം, വികാരങ്ങൾ. മറിയം പറഞ്ഞതു ചെയ്യുക: “അവൻ നിങ്ങളോടു പറയുന്നതു ചെയ്യുവിൻ.” യേശുവിനെ നിങ്ങളുടെ വീട്ടിൽ നിർത്തുക. എല്ലാ ദിവസവും ഒന്നിച്ചു പ്രാർഥിക്കുക. ഉറങ്ങുംമുമ്പു ക്ഷമിക്കുക. ഒന്നിച്ചു {Q}യിൽ പങ്കെടുക്കുക.","പ്രിയ കുടുംബാംഗങ്ങളേ, ഇടപെടലുകൾകൊണ്ടല്ല, നിങ്ങളുടെ പ്രാർഥനകൾകൊണ്ടും ആദരവുകൊണ്ടും ഈ പുതിയ ഭവനത്തെ താങ്ങുക. ഇന്നു നിങ്ങളിൽ ഈ നല്ല പ്രവൃത്തി ആരംഭിച്ച ദൈവം അതു പൂർത്തിയാക്കട്ടെ. ആമേൻ."],
+  prayer:"കർത്താവായ ദൈവമേ, വിശുദ്ധ വിവാഹത്തിൽ ഇവരെ അങ്ങു യോജിപ്പിച്ചു. അവരുടെ സ്നേഹം വിശ്വസ്തവും ഫലദായകവുമാക്കണമേ; യേശുവിനെയും മറിയത്തെയും അവരുടെ ഭവനത്തിൽ വസിപ്പിക്കണമേ; വീഞ്ഞു കുറയുമ്പോൾ അവരുടെ ഭരണികൾ വീണ്ടും നിറയ്ക്കണമേ. ആമേൻ."}},
+
+{id:"ordination",
+ en:{t:"Priestly Ordination and First {Q}",sub:"For an ordination or a new priest's first celebration",
+  read:[["Old Testament","Isaiah 61:1–3 or Jeremiah 1:4–9"],["Epistle","Hebrews 5:1–10"],["Gospel","John 15:9–17"]],
+  verse:"You did not choose me but I chose you. And I appointed you to go and bear fruit, fruit that will last.",cite:"John 15:16",
+  points:[["Chosen, not self-made","A priest does not choose himself; Christ chooses and the Church calls through the bishop."],["Taken from among the people","“Every high priest chosen from among mortals is put in charge of things pertaining to God on their behalf” (Hebrews 5:1). He remains one of us and is given for us."],["In the person of Christ","At the altar and in the confessional, the priest acts in the person of Christ the Head. The gift is greater than the man."],["The family and the parish","Thank the parents who gave a son; pray for vocations from this parish."]],
+  homily:["Dear brothers and sisters, today is a day of great joy for this parish and this family. One of our own stands at the altar as a priest of Jesus Christ. Jesus says to him: “You did not choose me but I chose you.”","A priest is taken from among the people and given back to the people. He is not an angel; he is a son of this soil, with his own weaknesses. That is exactly why God's choice is so moving. Through his hands bread and wine will become the Body and Blood of Christ; through his words sins will be forgiven. The gift is far greater than the man.","Dear new priest, Jesus appointed you “to go and bear fruit, fruit that will last.” The fruit that lasts is not buildings or popularity; it is souls brought to God. Stay close to the Lord in prayer, love the poor, and never be ashamed to ask for forgiveness.","Dear parents, thank you for giving your son to God. Dear parish, pray for him every day, and pray that more of your sons and daughters will hear the call. Amen."],
+  prayer:"Lord Jesus, eternal High Priest, you have chosen this servant for your altar. Keep him holy, humble and joyful; make his priesthood bear fruit that will last, and raise up many more labourers for your harvest. Amen."},
+ ml:{t:"പൗരോഹിത്യാഭിഷേകവും പ്രഥമ {Q}യും",sub:"ഒരു പൗരോഹിത്യാഭിഷേകത്തിനോ നവവൈദികന്റെ പ്രഥമബലിക്കോ",
+  read:[["പഴയനിയമം","ഏശയ്യാ 61:1–3 അല്ലെങ്കിൽ ജറെമിയാ 1:4–9"],["ലേഖനം","ഹെബ്രായർ 5:1–10"],["സുവിശേഷം","യോഹന്നാൻ 15:9–17"]],
+  verse:"നിങ്ങൾ എന്നെ തെരഞ്ഞെടുക്കുകയല്ല, ഞാൻ നിങ്ങളെ തെരഞ്ഞെടുക്കുകയാണു ചെയ്തത്. നിങ്ങൾ പോയി ഫലം പുറപ്പെടുവിക്കുന്നതിനും നിങ്ങളുടെ ഫലം നിലനിൽക്കുന്നതിനും വേണ്ടി ഞാൻ നിങ്ങളെ നിയോഗിച്ചിരിക്കുന്നു.",cite:"യോഹന്നാൻ 15:16",
+  points:[["തിരഞ്ഞെടുക്കപ്പെട്ടവൻ, സ്വയം നിർമിതനല്ല","ഒരു വൈദികൻ തന്നെത്തന്നെ തിരഞ്ഞെടുക്കുന്നില്ല; ക്രിസ്തു തിരഞ്ഞെടുക്കുന്നു; മെത്രാനിലൂടെ സഭ വിളിക്കുന്നു."],["ജനങ്ങളുടെ ഇടയിൽനിന്ന്","ജനങ്ങളുടെ ഇടയിൽനിന്ന് എടുക്കപ്പെടുന്ന ഓരോ പ്രധാനപുരോഹിതനും ദൈവികകാര്യങ്ങളിൽ ജനങ്ങൾക്കുവേണ്ടി നിയമിക്കപ്പെടുന്നു (ഹെബ്രാ 5:1). അദ്ദേഹം നമ്മിലൊരാളായി തുടരുന്നു; നമുക്കായി നൽകപ്പെടുന്നു."],["ക്രിസ്തുവിന്റെ വ്യക്തിത്വത്തിൽ","ബലിപീഠത്തിലും കുമ്പസാരക്കൂട്ടിലും ശിരസ്സായ ക്രിസ്തുവിന്റെ വ്യക്തിത്വത്തിലാണു വൈദികൻ പ്രവർത്തിക്കുന്നത്. ദാനം മനുഷ്യനെക്കാൾ വലുതാണ്."],["കുടുംബവും ഇടവകയും","ഒരു മകനെ നൽകിയ മാതാപിതാക്കൾക്കു നന്ദി പറയുക; ഈ ഇടവകയിൽനിന്നുള്ള ദൈവവിളികൾക്കായി പ്രാർഥിക്കുക."]],
+  homily:["പ്രിയ സഹോദരീസഹോദരന്മാരേ, ഇന്ന് ഈ ഇടവകയ്ക്കും ഈ കുടുംബത്തിനും വലിയ സന്തോഷത്തിന്റെ ദിവസമാണ്. നമ്മിലൊരാൾ യേശുക്രിസ്തുവിന്റെ പുരോഹിതനായി ബലിപീഠത്തിൽ നിൽക്കുന്നു. യേശു അദ്ദേഹത്തോടു പറയുന്നു: “നിങ്ങൾ എന്നെ തെരഞ്ഞെടുക്കുകയല്ല, ഞാൻ നിങ്ങളെ തെരഞ്ഞെടുക്കുകയാണു ചെയ്തത്.”","വൈദികൻ ജനങ്ങളുടെ ഇടയിൽനിന്ന് എടുക്കപ്പെട്ടു ജനങ്ങൾക്കുതന്നെ തിരികെ നൽകപ്പെടുന്നു. അദ്ദേഹം ഒരു മാലാഖയല്ല; സ്വന്തം ബലഹീനതകളുള്ള ഈ മണ്ണിന്റെ മകനാണ്. അതുകൊണ്ടുതന്നെയാണു ദൈവത്തിന്റെ തിരഞ്ഞെടുപ്പ് ഇത്ര ഹൃദയസ്പർശിയാകുന്നത്. അദ്ദേഹത്തിന്റെ കരങ്ങളിലൂടെ അപ്പവും വീഞ്ഞും ക്രിസ്തുവിന്റെ ശരീരവും രക്തവുമാകും; അദ്ദേഹത്തിന്റെ വാക്കുകളിലൂടെ പാപങ്ങൾ മോചിക്കപ്പെടും. ദാനം മനുഷ്യനെക്കാൾ എത്രയോ വലുതാണ്.","പ്രിയ നവവൈദികാ, “പോയി ഫലം പുറപ്പെടുവിക്കുന്നതിനും നിങ്ങളുടെ ഫലം നിലനിൽക്കുന്നതിനും വേണ്ടി” യേശു അങ്ങയെ നിയോഗിച്ചിരിക്കുന്നു. നിലനിൽക്കുന്ന ഫലം കെട്ടിടങ്ങളോ ജനപ്രീതിയോ അല്ല; ദൈവത്തിലേക്കു കൊണ്ടുവരപ്പെടുന്ന ആത്മാക്കളാണ്. പ്രാർഥനയിൽ കർത്താവിനോടു ചേർന്നുനിൽക്കുക, ദരിദ്രരെ സ്നേഹിക്കുക, ക്ഷമ ചോദിക്കാൻ ഒരിക്കലും ലജ്ജിക്കാതിരിക്കുക.","പ്രിയ മാതാപിതാക്കളേ, നിങ്ങളുടെ മകനെ ദൈവത്തിനു നൽകിയതിനു നന്ദി. പ്രിയ ഇടവകാംഗങ്ങളേ, എല്ലാ ദിവസവും അദ്ദേഹത്തിനുവേണ്ടി പ്രാർഥിക്കുക; നിങ്ങളുടെ കൂടുതൽ മക്കൾ ആ വിളി കേൾക്കാനും പ്രാർഥിക്കുക. ആമേൻ."],
+  prayer:"നിത്യപുരോഹിതനായ കർത്താവായ യേശുവേ, അങ്ങയുടെ ബലിപീഠത്തിനായി ഈ ദാസനെ അങ്ങു തിരഞ്ഞെടുത്തു. അദ്ദേഹത്തെ വിശുദ്ധനും വിനീതനും സന്തോഷവാനുമായി കാക്കണമേ; അദ്ദേഹത്തിന്റെ പൗരോഹിത്യം നിലനിൽക്കുന്ന ഫലം പുറപ്പെടുവിക്കട്ടെ; അങ്ങയുടെ വിളവെടുപ്പിനു കൂടുതൽ വേലക്കാരെ ഉയർത്തണമേ. ആമേൻ."}},
+
+{id:"profession",
+ en:{t:"Religious Profession",sub:"For first or final vows of a religious brother or sister",
+  read:[["Old Testament","1 Samuel 3:1–10 or Hosea 2:16, 19–20"],["Epistle","Philippians 3:7–14"],["Gospel","Mark 10:17–30"]],
+  verse:"The LORD is my chosen portion and my cup; you hold my lot.",cite:"Psalm 16:5",
+  points:[["Everything for Christ","“Whatever gains I had, these I have come to regard as loss because of Christ” (Philippians 3:7)."],["Three vows","Poverty, chastity and obedience: not a loss of life, but a life given wholly to God."],["A sign for all","Religious life reminds every Christian that God alone is enough and that heaven is our home."],["Gratitude","Thank the family and the community; pray for perseverance."]],
+  homily:["Dear sister (brother), today you give your whole life to God by the vows of poverty, chastity and obedience. With the psalmist you say: “The Lord is my chosen portion and my cup.”","In the Gospel a rich young man came to Jesus and went away sad, because he could not let go. Today we see the opposite: someone who has heard “Come, follow me” and says yes. St Paul says, “I regard everything as loss because of the surpassing value of knowing Christ Jesus my Lord.”","The vows are not chains. Poverty sets you free from possessions; chastity sets your heart free to love everyone; obedience sets you free from yourself. And your life becomes a sign for all of us that God alone is enough.","Dear family, you are not losing a daughter (son); you are giving her (him) to God, and God is never outdone in generosity. Let us pray that she (he) may be faithful to the end. Amen."],
+  prayer:"Lord, you are the portion and the cup of your servant. Accept the offering of this life, keep her (him) faithful to the vows professed today, and make her (his) joy a witness to your love. Amen."},
+ ml:{t:"സന്യാസവ്രതവാഗ്ദാനം",sub:"ഒരു സന്യാസിനിയുടെയോ സന്യാസിയുടെയോ പ്രഥമ/നിത്യവ്രതവാഗ്ദാനത്തിന്",
+  read:[["പഴയനിയമം","1 സാമുവൽ 3:1–10 അല്ലെങ്കിൽ ഹോസിയാ 2:16, 19–20"],["ലേഖനം","ഫിലിപ്പി 3:7–14"],["സുവിശേഷം","മർക്കോസ് 10:17–30"]],
+  verse:"കർത്താവാണ് എന്റെ ഓഹരിയും പാനപാത്രവും; എന്റെ ഭാഗധേയം അവിടുത്തെ കരങ്ങളിലാണ്.",cite:"സങ്കീർത്തനം 16:5",
+  points:[["എല്ലാം ക്രിസ്തുവിനുവേണ്ടി","എനിക്കു നേട്ടമായിരുന്നവയെല്ലാം ക്രിസ്തുവിനെപ്രതി ഞാൻ നഷ്ടമായി കരുതുന്നു (ഫിലി 3:7)."],["മൂന്നു വ്രതങ്ങൾ","ദാരിദ്ര്യം, ബ്രഹ്മചര്യം, അനുസരണം: ജീവിതത്തിന്റെ നഷ്ടമല്ല, പൂർണമായി ദൈവത്തിനു നൽകപ്പെട്ട ജീവിതമാണ്."],["എല്ലാവർക്കുമുള്ള അടയാളം","ദൈവം മാത്രം മതിയെന്നും സ്വർഗമാണു നമ്മുടെ ഭവനമെന്നും സന്യാസജീവിതം ഓരോ ക്രൈസ്തവനെയും ഓർമിപ്പിക്കുന്നു."],["നന്ദി","കുടുംബത്തിനും സമൂഹത്തിനും നന്ദി പറയുക; സ്ഥിരതയ്ക്കായി പ്രാർഥിക്കുക."]],
+  homily:["പ്രിയ സഹോദരീ (സഹോദരാ), ദാരിദ്ര്യം, ബ്രഹ്മചര്യം, അനുസരണം എന്നീ വ്രതങ്ങളിലൂടെ ഇന്നു നീ നിന്റെ ജീവിതം മുഴുവൻ ദൈവത്തിനു നൽകുന്നു. സങ്കീർത്തകനോടൊപ്പം നീ പറയുന്നു: “കർത്താവാണ് എന്റെ ഓഹരിയും പാനപാത്രവും.”","സുവിശേഷത്തിൽ ധനികനായ ഒരു യുവാവ് യേശുവിന്റെ അടുത്തു വന്നു; ഒന്നും വിട്ടുകൊടുക്കാൻ കഴിയാത്തതുകൊണ്ടു ദുഃഖിതനായി തിരിച്ചുപോയി. ഇന്നു നാം അതിന്റെ മറുവശം കാണുന്നു: “വന്ന് എന്നെ അനുഗമിക്കുക” എന്നു കേട്ട് അതെ എന്നു പറയുന്ന ഒരാൾ. വിശുദ്ധ പൗലോസ് പറയുന്നു: എന്റെ കർത്താവായ യേശുക്രിസ്തുവിനെ അറിയുന്നതിന്റെ ശ്രേഷ്ഠത നിമിത്തം സകലതും ഞാൻ നഷ്ടമായി കരുതുന്നു.","വ്രതങ്ങൾ ചങ്ങലകളല്ല. ദാരിദ്ര്യം വസ്തുവകകളിൽനിന്നു നിന്നെ സ്വതന്ത്രയാക്കുന്നു; ബ്രഹ്മചര്യം എല്ലാവരെയും സ്നേഹിക്കാൻ നിന്റെ ഹൃദയത്തെ സ്വതന്ത്രമാക്കുന്നു; അനുസരണം നിന്നിൽനിന്നുതന്നെ നിന്നെ സ്വതന്ത്രയാക്കുന്നു. നിന്റെ ജീവിതം ദൈവം മാത്രം മതിയെന്നു ഞങ്ങൾക്കെല്ലാവർക്കുമുള്ള ഒരു അടയാളമാകുന്നു.","പ്രിയ കുടുംബാംഗങ്ങളേ, നിങ്ങൾക്ക് ഒരു മകളെ (മകനെ) നഷ്ടപ്പെടുകയല്ല; നിങ്ങൾ അവളെ (അവനെ) ദൈവത്തിനു നൽകുകയാണ്; ഔദാര്യത്തിൽ ദൈവത്തെ ആർക്കും തോൽപിക്കാനാവില്ല. അവൾ (അവൻ) അവസാനംവരെ വിശ്വസ്തയായിരിക്കാൻ നമുക്കു പ്രാർഥിക്കാം. ആമേൻ."],
+  prayer:"കർത്താവേ, അങ്ങാണ് അങ്ങയുടെ ദാസിയുടെ (ദാസന്റെ) ഓഹരിയും പാനപാത്രവും. ഈ ജീവിതത്തിന്റെ സമർപ്പണം സ്വീകരിക്കണമേ; ഇന്ന് ഏറ്റുപറഞ്ഞ വ്രതങ്ങളിൽ അവളെ (അവനെ) വിശ്വസ്തയായി കാക്കണമേ; അവളുടെ (അവന്റെ) സന്തോഷം അങ്ങയുടെ സ്നേഹത്തിനു സാക്ഷ്യമാകട്ടെ. ആമേൻ."}},
+
+{id:"sick",
+ en:{t:"Anointing and Prayer for the Sick",sub:"For the anointing of the sick, or a Mass or prayer service for the sick",
+  read:[["Old Testament","Isaiah 53:3–5"],["Epistle","James 5:13–16"],["Gospel","Matthew 11:25–30 or Mark 2:1–12"]],
+  verse:"Come to me, all you that are weary and are carrying heavy burdens, and I will give you rest.",cite:"Matthew 11:28",
+  points:[["Not only for the dying","The anointing of the sick is for anyone seriously ill, before surgery, or weakened by old age (CCC 1514)."],["The Lord's own sacrament","“Are any among you sick? They should call for the elders of the church and have them pray over them, anointing them with oil in the name of the Lord” (James 5:14)."],["Grace in suffering","Strength, peace and courage; forgiveness of sins; union with the Passion of Christ; healing of body if it is God's will."],["The community cares","Visiting, bringing Communion, helping the family."]],
+  homily:["Dear brothers and sisters, especially you who are sick, Jesus says to you today: “Come to me, all you that are weary and are carrying heavy burdens, and I will give you rest.” You are not forgotten. You are at the centre of the Church's prayer.","Many people think the anointing of the sick is only for the dying, and so they call the priest too late. It is not so. St James says: “Are any among you sick? They should call for the elders of the church.” This sacrament is for anyone seriously ill, before an operation, or weakened by age.","What does the sacrament give? Peace and courage; the forgiveness of sins; the grace to unite your suffering with the suffering of Christ; and, if it is God's will, healing of the body. Isaiah says of Jesus: “By his bruises we are healed.” Your pain, joined to his, is never wasted.","And to the families and the parish: the sick need our presence. Visit them, sit with them, bring them Holy Communion, help those who care for them. That too is the Church at prayer. Amen."],
+  prayer:"Lord Jesus, you took our infirmities and bore our diseases. Look on your servants who are sick: give them strength and peace, forgive their sins, unite their suffering with your Passion, and, if it is your will, restore them to health. Amen."},
+ ml:{t:"രോഗീലേപനവും രോഗികൾക്കുവേണ്ടിയുള്ള പ്രാർഥനയും",sub:"രോഗീലേപനത്തിന്, അല്ലെങ്കിൽ രോഗികൾക്കായുള്ള കുർബാനയ്ക്കോ പ്രാർഥനാശുശ്രൂഷയ്ക്കോ",
+  read:[["പഴയനിയമം","ഏശയ്യാ 53:3–5"],["ലേഖനം","യാക്കോബ് 5:13–16"],["സുവിശേഷം","മത്തായി 11:25–30 അല്ലെങ്കിൽ മർക്കോസ് 2:1–12"]],
+  verse:"അധ്വാനിക്കുന്നവരും ഭാരം വഹിക്കുന്നവരുമായ നിങ്ങളെല്ലാവരും എന്റെ അടുക്കൽ വരുവിൻ; ഞാൻ നിങ്ങളെ ആശ്വസിപ്പിക്കാം.",cite:"മത്തായി 11:28",
+  points:[["മരണാസന്നർക്കു മാത്രമല്ല","ഗുരുതരരോഗമുള്ളവർക്കും ശസ്ത്രക്രിയയ്ക്കു മുമ്പും വാർധക്യത്താൽ ക്ഷീണിതർക്കും രോഗീലേപനം സ്വീകരിക്കാം (മതബോധനഗ്രന്ഥം 1514)."],["കർത്താവിന്റെ കൂദാശ","നിങ്ങളിൽ ആരെങ്കിലും രോഗിയാണെങ്കിൽ അവൻ സഭയിലെ ശ്രേഷ്ഠന്മാരെ വിളിക്കട്ടെ; അവർ കർത്താവിന്റെ നാമത്തിൽ അവനെ തൈലാഭിഷേകം ചെയ്യട്ടെ (യാക്കോ 5:14)."],["സഹനത്തിലെ കൃപ","ശക്തിയും സമാധാനവും ധൈര്യവും; പാപമോചനം; ക്രിസ്തുവിന്റെ പീഡാസഹനത്തോടുള്ള ഐക്യം; ദൈവഹിതമെങ്കിൽ ശാരീരികസൗഖ്യം."],["സമൂഹം കരുതുന്നു","സന്ദർശനം, വിശുദ്ധ കുർബാന കൊണ്ടുചെല്ലൽ, കുടുംബത്തെ സഹായിക്കൽ."]],
+  homily:["പ്രിയ സഹോദരീസഹോദരന്മാരേ, പ്രത്യേകിച്ചു രോഗികളായ നിങ്ങളേ, യേശു ഇന്നു നിങ്ങളോടു പറയുന്നു: “അധ്വാനിക്കുന്നവരും ഭാരം വഹിക്കുന്നവരുമായ നിങ്ങളെല്ലാവരും എന്റെ അടുക്കൽ വരുവിൻ; ഞാൻ നിങ്ങളെ ആശ്വസിപ്പിക്കാം.” നിങ്ങൾ മറക്കപ്പെട്ടിട്ടില്ല. സഭയുടെ പ്രാർഥനയുടെ കേന്ദ്രത്തിലാണു നിങ്ങൾ.","രോഗീലേപനം മരണാസന്നർക്കു മാത്രമാണെന്നു പലരും കരുതുന്നു; അതുകൊണ്ടു വൈദികനെ വളരെ വൈകി വിളിക്കുന്നു. അങ്ങനെയല്ല. വിശുദ്ധ യാക്കോബ് പറയുന്നു: നിങ്ങളിൽ ആരെങ്കിലും രോഗിയാണെങ്കിൽ അവൻ സഭയിലെ ശ്രേഷ്ഠന്മാരെ വിളിക്കട്ടെ. ഗുരുതരരോഗമുള്ള ആർക്കും, ശസ്ത്രക്രിയയ്ക്കു മുമ്പും, വാർധക്യത്താൽ ക്ഷീണിതർക്കും ഈ കൂദാശയുണ്ട്.","ഈ കൂദാശ എന്തു നൽകുന്നു? സമാധാനവും ധൈര്യവും; പാപമോചനം; നിങ്ങളുടെ സഹനം ക്രിസ്തുവിന്റെ സഹനത്തോടു ചേർക്കാനുള്ള കൃപ; ദൈവഹിതമെങ്കിൽ ശരീരത്തിന്റെ സൗഖ്യം. യേശുവിനെപ്പറ്റി ഏശയ്യാ പറയുന്നു: അവന്റെ ക്ഷതങ്ങളാൽ നാം സൗഖ്യം പ്രാപിച്ചു. അവിടുത്തെ സഹനത്തോടു ചേർന്ന നിങ്ങളുടെ വേദന ഒരിക്കലും പാഴാകുന്നില്ല.","കുടുംബങ്ങളോടും ഇടവകയോടും: രോഗികൾക്കു നമ്മുടെ സാന്നിധ്യം ആവശ്യമാണ്. അവരെ സന്ദർശിക്കുക, അവരോടൊപ്പം ഇരിക്കുക, അവർക്കു വിശുദ്ധ കുർബാന കൊണ്ടുചെല്ലുക, അവരെ ശുശ്രൂഷിക്കുന്നവരെ സഹായിക്കുക. അതും പ്രാർഥിക്കുന്ന സഭയാണ്. ആമേൻ."],
+  prayer:"കർത്താവായ യേശുവേ, ഞങ്ങളുടെ ബലഹീനതകൾ അങ്ങ് ഏറ്റെടുക്കുകയും ഞങ്ങളുടെ രോഗങ്ങൾ വഹിക്കുകയും ചെയ്തു. രോഗികളായ അങ്ങയുടെ ദാസരെ കടാക്ഷിക്കണമേ: അവർക്കു ശക്തിയും സമാധാനവും നൽകണമേ; അവരുടെ പാപങ്ങൾ ക്ഷമിക്കണമേ; അവരുടെ സഹനം അങ്ങയുടെ പീഡാസഹനത്തോടു ചേർക്കണമേ; അങ്ങയുടെ തിരുമനസ്സെങ്കിൽ അവർക്ക് ആരോഗ്യം തിരികെ നൽകണമേ. ആമേൻ."}},
+
+{id:"funeral",
+ en:{t:"Funeral",sub:"For the funeral of a Christian",
+  read:[["Old Testament","Wisdom 3:1–9 or 2 Maccabees 12:43–46"],["Epistle","1 Thessalonians 4:13–18 or Romans 6:3–9"],["Gospel","John 11:17–27 or John 14:1–6"]],
+  verse:"I am the resurrection and the life. Those who believe in me, even though they die, will live.",cite:"John 11:25",
+  points:[["Grief is not faithless","Jesus wept at the tomb of Lazarus. Tears are allowed; despair is not."],["Christ has conquered death","“I am the resurrection and the life.” Death is not the end but a passage."],["We pray for the dead","The Church has always prayed and offered the Eucharist for the departed, that they may be purified and enter the joy of God (CCC 1032; 2 Maccabees 12:46)."],["Speak of the person truthfully","Remember the life with gratitude, without exaggeration; the focus is Christ's mercy."]],
+  homily:["Dear family and friends, we have come together with heavy hearts to say farewell to our brother (sister) N. At the tomb of his friend Lazarus, Jesus wept. So we too may weep today. Christian faith does not forbid tears; it gives them hope.","To Martha, standing in her grief, Jesus said: “I am the resurrection and the life. Those who believe in me, even though they die, will live.” These are the words we hold on to today. For the believer, death is not a wall but a door. Christ has passed through it before us and has broken its power.","We remember N. with gratitude: for his (her) love, his (her) work, his (her) faith. But we do not canonise anyone at a funeral. We entrust him (her) to the mercy of God. From the earliest times the Church has prayed and offered the Eucharist for the dead, so that they may be purified and enter fully into God's joy. That is the greatest gift we can still give: our prayer.","Dear family, you are not alone. The parish stands with you. And one day, by God's mercy, we hope to meet again where every tear will be wiped away. Eternal rest grant unto him (her), O Lord. Amen."],
+  prayer:"Lord Jesus, resurrection and life, receive our brother (sister) N. into your mercy. Forgive his (her) sins, bring him (her) into the light of your face, and console all who mourn with the hope of the resurrection. Amen."},
+ ml:{t:"മൃതസംസ്കാരം",sub:"ഒരു ക്രൈസ്തവന്റെ മൃതസംസ്കാരശുശ്രൂഷയ്ക്ക്",
+  read:[["പഴയനിയമം","ജ്ഞാനം 3:1–9 അല്ലെങ്കിൽ 2 മക്കബായർ 12:43–46"],["ലേഖനം","1 തെസലോനിക്കാ 4:13–18 അല്ലെങ്കിൽ റോമാ 6:3–9"],["സുവിശേഷം","യോഹന്നാൻ 11:17–27 അല്ലെങ്കിൽ യോഹന്നാൻ 14:1–6"]],
+  verse:"ഞാനാണ് പുനരുത്ഥാനവും ജീവനും. എന്നിൽ വിശ്വസിക്കുന്നവൻ മരിച്ചാലും ജീവിക്കും.",cite:"യോഹന്നാൻ 11:25",
+  points:[["ദുഃഖം അവിശ്വാസമല്ല","ലാസറിന്റെ കല്ലറയ്ക്കൽ യേശു കണ്ണീർ പൊഴിച്ചു. കണ്ണുനീർ അനുവദനീയമാണ്; നിരാശ അല്ല."],["ക്രിസ്തു മരണത്തെ ജയിച്ചു","“ഞാനാണ് പുനരുത്ഥാനവും ജീവനും.” മരണം അവസാനമല്ല, ഒരു കടന്നുപോകലാണ്."],["മരിച്ചവർക്കുവേണ്ടി നാം പ്രാർഥിക്കുന്നു","മരിച്ചവർ ശുദ്ധീകരിക്കപ്പെട്ടു ദൈവത്തിന്റെ സന്തോഷത്തിൽ പ്രവേശിക്കാൻ സഭ എന്നും അവർക്കുവേണ്ടി പ്രാർഥിക്കുകയും കുർബാന അർപ്പിക്കുകയും ചെയ്തിട്ടുണ്ട് (മതബോധനഗ്രന്ഥം 1032; 2 മക്ക 12:46)."],["വ്യക്തിയെപ്പറ്റി സത്യസന്ധമായി പറയുക","അതിശയോക്തിയില്ലാതെ, നന്ദിയോടെ ജീവിതം ഓർക്കുക; കേന്ദ്രം ക്രിസ്തുവിന്റെ കരുണയാണ്."]],
+  homily:["പ്രിയ കുടുംബാംഗങ്ങളേ, സുഹൃത്തുക്കളേ, നമ്മുടെ സഹോദരനോട് (സഹോദരിയോട്) N. യാത്ര പറയാൻ ഭാരമുള്ള ഹൃദയങ്ങളോടെ നാം ഒരുമിച്ചുകൂടിയിരിക്കുന്നു. തന്റെ സുഹൃത്തായ ലാസറിന്റെ കല്ലറയ്ക്കൽ യേശു കണ്ണീർ പൊഴിച്ചു. അതുകൊണ്ട് ഇന്നു നമുക്കും കരയാം. ക്രൈസ്തവവിശ്വാസം കണ്ണുനീർ വിലക്കുന്നില്ല; അതിനു പ്രത്യാശ നൽകുന്നു.","ദുഃഖത്തിൽ നിന്നിരുന്ന മർത്തായോടു യേശു പറഞ്ഞു: “ഞാനാണ് പുനരുത്ഥാനവും ജീവനും. എന്നിൽ വിശ്വസിക്കുന്നവൻ മരിച്ചാലും ജീവിക്കും.” ഇന്നു നാം മുറുകെപ്പിടിക്കുന്ന വാക്കുകൾ ഇവയാണ്. വിശ്വാസിക്കു മരണം ഒരു മതിലല്ല, ഒരു വാതിലാണ്. ക്രിസ്തു നമുക്കു മുമ്പേ അതിലൂടെ കടന്നുപോയി അതിന്റെ ശക്തി തകർത്തു.","N.-നെ നാം നന്ദിയോടെ ഓർക്കുന്നു: അദ്ദേഹത്തിന്റെ (അവരുടെ) സ്നേഹത്തിനും അധ്വാനത്തിനും വിശ്വാസത്തിനും. എങ്കിലും ഒരു മൃതസംസ്കാരവേളയിൽ നാം ആരെയും വിശുദ്ധരായി പ്രഖ്യാപിക്കുന്നില്ല. ദൈവത്തിന്റെ കരുണയ്ക്ക് അദ്ദേഹത്തെ (അവരെ) നാം ഭരമേൽപിക്കുന്നു. മരിച്ചവർ ശുദ്ധീകരിക്കപ്പെട്ടു ദൈവത്തിന്റെ സന്തോഷത്തിൽ പൂർണമായി പ്രവേശിക്കാൻ ആദിമകാലംമുതൽ സഭ അവർക്കുവേണ്ടി പ്രാർഥിക്കുകയും കുർബാന അർപ്പിക്കുകയും ചെയ്തിട്ടുണ്ട്. ഇനിയും നമുക്കു നൽകാവുന്ന ഏറ്റവും വലിയ ദാനം അതാണ്: നമ്മുടെ പ്രാർഥന.","പ്രിയ കുടുംബാംഗങ്ങളേ, നിങ്ങൾ ഒറ്റയ്ക്കല്ല. ഇടവക നിങ്ങളോടൊപ്പമുണ്ട്. ദൈവകരുണയാൽ, എല്ലാ കണ്ണുനീരും തുടച്ചുമാറ്റപ്പെടുന്നിടത്ത് ഒരുനാൾ വീണ്ടും കണ്ടുമുട്ടാമെന്നു നാം പ്രത്യാശിക്കുന്നു. കർത്താവേ, അദ്ദേഹത്തിന് (അവർക്ക്) നിത്യവിശ്രമം നൽകണമേ. ആമേൻ."],
+  prayer:"പുനരുത്ഥാനവും ജീവനുമായ കർത്താവായ യേശുവേ, ഞങ്ങളുടെ സഹോദരനെ (സഹോദരിയെ) N. അങ്ങയുടെ കരുണയിൽ സ്വീകരിക്കണമേ. അദ്ദേഹത്തിന്റെ (അവരുടെ) പാപങ്ങൾ ക്ഷമിക്കണമേ; അങ്ങയുടെ മുഖപ്രകാശത്തിലേക്കു കൊണ്ടുവരണമേ; വിലപിക്കുന്ന എല്ലാവരെയും പുനരുത്ഥാനത്തിന്റെ പ്രത്യാശയാൽ ആശ്വസിപ്പിക്കണമേ. ആമേൻ."}},
+
+{id:"memorial",
+ en:{t:"Commemoration of the Departed (41st day, anniversary)",sub:"For the 41st-day remembrance, a death anniversary or a memorial Mass",
+  read:[["Old Testament","Wisdom 3:1–9"],["Epistle","2 Corinthians 5:1, 6–10"],["Gospel","John 14:1–6 or John 6:37–40"]],
+  verse:"In my Father's house there are many dwelling places. If it were not so, would I have told you that I go to prepare a place for you?",cite:"John 14:2",
+  points:[["Love does not end","Death separates us for a time; it does not break the communion of saints."],["Why we offer the Eucharist","The {Q} offered for the departed is the greatest help we can give them (CCC 1032, 1371)."],["Remember to imitate","Recall one virtue of the departed and ask the family to carry it on."],["Our own preparation","Every remembrance is also a reminder: live today ready to meet the Lord."]],
+  homily:["Dear family and friends, we have gathered again to remember N. The days have passed, the first tears have perhaps become quieter, but the love remains. And love, in Christ, does not end.","Jesus says: “In my Father's house there are many dwelling places.” Our dear ones have not disappeared; they have gone ahead. We believe in the communion of saints: those on earth, those being purified, and those in heaven form one family in Christ.","That is why we offer this {Q} for N. The Church teaches that the Eucharistic sacrifice is offered also for the faithful departed, that they may enter the light and peace of Christ. Our prayer is the most precious gift we can still give.","Let us also remember to imitate. Think of one good thing N. did, and continue it in your own life. And let each of us live today in such a way that we are ready to meet the Lord. Eternal rest grant unto him (her), O Lord. Amen."],
+  prayer:"Lord, in your Father's house there are many dwelling places. Grant N. a place of light and peace, and keep us faithful, so that one day we may all be gathered together in your kingdom. Amen."},
+ ml:{t:"ഓർമദിനം (നാൽപ്പത്തൊന്നാം ദിവസം, ചരമവാർഷികം)",sub:"നാൽപ്പത്തൊന്നാം ദിവസത്തെ ഓർമയ്ക്കോ ചരമവാർഷികത്തിനോ ഓർമക്കുർബാനയ്ക്കോ",
+  read:[["പഴയനിയമം","ജ്ഞാനം 3:1–9"],["ലേഖനം","2 കോറിന്തോസ് 5:1, 6–10"],["സുവിശേഷം","യോഹന്നാൻ 14:1–6 അല്ലെങ്കിൽ യോഹന്നാൻ 6:37–40"]],
+  verse:"എന്റെ പിതാവിന്റെ ഭവനത്തിൽ അനേകം വാസസ്ഥലങ്ങളുണ്ട്. ഇല്ലായിരുന്നെങ്കിൽ നിങ്ങൾക്കു സ്ഥലമൊരുക്കാൻ പോകുന്നുവെന്നു ഞാൻ നിങ്ങളോടു പറയുമായിരുന്നോ?",cite:"യോഹന്നാൻ 14:2",
+  points:[["സ്നേഹം അവസാനിക്കുന്നില്ല","മരണം കുറച്ചുകാലത്തേക്കു നമ്മെ വേർപിരിക്കുന്നു; വിശുദ്ധരുടെ ഐക്യം അതു തകർക്കുന്നില്ല."],["എന്തുകൊണ്ടു കുർബാന അർപ്പിക്കുന്നു","മരിച്ചവർക്കുവേണ്ടി അർപ്പിക്കുന്ന {Q}യാണ് നമുക്ക് അവർക്കു നൽകാവുന്ന ഏറ്റവും വലിയ സഹായം (മതബോധനഗ്രന്ഥം 1032, 1371)."],["അനുകരിക്കാനായി ഓർക്കുക","മരിച്ചയാളുടെ ഒരു പുണ്യം ഓർത്ത് അതു തുടരാൻ കുടുംബത്തോട് ആവശ്യപ്പെടുക."],["നമ്മുടെ സ്വന്തം ഒരുക്കം","ഓരോ ഓർമദിനവും ഒരു ഓർമപ്പെടുത്തലുമാണ്: കർത്താവിനെ കണ്ടുമുട്ടാൻ ഒരുങ്ങി ഇന്നു ജീവിക്കുക."]],
+  homily:["പ്രിയ കുടുംബാംഗങ്ങളേ, സുഹൃത്തുക്കളേ, N.-നെ ഓർക്കാൻ നാം വീണ്ടും ഒരുമിച്ചുകൂടിയിരിക്കുന്നു. ദിവസങ്ങൾ കടന്നുപോയി; ആദ്യത്തെ കണ്ണുനീർ ഒരുപക്ഷേ ശാന്തമായിട്ടുണ്ടാകാം; പക്ഷേ സ്നേഹം നിലനിൽക്കുന്നു. ക്രിസ്തുവിൽ സ്നേഹം അവസാനിക്കുന്നില്ല.","യേശു പറയുന്നു: “എന്റെ പിതാവിന്റെ ഭവനത്തിൽ അനേകം വാസസ്ഥലങ്ങളുണ്ട്.” നമ്മുടെ പ്രിയപ്പെട്ടവർ അപ്രത്യക്ഷരായിട്ടില്ല; അവർ മുമ്പേ പോയിരിക്കുന്നു. വിശുദ്ധരുടെ ഐക്യത്തിൽ നാം വിശ്വസിക്കുന്നു: ഭൂമിയിലുള്ളവരും ശുദ്ധീകരിക്കപ്പെടുന്നവരും സ്വർഗത്തിലുള്ളവരും ക്രിസ്തുവിൽ ഒരു കുടുംബമാണ്.","അതുകൊണ്ടാണ് N.-നുവേണ്ടി നാം ഈ {Q} അർപ്പിക്കുന്നത്. മരിച്ച വിശ്വാസികൾ ക്രിസ്തുവിന്റെ പ്രകാശത്തിലും സമാധാനത്തിലും പ്രവേശിക്കാൻ ദിവ്യകാരുണ്യബലി അവർക്കുവേണ്ടിയും അർപ്പിക്കപ്പെടുന്നുവെന്നു സഭ പഠിപ്പിക്കുന്നു. ഇനിയും നമുക്കു നൽകാവുന്ന ഏറ്റവും വിലപ്പെട്ട ദാനം നമ്മുടെ പ്രാർഥനയാണ്.","അനുകരിക്കാനും നമുക്ക് ഓർക്കാം. N. ചെയ്ത ഒരു നല്ല കാര്യം ഓർത്ത് അതു നിങ്ങളുടെ സ്വന്തം ജീവിതത്തിൽ തുടരുക. കർത്താവിനെ കണ്ടുമുട്ടാൻ ഒരുങ്ങിയിരിക്കുന്ന വിധത്തിൽ നമ്മളോരോരുത്തരും ഇന്നു ജീവിക്കാം. കർത്താവേ, അദ്ദേഹത്തിന് (അവർക്ക്) നിത്യവിശ്രമം നൽകണമേ. ആമേൻ."],
+  prayer:"കർത്താവേ, അങ്ങയുടെ പിതാവിന്റെ ഭവനത്തിൽ അനേകം വാസസ്ഥലങ്ങളുണ്ട്. N.-ന് പ്രകാശത്തിന്റെയും സമാധാനത്തിന്റെയും ഒരിടം നൽകണമേ; ഒരുനാൾ അങ്ങയുടെ രാജ്യത്തിൽ ഞങ്ങളെല്ലാവരും ഒരുമിച്ചുകൂടാൻ ഞങ്ങളെ വിശ്വസ്തരായി കാക്കണമേ. ആമേൻ."}},
+
+{id:"weddingjubilee",
+ en:{t:"Wedding Jubilee",sub:"For the silver, golden or any anniversary of marriage",
+  read:[["Old Testament","Sirach 26:1–4, 13–16 or Tobit 8:4–8"],["Epistle","Colossians 3:12–17"],["Gospel","John 2:1–11"]],
+  verse:"But you have kept the good wine until now.",cite:"John 2:10",
+  points:[["The good wine kept until now","At Cana the best wine came last. Years of faithful love can become better, not weaker."],["Grace, not only effort","A long marriage is a work of God's grace as much as of human effort."],["Forgiveness as daily bread","“Bear with one another and… forgive each other” (Colossians 3:13)."],["A witness to the young","In a time of broken families, faithful couples preach without words."]],
+  homily:["Dear N. and N., today we thank God with you for these years of married life. At Cana the steward said: “Everyone serves the good wine first… But you have kept the good wine until now.” Your jubilee is that good wine.","When you stood at the altar years ago, you could not know everything that was coming: children, joys, illnesses, debts, misunderstandings, reconciliations. But you kept your promise. That is not only your achievement; it is God's grace working in two ordinary hearts.","St Paul describes the secret: “Bear with one another and, if anyone has a complaint against another, forgive each other; just as the Lord has forgiven you.” Forgiveness was your daily bread. Teach that to your children and grandchildren.","In a time when many marriages break, your faithfulness is a sermon without words. May the Lord who kept the best wine until now give you many more years together. Amen."],
+  prayer:"Lord Jesus, guest at Cana, we thank you for the years of love you have given N. and N. Renew their love, bless their children and grandchildren, and keep the best wine for the years still to come. Amen."},
+ ml:{t:"വിവാഹജൂബിലി",sub:"വിവാഹത്തിന്റെ രജത, സുവർണ ജൂബിലിക്കോ ഏതൊരു വാർഷികത്തിനോ",
+  read:[["പഴയനിയമം","പ്രഭാഷകൻ 26:1–4, 13–16 അല്ലെങ്കിൽ തോബിത് 8:4–8"],["ലേഖനം","കൊളോസോസ് 3:12–17"],["സുവിശേഷം","യോഹന്നാൻ 2:1–11"]],
+  verse:"എന്നാൽ, നീ നല്ല വീഞ്ഞ് ഇതുവരെയും സൂക്ഷിച്ചുവച്ചുവല്ലോ.",cite:"യോഹന്നാൻ 2:10",
+  points:[["ഇതുവരെ സൂക്ഷിച്ച നല്ല വീഞ്ഞ്","കാനായിൽ മേൽത്തരം വീഞ്ഞു വന്നത് അവസാനമാണ്. വിശ്വസ്തസ്നേഹത്തിന്റെ വർഷങ്ങൾ ദുർബലമാകുകയല്ല, മെച്ചപ്പെടുകയാണു ചെയ്യുന്നത്."],["പ്രയത്നം മാത്രമല്ല, കൃപ","ദീർഘമായ ഒരു വിവാഹജീവിതം മാനുഷികപ്രയത്നംപോലെതന്നെ ദൈവകൃപയുടെയും പ്രവൃത്തിയാണ്."],["അനുദിനാപ്പമായ ക്ഷമ","പരസ്പരം സഹിക്കുകയും ക്ഷമിക്കുകയും ചെയ്യുവിൻ (കൊളോ 3:13)."],["യുവജനങ്ങൾക്ക് ഒരു സാക്ഷ്യം","കുടുംബങ്ങൾ തകരുന്ന ഒരു കാലത്ത് വിശ്വസ്തദമ്പതികൾ വാക്കുകളില്ലാതെ പ്രസംഗിക്കുന്നു."]],
+  homily:["പ്രിയ N.-ഉം N.-ഉം, ഈ വിവാഹജീവിതവർഷങ്ങൾക്കായി ഇന്നു നിങ്ങളോടൊപ്പം നാം ദൈവത്തിനു നന്ദി പറയുന്നു. കാനായിൽ കലവറക്കാരൻ പറഞ്ഞു: “എല്ലാവരും മേൽത്തരം വീഞ്ഞ് ആദ്യം വിളമ്പുന്നു… എന്നാൽ, നീ നല്ല വീഞ്ഞ് ഇതുവരെയും സൂക്ഷിച്ചുവച്ചുവല്ലോ.” നിങ്ങളുടെ ജൂബിലി ആ നല്ല വീഞ്ഞാണ്.","വർഷങ്ങൾക്കു മുമ്പു നിങ്ങൾ ബലിപീഠത്തിനു മുമ്പിൽ നിന്നപ്പോൾ വരാനിരിക്കുന്നതെല്ലാം നിങ്ങൾക്ക് അറിയാമായിരുന്നില്ല: മക്കൾ, സന്തോഷങ്ങൾ, രോഗങ്ങൾ, കടങ്ങൾ, തെറ്റിദ്ധാരണകൾ, അനുരഞ്ജനങ്ങൾ. പക്ഷേ നിങ്ങൾ വാഗ്ദാനം പാലിച്ചു. അതു നിങ്ങളുടെ നേട്ടം മാത്രമല്ല; സാധാരണക്കാരായ രണ്ടു ഹൃദയങ്ങളിൽ പ്രവർത്തിക്കുന്ന ദൈവകൃപയാണ്.","വിശുദ്ധ പൗലോസ് ആ രഹസ്യം വിവരിക്കുന്നു: പരസ്പരം സഹിക്കുകയും, ഒരുവനു മറ്റൊരുവനെതിരേ പരാതിയുണ്ടെങ്കിൽ ക്ഷമിക്കുകയും ചെയ്യുവിൻ; കർത്താവു നിങ്ങളോടു ക്ഷമിച്ചതുപോലെ. ക്ഷമ നിങ്ങളുടെ അനുദിനാപ്പമായിരുന്നു. അതു നിങ്ങളുടെ മക്കളെയും കൊച്ചുമക്കളെയും പഠിപ്പിക്കുക.","അനേകം വിവാഹങ്ങൾ തകരുന്ന ഒരു കാലത്ത് നിങ്ങളുടെ വിശ്വസ്തത വാക്കുകളില്ലാത്ത ഒരു പ്രസംഗമാണ്. ഏറ്റവും നല്ല വീഞ്ഞ് ഇതുവരെ സൂക്ഷിച്ച കർത്താവ് നിങ്ങൾക്ക് ഇനിയും അനേകം വർഷങ്ങൾ ഒന്നിച്ചു നൽകട്ടെ. ആമേൻ."],
+  prayer:"കാനായിലെ അതിഥിയായ കർത്താവായ യേശുവേ, N.-നും N.-നും അങ്ങു നൽകിയ സ്നേഹത്തിന്റെ വർഷങ്ങൾക്കായി ഞങ്ങൾ നന്ദി പറയുന്നു. അവരുടെ സ്നേഹം നവീകരിക്കണമേ; അവരുടെ മക്കളെയും കൊച്ചുമക്കളെയും അനുഗ്രഹിക്കണമേ; ഇനി വരാനിരിക്കുന്ന വർഷങ്ങൾക്കായി ഏറ്റവും നല്ല വീഞ്ഞു സൂക്ഷിക്കണമേ. ആമേൻ."}},
+
+{id:"priestjubilee",
+ en:{t:"Priestly or Religious Jubilee",sub:"For the jubilee of a priest or a religious",
+  read:[["Old Testament","Jeremiah 1:4–9 or Isaiah 61:1–3"],["Epistle","2 Corinthians 4:1–2, 5–7"],["Gospel","John 21:15–19"]],
+  verse:"What shall I return to the LORD for all his bounty to me?",cite:"Psalm 116:12",
+  points:[["Gratitude first","The psalmist answers his own question: “I will lift up the cup of salvation and call on the name of the LORD” (Psalm 116:13)."],["Treasure in clay jars","“We have this treasure in clay jars, so that it may be made clear that this extraordinary power belongs to God” (2 Corinthians 4:7)."],["“Do you love me?”","Peter's threefold question is the question of every jubilee: love renewed after years of service and failure."],["Thank the people","A priest's or religious's life is woven with the people they served."]],
+  homily:["Dear Father (Sister) N., dear friends, today we join the psalmist in asking: “What shall I return to the Lord for all his bounty to me?” And the psalm answers: “I will lift up the cup of salvation and call on the name of the Lord.” For a priest that is exactly what happens every day at the altar.","St Paul says: “We have this treasure in clay jars.” After many years of service, a jubilarian knows better than anyone how fragile the jar is, and how great the treasure. The fruit of these years belongs to God.","By the lake, the risen Jesus asked Peter three times, “Do you love me?” Peter had failed him, and yet Jesus entrusted his sheep to him again. Every jubilee is that question renewed: after all these years, do you love me? And the answer is: “Lord, you know everything; you know that I love you.”","Let us thank God for this life given, and let us pray that our families may give more sons and daughters to the service of the Lord. Amen."],
+  prayer:"Lord, we thank you for the years of service of your servant N. Renew the grace of the first day, forgive what was lacking, and keep him (her) faithful in love until the end. Amen."},
+ ml:{t:"പൗരോഹിത്യ / സന്യാസ ജൂബിലി",sub:"ഒരു വൈദികന്റെയോ സന്യസ്തന്റെയോ ജൂബിലിക്ക്",
+  read:[["പഴയനിയമം","ജറെമിയാ 1:4–9 അല്ലെങ്കിൽ ഏശയ്യാ 61:1–3"],["ലേഖനം","2 കോറിന്തോസ് 4:1–2, 5–7"],["സുവിശേഷം","യോഹന്നാൻ 21:15–19"]],
+  verse:"കർത്താവ് എന്റെ മേൽ ചൊരിഞ്ഞ അനുഗ്രഹങ്ങൾക്കു ഞാൻ എന്തു പകരം കൊടുക്കും?",cite:"സങ്കീർത്തനം 116:12",
+  points:[["ആദ്യം നന്ദി","സങ്കീർത്തകൻ തന്നെ ഉത്തരം നൽകുന്നു: “ഞാൻ രക്ഷയുടെ പാനപാത്രമുയർത്തി കർത്താവിന്റെ നാമം വിളിച്ചപേക്ഷിക്കും” (സങ്കീ 116:13)."],["മൺപാത്രങ്ങളിലെ നിധി","ഈ അസാധാരണമായ ശക്തി ദൈവത്തിന്റേതാണെന്നു വ്യക്തമാകാൻ ഈ നിധി മൺപാത്രങ്ങളിലാണു ഞങ്ങൾ സൂക്ഷിക്കുന്നത് (2 കോറി 4:7)."],["“നീ എന്നെ സ്നേഹിക്കുന്നുവോ?”","പത്രോസിനോടുള്ള മൂന്നു പ്രാവശ്യത്തെ ചോദ്യമാണ് ഓരോ ജൂബിലിയുടെയും ചോദ്യം: വർഷങ്ങളുടെ ശുശ്രൂഷയ്ക്കും വീഴ്ചകൾക്കുംശേഷം നവീകരിക്കപ്പെടുന്ന സ്നേഹം."],["ജനങ്ങൾക്കു നന്ദി","ഒരു വൈദികന്റെയോ സന്യസ്തന്റെയോ ജീവിതം അവർ ശുശ്രൂഷിച്ച ജനങ്ങളോടു ചേർന്നു നെയ്യപ്പെട്ടതാണ്."]],
+  homily:["പ്രിയ N. അച്ചാ (സിസ്റ്റർ), പ്രിയ സുഹൃത്തുക്കളേ, ഇന്നു സങ്കീർത്തകനോടു ചേർന്നു നാം ചോദിക്കുന്നു: “കർത്താവ് എന്റെ മേൽ ചൊരിഞ്ഞ അനുഗ്രഹങ്ങൾക്കു ഞാൻ എന്തു പകരം കൊടുക്കും?” സങ്കീർത്തനം ഉത്തരം നൽകുന്നു: “ഞാൻ രക്ഷയുടെ പാനപാത്രമുയർത്തി കർത്താവിന്റെ നാമം വിളിച്ചപേക്ഷിക്കും.” ഒരു വൈദികന് അതുതന്നെയാണ് എല്ലാ ദിവസവും ബലിപീഠത്തിൽ സംഭവിക്കുന്നത്.","വിശുദ്ധ പൗലോസ് പറയുന്നു: ഈ നിധി മൺപാത്രങ്ങളിലാണു ഞങ്ങൾ സൂക്ഷിക്കുന്നത്. വർഷങ്ങളുടെ ശുശ്രൂഷയ്ക്കുശേഷം, പാത്രം എത്ര ദുർബലമാണെന്നും നിധി എത്ര വലുതാണെന്നും ജൂബിലേറിയന് ആരെക്കാളും നന്നായി അറിയാം. ഈ വർഷങ്ങളുടെ ഫലം ദൈവത്തിന്റേതാണ്.","തടാകതീരത്ത് ഉത്ഥിതനായ യേശു പത്രോസിനോടു മൂന്നു പ്രാവശ്യം ചോദിച്ചു: “നീ എന്നെ സ്നേഹിക്കുന്നുവോ?” പത്രോസ് അവിടുത്തെ തള്ളിപ്പറഞ്ഞിരുന്നു; എങ്കിലും യേശു തന്റെ ആടുകളെ വീണ്ടും അവനെ ഏൽപിച്ചു. ഓരോ ജൂബിലിയും ആ ചോദ്യത്തിന്റെ നവീകരണമാണ്: ഇത്രയും വർഷങ്ങൾക്കുശേഷം നീ എന്നെ സ്നേഹിക്കുന്നുവോ? ഉത്തരം ഇതാണ്: “കർത്താവേ, നീ എല്ലാം അറിയുന്നു. ഞാൻ നിന്നെ സ്നേഹിക്കുന്നുവെന്നും നീ അറിയുന്നു.”","സമർപ്പിക്കപ്പെട്ട ഈ ജീവിതത്തിനായി നമുക്കു ദൈവത്തിനു നന്ദി പറയാം; കർത്താവിന്റെ ശുശ്രൂഷയ്ക്കായി നമ്മുടെ കുടുംബങ്ങൾ കൂടുതൽ മക്കളെ നൽകാൻ നമുക്കു പ്രാർഥിക്കാം. ആമേൻ."],
+  prayer:"കർത്താവേ, അങ്ങയുടെ ദാസന്റെ (ദാസിയുടെ) N.-ന്റെ ശുശ്രൂഷാവർഷങ്ങൾക്കായി ഞങ്ങൾ നന്ദി പറയുന്നു. ആദ്യദിവസത്തെ കൃപ നവീകരിക്കണമേ; കുറവുകൾ ക്ഷമിക്കണമേ; അവസാനംവരെ സ്നേഹത്തിൽ വിശ്വസ്തനായി (വിശ്വസ്തയായി) കാക്കണമേ. ആമേൻ."}},
+
+{id:"parishfeast",
+ en:{t:"Parish Feast or Parish Jubilee",sub:"For the patronal feast (perunnal), the dedication anniversary or the jubilee of a parish or institution",
+  read:[["Old Testament","1 Kings 8:22–23, 27–30"],["Epistle","Ephesians 2:19–22 or Hebrews 12:1–2"],["Gospel","Matthew 5:1–12 or the Gospel of the patron saint"]],
+  verse:"I was glad when they said to me, “Let us go to the house of the LORD!”",cite:"Psalm 122:1",
+  points:[["Why we celebrate a saint","The patron is a friend and intercessor who points to Christ, not a substitute for him."],["A family of faith","The parish is the family of families: “citizens with the saints and also members of the household of God” (Ephesians 2:19)."],["The real decoration","Lights, processions and fireworks pass; confession, charity and reconciliation remain. Keep a share of the feast for the poor."],["Looking forward","A jubilee looks back with thanks and forward with mission: who is missing from our parish today?"]],
+  homily:["Dear brothers and sisters, the psalmist says: “I was glad when they said to me, Let us go to the house of the Lord!” Today our parish is glad. We celebrate our patron (our jubilee), and the whole family of the parish has come home.","Why do we honour a saint? Not because the saint replaces Christ, but because the saint shows us Christ. Our patron walked the road we walk and reached the goal. He (she) is our friend in heaven, praying for this parish.","Our feast has lights, processions, music and food, and that is good. But the real decoration of a feast is a cleansed heart: a good Confession, a family reconciled, a poor neighbour remembered. Let a share of this feast reach those who cannot celebrate.","And let us look forward. Who is missing from our parish today? Whom can we invite back? May our patron intercede for us, so that this parish may be a living house of God for the generations to come. Amen."],
+  prayer:"Lord God, we thank you for our parish and for the faith handed down to us. Through the intercession of our patron, make us one family in Christ, generous to the poor and faithful to the end. Amen."},
+ ml:{t:"ഇടവകത്തിരുനാൾ / ഇടവകജൂബിലി",sub:"ഇടവകയുടെ മധ്യസ്ഥന്റെ തിരുനാളിനോ (പെരുന്നാൾ) ദേവാലയസമർപ്പണവാർഷികത്തിനോ ഒരു ഇടവകയുടെയോ സ്ഥാപനത്തിന്റെയോ ജൂബിലിക്കോ",
+  read:[["പഴയനിയമം","1 രാജാക്കന്മാർ 8:22–23, 27–30"],["ലേഖനം","എഫേസോസ് 2:19–22 അല്ലെങ്കിൽ ഹെബ്രായർ 12:1–2"],["സുവിശേഷം","മത്തായി 5:1–12 അല്ലെങ്കിൽ മധ്യസ്ഥവിശുദ്ധന്റെ സുവിശേഷം"]],
+  verse:"കർത്താവിന്റെ ആലയത്തിലേക്കു നമുക്കു പോകാമെന്ന് അവർ പറഞ്ഞപ്പോൾ ഞാൻ സന്തോഷിച്ചു.",cite:"സങ്കീർത്തനം 122:1",
+  points:[["എന്തുകൊണ്ട് ഒരു വിശുദ്ധനെ ആഘോഷിക്കുന്നു","മധ്യസ്ഥൻ ക്രിസ്തുവിലേക്കു ചൂണ്ടിക്കാണിക്കുന്ന സുഹൃത്തും മധ്യസ്ഥനുമാണ്, ക്രിസ്തുവിനു പകരക്കാരനല്ല."],["വിശ്വാസത്തിന്റെ ഒരു കുടുംബം","ഇടവക കുടുംബങ്ങളുടെ കുടുംബമാണ്: വിശുദ്ധരോടൊപ്പം സഹപൗരന്മാരും ദൈവഭവനത്തിലെ അംഗങ്ങളും (എഫേ 2:19)."],["യഥാർഥ അലങ്കാരം","ദീപാലങ്കാരങ്ങളും പ്രദക്ഷിണങ്ങളും വെടിക്കെട്ടും കടന്നുപോകുന്നു; കുമ്പസാരവും ഉപവിയും അനുരഞ്ജനവും നിലനിൽക്കുന്നു. തിരുനാളിന്റെ ഒരു പങ്കു ദരിദ്രർക്കായി മാറ്റിവയ്ക്കുക."],["മുന്നോട്ടു നോക്കി","ഒരു ജൂബിലി നന്ദിയോടെ പിന്നോട്ടും ദൗത്യബോധത്തോടെ മുന്നോട്ടും നോക്കുന്നു: ഇന്നു നമ്മുടെ ഇടവകയിൽ ആരാണ് ഇല്ലാത്തത്?"]],
+  homily:["പ്രിയ സഹോദരീസഹോദരന്മാരേ, സങ്കീർത്തകൻ പറയുന്നു: “കർത്താവിന്റെ ആലയത്തിലേക്കു നമുക്കു പോകാമെന്ന് അവർ പറഞ്ഞപ്പോൾ ഞാൻ സന്തോഷിച്ചു.” ഇന്നു നമ്മുടെ ഇടവക സന്തോഷിക്കുന്നു. നമ്മുടെ മധ്യസ്ഥന്റെ തിരുനാൾ (നമ്മുടെ ജൂബിലി) നാം ആഘോഷിക്കുന്നു; ഇടവകയുടെ കുടുംബം മുഴുവൻ സ്വന്തം വീട്ടിലേക്കു വന്നിരിക്കുന്നു.","നാം എന്തിനാണ് ഒരു വിശുദ്ധനെ ആദരിക്കുന്നത്? വിശുദ്ധൻ ക്രിസ്തുവിനു പകരമാകുന്നതുകൊണ്ടല്ല, വിശുദ്ധൻ നമുക്കു ക്രിസ്തുവിനെ കാണിച്ചുതരുന്നതുകൊണ്ടാണ്. നാം നടക്കുന്ന വഴിയിലൂടെ നമ്മുടെ മധ്യസ്ഥൻ നടന്നു; ലക്ഷ്യത്തിലെത്തി. ഈ ഇടവകയ്ക്കുവേണ്ടി പ്രാർഥിക്കുന്ന, സ്വർഗത്തിലെ നമ്മുടെ സുഹൃത്താണ് അദ്ദേഹം (അവൾ).","നമ്മുടെ തിരുനാളിനു ദീപാലങ്കാരങ്ങളും പ്രദക്ഷിണങ്ങളും സംഗീതവും ഭക്ഷണവുമുണ്ട്; അതു നല്ലതാണ്. പക്ഷേ ഒരു തിരുനാളിന്റെ യഥാർഥ അലങ്കാരം ശുദ്ധീകരിക്കപ്പെട്ട ഒരു ഹൃദയമാണ്: നല്ല ഒരു കുമ്പസാരം, അനുരഞ്ജിതമായ ഒരു കുടുംബം, ഓർക്കപ്പെടുന്ന ഒരു ദരിദ്രനായ അയൽക്കാരൻ. ആഘോഷിക്കാൻ കഴിയാത്തവരിലേക്കും ഈ തിരുനാളിന്റെ ഒരു പങ്ക് എത്തട്ടെ.","നമുക്കു മുന്നോട്ടും നോക്കാം. ഇന്നു നമ്മുടെ ഇടവകയിൽ ആരാണ് ഇല്ലാത്തത്? ആരെയാണു നമുക്കു തിരികെ ക്ഷണിക്കാനാവുക? വരുംതലമുറകൾക്കായി ഈ ഇടവക ദൈവത്തിന്റെ ജീവനുള്ള ഭവനമായിരിക്കാൻ നമ്മുടെ മധ്യസ്ഥൻ നമുക്കുവേണ്ടി മാധ്യസ്ഥ്യം വഹിക്കട്ടെ. ആമേൻ."],
+  prayer:"കർത്താവായ ദൈവമേ, ഞങ്ങളുടെ ഇടവകയ്ക്കും ഞങ്ങൾക്കു കൈമാറിക്കിട്ടിയ വിശ്വാസത്തിനുമായി ഞങ്ങൾ നന്ദി പറയുന്നു. ഞങ്ങളുടെ മധ്യസ്ഥന്റെ മാധ്യസ്ഥ്യത്താൽ ഞങ്ങളെ ക്രിസ്തുവിൽ ഒരു കുടുംബമാക്കണമേ; ദരിദ്രരോട് ഉദാരരും അവസാനംവരെ വിശ്വസ്തരുമാക്കണമേ. ആമേൻ."}},
+
+{id:"house",
+ en:{t:"Blessing of a House",sub:"For the blessing of a new house (house warming)",
+  read:[["Old Testament","Joshua 24:14–15 or Psalm 127:1"],["Epistle","Colossians 3:12–17"],["Gospel","Luke 19:1–10 or Luke 10:38–42"]],
+  verse:"…but as for me and my household, we will serve the LORD.",cite:"Joshua 24:15",
+  points:[["Unless the Lord builds the house","“Unless the LORD builds the house, those who build it labor in vain” (Psalm 127:1)."],["Salvation came to Zacchaeus' house","“Today salvation has come to this house” (Luke 19:9): Jesus enters, and the household changes."],["A domestic church","The home is where faith is first learnt: the prayer corner, the family rosary or evening prayer, the Bible on the table."],["An open door","Hospitality to the poor and to guests is a blessing on the house."]],
+  homily:["Dear family, today we bless this new home. Many years of work and saving are in these walls. But the psalm reminds us: “Unless the Lord builds the house, those who build it labor in vain.” Today you invite the Lord to be the true builder.","When Jesus entered the house of Zacchaeus, he said: “Today salvation has come to this house.” A house is blessed not only by holy water but by the presence of Christ. Let him enter every room: the kitchen, the bedroom, the study, and especially the place of family prayer.","Joshua stood before the people and said: “As for me and my household, we will serve the Lord.” Make that your family motto. Keep a prayer corner, pray together every evening, keep the Bible open, and let the children see their parents kneel.","And keep your door open to guests and to the poor. A house that welcomes is a house that God fills with blessing. Peace be to this house and to all who live in it. Amen."],
+  prayer:"Lord Jesus, as you entered the house of Zacchaeus, enter this home. Bless all who live here and all who visit, keep sickness, quarrels and every evil far from it, and make it a home of prayer, peace and welcome. Amen."},
+ ml:{t:"ഭവനവെഞ്ചരിപ്പ്",sub:"പുതിയ ഒരു ഭവനത്തിന്റെ വെഞ്ചരിപ്പിന് (ഗൃഹപ്രവേശം)",
+  read:[["പഴയനിയമം","ജോഷ്വ 24:14–15 അല്ലെങ്കിൽ സങ്കീർത്തനം 127:1"],["ലേഖനം","കൊളോസോസ് 3:12–17"],["സുവിശേഷം","ലൂക്കാ 19:1–10 അല്ലെങ്കിൽ ലൂക്കാ 10:38–42"]],
+  verse:"ഞാനും എന്റെ കുടുംബവും കർത്താവിനെ സേവിക്കും.",cite:"ജോഷ്വ 24:15",
+  points:[["കർത്താവു വീടു പണിയുന്നില്ലെങ്കിൽ","“കർത്താവു വീടു പണിയുന്നില്ലെങ്കിൽ പണിക്കാരുടെ അധ്വാനം വ്യർഥമാണ്” (സങ്കീ 127:1)."],["സക്കേവൂസിന്റെ ഭവനത്തിനു രക്ഷ","“ഇന്ന് ഈ ഭവനത്തിനു രക്ഷ ലഭിച്ചിരിക്കുന്നു” (ലൂക്കാ 19:9): യേശു പ്രവേശിക്കുന്നു, കുടുംബം മാറുന്നു."],["ഗാർഹികസഭ","വിശ്വാസം ആദ്യം പഠിക്കുന്നതു വീട്ടിലാണ്: പ്രാർഥനാമൂല, കുടുംബപ്രാർഥന അല്ലെങ്കിൽ ജപമാല, മേശപ്പുറത്തെ ബൈബിൾ."],["തുറന്ന ഒരു വാതിൽ","അതിഥികളോടും ദരിദ്രരോടുമുള്ള ആതിഥ്യം ഭവനത്തിന് ഒരു അനുഗ്രഹമാണ്."]],
+  homily:["പ്രിയ കുടുംബമേ, ഇന്നു നാം ഈ പുതിയ ഭവനം വെഞ്ചരിക്കുന്നു. വർഷങ്ങളുടെ അധ്വാനവും സമ്പാദ്യവും ഈ ഭിത്തികളിലുണ്ട്. പക്ഷേ സങ്കീർത്തനം നമ്മെ ഓർമിപ്പിക്കുന്നു: “കർത്താവു വീടു പണിയുന്നില്ലെങ്കിൽ പണിക്കാരുടെ അധ്വാനം വ്യർഥമാണ്.” യഥാർഥ ശില്പിയായിരിക്കാൻ ഇന്നു നിങ്ങൾ കർത്താവിനെ ക്ഷണിക്കുന്നു.","സക്കേവൂസിന്റെ ഭവനത്തിൽ പ്രവേശിച്ചപ്പോൾ യേശു പറഞ്ഞു: “ഇന്ന് ഈ ഭവനത്തിനു രക്ഷ ലഭിച്ചിരിക്കുന്നു.” ഒരു ഭവനം വിശുദ്ധജലത്താൽ മാത്രമല്ല, ക്രിസ്തുവിന്റെ സാന്നിധ്യത്താലാണ് അനുഗ്രഹിക്കപ്പെടുന്നത്. ഓരോ മുറിയിലും അവിടുന്നു പ്രവേശിക്കട്ടെ: അടുക്കളയിലും കിടപ്പുമുറിയിലും പഠനമുറിയിലും, പ്രത്യേകിച്ചു കുടുംബപ്രാർഥനയുടെ ഇടത്തിലും.","ജനത്തിന്റെ മുമ്പിൽനിന്നു ജോഷ്വ പറഞ്ഞു: “ഞാനും എന്റെ കുടുംബവും കർത്താവിനെ സേവിക്കും.” അതു നിങ്ങളുടെ കുടുംബത്തിന്റെ ആപ്തവാക്യമാക്കുക. ഒരു പ്രാർഥനാമൂല സൂക്ഷിക്കുക, എല്ലാ സന്ധ്യയിലും ഒന്നിച്ചു പ്രാർഥിക്കുക, ബൈബിൾ തുറന്നുവയ്ക്കുക; മാതാപിതാക്കൾ മുട്ടുകുത്തുന്നതു മക്കൾ കാണട്ടെ.","അതിഥികൾക്കും ദരിദ്രർക്കുമായി നിങ്ങളുടെ വാതിൽ തുറന്നുവയ്ക്കുക. സ്വാഗതം ചെയ്യുന്ന ഒരു ഭവനത്തെ ദൈവം അനുഗ്രഹംകൊണ്ടു നിറയ്ക്കുന്നു. ഈ ഭവനത്തിനും ഇതിൽ വസിക്കുന്ന എല്ലാവർക്കും സമാധാനം. ആമേൻ."],
+  prayer:"കർത്താവായ യേശുവേ, സക്കേവൂസിന്റെ ഭവനത്തിൽ പ്രവേശിച്ചതുപോലെ ഈ ഭവനത്തിൽ പ്രവേശിക്കണമേ. ഇവിടെ വസിക്കുന്നവരെയും സന്ദർശിക്കുന്നവരെയും അനുഗ്രഹിക്കണമേ; രോഗവും കലഹവും എല്ലാ തിന്മയും ഇതിൽനിന്ന് അകറ്റണമേ; ഇതിനെ പ്രാർഥനയുടെയും സമാധാനത്തിന്റെയും സ്വാഗതത്തിന്റെയും ഭവനമാക്കണമേ. ആമേൻ."}},
+
+{id:"school",
+ en:{t:"Beginning of the School or Academic Year",sub:"For a school Mass, the start of the academic year, or before examinations",
+  read:[["Old Testament","1 Kings 3:5–12 or Proverbs 2:1–9"],["Epistle","Philippians 4:4–9"],["Gospel","Luke 2:41–52"]],
+  verse:"And Jesus increased in wisdom and in years, and in divine and human favor.",cite:"Luke 2:52",
+  points:[["Ask for wisdom, like Solomon","Solomon asked not for riches but for “an understanding mind” (1 Kings 3:9)."],["Jesus grew","“Jesus increased in wisdom and in years, and in divine and human favor” (Luke 2:52): grow in all three."],["Think about what is good","“Whatever is true, whatever is honorable… think about these things” (Philippians 4:8)."],["Teachers and parents","Thank teachers; parents are the first teachers."]],
+  homily:["Dear children, dear teachers, a new year of learning begins. When God asked young King Solomon what he wanted, Solomon did not ask for riches or for victory over his enemies. He asked for wisdom, “an understanding mind”. God was so pleased that he gave him that and much more.","St Luke tells us that the boy Jesus “increased in wisdom and in years, and in divine and human favor.” Notice the three things: wisdom, which is learning; years, which is growing up; and favour with God and people, which is goodness. A good student grows in all three.","St Paul gives a simple rule for the mind: “Whatever is true, whatever is honorable, whatever is just, whatever is pure… think about these things.” What you watch and read and think shapes who you become.","Let us thank God for our teachers and our parents, and let us begin this year asking, like Solomon, for wisdom. Amen."],
+  prayer:"Lord Jesus, you grew in wisdom and in favour with God and people. Bless our students, teachers and parents this year; give us understanding minds, honest work and kind hearts. Amen."},
+ ml:{t:"അധ്യയനവർഷാരംഭം",sub:"സ്കൂൾ കുർബാനയ്ക്കോ അധ്യയനവർഷത്തിന്റെ ആരംഭത്തിനോ പരീക്ഷകൾക്കു മുമ്പോ",
+  read:[["പഴയനിയമം","1 രാജാക്കന്മാർ 3:5–12 അല്ലെങ്കിൽ സുഭാഷിതങ്ങൾ 2:1–9"],["ലേഖനം","ഫിലിപ്പി 4:4–9"],["സുവിശേഷം","ലൂക്കാ 2:41–52"]],
+  verse:"യേശു ജ്ഞാനത്തിലും പ്രായത്തിലും ദൈവത്തിന്റെയും മനുഷ്യരുടെയും പ്രീതിയിലും വളർന്നുവന്നു.",cite:"ലൂക്കാ 2:52",
+  points:[["സോളമനെപ്പോലെ ജ്ഞാനം ചോദിക്കുക","സോളമൻ സമ്പത്തല്ല, വിവേകമുള്ള ഒരു ഹൃദയമാണു ചോദിച്ചത് (1 രാജാ 3:9)."],["യേശു വളർന്നു","“യേശു ജ്ഞാനത്തിലും പ്രായത്തിലും ദൈവത്തിന്റെയും മനുഷ്യരുടെയും പ്രീതിയിലും വളർന്നുവന്നു” (ലൂക്കാ 2:52): ഈ മൂന്നിലും വളരുക."],["നല്ലതിനെപ്പറ്റി ചിന്തിക്കുക","സത്യവും വന്ദ്യവും നീതിയുക്തവും നിർമലവുമായതെന്തോ… അതിനെപ്പറ്റി ചിന്തിക്കുവിൻ (ഫിലി 4:8)."],["അധ്യാപകരും മാതാപിതാക്കളും","അധ്യാപകർക്കു നന്ദി പറയുക; മാതാപിതാക്കളാണ് ആദ്യത്തെ അധ്യാപകർ."]],
+  homily:["പ്രിയ കുഞ്ഞുങ്ങളേ, പ്രിയ അധ്യാപകരേ, പഠനത്തിന്റെ ഒരു പുതിയ വർഷം ആരംഭിക്കുന്നു. യുവരാജാവായ സോളമനോട് എന്തു വേണമെന്നു ദൈവം ചോദിച്ചപ്പോൾ, സമ്പത്തോ ശത്രുക്കളുടെമേൽ വിജയമോ അല്ല അവൻ ചോദിച്ചത്. ജ്ഞാനം, വിവേകമുള്ള ഒരു ഹൃദയം, അവൻ ചോദിച്ചു. ദൈവം അത്യധികം പ്രസാദിച്ച് അതും അതിലേറെയും അവനു നൽകി.","ബാലനായ യേശു ജ്ഞാനത്തിലും പ്രായത്തിലും ദൈവത്തിന്റെയും മനുഷ്യരുടെയും പ്രീതിയിലും വളർന്നുവെന്നു വിശുദ്ധ ലൂക്കാ പറയുന്നു. മൂന്നു കാര്യങ്ങൾ ശ്രദ്ധിക്കൂ: ജ്ഞാനം, അതായതു പഠനം; പ്രായം, അതായതു വളർച്ച; ദൈവത്തിന്റെയും മനുഷ്യരുടെയും പ്രീതി, അതായതു നന്മ. നല്ല ഒരു വിദ്യാർഥി ഈ മൂന്നിലും വളരുന്നു.","മനസ്സിനായി വിശുദ്ധ പൗലോസ് ലളിതമായ ഒരു നിയമം നൽകുന്നു: സത്യവും വന്ദ്യവും നീതിയുക്തവും നിർമലവുമായതെന്തോ അതിനെപ്പറ്റി ചിന്തിക്കുവിൻ. നിങ്ങൾ കാണുന്നതും വായിക്കുന്നതും ചിന്തിക്കുന്നതുമാണു നിങ്ങളെ രൂപപ്പെടുത്തുന്നത്.","നമ്മുടെ അധ്യാപകർക്കും മാതാപിതാക്കൾക്കുമായി നമുക്കു ദൈവത്തിനു നന്ദി പറയാം; സോളമനെപ്പോലെ ജ്ഞാനം ചോദിച്ചുകൊണ്ട് ഈ വർഷം ആരംഭിക്കാം. ആമേൻ."],
+  prayer:"ജ്ഞാനത്തിലും ദൈവത്തിന്റെയും മനുഷ്യരുടെയും പ്രീതിയിലും വളർന്ന കർത്താവായ യേശുവേ, ഈ വർഷം ഞങ്ങളുടെ വിദ്യാർഥികളെയും അധ്യാപകരെയും മാതാപിതാക്കളെയും അനുഗ്രഹിക്കണമേ; വിവേകമുള്ള ഹൃദയവും സത്യസന്ധമായ അധ്വാനവും ദയയുള്ള മനസ്സും ഞങ്ങൾക്കു നൽകണമേ. ആമേൻ."}}
+];
+
+var _render=render;render=function(){var docs=S.view==="docs";_render();document.querySelector(".datebar").hidden=docs;document.querySelector(".tabs").hidden=docs;$("note").hidden=docs||S.tab==="occ";$("r-docs").textContent=S.lang==="en"?"Papal documents":"മാർപാപ്പമാരുടെ രേഖകൾ";$("r-docs").setAttribute("aria-pressed",docs);if(docs){["smc","smk","lat"].forEach(function(r){$("r-"+r).setAttribute("aria-pressed","false")});renderDocs()}};
 applyFS();
 render();
+showWelcome();
 </script>
 
 </body>
