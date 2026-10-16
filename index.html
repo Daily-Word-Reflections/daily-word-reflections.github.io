@@ -3430,12 +3430,12 @@ function smcTitle(k){var x=SMC[k];return x&&x.t.length?x.t.map(function(s){retur
 function smcReadings(k){var x=SMC[k];if(!x)return "";return '<div class="readings">'+x.g.map(function(g){return (g.h?'<div class="grp">'+esc(g.h)+"</div>":"")+g.r.map(function(r){return '<div class="rd"><span class="lab"></span><span class="ref">'+esc(r[0])+'</span><span class="rt">'+esc(r[1])+"</span></div>"}).join("")}).join("")+"</div>"}
 
 var U2={
- en:{quick:"In 30 seconds",action:"Today",question:"Question for the day",special:"Note for this Sunday",illus:"Illustration",kids:"For the children in the front rows",diaspora:"For our diaspora",diasporaPh:"Space for a note for Malayali Catholics abroad: feasts kept on other dates, local Mass times, intentions for migrants.",
+ en:{quick:"At a Glance",action:"Today",question:"Question for the day",special:"Note for this Sunday",illus:"Illustration",kids:"For the children in the front rows",diaspora:"For our diaspora",diasporaPh:"Space for a note for Malayali Catholics abroad: feasts kept on other dates, local Mass times, intentions for migrants.",
   famcorner:"For family prayer and prayer meetings",read:"Read",explain:"In simple words",intention:"Tonight's intention",ask:"At the table",catech:"Catechism link",kidsaint:"Saint for the children",
   req:"Prayer requests",reqtxt:"Send your intentions. Every Friday they are remembered at the Holy Qurbana offered for the readers of Anudina Vachanam.",reqbtn:"A request form will be linked here",
   term:"Word of the day",season:"About this season",more:"Did you know?",search:"Search by date, feast, saint, Bible book or keyword",noresult:"Nothing found.",
   about:"About Anudina Vachanam",about1:"Anudina Vachanam is prepared prayerfully by a Catholic priest in Kerala who prefers to remain unnamed, so that the Word alone is seen. It follows the official liturgical calendars of the Syro-Malabar, Syro-Malankara and Latin Churches and the POC Bible.",about2:"Readings are given as references only. Reflections and homily notes are original. To write to us or send a prayer request, use the form that will be linked here."},
- ml:{quick:"30 സെക്കൻഡിൽ",action:"ഇന്ന്",question:"ഇന്നത്തെ ചോദ്യം",special:"ഈ ഞായറിനെപ്പറ്റി",illus:"ഉദാഹരണം",kids:"മുൻനിരയിലെ കുഞ്ഞുങ്ങൾക്ക്",diaspora:"പ്രവാസികൾക്കായി",diasporaPh:"വിദേശത്തുള്ള മലയാളി കത്തോലിക്കർക്കായുള്ള കുറിപ്പിനുള്ള ഇടം: മറ്റു തീയതികളിൽ ആചരിക്കുന്ന തിരുനാളുകൾ, പ്രാദേശിക കുർബാനസമയങ്ങൾ, പ്രവാസികൾക്കായുള്ള നിയോഗങ്ങൾ.",
+ ml:{quick:"ഒറ്റനോട്ടത്തിൽ",action:"ഇന്ന്",question:"ഇന്നത്തെ ചോദ്യം",special:"ഈ ഞായറിനെപ്പറ്റി",illus:"ഉദാഹരണം",kids:"മുൻനിരയിലെ കുഞ്ഞുങ്ങൾക്ക്",diaspora:"പ്രവാസികൾക്കായി",diasporaPh:"വിദേശത്തുള്ള മലയാളി കത്തോലിക്കർക്കായുള്ള കുറിപ്പിനുള്ള ഇടം: മറ്റു തീയതികളിൽ ആചരിക്കുന്ന തിരുനാളുകൾ, പ്രാദേശിക കുർബാനസമയങ്ങൾ, പ്രവാസികൾക്കായുള്ള നിയോഗങ്ങൾ.",
   famcorner:"കുടുംബപ്രാർഥനയ്ക്കും പ്രാർഥനാകൂട്ടായ്മയ്ക്കും",read:"വായിക്കുക",explain:"ലളിതമായി",intention:"ഇന്നു രാത്രിയിലെ നിയോഗം",ask:"ഭക്ഷണമേശയിൽ",catech:"മതബോധനബന്ധം",kidsaint:"കുഞ്ഞുങ്ങൾക്കായി ഒരു വിശുദ്ധൻ",
   req:"പ്രാർഥനാനിയോഗങ്ങൾ",reqtxt:"നിങ്ങളുടെ നിയോഗങ്ങൾ അയയ്ക്കുക. എല്ലാ വെള്ളിയാഴ്ചയും അനുദിന വചനത്തിന്റെ വായനക്കാർക്കായി അർപ്പിക്കുന്ന വിശുദ്ധ കുർബാനയിൽ അവ ഓർക്കപ്പെടുന്നു.",reqbtn:"നിയോഗങ്ങൾ അയയ്ക്കാനുള്ള ഫോം ഇവിടെ ചേർക്കും",
   term:"ഇന്നത്തെ വാക്ക്",season:"ഈ കാലത്തെപ്പറ്റി",more:"നിങ്ങൾക്കറിയാമോ?",search:"തീയതി, തിരുനാൾ, വിശുദ്ധൻ, ബൈബിൾ പുസ്തകം, വാക്ക് എന്നിവകൊണ്ടു തിരയുക",noresult:"ഒന്നും കണ്ടെത്തിയില്ല.",
@@ -3754,7 +3754,7 @@ var PACK={
    notprep:"Für diesen Tag sind Betrachtung und Predigt noch nicht vorbereitet.",goSample:"Vorbereitetes Beispiel öffnen (Sonntag, 18. Oktober 2026)",
    latsrc:"Zeit und Woche nach dem römischen Kalender berechnet; Feste bitte im offiziellen Direktorium prüfen.",cycle:function(s,w){return "Lesejahr "+s+" · Wochentagsreihe "+w},
    partial:"Die Predigt, die Kinderpredigt, die Lesungen und das Gebet sind auf Deutsch; die übrigen Abschnitte vorerst auf Englisch.",allen:"Dieser Tag ist noch nicht ins Deutsche übersetzt und wird auf Englisch angezeigt."},
-  v:{search:"Suche nach Datum, Fest, Heiligen, Bibelbuch oder Stichwort",quick:"In 30 Sekunden",action:"Heute",question:"Frage für den Tag",noresult:"Nichts gefunden."}},
+  v:{search:"Suche nach Datum, Fest, Heiligen, Bibelbuch oder Stichwort",quick:"Auf einen Blick",action:"Heute",question:"Frage für den Tag",noresult:"Nichts gefunden."}},
  it:{u:{eyebrow:"La Parola di Dio per ogni giorno",brand:"La Parola di ogni giorno",sub:"Letture, riflessione e tracce per l'omelia per ogni giorno · Siro-malabarese · Siro-malankarese · Latino",
    rites:{smc:"Siro-malabarese",smk:"Siro-malankarese",lat:"Latino"},tabs:{lectern:"Ambone",homily:"Omelia",cal:"Pagina del calendario",family:"Gruppo di preghiera",lit:"Conoscere la liturgia",occ:"Occasioni speciali"},
    today:"Oggi",sample:"Giorno di esempio",days:["Domenica","Lunedì","Martedì","Mercoledì","Giovedì","Venerdì","Sabato"],dshort:["Do","Lu","Ma","Me","Gi","Ve","Sa"],
@@ -3763,7 +3763,7 @@ var PACK={
    notprep:"La riflessione e l'omelia per questo giorno non sono ancora pronte.",goSample:"Apri l'esempio preparato (domenica 18 ottobre 2026)",
    latsrc:"Tempo e settimana calcolati secondo il calendario romano; verificare le feste nel Calendario liturgico ufficiale.",cycle:function(s,w){return "Anno "+s+" · Ciclo feriale "+w},
    partial:"L'omelia, l'omelia per i bambini, le letture e la preghiera sono in italiano; le altre sezioni per ora in inglese.",allen:"Questo giorno non è ancora tradotto in italiano ed è mostrato in inglese."},
-  v:{search:"Cerca per data, festa, santo, libro biblico o parola chiave",quick:"In 30 secondi",action:"Oggi",question:"Domanda del giorno",noresult:"Nessun risultato."}},
+  v:{search:"Cerca per data, festa, santo, libro biblico o parola chiave",quick:"A colpo d’occhio",action:"Oggi",question:"Domanda del giorno",noresult:"Nessun risultato."}},
  ta:{u:{eyebrow:"ஒவ்வொரு நாளும் கடவுளின் வார்த்தை",brand:"அனுதின இறைவார்த்தை",sub:"ஒவ்வொரு நாளுக்கான வாசகங்கள், சிந்தனை, மறையுரைக் குறிப்புகள் · சீரோ-மலபார் · சீரோ-மலங்கரா · இலத்தீன்",
    rites:{smc:"சீரோ-மலபார்",smk:"சீரோ-மலங்கரா",lat:"இலத்தீன்"},tabs:{lectern:"வாசக மேடை",homily:"மறையுரை",cal:"நாள்காட்டி",family:"செபக் கூட்டம்",lit:"வழிபாட்டை அறிவோம்",occ:"சிறப்பு நிகழ்வுகள்"},
    today:"இன்று",sample:"மாதிரி நாள்",days:["ஞாயிறு","திங்கள்","செவ்வாய்","புதன்","வியாழன்","வெள்ளி","சனி"],dshort:["ஞா","தி","செ","பு","வி","வெ","ச"],
@@ -3771,7 +3771,7 @@ var PACK={
    h:{homily:"திருப்பலிக்கான மறையுரை",kidsMass:"குழந்தைகள் / பள்ளித் திருப்பலி"},copy:"நகலெடு",copied:"நகலெடுக்கப்பட்டது",
    notprep:"இந்த நாளுக்கான சிந்தனையும் மறையுரையும் இன்னும் தயாராகவில்லை.",goSample:"தயாரான மாதிரியைத் திறக்கவும் (ஞாயிறு, 18 அக்டோபர் 2026)",
    partial:"மறையுரை, குழந்தைகள் மறையுரை, வாசகங்கள், செபம் ஆகியவை தமிழில் உள்ளன; மற்ற பகுதிகள் இப்போதைக்கு ஆங்கிலத்தில்.",allen:"இந்த நாள் இன்னும் தமிழில் மொழிபெயர்க்கப்படவில்லை; ஆங்கிலத்தில் காட்டப்படுகிறது."},
-  v:{search:"தேதி, திருநாள், புனிதர், விவிலிய நூல் அல்லது சொல் மூலம் தேடுங்கள்",quick:"30 வினாடிகளில்",action:"இன்று",question:"இன்றைய கேள்வி",noresult:"எதுவும் கிடைக்கவில்லை."}},
+  v:{search:"தேதி, திருநாள், புனிதர், விவிலிய நூல் அல்லது சொல் மூலம் தேடுங்கள்",quick:"ஒரே பார்வையில்",action:"இன்று",question:"இன்றைய கேள்வி",noresult:"எதுவும் கிடைக்கவில்லை."}},
  hi:{u:{eyebrow:"हर दिन के लिए ईश्वर का वचन",brand:"दैनिक वचन",sub:"हर दिन के पाठ, मनन और प्रवचन-संकेत · सीरो-मलबार · सीरो-मलंकरा · लैटिन",
    rites:{smc:"सीरो-मलबार",smk:"सीरो-मलंकरा",lat:"लैटिन"},tabs:{lectern:"पाठ-मंच",homily:"प्रवचन",cal:"कैलेंडर पृष्ठ",family:"प्रार्थना सभा",lit:"धर्मविधि को जानें",occ:"विशेष अवसर"},
    today:"आज",sample:"नमूना दिन",days:["रविवार","सोमवार","मंगलवार","बुधवार","गुरुवार","शुक्रवार","शनिवार"],dshort:["रवि","सोम","मंगल","बुध","गुरु","शुक्र","शनि"],
@@ -3779,7 +3779,7 @@ var PACK={
    h:{homily:"मिस्सा के लिए प्रवचन",kidsMass:"बच्चों / स्कूल की मिस्सा"},copy:"कॉपी करें",copied:"कॉपी हो गया",
    notprep:"इस दिन का मनन और प्रवचन अभी तैयार नहीं है।",goSample:"तैयार नमूना खोलें (रविवार, 18 अक्तूबर 2026)",
    partial:"प्रवचन, बच्चों का प्रवचन, पाठ और प्रार्थना हिन्दी में हैं; बाक़ी भाग अभी अंग्रेज़ी में हैं।",allen:"इस दिन का अभी हिन्दी में अनुवाद नहीं हुआ है; यह अंग्रेज़ी में दिखाया गया है।"},
-  v:{search:"तारीख़, पर्व, संत, बाइबिल ग्रंथ या शब्द से खोजें",quick:"30 सेकंड में",action:"आज",question:"आज का प्रश्न",noresult:"कुछ नहीं मिला।"}}
+  v:{search:"तारीख़, पर्व, संत, बाइबिल ग्रंथ या शब्द से खोजें",quick:"एक नज़र में",action:"आज",question:"आज का प्रश्न",noresult:"कुछ नहीं मिला।"}}
 };
 UI.en.h.homily="Homily for the Mass";UI.en.h.kidsMass="Children's / school Mass";UI.en.partial="";
 UI.ml.h.homily="കുർബാനയ്ക്കുള്ള പ്രസംഗം";UI.ml.h.kidsMass="കുട്ടികളുടെ / സ്കൂൾ കുർബാന";UI.ml.partial="";UI.ml.allen="ഈ ദിവസം ഇതുവരെ മലയാളത്തിലേക്കു വിവർത്തനം ചെയ്തിട്ടില്ല; ഇംഗ്ലീഷിൽ കാണിക്കുന്നു.";
