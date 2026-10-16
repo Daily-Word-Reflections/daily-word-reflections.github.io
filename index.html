@@ -62,6 +62,18 @@ body{background:var(--bg);color:var(--ink);font-family:var(--serif);font-size:17
 .nav{display:flex;align-items:center;gap:6px}
 .nav button{width:38px;height:38px;border-radius:50%;border:1px solid var(--rule);background:var(--bg);color:var(--ink);font-size:18px;cursor:pointer}
 .datebar input{font:600 15px var(--sans);color:var(--ink);background:var(--bg);border:1px solid var(--rule);border-radius:10px;padding:7px 10px}
+.datebar{position:relative}
+.calpop{position:absolute;z-index:20;top:100%;right:8px;margin-top:6px;width:min(320px,calc(100vw - 32px));background:var(--paper);border:1px solid var(--rule);border-radius:14px;padding:10px;box-shadow:var(--shadow);font:14px var(--sans)}
+.calpop .ch{display:flex;align-items:center;justify-content:space-between;font-weight:600;margin-bottom:6px}
+.calpop .ch button{border:0;background:none;color:var(--ink);font-size:20px;padding:2px 10px;cursor:pointer}
+.calpop .cg{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;text-align:center}
+.calpop .cw{color:var(--muted);font-size:12px;padding:4px 0}
+.calpop .cw.sun,.calpop .cd.sun{color:#b3261e}
+.calpop .cd{border:0;background:none;color:var(--ink);padding:7px 0;border-radius:8px;cursor:pointer;font:inherit;position:relative}
+.calpop .cd:hover{background:var(--bg)}
+.calpop .cd.has::after{content:"";position:absolute;left:50%;bottom:2px;width:4px;height:4px;margin-left:-2px;border-radius:50%;background:currentColor;opacity:.5}
+.calpop .cd.sel{background:var(--ink);color:var(--paper)}
+.calpop .cd.tod{outline:1px solid var(--rule)}
 .datebar .dlabel{font:600 15px var(--sans);flex:1;min-width:180px}
 .pill{font:600 13px var(--sans);border:1px solid var(--gold);color:var(--gold);background:transparent;border-radius:999px;padding:6px 12px;cursor:pointer}
 .tabs{display:flex;gap:6px;border-bottom:1px solid var(--rule);overflow-x:auto}
@@ -217,7 +229,7 @@ details.about li b{display:block;color:var(--ink)}
   <div class="datebar">
     <div class="nav"><button id="prev" aria-label="Previous day">‹</button><button id="next" aria-label="Next day">›</button></div>
     <div class="dlabel" id="dlabel"></div>
-    <input type="date" id="dpick" aria-label="Choose date">
+    <button class="pill calbtn" id="dpick" aria-label="Choose date" aria-expanded="false">📅</button><div class="calpop" id="calpop" hidden></div>
     <button class="pill" id="today"></button>
     <button class="pill" id="sample"></button>
   </div>
@@ -3814,7 +3826,7 @@ function render(){
  var TT=TAB2[S.lang]||TAB2.en;$("t-lectern").textContent=TT.lectern;$("t-homily").textContent=TT.homily;
  ["lectern","homily","lit"].forEach(function(k){if(k==="lit")$("t-"+k).textContent=u.tabs[k];$("t-"+k).setAttribute("aria-selected",S.tab===k)});
  $("today").textContent=u.today;$("sample").textContent=u.sample;$("q").placeholder=v.search;
- $("dlabel").textContent=dateLabel(t,S.lang);$("dpick").value=S.date;
+ $("dlabel").textContent=dateLabel(t,S.lang);if(!$("calpop").hidden)drawCal();
  var hw=HOW[S.lang]||HOW.en;$("about-s").textContent=hw.t;$("about-b").innerHTML="<p>"+esc(hw.intro)+"</p><ol>"+hw.steps.map(function(s){return "<li><span><b>"+esc(s[0])+"</b>"+esc(s[1])+"</span></li>"}).join("")+"</ol><p>"+esc(hw.bible)+"</p>";
  renderContact();
 
@@ -4031,7 +4043,20 @@ $("langseg").addEventListener("click",function(e){var b=e.target.closest("[data-
 document.querySelectorAll("[data-tab]").forEach(function(b){b.addEventListener("click",function(){S.tab=b.dataset.tab;render()})});
 $("prev").addEventListener("click",function(){go(iso(parseISO(S.date)-DAY))});
 $("next").addEventListener("click",function(){go(iso(parseISO(S.date)+DAY))});
-$("dpick").addEventListener("change",function(){if(this.value)go(this.value)});
+var CM=null;
+function drawCal(){var u=UI[S.lang]||UI.en,ds=u.dshort||UI.en.dshort,ms=u.months||UI.en.months,b=CM||S.date.slice(0,7),y=+b.slice(0,4),m=+b.slice(5,7)-1,f=Date.UTC(y,m,1),sd=new Date(f).getUTCDay(),n=new Date(Date.UTC(y,m+1,0)).getUTCDate(),td=todayISO(),h='<div class="ch"><button data-cm="-1" aria-label="Previous month">‹</button><span>'+esc(ms[m])+" "+y+'</span><button data-cm="1" aria-label="Next month">›</button></div><div class="cg">';
+ for(var i=0;i<7;i++)h+='<div class="cw'+(i===0?" sun":"")+'">'+esc(ds[i])+"</div>";
+ for(i=0;i<sd;i++)h+="<div></div>";
+ for(var d=1;d<=n;d++){var k=iso(Date.UTC(y,m,d)),w=(sd+d-1)%7,has=CONTENT[k]&&CONTENT[k][S.rite]||(S.rite==="smc"&&typeof SMC!=="undefined"&&SMC[k]);
+  h+='<button class="cd'+(w===0?" sun":"")+(has?" has":"")+(k===S.date?" sel":"")+(k===td?" tod":"")+'" data-cd="'+k+'">'+d+"</button>"}
+ $("calpop").innerHTML=h+"</div>"}
+function calOpen(o){$("calpop").hidden=!o;$("dpick").setAttribute("aria-expanded",o);if(o){CM=S.date.slice(0,7);drawCal()}}
+$("dpick").addEventListener("click",function(e){e.stopPropagation();calOpen($("calpop").hidden)});
+$("calpop").addEventListener("click",function(e){e.stopPropagation();var c=e.target.closest("[data-cm]"),d=e.target.closest("[data-cd]");
+ if(c){var y=+CM.slice(0,4),m=+CM.slice(5,7)-1+(+c.dataset.cm);var t=new Date(Date.UTC(y,m,1));CM=t.getUTCFullYear()+"-"+String(t.getUTCMonth()+1).padStart(2,"0");drawCal()}
+ else if(d){calOpen(false);go(d.dataset.cd)}});
+document.addEventListener("click",function(){if(!$("calpop").hidden)calOpen(false)});
+document.addEventListener("keydown",function(e){if(e.key==="Escape"&&!$("calpop").hidden)calOpen(false)});
 $("today").addEventListener("click",function(){go(todayISO())});
 $("sample").addEventListener("click",function(){go("2026-10-18")});
 $("card").addEventListener("click",function(e){var b=e.target.closest("[data-go]");if(b)go(b.dataset.go)});
