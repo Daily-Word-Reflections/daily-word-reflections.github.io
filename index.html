@@ -8,18 +8,18 @@
 <meta name="description" content="Daily Word: readings, reflections and homily notes for every day, for the Syro-Malabar, Syro-Malankara and Latin rites.">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Daily Word">
-<meta property="og:title" content="Daily Word · അനുദിന വചനം">
+<meta property="og:title" content="Daily Word · Preach the Lord every day">
 <meta property="og:description" content="Readings, reflections and homily notes for every day: Syro-Malabar, Syro-Malankara and Latin, in English and Malayalam.">
 <meta property="og:url" content="https://daily-word-reflections.github.io/">
-<meta property="og:image" content="https://daily-word-reflections.github.io/og-image.jpg">
-<meta property="og:image:secure_url" content="https://daily-word-reflections.github.io/og-image.jpg">
+<meta property="og:image" content="https://daily-word-reflections.github.io/og-image.jpg?v=2">
+<meta property="og:image:secure_url" content="https://daily-word-reflections.github.io/og-image.jpg?v=2">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Daily Word: God's word for every day">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://daily-word-reflections.github.io/og-image.jpg">
-<link rel="apple-touch-icon" href="og-image.jpg">
+<meta name="twitter:image" content="https://daily-word-reflections.github.io/og-image.jpg?v=2">
+<link rel="apple-touch-icon" href="og-image.jpg?v=2">
 <style>html,body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
 </head>
 <body>
@@ -143,7 +143,9 @@ blockquote.key cite{display:block;font:normal 13px var(--sans);color:var(--muted
 .dcell[aria-current="date"]{border-color:var(--gold);background:radial-gradient(100% 100% at 50% 0%,var(--goldsoft),var(--bg))}
 .dcell .wd{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .dcell .dn{font:600 22px/1.1 var(--display)}
-.dcell .tt{font-size:10.5px;line-height:1.3;color:var(--muted);overflow-wrap:anywhere}
+.dcell .tt{font-size:10.5px;line-height:1.3;color:var(--gold);font-weight:600;overflow-wrap:anywhere}
+.dcell.sp{border-color:var(--goldsoft)}
+.wkname{font:600 13px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);text-align:center;margin:2px 0 8px}
 @media (max-width:600px){.strip{grid-template-columns:repeat(4,minmax(0,1fr))}.rd{grid-template-columns:1fr}.rd .rt{grid-column:1}.dtitle{font-size:26px}}
 .post{display:grid;gap:10px}
 .post pre{white-space:pre-wrap;font:14px/1.55 var(--sans);background:var(--bg);border:1px dashed var(--rule);border-radius:12px;padding:14px;margin:0;max-height:300px;overflow:auto}
@@ -3501,14 +3503,33 @@ function render(){
  var empty='<div class="empty"><div>'+esc(u.notprep)+'</div><button class="pill" data-go="2026-10-18">'+esc(u.goSample)+"</button></div>";
  var html=head;
 
- /* week strip: shared by the Word tab */
+ /* week strip: week named once above; each day shows only its saint or special day */
  var ws=t-dw*DAY,cells="",fe=[];
- for(var i=0;i<7;i++){var dt=ws+i*DAY,k=iso(dt),lbl="";
-  if(S.rite==="smc"){lbl=smcTitle(k);var x=SMC[k];if(x&&k===S.date)x.g.forEach(function(g){if(g.h&&!/^\(/.test(g.h))fe.push([dateLabel(dt,S.lang),g.h])})}
-  else if(S.rite==="lat"){lbl=latinLabel(latin(dt),S.lang)}
-  else {var cc=CONTENT[k]&&CONTENT[k].smk&&(CONTENT[k].smk[S.lang]||CONTENT[k].smk.en);lbl=cc?cc.title:""}
-  cells+='<button class="dcell" data-go="'+k+'"'+(k===S.date?' aria-current="date"':"")+'><span class="wd">'+esc(u.dshort[i])+'</span><span class="dn">'+new Date(dt).getUTCDate()+'</span><span class="tt">'+esc(lbl)+"</span></button>"}
- var strip='<div class="strip">'+cells+"</div>";
+ var SPRX=/^(Saint|St\.?\s|Sts\.?\s|Feast|Commemoration|Holy |The |First Friday|Christmas|Entrance|Presentation|Immaculate|Nativity|Our Lady|Blessed|End of the Year|Dukhrana|Epiphany|Ash )/;
+ function ctitle(k){var c=CONTENT[k]&&CONTENT[k][S.rite];c=c&&(c[S.lang]||c.en);return c?c.title:""}
+ function special(k,dt){
+  var tt=ctitle(k),wd=new Date(dt).getUTCDay();
+  if(tt&&tt.indexOf(" · ")>0){var pp=tt.split(" · ");if(/(Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)\b|ഞായർ|തിങ്കൾ|ചൊവ്വ|ബുധൻ|വ്യാഴം|വെള്ളി|ശനി/.test(pp[0]))return pp.slice(1).join(" · ");return pp[0]}
+  if(S.rite==="smc"){var x=SMC[k];if(x){for(var j=0;j<x.g.length;j++){var h=(x.g[j].h||"").trim().replace(/[,.]$/,"");if(h&&SPRX.test(h))return h}var tl=(x.t[0]||"").trim();if(/Christmas|Epiphany|Denha|Pentecost|Easter|Resurrection|Palm|Pesaha|Good Friday|Holy Saturday/.test(tl)&&!/(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday) of/.test(tl))return tl}
+   if(!x&&tt&&wd!==0)return tt}
+  else if(S.rite==="lat"){var L2=latin(dt);if(L2.special)return latinLabel(L2,S.lang);var lf=LATFEAST[k.slice(5)];if(lf)return lf[S.lang==="ml"?1:0];if(tt&&wd!==0)return tt}
+  else if(tt&&wd!==0)return tt;
+  return "";}
+ var LATFEAST={"11-01":["All Saints","സകലവിശുദ്ധർ"],"11-02":["All Souls","സകല മരിച്ചവരുടെയും ഓർമ"],"11-04":["St Charles Borromeo","വി. ചാൾസ് ബൊറോമിയോ"],"11-09":["Dedication of the Lateran Basilica","ലാറ്ററൻ ബസിലിക്കയുടെ പ്രതിഷ്ഠ"],"11-10":["St Leo the Great","മഹാനായ വി. ലെയോ"],"11-11":["St Martin of Tours","ടൂർസിലെ വി. മാർട്ടിൻ"],"11-12":["St Josaphat","വി. ജോസഫാത്ത്"],"11-17":["St Elizabeth of Hungary","ഹംഗറിയിലെ വി. എലിസബത്ത്"],"11-21":["Presentation of Mary","മറിയത്തിന്റെ സമർപ്പണം"],"11-22":["St Cecilia","വി. സിസിലിയ"],"11-24":["Vietnamese Martyrs","വിയറ്റ്നാം രക്തസാക്ഷികൾ"],"11-30":["St Andrew","വി. അന്ത്രയോസ്"],"12-03":["St Francis Xavier","വി. ഫ്രാൻസിസ് സേവ്യർ"],"12-07":["St Ambrose","വി. അംബ്രോസ്"],"12-08":["Immaculate Conception","അമലോദ്ഭവം"],"12-12":["Our Lady of Guadalupe","ഗ്വാദലൂപ്പെ മാതാവ്"],"12-13":["St Lucy","വി. ലൂസി"],"12-14":["St John of the Cross","കുരിശിന്റെ വി. യോഹന്നാൻ"],"12-26":["St Stephen","വി. സ്തേഫാനോസ്"],"12-27":["St John the Apostle","വി. യോഹന്നാൻ ശ്ലീഹാ"],"12-28":["Holy Innocents","കുഞ്ഞിപ്പൈതങ്ങൾ"],"01-01":["Mary, Mother of God","ദൈവമാതാവായ മറിയം"],"01-02":["Sts Basil & Gregory","വി. ബേസിൽ, ഗ്രിഗറി"],"01-03":["St Kuriakose Elias Chavara","വി. ചാവറയച്ചൻ"],"01-17":["St Anthony, Abbot","വി. അന്തോണി ആബട്ട്"],"01-24":["St Francis de Sales","വി. ഫ്രാൻസിസ് സാലസ്"],"01-25":["Conversion of St Paul","വി. പൗലോസിന്റെ മാനസാന്തരം"],"01-28":["St Thomas Aquinas","വി. തോമസ് അക്വീനാസ്"],"01-31":["St John Bosco","വി. ഡോൺ ബോസ്കോ"]};
+ function weekName(){
+  var k0=iso(ws),tt=ctitle(k0);
+  if(S.rite==="smc"){var en0=SMC[k0]?smcTitle(k0):"";
+   if(S.lang==="ml"&&tt)return tt.split(" · ")[0].replace("ഞായർ","ആഴ്ച");
+   if(en0)return en0.replace(/\bSunday\b/,"Week");
+   return tt?tt.split(" · ")[0].replace(/\bSunday\b/,"Week"):"";}
+  if(S.rite==="lat"){var L0=latin(ws);return latinLabel(L0,S.lang).replace(/^Sunday of the /,"").replace(/\bSunday\b/,"Week")}
+  if(tt)return tt.split(" · ")[0].replace(/\bSunday\b/,"Week").replace("ഞായർ","ആഴ്ച");
+  return "";}
+ for(var i=0;i<7;i++){var dt=ws+i*DAY,k=iso(dt),lbl=special(k,dt);
+  if(S.rite==="smc"){var x=SMC[k];if(x&&k===S.date)x.g.forEach(function(g){if(g.h&&!/^\(/.test(g.h))fe.push([dateLabel(dt,S.lang),g.h])})}
+  cells+='<button class="dcell'+(lbl?' sp':'')+'" data-go="'+k+'"'+(k===S.date?' aria-current="date"':"")+'><span class="wd">'+esc(u.dshort[i])+'</span><span class="dn">'+new Date(dt).getUTCDate()+'</span><span class="tt">'+esc(lbl)+"</span></button>"}
+ var wn=weekName();
+ var strip=(wn?'<div class="wkname">'+esc(wn)+'</div>':'')+'<div class="strip">'+cells+"</div>";
  if(S.tab==="lectern"){
   html+=strip;
   if(C){
