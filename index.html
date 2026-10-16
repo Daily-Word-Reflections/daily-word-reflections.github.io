@@ -178,6 +178,15 @@ details.about li b{display:block;color:var(--ink)}
 .wbox .wopts button[aria-pressed="true"]{border-color:var(--gold);background:var(--goldsoft)}
 .wbox .go{font:600 16px var(--sans);padding:13px;border-radius:12px;border:0;background:var(--ink);color:var(--paper);cursor:pointer}
 .term{font-family:var(--display);font-size:28px;font-weight:600;margin:0}
+.partpick select{flex:1;font-weight:600}
+.spoint{margin:22px 0;padding-top:14px;border-top:1px solid var(--rule)}
+.sp-h{display:flex;gap:12px;align-items:baseline;margin:0 0 10px;font-size:20px;line-height:1.3}
+.sp-n{flex:none;display:inline-grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--accent);color:#fff;font-size:15px;font-weight:700}
+.sp-sub{margin:0 0 12px;padding-left:22px;display:grid;gap:8px;max-width:68ch;list-style:lower-alpha}
+.sp-q{margin:10px 0;padding:10px 14px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 9%,transparent);border-radius:6px;font-style:italic;max-width:68ch}
+.sp-q cite{display:block;font-style:normal;font-size:13px;color:var(--muted);margin-top:4px}
+.sp-t{display:block;font-style:normal;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:2px}
+.sp-a{margin:8px 0 0;max-width:68ch}
 .lsub{margin:6px 0 0;color:var(--muted);font-style:italic;max-width:68ch}
 .lprose p:first-child::first-letter{font-family:inherit;font-size:inherit;float:none;padding:0;color:inherit}
 .lnotes{border-left:4px solid var(--accent);background:color-mix(in srgb,var(--accent) 8%,transparent);padding:12px 16px;border-radius:6px;margin:18px 0}
@@ -218,8 +227,6 @@ details.about li b{display:block;color:var(--ink)}
   <div class="tabs" role="tablist">
     <button role="tab" id="t-lectern" data-tab="lectern"></button>
     <button role="tab" id="t-homily" data-tab="homily"></button>
-    <button role="tab" id="t-cal" data-tab="cal"></button>
-    <button role="tab" id="t-family" data-tab="family"></button>
     <button role="tab" id="t-lit" data-tab="lit"></button>
   </div>
 
@@ -3710,7 +3717,7 @@ function iso(t){var d=new Date(t);return d.getUTCFullYear()+"-"+String(d.getUTCM
 function parseISO(s){var p=s.split("-");return Date.UTC(+p[0],+p[1]-1,+p[2])}
 function todayISO(){var n=new Date();return iso(Date.UTC(n.getFullYear(),n.getMonth(),n.getDate()))}
 var S={rite:"smc",lang:"en",tab:"lectern",date:todayISO(),view:"day"};
-try{var sv=JSON.parse(localStorage.getItem("av-state3")||"{}");["rite","lang","tab","occ"].forEach(function(k){if(sv[k])S[k]=sv[k]})}catch(e){}
+try{var sv=JSON.parse(localStorage.getItem("av-state3")||"{}");["rite","lang","tab","occ","part"].forEach(function(k){if(sv[k])S[k]=sv[k]})}catch(e){}
 function $(id){return document.getElementById(id)}
 function esc(t){return String(t==null?"":t).replace(/&/g,"&amp;").replace(/</g,"&lt;")}
 
@@ -3803,7 +3810,9 @@ function render(){
  $("eyebrow").textContent=u.eyebrow;$("brand").textContent=u.brand;$("bandsub").textContent=u.sub;
  ["smc","smk","lat"].forEach(function(r){$("r-"+r).textContent=u.rites[r];$("r-"+r).setAttribute("aria-pressed",S.rite===r)});
  if(LANGS[S.rite].indexOf(S.lang)<0)S.lang="en";$("langseg").innerHTML=LANGS[S.rite].map(function(l){return "<button data-lang=\"" + l + "\" aria-pressed=\""+(S.lang===l)+"\">"+LNAME[l]+"</button>"}).join("");
- ["lectern","homily","cal","family","lit"].forEach(function(k){$("t-"+k).textContent=u.tabs[k];$("t-"+k).setAttribute("aria-selected",S.tab===k)});
+ if(S.tab==="cal")S.tab="lectern";if(S.tab==="family"){S.tab="homily";S.part=3}
+ var TT=TAB2[S.lang]||TAB2.en;$("t-lectern").textContent=TT.lectern;$("t-homily").textContent=TT.homily;
+ ["lectern","homily","lit"].forEach(function(k){if(k==="lit")$("t-"+k).textContent=u.tabs[k];$("t-"+k).setAttribute("aria-selected",S.tab===k)});
  $("today").textContent=u.today;$("sample").textContent=u.sample;$("q").placeholder=v.search;
  $("dlabel").textContent=dateLabel(t,S.lang);$("dpick").value=S.date;
  var hw=HOW[S.lang]||HOW.en;$("about-s").textContent=hw.t;$("about-b").innerHTML="<p>"+esc(hw.intro)+"</p><ol>"+hw.steps.map(function(s){return "<li><span><b>"+esc(s[0])+"</b>"+esc(s[1])+"</span></li>"}).join("")+"</ol><p>"+esc(hw.bible)+"</p>";
@@ -3829,48 +3838,71 @@ function render(){
  var empty='<div class="empty"><div>'+esc(u.notprep)+'</div><button class="pill" data-go="2026-10-18">'+esc(u.goSample)+"</button></div>";
  var html=head;
 
+ /* week strip: shared by the Word tab */
+ var ws=t-dw*DAY,cells="",fe=[];
+ for(var i=0;i<7;i++){var dt=ws+i*DAY,k=iso(dt),lbl="";
+  if(S.rite==="smc"){lbl=smcTitle(k);var x=SMC[k];if(x&&k===S.date)x.g.forEach(function(g){if(g.h&&!/^\(/.test(g.h))fe.push([dateLabel(dt,S.lang),g.h])})}
+  else if(S.rite==="lat"){lbl=latinLabel(latin(dt),S.lang)}
+  else {var cc=CONTENT[k]&&CONTENT[k].smk&&(CONTENT[k].smk[S.lang]||CONTENT[k].smk.en);lbl=cc?cc.title:""}
+  cells+='<button class="dcell" data-go="'+k+'"'+(k===S.date?' aria-current="date"':"")+'><span class="wd">'+esc(u.dshort[i])+'</span><span class="dn">'+new Date(dt).getUTCDate()+'</span><span class="tt">'+esc(lbl)+"</span></button>"}
+ var strip='<div class="strip">'+cells+"</div>";
  if(S.tab==="lectern"){
+  html+=strip;
   if(C){
    if(X)html+='<div class="quick"><div class="qh">'+esc(v.quick)+'</div><blockquote class="key" style="padding:8px 4px;background:none;border:0">“'+esc(C.verse)+'”<cite>'+esc(C.cite)+'</cite></blockquote><ul>'+X.quick.map(function(q){return "<li>"+esc(q)+"</li>"}).join("")+'</ul><div class="act">'+esc(v.action)+": "+esc(X.action)+"</div></div>";
    html+=sec(C.readTitle,'<div class="readings">'+C.readings.map(function(r){return '<div class="rd"><span class="lab">'+esc(r[0])+'</span><span class="ref">'+esc(r[1])+'</span><span class="rt">'+esc(r[2])+"</span></div>"}).join("")+"</div>"+(C.alt?'<p class="alt">'+esc(C.alt)+"</p>":""));
    html+=sec(u.h.theo,paras(C.theo));
    html+=sec(u.h.conn,items(C.conn));
+   html+=sec(u.h.fathers,items(C.fathers,"quote"));
+   html+=sec(u.h.magis,items(C.magis));
    if(X)html+=sec(v.question,'<p class="question">'+esc(X.question)+"</p>");
+   html+=sec(u.h.saints,items(C.saints));
    html+='<p class="prayer">'+esc(C.prayer)+"</p>";
   } else {
    if(S.rite==="smc"&&SMC[S.date])html+=sec(u.h.readings,smcReadings(S.date));
+   if(fe.length)html+=sec(u.h.feasts,items(fe));
    html+=empty;
   }
  }
  else if(S.tab==="homily"){
-  if(C){
-   if(H){html+=sec(u.h.homily,paras(H.homily));html+=sec(u.h.kidsMass,paras(H.kids))}
-   if(X&&X.special)html+='<div class="special"><b>'+esc(v.special)+":</b> "+esc(X.special)+"</div>";
-   html+=sec(u.h.outline,outline(C.outline));
-   if(X){html+=sec(v.illus,items([X.illus]));html+=sec(v.kids,'<div class="prose"><p>'+esc(X.kids)+"</p></div>")}
-   html+=sec(u.h.altar,paras(C.altar));
-   html+=sec(u.h.live,items(C.live));
-   html+=sec(v.diaspora,'<div class="placeholder">'+esc(X&&X.diaspora?X.diaspora:v.diasporaPh)+"</div>");
-   var p="*"+dateLabel(t,S.lang)+"*\n*"+C.title+"*\n\n“"+C.verse+"” ("+C.cite+")\n\n"+(X?X.quick.map(function(q){return "✦ "+q}).join("\n")+"\n\n*"+v.action+":* "+X.action+"\n\n":"")+C.readings.map(function(r){return "• "+r[0]+": "+r[1]}).join("\n")+"\n\n"+C.theo[0]+(X?"\n\n*"+v.question+":* "+X.question:"")+"\n\n🙏 "+C.prayer;
-   html+='<section class="post"><h3 class="sh">'+esc(u.h.post)+'</h3><pre id="posttext">'+esc(p)+'</pre><button class="copy" id="copybtn">'+esc(u.copy)+"</button></section>";
-  } else html+=empty;
- }
- else if(S.tab==="cal"){
-  var ws=t-dw*DAY,cells="",fe=[];
-  for(var i=0;i<7;i++){var dt=ws+i*DAY,k=iso(dt),lbl="";
-   if(S.rite==="smc"){lbl=smcTitle(k);var x=SMC[k];if(x)x.g.forEach(function(g){if(g.h&&!/^\(/.test(g.h))fe.push([dateLabel(dt,S.lang),g.h])})}
-   else if(S.rite==="lat"){lbl=latinLabel(latin(dt),S.lang)}
-   cells+='<button class="dcell" data-go="'+k+'"'+(k===S.date?' aria-current="date"':"")+'><span class="wd">'+esc(u.dshort[i])+'</span><span class="dn">'+new Date(dt).getUTCDate()+'</span><span class="tt">'+esc(lbl)+"</span></button>"}
-  html+=sec(u.h.week,'<div class="strip">'+cells+"</div>");
-  if(C){html+=sec(u.h.fathers,items(C.fathers,"quote"));html+=sec(u.h.magis,items(C.magis));html+=sec(u.h.saints,items(C.saints))}
-  else {if(fe.length)html+=sec(u.h.feasts,items(fe));html+=empty}
- }
- else if(S.tab==="family"){
-  if(X){var F=X.family;
-   html+=sec(v.famcorner,items([[v.read,F.read],[v.explain,F.explain],[v.intention,F.intention],[v.ask,F.ask]]));
-   html+=sec(v.catech,items(X.catechism));
-   html+=sec(v.kidsaint,items([X.kidsaint]));
-  } else html+=empty;
+  var PT=PARTS[S.lang]||PARTS.en,pt=S.part||1;
+  html+='<div class="picker partpick"><select id="partsel" aria-label="'+esc(PT.label)+'">'+PT.o.map(function(o,i){return '<option value="'+(i+1)+'"'+(pt===i+1?" selected":"")+">"+esc(o)+"</option>"}).join("")+"</select></div>";
+  if(!C&&!X)html+=empty;
+  else if(pt===1){
+   var SR=getSR();
+   if(SR){
+    html+='<div class="sermon">';
+    html+=sec(PT.intro,'<div class="prose lprose">'+SR.intro.map(function(p){return "<p>"+esc(p)+"</p>"}).join("")+"</div>");
+    SR.points.forEach(function(P,i){
+     html+='<section class="spoint"><h3 class="sp-h"><span class="sp-n">'+(i+1)+'</span>'+esc(P.h)+'</h3><ol class="sp-sub">'+P.sub.map(function(s){return "<li>"+esc(s)+"</li>"}).join("")+"</ol>";
+     (P.q||[]).forEach(function(q){html+='<blockquote class="sp-q"><span class="sp-t">'+esc(q[0]==="ot"?PT.ot:PT.nt)+"</span>“"+esc(q[1])+"”<cite>"+esc(q[2])+"</cite></blockquote>"});
+     if(P.apply)html+='<p class="sp-a"><b>'+esc(PT.apply)+":</b> "+esc(P.apply)+"</p>";
+     html+="</section>"});
+    html+=sec(PT.concl,'<div class="prose lprose">'+SR.concl.map(function(p){return "<p>"+esc(p)+"</p>"}).join("")+"</div>");
+    if(SR.resolve)html+='<div class="lnotes"><h3>'+esc(PT.resolve)+"</h3><p style=\"margin:0\">"+esc(SR.resolve)+"</p></div>";
+    html+="</div>";
+   } else if(C){
+    html+='<p class="alt">'+esc(PT.soon)+"</p>";
+    html+=sec(u.h.outline,outline(C.outline));
+   }
+  }
+  else if(pt===2){
+   if(C){
+    if(X&&X.special)html+='<div class="special"><b>'+esc(v.special)+":</b> "+esc(X.special)+"</div>";
+    if(H){html+=sec(u.h.homily,paras(H.homily));html+=sec(u.h.kidsMass,paras(H.kids))}
+    if(X)html+=sec(v.illus,items([X.illus]));
+    html+=sec(u.h.altar,paras(C.altar));
+    html+=sec(u.h.live,items(C.live));
+    var p="*"+dateLabel(t,S.lang)+"*\n*"+C.title+"*\n\n“"+C.verse+"” ("+C.cite+")\n\n"+(X?X.quick.map(function(q){return "✦ "+q}).join("\n")+"\n\n*"+v.action+":* "+X.action+"\n\n":"")+C.readings.map(function(r){return "• "+r[0]+": "+r[1]}).join("\n")+"\n\n"+C.theo[0]+(X?"\n\n*"+v.question+":* "+X.question:"")+"\n\n🙏 "+C.prayer;
+    html+='<section class="post"><h3 class="sh">'+esc(u.h.post)+'</h3><pre id="posttext">'+esc(p)+'</pre><button class="copy" id="copybtn">'+esc(u.copy)+"</button></section>";
+   } else html+=empty;
+  }
+  else if(pt===3){
+   if(X){var F=X.family;html+=sec(v.famcorner,items([[v.read,F.read],[v.explain,F.explain],[v.intention,F.intention],[v.ask,F.ask]]))}else html+=empty;
+  }
+  else {
+   if(X){html+=sec(v.catech,items(X.catechism));html+=sec(v.kidsaint,items([X.kidsaint]));if(X.term)html+=sec(v.term,items([X.term]))}else html+=empty;
+  }
  }
  else if(S.tab==="lit"){
   var GL=glossList(X,li),gk=S.rite+S.lang+S.date;if(S.gk!==gk){S.gk=gk;S.gi=0}if(S.gi>=GL.length)S.gi=0;
@@ -3892,9 +3924,19 @@ function render(){
  var cb=$("copybtn");if(cb)cb.addEventListener("click",function(){
   function sel(){var r=document.createRange();r.selectNodeContents($("posttext"));var s=getSelection();s.removeAllRanges();s.addRange(r);cb.textContent=u.copyfail}
   try{navigator.clipboard.writeText($("posttext").textContent).then(function(){cb.textContent=u.copied;setTimeout(function(){cb.textContent=u.copy},1800)},sel)}catch(e){sel()}});
- try{localStorage.setItem("av-state3",JSON.stringify({rite:S.rite,lang:S.lang,tab:S.tab,occ:S.occ}))}catch(e){}
+ try{localStorage.setItem("av-state3",JSON.stringify({rite:S.rite,lang:S.lang,tab:S.tab,occ:S.occ,part:S.part}))}catch(e){}
 }
 
+/* ---- tabs and Preach & teach parts ---- */
+var TAB2={en:{lectern:"Word of the day",homily:"Preach & teach"},ml:{lectern:"ഇന്നത്തെ വചനം",homily:"പ്രസംഗവും പഠനവും"},de:{lectern:"Wort des Tages",homily:"Predigen & lehren"},it:{lectern:"Parola del giorno",homily:"Predicare e insegnare"},ta:{lectern:"இன்றைய இறைவார்த்தை",homily:"மறையுரையும் மறைக்கல்வியும்"},hi:{lectern:"आज का वचन",homily:"प्रवचन और शिक्षा"}};
+var PARTS={en:{label:"Choose",o:["1. Homily outline: points & Scripture","2. Full homily text","3. Prayer meeting","4. Catechism"],intro:"Introduction",concl:"Conclusion",resolve:"Resolution for the week",apply:"Apply it",ot:"Old Testament",nt:"New Testament",soon:"The detailed outline with Scripture quotations for this day is being prepared. Meanwhile, here is the basic outline."},
+ ml:{label:"തിരഞ്ഞെടുക്കുക",o:["1. പ്രസംഗരൂപരേഖ: ആശയങ്ങളും തിരുവചനവും","2. പ്രസംഗം: പൂർണരൂപം","3. പ്രാർഥനാകൂട്ടായ്മ","4. മതബോധനം"],intro:"ആമുഖം",concl:"ഉപസംഹാരം",resolve:"ഈ ആഴ്ചത്തെ തീരുമാനം",apply:"ജീവിതത്തിൽ",ot:"പഴയനിയമം",nt:"പുതിയനിയമം",soon:"ഈ ദിവസത്തെ തിരുവചനസഹിതമുള്ള വിശദമായ രൂപരേഖ തയ്യാറാക്കിക്കൊണ്ടിരിക്കുന്നു. തത്കാലം അടിസ്ഥാനരൂപരേഖ ഇതാ."},
+ de:{label:"Auswählen",o:["1. Predigtgliederung: Punkte & Schrift","2. Predigt (voller Text)","3. Gebetskreis","4. Katechese"]},
+ it:{label:"Scegli",o:["1. Schema dell'omelia: punti e Scrittura","2. Omelia (testo completo)","3. Gruppo di preghiera","4. Catechesi"]},
+ ta:{label:"தேர்ந்தெடுக்க",o:["1. மறையுரைக் குறிப்புகள்: கருத்துகளும் இறைவார்த்தையும்","2. மறையுரை (முழு வடிவம்)","3. செபக் கூட்டம்","4. மறைக்கல்வி"]},
+ hi:{label:"चुनें",o:["1. प्रवचन रूपरेखा: बिंदु और धर्मग्रंथ","2. प्रवचन (पूर्ण पाठ)","3. प्रार्थना सभा","4. धर्मशिक्षा"]}};
+["de","it","ta","hi"].forEach(function(l){for(var k in PARTS.en)if(!(k in PARTS[l]))PARTS[l][k]=PARTS.en[k]});
+function getSR(){if(typeof SERMON==="undefined")return null;var d=SERMON[S.date],r=d&&d[S.rite];return r&&(r[S.lang]||r.en)||null}
 /* ---- know your liturgy: browsable list ---- */
 var LIT={en:{prev:"Previous word",next:"Next word",all:"All words",word:"Know your liturgy",lesson:"Lesson",notes:"Serious notes",refs:"Sources"},ml:{prev:"മുമ്പത്തെ വാക്ക്",next:"അടുത്ത വാക്ക്",all:"എല്ലാ വാക്കുകളും",word:"ആരാധനക്രമം അറിയാൻ",lesson:"പാഠം",notes:"ഗൗരവമായ കുറിപ്പുകൾ",refs:"ആധാരങ്ങൾ"},
  de:{prev:"Vorheriger Begriff",next:"Nächster Begriff",all:"Alle Begriffe",word:"Liturgie verstehen"},it:{prev:"Termine precedente",next:"Termine successivo",all:"Tutti i termini",word:"Conoscere la liturgia"},
@@ -3996,7 +4038,7 @@ $("card").addEventListener("click",function(e){var b=e.target.closest("[data-go]
 $("note").addEventListener("change",function(e){if(e.target.id==="smcset"){S.set=e.target.value;S.setManual=true;render()}});
 $("r-docs").addEventListener("click",function(){S.view="docs";render()});
 $("r-occ").addEventListener("click",function(){S.view="occ";render()});
-$("card").addEventListener("change",function(e){if(e.target.id==="gsel"){S.gi=+e.target.value;render()}else if(e.target.id==="occsel"){S.occ=e.target.value;render()}});
+$("card").addEventListener("change",function(e){if(e.target.id==="partsel"){S.part=+e.target.value;render()}else if(e.target.id==="gsel"){S.gi=+e.target.value;render()}else if(e.target.id==="occsel"){S.occ=e.target.value;render()}});
 $("card").addEventListener("click",function(e){if(e.target.id==="g-prev"||e.target.id==="g-next"){var n=document.querySelectorAll("#gsel option").length;S.gi=(S.gi+(e.target.id==="g-next"?1:n-1))%n;render()}});
 $("fs-m").addEventListener("click",function(){if(FS>14){FS--;applyFS()}});
 $("fs-p").addEventListener("click",function(){if(FS<24){FS++;applyFS()}});
@@ -4073,20 +4115,20 @@ var HOW={
  en:{t:"How to use this page",intro:"Everything is on one page. Here is how to find your way.",
   steps:[["Choose your rite and language","Tap Syro-Malabar, Syro-Malankara or Latin at the top, then your language. The page remembers your choice for next time."],
    ["Go to any day","The page opens on today. Use ‹ and › for the previous or next day, tap the date box to pick any date, or tap Today to come back."],
-   ["Open the tabs","Lectern: readings and reflection. Homily notes: homily for Mass, children's homily, outline and a post to share. Calendar page: the week, the Fathers, Church documents and saints. Prayer meeting: for family prayer and prayer groups. Know your liturgy: words and signs of the liturgy."],
+   ["Open the three tabs","Word of the day: the week at a glance, the readings, reflection, the Fathers, Church teaching and saints. Preach & teach: choose from the list 1. Homily outline (points, sub-points and Scripture quotations), 2. Full homily text with children's homily and a post to share, 3. Prayer meeting, 4. Catechism. Know your liturgy: lessons and words of the liturgy."],
    ["Tap to learn more","Tap the name of the season (just above the day's title) for a short explanation. In Know your liturgy, use ‹ › or the list to move through all the words."],
    ["Search","Type in the search box: a date, a feast, a saint, a Bible book or any word. Tap a result to open that day."],
-   ["Read comfortably and share","A− and A+ change the text size. In Homily notes, “Copy post” copies a short message ready for WhatsApp or Telegram."],
+   ["Read comfortably and share","A− and A+ change the text size. In Preach & teach (2. Full homily text), “Copy post” copies a short message ready for WhatsApp or Telegram."],
    ["Papal documents and Special occasions","The buttons after the rite names open the documents of the Popes (with links to the latest news, audiences and messages from the Vatican) and sermons for special occasions: sacraments, funerals, jubilees and more."],
    ["Write to us","At the bottom of the page you can send a prayer intention, a suggestion or a comment."]],
   bible:"Bible quotations: POC Bible (Malayalam), NRSV (English), Einheitsübersetzung (German), CEI 2008 (Italian), Tiruviviliam CLT (Tamil), Hindi Catholic Bible (Hindi)."},
  ml:{t:"ഈ പേജ് ഉപയോഗിക്കേണ്ട വിധം",intro:"എല്ലാം ഒരു പേജിലാണ്. വഴി കണ്ടെത്താൻ ഇതാ:",
   steps:[["റീത്തും ഭാഷയും തിരഞ്ഞെടുക്കുക","മുകളിൽ സീറോ മലബാർ, സീറോ മലങ്കര, ലത്തീൻ ഇവയിലൊന്നിൽ തൊടുക; പിന്നെ ഭാഷ. അടുത്ത തവണയ്ക്കായി പേജ് നിങ്ങളുടെ തിരഞ്ഞെടുപ്പ് ഓർത്തുവയ്ക്കും."],
    ["ഏതു ദിവസത്തിലേക്കും പോകുക","പേജ് ഇന്നത്തെ ദിവസത്തിലാണു തുറക്കുന്നത്. തലേദിവസത്തിനും പിറ്റേദിവസത്തിനും ‹ › ഉപയോഗിക്കുക; ഏതു തീയതിയും തിരഞ്ഞെടുക്കാൻ തീയതിക്കള്ളിയിൽ തൊടുക; തിരികെ വരാൻ “ഇന്ന്” അമർത്തുക."],
-   ["വിഭാഗങ്ങൾ തുറക്കുക","വായനാപീഠം: വായനകളും വിചിന്തനവും. പ്രസംഗക്കുറിപ്പുകൾ: കുർബാനയ്ക്കുള്ള പ്രസംഗം, കുട്ടികൾക്കുള്ള പ്രസംഗം, രൂപരേഖ, പങ്കുവയ്ക്കാനുള്ള പോസ്റ്റ്. കലണ്ടർ താൾ: ആഴ്ച, സഭാപിതാക്കന്മാർ, സഭാരേഖകൾ, വിശുദ്ധർ. പ്രാർഥനാകൂട്ടായ്മ: കുടുംബപ്രാർഥനയ്ക്കും പ്രാർഥനാഗ്രൂപ്പുകൾക്കും. ആരാധനക്രമം അറിയാൻ: ആരാധനയിലെ വാക്കുകളും അടയാളങ്ങളും."],
+   ["മൂന്നു വിഭാഗങ്ങൾ തുറക്കുക","ഇന്നത്തെ വചനം: ആഴ്ച ഒറ്റനോട്ടത്തിൽ, വായനകൾ, വിചിന്തനം, സഭാപിതാക്കന്മാർ, സഭാപ്രബോധനം, വിശുദ്ധർ. പ്രസംഗവും പഠനവും: പട്ടികയിൽനിന്നു തിരഞ്ഞെടുക്കുക: 1. പ്രസംഗരൂപരേഖ (ആശയങ്ങൾ, ഉപാശയങ്ങൾ, തിരുവചന ഉദ്ധരണികൾ), 2. കുട്ടികൾക്കുള്ള പ്രസംഗവും പങ്കുവയ്ക്കാനുള്ള പോസ്റ്റും ഉൾപ്പെടെ പ്രസംഗത്തിന്റെ പൂർണരൂപം, 3. പ്രാർഥനാകൂട്ടായ്മ, 4. മതബോധനം. ആരാധനക്രമം അറിയാൻ: ആരാധനക്രമത്തിലെ പാഠങ്ങളും വാക്കുകളും."],
    ["കൂടുതൽ അറിയാൻ തൊടുക","വിശദീകരണത്തിനു കാലത്തിന്റെ പേരിൽ (ദിവസത്തിന്റെ തലക്കെട്ടിനു തൊട്ടുമുകളിൽ) തൊടുക. “ആരാധനക്രമം അറിയാൻ” എന്ന വിഭാഗത്തിൽ എല്ലാ വാക്കുകളിലൂടെയും നീങ്ങാൻ ‹ › അല്ലെങ്കിൽ പട്ടിക ഉപയോഗിക്കുക."],
    ["തിരയുക","തിരയൽക്കള്ളിയിൽ ഒരു തീയതി, തിരുനാൾ, വിശുദ്ധൻ, ബൈബിൾ പുസ്തകം, അല്ലെങ്കിൽ ഏതെങ്കിലും വാക്ക് ടൈപ്പ് ചെയ്യുക. ആ ദിവസം തുറക്കാൻ ഫലത്തിൽ തൊടുക."],
-   ["സുഖമായി വായിക്കുക, പങ്കുവയ്ക്കുക","A−, A+ അക്ഷരവലുപ്പം മാറ്റുന്നു. പ്രസംഗക്കുറിപ്പുകളിലെ “പോസ്റ്റ് പകർത്തുക” വാട്സാപ്പിലോ ടെലിഗ്രാമിലോ അയയ്ക്കാൻ തയ്യാറായ ഒരു ചെറിയ സന്ദേശം പകർത്തുന്നു."],
+   ["സുഖമായി വായിക്കുക, പങ്കുവയ്ക്കുക","A−, A+ അക്ഷരവലുപ്പം മാറ്റുന്നു. “പ്രസംഗവും പഠനവും” വിഭാഗത്തിലെ (2. പൂർണരൂപം) “പോസ്റ്റ് പകർത്തുക” വാട്സാപ്പിലോ ടെലിഗ്രാമിലോ അയയ്ക്കാൻ തയ്യാറായ ഒരു ചെറിയ സന്ദേശം പകർത്തുന്നു."],
    ["മാർപാപ്പമാരുടെ രേഖകളും വിശേഷാവസരങ്ങളും","റീത്തുകളുടെ പേരുകൾക്കുശേഷമുള്ള ബട്ടണുകൾ മാർപാപ്പമാരുടെ രേഖകളും (വത്തിക്കാനിൽനിന്നുള്ള പുതിയ വാർത്തകളിലേക്കും പ്രഭാഷണങ്ങളിലേക്കും സന്ദേശങ്ങളിലേക്കുമുള്ള ലിങ്കുകളോടൊപ്പം), കൂദാശകൾ, മൃതസംസ്കാരം, ജൂബിലി തുടങ്ങിയ വിശേഷാവസരങ്ങൾക്കുള്ള പ്രസംഗങ്ങളും തുറക്കുന്നു."],
    ["ഞങ്ങൾക്ക് എഴുതുക","പേജിന്റെ ഏറ്റവും താഴെ പ്രാർഥനാനിയോഗമോ നിർദേശമോ അഭിപ്രായമോ അയയ്ക്കാം."]],
   bible:"ബൈബിൾ ഉദ്ധരണികൾ: പി.ഒ.സി. ബൈബിൾ (മലയാളം), NRSV (ഇംഗ്ലീഷ്), ഐൻഹൈറ്റ്സ്യൂബർസെറ്റ്സുങ് (ജർമൻ), CEI 2008 (ഇറ്റാലിയൻ), തിരുവിവിലിയം CLT (തമിഴ്), ഹിന്ദി കത്തോലിക്കാ ബൈബിൾ (ഹിന്ദി)."},
@@ -4595,6 +4637,57 @@ LESSONS.lat.ml.push({t:"ആരാധനാവത്സരം",sub:"റോമൻ 
  notes:["വിവേചനപ്രായമെത്തിയ ഓരോ കത്തോലിക്കനും വർഷത്തിൽ ഒരിക്കലെങ്കിലും ഗുരുതരമായ പാപങ്ങൾ ഏറ്റുപറയണം (മതബോധനഗ്രന്ഥം 2042, 1457).","മാരകപാപത്തെപ്പറ്റി ബോധമുള്ളവൻ, സഭാനിയമം മുൻകൂട്ടി കാണുന്ന പ്രത്യേക സാഹചര്യത്തിലൊഴികെ, ആദ്യം കുമ്പസാരിക്കാതെ വിശുദ്ധ കുർബാന സ്വീകരിക്കരുത് (മതബോധനഗ്രന്ഥം 1457, 1385).","കുമ്പസാരത്തിൽ ബോധപൂർവം ഒരു മാരകപാപം മറച്ചുവയ്ക്കുന്നതു കുമ്പസാരത്തെ അസാധുവാക്കുകയും ദൈവദൂഷണപാപം കൂട്ടിച്ചേർക്കുകയും ചെയ്യുന്നു; മറച്ചുവച്ച പാപവും ആ ദൈവദൂഷണവും ഏറ്റുപറയണം.","കുമ്പസാരരഹസ്യത്താൽ വൈദികൻ കേവലമായി ബന്ധിതനാണ്: കേട്ടതൊന്നും അദ്ദേഹത്തിന് ഒരിക്കലും വെളിപ്പെടുത്താനോ ഉപയോഗിക്കാനോ പാടില്ല; ഏറ്റവും കഠിനമായ ശിക്ഷകൾക്കു വിധേയമായി (മതബോധനഗ്രന്ഥം 1467; കാനോനസംഹിത കാനോന 983; പൗരസ്ത്യകാനോനസംഹിത കാനോന 733).","പാപമോചനത്തിനു യഥാർഥമായ മനസ്താപവും തിരുത്താനുള്ള തീരുമാനവും ആവശ്യമാണ്; ഗുരുതരമായ ഒരു പാപം ഉപേക്ഷിക്കാൻ വിസമ്മതിക്കുന്നവന് അതു നൽകാനാവില്ല."],
  refs:["കത്തോലിക്കാസഭയുടെ മതബോധനഗ്രന്ഥം 1422–1498, 1846–1876","യോഹ 20:19–23; ലൂക്കാ 15:11–32; 1 യോഹ 1:8–9; യാക്കോ 5:16","കാനോനസംഹിത കാനോന 959–991; പൗരസ്ത്യസഭകളുടെ കാനോനസംഹിത കാനോന 718–736"]}};
 ["smk","smc","lat"].forEach(function(r){LESSONS[r].en.push(C.en);LESSONS[r].ml.push(C.ml)})})();
+/* Systematic homily outlines: SERMON[date][rite][lang] = {intro:[], points:[{h, sub:[], q:[["ot"|"nt", text, cite]], apply}], concl:[], resolve}. Scripture: NRSV (English), POC (Malayalam). */
+var SERMON={};
+(function(){function put(d,r,l,o){SERMON[d]=SERMON[d]||{};SERMON[d][r]=SERMON[d][r]||{};SERMON[d][r][l]=o}
+
+/* ===== Syro-Malankara · Qudos Eetho · 1 Nov 2026 ===== */
+put("2026-11-01","smk","en",{
+ intro:["Theme: “The Church: God's holy dwelling among us.”","Our liturgical year does not begin with Christmas but with the Church. Before we celebrate what God has done, we remember where he does it: in a people he has made holy and chosen as his home. Today we ask three questions: Where does God dwell? On what is that dwelling built? What does it ask of us?"],
+ points:[
+  {h:"God desires to dwell among his people",
+   sub:["In the desert God told Moses to set up a Tabernacle, and his glory filled it.","Solomon built the Temple; but when the people sinned, Ezekiel saw the glory of the Lord leave the house.","God did not give up: in Jesus the glory returned to dwell among us in human flesh, and through him in the Church."],
+   q:[["ot","Then the cloud covered the tent of meeting, and the glory of the LORD filled the tabernacle.","Exodus 40:34"],["nt","And the Word became flesh and lived among us, and we have seen his glory, the glory as of a father's only son, full of grace and truth.","John 1:14"]],
+   apply:"Our parish church is not a hall; it is the house where God's glory dwells. Enter it with reverence."},
+  {h:"The Church is built on the rock of faith in Christ",
+   sub:["Jesus asks: “Who do you say that I am?” Faith is a personal answer, not only a family custom.","Peter answers: “You are the Messiah, the Son of the living God”, and Jesus builds his Church on this rock.","The Church stands firm not because we are strong but because Christ promised: the gates of Hades will not prevail."],
+   q:[["ot","See, I am laying in Zion a foundation stone, a tested stone, a precious cornerstone, a sure foundation: “One who trusts will not panic.”","Isaiah 28:16"],["nt","He said to them, “But who do you say that I am?” Simon Peter answered, “You are the Messiah, the Son of the living God.”","Matthew 16:15–16"]],
+   apply:"This week, answer Jesus personally in prayer: “Lord, you are the Christ, my Lord and my God.”"},
+  {h:"We are living stones, shaped by God",
+   sub:["Solomon's Temple was built of stones already shaped at the quarry; no hammer was heard at the holy place.","God shapes us beforehand through Baptism, the sacraments, trials and the Cross, so that we fit together in his house.","Peter, who wanted a Christ without the Cross, was corrected: the stone must accept the chisel."],
+   q:[["ot","The house was built with stone finished at the quarry, so that neither hammer nor ax nor any tool of iron was heard in the temple while it was being built.","1 Kings 6:7"],["nt","Like living stones, let yourselves be built into a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.","1 Peter 2:5"]],
+   apply:"Accept the “chisel” in your life (a difficult person, a sickness, a correction) as God shaping you for his house."},
+  {h:"A holy God sends a holy people",
+   sub:["Isaiah saw the Lord and heard: “Holy, holy, holy”; he knew his own sin and was purified.","Then God asked: “Whom shall I send?” and Isaiah answered: “Here am I; send me!”","A sanctified Church is a missionary Church: we are made holy in order to be light for others."],
+   q:[["ot","Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory.","Isaiah 6:3"],["nt","You are the light of the world. A city built on a hill cannot be hid.","Matthew 5:14"]],
+   apply:"At the Sanctus of the Qurbono, sing “Holy, holy, holy” with Isaiah, and say in your heart: “Here am I; send me.”"}
+ ],
+ concl:["The Tabernacle, the Temple, the glory, the rock, the living stones: all point to one truth. God wants to live with us, and he has made us his home in Christ.","As the new liturgical year begins, let us love the Church as our mother, build it up with our lives, and let its light shine in our families and our land."],
+ resolve:"Make one visit to the church this week outside Sunday, and pray for your parish, your bishop and the whole Church."});
+
+put("2026-11-01","smk","ml",{
+ intro:["വിഷയം: “സഭ: നമ്മുടെയിടയിലുള്ള ദൈവത്തിന്റെ വിശുദ്ധവാസസ്ഥലം.”","നമ്മുടെ ആരാധനാവത്സരം ആരംഭിക്കുന്നതു ക്രിസ്മസോടെയല്ല, സഭയോടെയാണ്. ദൈവം ചെയ്തവ ആഘോഷിക്കുംമുമ്പ്, അവിടുന്ന് അവ എവിടെ ചെയ്യുന്നുവെന്നു നാം ഓർക്കുന്നു: താൻ വിശുദ്ധീകരിച്ച്, തന്റെ ഭവനമായി തെരഞ്ഞെടുത്ത ഒരു ജനത്തിൽ. ഇന്നു മൂന്നു ചോദ്യങ്ങൾ നാം ചോദിക്കുന്നു: ദൈവം എവിടെ വസിക്കുന്നു? ആ വാസസ്ഥലം എന്തിന്മേൽ പണിയപ്പെട്ടിരിക്കുന്നു? അതു നമ്മോട് എന്താവശ്യപ്പെടുന്നു?"],
+ points:[
+  {h:"തന്റെ ജനത്തിനിടയിൽ വസിക്കാൻ ദൈവം ആഗ്രഹിക്കുന്നു",
+   sub:["മരുഭൂമിയിൽ ഒരു കൂടാരം സ്ഥാപിക്കാൻ ദൈവം മോശയോടു പറഞ്ഞു; അവിടുത്തെ മഹത്വം അതിൽ നിറഞ്ഞു.","സോളമൻ ദേവാലയം പണിതു; പക്ഷേ ജനം പാപം ചെയ്തപ്പോൾ കർത്താവിന്റെ മഹത്വം ആലയം വിട്ടുപോകുന്നത് എസെക്കിയേൽ കണ്ടു.","ദൈവം പിന്മാറിയില്ല: യേശുവിൽ മഹത്വം മനുഷ്യശരീരത്തിൽ നമ്മുടെയിടയിൽ വസിക്കാൻ തിരിച്ചുവന്നു; അവിടുന്നിലൂടെ സഭയിലും."],
+   q:[["ot","അപ്പോൾ ഒരു മേഘം സമാഗമകൂടാരത്തെ ആവരണംചെയ്തു. കർത്താവിന്റെ മഹത്വം കൂടാരത്തിൽ നിറഞ്ഞുനിന്നു.","പുറപ്പാട് 40:34"],["nt","വചനം മാംസമായി നമ്മുടെയിടയിൽ വസിച്ചു. അവന്റെ മഹത്വം നമ്മൾ ദർശിച്ചു - കൃപയും സത്യവും നിറഞ്ഞതും പിതാവിന്റെ ഏകജാതന്റേതുമായ മഹത്വം.","യോഹന്നാൻ 1:14"]],
+   apply:"നമ്മുടെ ഇടവകദേവാലയം ഒരു ഹാളല്ല; ദൈവമഹത്വം വസിക്കുന്ന ഭവനമാണ്. ഭക്തിയോടെ അതിൽ പ്രവേശിക്കുക."},
+  {h:"ക്രിസ്തുവിലുള്ള വിശ്വാസമാകുന്ന പാറമേലാണു സഭ പണിയപ്പെട്ടിരിക്കുന്നത്",
+   sub:["യേശു ചോദിക്കുന്നു: “ഞാൻ ആരെന്നാണ് നിങ്ങൾ പറയുന്നത്?” വിശ്വാസം ഒരു കുടുംബാചാരം മാത്രമല്ല, വ്യക്തിപരമായ ഉത്തരമാണ്.","പത്രോസ് ഉത്തരം നൽകുന്നു: “നീ ജീവനുള്ള ദൈവത്തിന്റെ പുത്രനായ ക്രിസ്തുവാണ്”; ഈ പാറമേൽ യേശു തന്റെ സഭ പണിയുന്നു.","നാം ശക്തരായതുകൊണ്ടല്ല, ക്രിസ്തു വാഗ്ദാനം ചെയ്തതുകൊണ്ടാണു സഭ ഉറച്ചുനിൽക്കുന്നത്: നരകകവാടങ്ങൾ അതിനെതിരേ പ്രബലപ്പെടുകയില്ല."],
+   q:[["ot","ഇതാ ഞാൻ സീയോനിൽ ഒരു കല്ല്, ശോധനചെയ്ത കല്ല്, അടിസ്ഥാനമായി ഇടുന്നു; വിലയുറ്റ മൂലക്കല്ല് ഉറപ്പുള്ള അടിസ്ഥാനമായി ഇട്ടിരിക്കുന്നു; വിശ്വസിക്കുന്നവൻ ചഞ്ചലചിത്തനാവുകയില്ല.","ഏശയ്യാ 28:16"],["nt","അവൻ അവരോടു ചോദിച്ചു: എന്നാൽ, ഞാൻ ആരെന്നാണ് നിങ്ങൾ പറയുന്നത്? ശിമയോൻ പത്രോസ് പറഞ്ഞു: നീ ജീവനുള്ള ദൈവത്തിന്റെ പുത്രനായ ക്രിസ്തുവാണ്.","മത്തായി 16:15–16"]],
+   apply:"ഈ ആഴ്ച പ്രാർഥനയിൽ യേശുവിനു വ്യക്തിപരമായി ഉത്തരം നൽകുക: “കർത്താവേ, അങ്ങു ക്രിസ്തുവാണ്, എന്റെ കർത്താവും എന്റെ ദൈവവും.”"},
+  {h:"ദൈവം രൂപപ്പെടുത്തുന്ന ജീവനുള്ള കല്ലുകളാണു നാം",
+   sub:["സോളമന്റെ ദേവാലയം നേരത്തേ ചെത്തിമിനുക്കിയ കല്ലുകൾകൊണ്ടാണു പണിതത്; വിശുദ്ധസ്ഥലത്തു ചുറ്റികയുടെ ശബ്ദം കേട്ടില്ല.","മാമ്മോദീസയിലൂടെയും കൂദാശകളിലൂടെയും പരീക്ഷണങ്ങളിലൂടെയും കുരിശിലൂടെയും ദൈവം നമ്മെ മുൻകൂട്ടി രൂപപ്പെടുത്തുന്നു; അവിടുത്തെ ഭവനത്തിൽ നാം ചേർന്നിണങ്ങാൻ.","കുരിശില്ലാത്ത ഒരു ക്രിസ്തുവിനെ ആഗ്രഹിച്ച പത്രോസ് തിരുത്തപ്പെട്ടു: കല്ല് ഉളി സ്വീകരിക്കണം."],
+   q:[["ot","നേരത്തേ ചെത്തിമിനുക്കിയ കല്ലുകളായിരുന്നതുകൊണ്ട് പണി നടക്കുന്ന സമയത്തു മഴുവിന്റെയോ ചുറ്റികയുടേയോ മറ്റ് ഇരുമ്പായുധങ്ങളുടെയോ ശബ്ദം ദേവാലയത്തിൽ കേട്ടിരുന്നില്ല.","1 രാജാക്കന്മാർ 6:7"],["nt","ആരെങ്കിലും എന്നെ അനുഗമിക്കാൻ ആഗ്രഹിക്കുന്നെങ്കിൽ അവൻ തന്നെത്തന്നെ പരിത്യജിച്ച് തന്റെ കുരിശുമെടുത്ത് എന്നെ അനുഗമിക്കട്ടെ.","മത്തായി 16:24"]],
+   apply:"നിന്റെ ജീവിതത്തിലെ “ഉളി” (പ്രയാസമുള്ള ഒരാൾ, ഒരു രോഗം, ഒരു തിരുത്തൽ) തന്റെ ഭവനത്തിനായി ദൈവം നിന്നെ രൂപപ്പെടുത്തുന്നതായി സ്വീകരിക്കുക."},
+  {h:"പരിശുദ്ധനായ ദൈവം വിശുദ്ധമായ ഒരു ജനത്തെ അയയ്ക്കുന്നു",
+   sub:["ഏശയ്യാ കർത്താവിനെ കണ്ടു; “പരിശുദ്ധൻ, പരിശുദ്ധൻ, പരിശുദ്ധൻ” എന്നു കേട്ടു; തന്റെ പാപം തിരിച്ചറിഞ്ഞു ശുദ്ധീകരിക്കപ്പെട്ടു.","പിന്നെ ദൈവം ചോദിച്ചു: “ആരെയാണ് ഞാൻ അയയ്ക്കുക?” ഏശയ്യാ ഉത്തരം നൽകി: “ഇതാ ഞാൻ! എന്നെ അയച്ചാലും!”","വിശുദ്ധീകരിക്കപ്പെട്ട സഭ പ്രേഷിതസഭയാണ്: മറ്റുള്ളവർക്കു വെളിച്ചമാകാനാണു നാം വിശുദ്ധരാക്കപ്പെടുന്നത്."],
+   q:[["ot","പരിശുദ്ധൻ, പരിശുദ്ധൻ, സൈന്യങ്ങളുടെ കർത്താവ് പരിശുദ്ധൻ. ഭൂമി മുഴുവൻ അവിടുത്തെ മഹത്വം നിറഞ്ഞിരിക്കുന്നു.","ഏശയ്യാ 6:3"],["nt","നിങ്ങൾ ലോകത്തിന്റെ പ്രകാശമാണ്. മലമുകളിൽ പണിതുയർത്തിയ പട്ടണത്തെ മറച്ചുവയ്ക്കുക സാധ്യമല്ല.","മത്തായി 5:14"]],
+   apply:"കുർബാനയിലെ “പരിശുദ്ധൻ” ഗീതത്തിൽ ഏശയ്യായോടൊപ്പം പാടുക; ഹൃദയത്തിൽ പറയുക: “ഇതാ ഞാൻ! എന്നെ അയച്ചാലും!”"}
+ ],
+ concl:["കൂടാരം, ദേവാലയം, മഹത്വം, പാറ, ജീവനുള്ള കല്ലുകൾ: എല്ലാം ഒരു സത്യത്തിലേക്കു വിരൽചൂണ്ടുന്നു. ദൈവം നമ്മോടൊപ്പം വസിക്കാൻ ആഗ്രഹിക്കുന്നു; ക്രിസ്തുവിൽ അവിടുന്നു നമ്മെ തന്റെ ഭവനമാക്കിയിരിക്കുന്നു.","പുതിയ ആരാധനാവത്സരം ആരംഭിക്കുമ്പോൾ സഭയെ നമ്മുടെ അമ്മയായി സ്നേഹിക്കാം; ജീവിതംകൊണ്ട് അതിനെ പടുത്തുയർത്താം; അതിന്റെ വെളിച്ചം നമ്മുടെ കുടുംബങ്ങളിലും നാട്ടിലും പ്രകാശിക്കട്ടെ."],
+ resolve:"ഈ ആഴ്ച ഞായറാഴ്ചയല്ലാത്ത ഒരു ദിവസം ദേവാലയം സന്ദർശിച്ച് നിന്റെ ഇടവകയ്ക്കും മെത്രാനും സഭ മുഴുവനുംവേണ്ടി പ്രാർഥിക്കുക."});
+})();
 
 var _render=render;render=function(){if(S.tab==="occ")S.tab="lectern";var occ=S.view==="occ",docs=S.view==="docs"||occ;_render();document.querySelector(".datebar").hidden=docs;document.querySelector(".tabs").hidden=docs;$("note").hidden=docs;$("r-occ").textContent=(OCT[S.lang]||OCT.en).h;$("r-occ").setAttribute("aria-pressed",occ);if(occ){$("card").innerHTML=renderOcc();}$("r-docs").textContent=({en:"Papal documents",ml:"മാർപാപ്പമാരുടെ രേഖകൾ",de:"Päpstliche Dokumente",it:"Documenti pontifici",ta:"திருத்தந்தையரின் ஆவணங்கள்",hi:"संत पापाओं के दस्तावेज़"})[S.lang]||"Papal documents";$("r-docs").setAttribute("aria-pressed",S.view==="docs");if(S.view==="docs"){["smc","smk","lat"].forEach(function(r){$("r-"+r).setAttribute("aria-pressed","false")});renderDocs()}};
 applyFS();
