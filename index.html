@@ -10125,6 +10125,12 @@ showWelcome();
 #a2hs button{font-weight:600;font-size:14px;font-family:inherit;border:0;border-radius:999px;padding:8px 14px;cursor:pointer}
 #a2hs .go{background:#d8b45a;color:#181e3a}
 #a2hs .x{background:transparent;color:#faf0dc;font-size:20px;padding:4px 8px;line-height:1}
+#a2hsg{position:fixed;left:12px;right:12px;top:max(12px,env(safe-area-inset-top));z-index:10000;max-width:420px;margin:0 auto;background:#fff;color:#111;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.35);padding:14px 16px;font:500 15px/1.4 -apple-system,system-ui,sans-serif;text-align:center}
+#a2hsg .st{font-weight:700;font-size:16px;margin-bottom:8px}
+#a2hsg .row{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#f2f2f7;border:2px solid #d8b45a;border-radius:12px;padding:10px 14px;font-size:17px;text-align:left}
+#a2hsg .row svg{flex:none}
+#a2hsg .dn{font-size:22px;line-height:1;margin:6px 0;color:#d8b45a}
+#a2hsg .x{position:absolute;right:8px;top:4px;border:0;background:none;font-size:22px;color:#888}
 </style>
 <script>
 (function(){
@@ -10145,11 +10151,20 @@ showWelcome();
   w.querySelector(".x").onclick=function(){w.remove();set()};
   if(btn)w.querySelector(".go").onclick=btn;
  }
+ function guide(){
+  if(document.getElementById("a2hsg"))return;
+  var g=document.createElement("div");g.id="a2hsg";
+  g.innerHTML='<button class="x" aria-label="Close">×</button><div class="st">In the menu below, scroll down</div><div class="dn">⬇︎</div>and tap this line:<div class="row" style="margin-top:8px"><span>Add to Home Screen</span><svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true"><rect x="2" y="2" width="22" height="22" rx="5" fill="none" stroke="#111" stroke-width="2"/><path d="M13 7v12M7 13h12" stroke="#111" stroke-width="2" stroke-linecap="round"/></svg></div><div style="margin-top:8px;font-size:13px;color:#555">Then tap “Add” at the top right. Done!</div>';
+  document.body.appendChild(g);
+  g.querySelector(".x").onclick=function(){g.remove();set()};
+  setTimeout(function(){if(g.parentNode)g.remove()},60000);
+ }
  var deferred=null;
  window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();deferred=e;
   setTimeout(function(){show(T.a,function(){var w=document.getElementById("a2hs");if(w)w.remove();deferred.prompt();deferred.userChoice.then(function(){set()},function(){})})},2500)});
  window.addEventListener("appinstalled",function(){var w=document.getElementById("a2hs");if(w)w.remove();set()});
  if(ios&&!/CriOS|FxiOS|EdgiOS/.test(ua))setTimeout(function(){show(T.ios,function(){
+   var w=document.getElementById("a2hs");if(w)w.remove();guide();
    if(navigator.share){navigator.share({title:"Daily Word",url:location.origin+"/"}).catch(function(){})}
    else{var t=document.querySelector("#a2hs .t");if(t)t.innerHTML="<b>Almost done</b>Tap the Share button ⬆︎ in Safari, then “Add to Home Screen”."}
   })},2500);
