@@ -10140,7 +10140,7 @@ showWelcome();
  if("serviceWorker" in navigator){try{navigator.serviceWorker.register("sw.js")}catch(e){}}
  var standalone=(window.matchMedia&&matchMedia("(display-mode: standalone)").matches)||navigator.standalone===true;
  if(standalone)return;
- var d=get();if(d&&Date.now()-Number(d)<14*864e5)return; /* ask again after 14 days */
+ var d=get();if(d&&Date.now()-Number(d)<864e5)return; /* closed: ask again next day, until added */
  var ua=navigator.userAgent||"",ios=/iPhone|iPad|iPod/.test(ua)||(/Macintosh/.test(ua)&&"ontouchend" in document);
  var T={h:"Get the Daily Word app",a:"One tap to add it to your home screen.",ios:"Keep it on your home screen like an app.",go:"Add"};
  function show(body,btn){
