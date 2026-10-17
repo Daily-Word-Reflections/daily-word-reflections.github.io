@@ -239,7 +239,7 @@ details.about li b{display:block;color:var(--ink)}
     <div class="verse-line" id="bandverse"></div>
   </section>
 
-  <div class="preview" id="preview">Preview · under preparation. Daily reflections begin with the new liturgical year: Syro-Malankara from 1 November 2026; Syro-Malabar and Latin from 29 November 2026.</div>
+  <div class="preview" id="preview">Preview · under preparation. Daily reflections begin on 1 November 2026 for all three rites: Syro-Malabar, Syro-Malankara and Latin.</div>
 
   <div class="bar">
     <div class="seg" role="group" aria-label="Rite"><button id="r-smc" data-rite="smc"></button><button id="r-smk" data-rite="smk"></button><button id="r-lat" data-rite="lat"></button><button id="r-docs" data-view="docs"></button><button id="r-occ" data-view="occ"></button></div>
@@ -9843,5 +9843,43 @@ render();
 showWelcome();
 </script>
 
+<style>
+#a2hs{position:fixed;left:12px;right:12px;bottom:12px;z-index:9999;display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:16px;
+ background:#181e3a;color:#faf0dc;box-shadow:0 8px 28px rgba(0,0,0,.35);font:500 14px/1.4 "IBM Plex Sans","Noto Sans Malayalam",system-ui,sans-serif;max-width:560px;margin:0 auto}
+#a2hs img{width:44px;height:44px;border-radius:10px;flex:none}
+#a2hs .t{flex:1;min-width:0}
+#a2hs .t b{display:block;font-size:15px;color:#fff}
+#a2hs button{font-weight:600;font-size:14px;font-family:inherit;border:0;border-radius:999px;padding:8px 14px;cursor:pointer}
+#a2hs .go{background:#d8b45a;color:#181e3a}
+#a2hs .x{background:transparent;color:#faf0dc;font-size:20px;padding:4px 8px;line-height:1}
+</style>
+<script>
+(function(){
+ var KEY="dw_a2hs_dismissed";
+ function get(){try{return localStorage.getItem(KEY)}catch(e){return null}}
+ function set(){try{localStorage.setItem(KEY,String(Date.now()))}catch(e){}}
+ if("serviceWorker" in navigator){try{navigator.serviceWorker.register("sw.js")}catch(e){}}
+ var standalone=(window.matchMedia&&matchMedia("(display-mode: standalone)").matches)||navigator.standalone===true;
+ if(standalone)return;
+ var d=get();if(d&&Date.now()-Number(d)<14*864e5)return; /* ask again after 14 days */
+ var ml=(window.S&&S.lang==="ml")||(!(window.S&&S.lang)&&/^ml/.test(navigator.language||""));
+ var ua=navigator.userAgent||"",ios=/iPhone|iPad|iPod/.test(ua)||(/Macintosh/.test(ua)&&"ontouchend" in document);
+ var T=ml?{h:"Daily Word ഫോണിൽ ചേർക്കൂ",a:"ഒറ്റ ടാപ്പിൽ ഇനി എന്നും തുറക്കാം.",ios:"Share ⬆︎ അമർത്തി “Add to Home Screen” തിരഞ്ഞെടുക്കുക.",go:"ചേർക്കുക"}
+         :{h:"Add Daily Word to your phone",a:"Open it every day with one tap.",ios:"Tap Share ⬆︎, then “Add to Home Screen”.",go:"Install"};
+ function show(body,btn){
+  if(document.getElementById("a2hs"))return;
+  var w=document.createElement("div");w.id="a2hs";w.setAttribute("role","dialog");w.setAttribute("aria-label",T.h);
+  w.innerHTML='<img src="icon-192.png" alt=""><div class="t"><b>'+T.h+'</b>'+body+'</div>'+(btn?'<button class="go">'+T.go+'</button>':'')+'<button class="x" aria-label="Close">×</button>';
+  document.body.appendChild(w);
+  w.querySelector(".x").onclick=function(){w.remove();set()};
+  if(btn)w.querySelector(".go").onclick=btn;
+ }
+ var deferred=null;
+ window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();deferred=e;
+  setTimeout(function(){show(T.a,function(){var w=document.getElementById("a2hs");if(w)w.remove();deferred.prompt();deferred.userChoice.then(function(){set()},function(){})})},2500)});
+ window.addEventListener("appinstalled",function(){var w=document.getElementById("a2hs");if(w)w.remove();set()});
+ if(ios&&/Safari/.test(ua)&&!/CriOS|FxiOS|EdgiOS/.test(ua))setTimeout(function(){show(T.ios,null)},2500);
+})();
+</script>
 </body>
 </html>
