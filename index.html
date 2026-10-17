@@ -11127,7 +11127,9 @@ showWelcome();
  if("serviceWorker" in navigator){try{navigator.serviceWorker.register("sw.js")}catch(e){}}
  var standalone=(window.matchMedia&&matchMedia("(display-mode: standalone)").matches)||navigator.standalone===true;
  if(standalone)return;
- var d=get();if(d&&Date.now()-Number(d)<864e5)return; /* closed: ask again next day, until added */
+ var ua0=navigator.userAgent||"",ios0=/iPhone|iPad|iPod/.test(ua0)||(/Macintosh/.test(ua0)&&"ontouchend" in document);
+ try{if(localStorage.getItem("dw_a2hs_ios_done"))return}catch(e){}
+ var d=get();if(d&&Date.now()-Number(d)<(ios0?7:1)*864e5)return; /* closed: ask again later (iPhone weekly, others next day), until added */
  var ua=navigator.userAgent||"",ios=/iPhone|iPad|iPod/.test(ua)||(/Macintosh/.test(ua)&&"ontouchend" in document);
  var T={h:"Get the Daily Word app",a:"One tap to add it to your home screen.",ios:"Keep it on your home screen like an app.",go:"Add"};
  function show(body,btn){
@@ -11151,7 +11153,7 @@ showWelcome();
   setTimeout(function(){show(T.a,function(){var w=document.getElementById("a2hs");if(w)w.remove();deferred.prompt();deferred.userChoice.then(function(){set()},function(){})})},2500)});
  window.addEventListener("appinstalled",function(){var w=document.getElementById("a2hs");if(w)w.remove();set()});
  if(ios&&!/CriOS|FxiOS|EdgiOS/.test(ua))setTimeout(function(){show(T.ios,function(){
-   var w=document.getElementById("a2hs");if(w)w.remove();guide();
+   var w=document.getElementById("a2hs");if(w)w.remove();guide();try{localStorage.setItem("dw_a2hs_ios_done","1")}catch(e){}
 
   })},2500);
 })();
