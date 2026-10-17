@@ -10125,11 +10125,11 @@ showWelcome();
 #a2hs button{font-weight:600;font-size:14px;font-family:inherit;border:0;border-radius:999px;padding:8px 14px;cursor:pointer}
 #a2hs .go{background:#d8b45a;color:#181e3a}
 #a2hs .x{background:transparent;color:#faf0dc;font-size:20px;padding:4px 8px;line-height:1}
-#a2hsg{position:fixed;left:12px;right:12px;top:max(12px,env(safe-area-inset-top));z-index:10000;max-width:420px;margin:0 auto;background:#fff;color:#111;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.35);padding:14px 16px;font:500 15px/1.4 -apple-system,system-ui,sans-serif;text-align:center}
+#a2hsg{position:fixed;left:12px;right:12px;bottom:max(12px,env(safe-area-inset-bottom));z-index:10000;max-width:420px;margin:0 auto;background:#fff;color:#111;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.35);padding:14px 16px;font:500 15px/1.4 -apple-system,system-ui,sans-serif;text-align:center}
 #a2hsg .st{font-weight:700;font-size:16px;margin-bottom:8px}
 #a2hsg .row{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#f2f2f7;border:2px solid #d8b45a;border-radius:12px;padding:10px 14px;font-size:17px;text-align:left}
 #a2hsg .row svg{flex:none}
-#a2hsg .dn{font-size:22px;line-height:1;margin:6px 0;color:#d8b45a}
+#a2hsg .dn{font-size:15px;font-weight:700;line-height:1;margin:6px 0;color:#d8b45a}
 #a2hsg .x{position:absolute;right:8px;top:4px;border:0;background:none;font-size:22px;color:#888}
 </style>
 <script>
@@ -10142,7 +10142,7 @@ showWelcome();
  if(standalone)return;
  var d=get();if(d&&Date.now()-Number(d)<14*864e5)return; /* ask again after 14 days */
  var ua=navigator.userAgent||"",ios=/iPhone|iPad|iPod/.test(ua)||(/Macintosh/.test(ua)&&"ontouchend" in document);
- var T={h:"Get the Daily Word app",a:"One tap to add it to your home screen.",ios:"Tap Add, then choose “Add to Home Screen”.",go:"Add"};
+ var T={h:"Get the Daily Word app",a:"One tap to add it to your home screen.",ios:"Keep it on your home screen like an app.",go:"Add"};
  function show(body,btn){
   if(document.getElementById("a2hs"))return;
   var w=document.createElement("div");w.id="a2hs";w.setAttribute("role","dialog");w.setAttribute("aria-label",T.h);
@@ -10154,10 +10154,10 @@ showWelcome();
  function guide(){
   if(document.getElementById("a2hsg"))return;
   var g=document.createElement("div");g.id="a2hsg";
-  g.innerHTML='<button class="x" aria-label="Close">×</button><div class="st">In the menu below, scroll down</div><div class="dn">⬇︎</div>and tap this line:<div class="row" style="margin-top:8px"><span>Add to Home Screen</span><svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true"><rect x="2" y="2" width="22" height="22" rx="5" fill="none" stroke="#111" stroke-width="2"/><path d="M13 7v12M7 13h12" stroke="#111" stroke-width="2" stroke-linecap="round"/></svg></div><div style="margin-top:8px;font-size:13px;color:#555">Then tap “Add” at the top right. Done!</div>';
+  g.innerHTML='<button class="x" aria-label="Close">×</button><div class="st">3 quick steps</div><div class="row"><span><b>1.</b> Tap the Share button <svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5" fill="none" stroke="#0a84ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 11H5v10h14V11h-1" fill="none" stroke="#0a84ff" stroke-width="2" stroke-linecap="round"/></svg> in Safari&#39;s bottom bar <small>(on newer iPhones: tap ••• first, then Share)</small></span></div><div class="row" style="margin-top:8px"><span><b>2.</b> Scroll down the list and tap <b>Add to Home Screen</b></span><svg width="22" height="22" viewBox="0 0 26 26" aria-hidden="true"><rect x="2" y="2" width="22" height="22" rx="5" fill="none" stroke="#111" stroke-width="2"/><path d="M13 7v12M7 13h12" stroke="#111" stroke-width="2" stroke-linecap="round"/></svg></div><div class="row" style="margin-top:8px"><span><b>3.</b> Tap <b>Add</b> (top right). Done!</span></div><div class="dn" style="margin-top:10px">⬇︎ The Share button is down there ⬇︎</div>';
   document.body.appendChild(g);
   g.querySelector(".x").onclick=function(){g.remove();set()};
-  setTimeout(function(){if(g.parentNode)g.remove()},60000);
+  setTimeout(function(){if(g.parentNode)g.remove()},120000);
  }
  var deferred=null;
  window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();deferred=e;
@@ -10165,8 +10165,7 @@ showWelcome();
  window.addEventListener("appinstalled",function(){var w=document.getElementById("a2hs");if(w)w.remove();set()});
  if(ios&&!/CriOS|FxiOS|EdgiOS/.test(ua))setTimeout(function(){show(T.ios,function(){
    var w=document.getElementById("a2hs");if(w)w.remove();guide();
-   if(navigator.share){navigator.share({title:"Daily Word",url:location.origin+"/"}).catch(function(){})}
-   else{var t=document.querySelector("#a2hs .t");if(t)t.innerHTML="<b>Almost done</b>Tap the Share button ⬆︎ in Safari, then “Add to Home Screen”."}
+
   })},2500);
 })();
 </script>
