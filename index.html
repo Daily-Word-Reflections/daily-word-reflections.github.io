@@ -3534,22 +3534,16 @@ function refChapters(p){var o=[];p.segs.forEach(function(s){for(var c=s[0];c<=s[
 var POCBASE=(/github\.io$|^localhost$|^127\./.test(location.hostname)?"poc/":SITE+"poc/");
 function fullPassage(ref,mlref){
  var p=(S.lang==="ml"&&parseRef(mlref))||parseRef(ref);if(!p)return "";var b=p.b,rest=p.rest,ch=refChapters(p).slice(0,3),ml=S.lang==="ml";
- var q=encodeURIComponent(b[0]+" "+rest);
- var L=[["English · NRSV (Catholic Edition)","https://www.biblegateway.com/passage/?search="+q+"&version=NRSVCE","en"]];
- ch.forEach(function(c,i){var s0=p.segs.filter(function(s){return s[0]===c})[0];L.push(["മലയാളം · POC ("+(ml?"അധ്യായം ":"ch. ")+c+")","https://www.pocbible.com/adyayam.asp?val="+c+"&book="+b[1]+(s0&&s0[1]>1?"#v"+s0[1]:""),"ml"])});
- L.push(["Deutsch · Einheitsübersetzung","https://www.bibleserver.com/EU/"+encodeURIComponent(b[0].replace(/ /g,"")+rest),"de"]);
- ch.forEach(function(c){L.push(["Italiano · CEI 2008 (cap. "+c+")","https://www.bibbiaedu.it/CEI2008/"+b[3]+"/"+b[2]+"/"+c+"/","it"])});
- L=L.filter(function(l){return l[2]===S.lang});if(!L.length)return "";
- var RL={en:"📖 Read the full passage",ml:"🔗 pocbible.com",de:"📖 Ganzen Text lesen",it:"📖 Leggi il brano completo"}[S.lang];
+ if(!ml)return "";
  var box="";if(ml){box='<details class="ptxt" data-b="'+b[1]+'" data-s="'+p.segs.map(function(s){return s.join(".")}).join("|")+'"><summary>📖 വായനഭാഗം ഇവിടെ വായിക്കാം</summary><div class="pbody"></div></details>'}
- return '<div class="fullp">'+box+L.map(function(l,i){return '<a href="'+l[1]+'" target="_blank" rel="noopener">'+esc(RL+(L.length>1?" · "+l[0].replace(/^.*\(/,"(" ):"  ·  "+l[0].split(" · ")[1]))+" ↗</a>"}).join("")+"</div>"}
+ return box?'<div class="fullp">'+box+"</div>":""}
 var POCCACHE={};
 function pocChapter(slug,c){var k=slug+"/"+c;if(!POCCACHE[k])POCCACHE[k]=fetch(POCBASE+k+".json").then(function(r){if(!r.ok)throw 0;return r.json()});return POCCACHE[k]}
 document.addEventListener("toggle",function(e){var d=e.target;if(!d.classList||!d.classList.contains("ptxt")||!d.open||d.dataset.done)return;d.dataset.done=1;var body=d.querySelector(".pbody");body.textContent="…";
  var segs=d.dataset.s.split("|").map(function(s){return s.split(".").map(Number)}),chs=[];segs.forEach(function(s){for(var c=s[0];c<=s[2];c++)if(chs.indexOf(c)<0)chs.push(c)});
  Promise.all(chs.map(function(c){return pocChapter(d.dataset.b,c).then(function(j){return [c,j]})})).then(function(res){var J={};res.forEach(function(x){J[x[0]]=x[1]});var out=[],seen={},multi=chs.length>1;
   segs.forEach(function(s){for(var c=s[0];c<=s[2];c++){var j=J[c]||{},a=c===s[0]?s[1]:1,z=c===s[2]?s[3]:999;Object.keys(j).map(Number).sort(function(x,y){return x-y}).forEach(function(v){if(v>=a&&v<=z&&!seen[c+":"+v]){seen[c+":"+v]=1;out.push('<sup>'+(multi?c+":":"")+v+'</sup> '+esc(j[v]))}})}});
-  body.innerHTML=out.length?'<p>'+out.join(" ")+'</p><p class="psrc">— പി.ഒ.സി. ബൈബിൾ (KCBC)</p>':'<p class="psrc">ഈ ഭാഗം ഇപ്പോൾ ലഭ്യമല്ല. താഴെയുള്ള ലിങ്ക് ഉപയോഗിക്കുക.</p>'}).catch(function(){d.dataset.done="";body.innerHTML='<p class="psrc">ലോഡ് ചെയ്യാനായില്ല. താഴെയുള്ള ലിങ്ക് ഉപയോഗിക്കുക.</p>'})},true);
+  body.innerHTML=out.length?'<p>'+out.join(" ")+'</p><p class="psrc">— പി.ഒ.സി. ബൈബിൾ (KCBC)</p>':'<p class="psrc">ഈ ഭാഗം ഇപ്പോൾ ലഭ്യമല്ല.</p>'}).catch(function(){d.dataset.done="";body.innerHTML='<p class="psrc">ലോഡ് ചെയ്യാനായില്ല. വീണ്ടും തുറന്നുനോക്കുക.</p>'})},true);
 
 function shareText(title,C,X){
  var ml=S.lang==="ml",u=UI[S.lang]||UI.en,v=U2[S.lang]||U2.en,link=SITE+"?d="+S.date+"&r="+S.rite+"&l="+S.lang,o=[];
