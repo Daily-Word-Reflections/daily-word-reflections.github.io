@@ -79,6 +79,12 @@ body{background:var(--bg);color:var(--ink);font-family:var(--serif);font-size:17
 .ritewrap{display:inline-flex;align-items:center;position:relative;background:var(--accent);border-right:1px solid var(--rule)}
 .ritewrap::after{content:"▾";position:absolute;right:12px;pointer-events:none;color:var(--paper);font-size:12px}
 .ritewrap.off{background:transparent}.ritewrap.off::after{color:var(--muted)}
+.datebar .pill{border-radius:8px}
+.seg.ritebar{border:0;border-radius:0;overflow:visible;background:transparent;box-shadow:none;gap:8px}
+.seg.ritebar>button,.seg.ritebar>.ritewrap{border:1px solid var(--rule);border-radius:8px;background:var(--paper);box-shadow:var(--shadow)}
+.seg.ritebar>.ritewrap{background:var(--accent);border-color:var(--accent);overflow:hidden}
+.seg.ritebar>.ritewrap.off{background:var(--paper);border-color:var(--rule)}
+.seg.ritebar>button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--paper)}
 #ritesel{appearance:none;-webkit-appearance:none;font:700 13.5px var(--sans);border:0;background:transparent;color:var(--paper);padding:8px 30px 8px 14px;cursor:pointer;max-width:58vw}
 .ritewrap.off #ritesel{color:var(--muted)}
 #ritesel option{color:#1b1b1b;background:#fff}
