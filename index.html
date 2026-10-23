@@ -236,6 +236,13 @@ details.about li b{display:block;color:var(--ink)}
 .wbox .wopts{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px}
 .wbox .wopts button{font:600 15px var(--sans);padding:12px;border-radius:12px;border:1px solid var(--rule);background:var(--bg);color:var(--ink);cursor:pointer}
 .wbox .wopts button[aria-pressed="true"]{border-color:var(--gold);background:var(--goldsoft)}
+.wbox .wsel{font:600 16px var(--sans);padding:12px;border-radius:12px;border:1px solid var(--rule);background:var(--bg);color:var(--ink);width:100%}
+.wbox .wsel:disabled{opacity:.55}
+.wbox .go:disabled{opacity:.45;cursor:default}
+.wbox .whs{border:1px dashed var(--gold);border-radius:12px;padding:12px;display:grid;gap:6px;background:var(--goldsoft)}
+.wbox .whs b{font:600 15px var(--sans);color:var(--ink)}
+.wbox .whs p{font-size:13.5px}
+.wbox .whs button{font:600 14px var(--sans);padding:10px;border-radius:10px;border:0;background:var(--accent);color:var(--paper);cursor:pointer}
 .wbox .go{font:600 16px var(--sans);padding:13px;border-radius:12px;border:0;background:var(--ink);color:var(--paper);cursor:pointer}
 .term{font-family:var(--display);font-size:28px;font-weight:600;margin:0}
 .partpick select{flex:1;font-weight:600}
@@ -3646,7 +3653,7 @@ function render(){
  $("app").setAttribute("lang",S.lang);
  document.documentElement.style.setProperty("--accent",ACC[S.rite]);
  $("eyebrow").textContent=u.eyebrow;$("brand").textContent=u.brand;$("bandsub").textContent=u.sub;
- var RO=[S.rite].concat(["smc","smk","lat"].filter(function(r){return r!==S.rite}));$("ritesel").innerHTML=(S.view!=="day"?'<option value="" hidden selected>'+esc(u.rites[S.rite])+"</option>":"")+RO.map(function(r){return '<option value="'+r+'"'+(S.view==="day"&&r===S.rite?" selected":"")+">"+esc(u.rites[r])+"</option>"}).join("");
+ var RO=[S.rite].concat(riteOrder(S.lang).filter(function(r){return r!==S.rite}));$("ritesel").innerHTML=(S.view!=="day"?'<option value="" hidden selected>'+esc(u.rites[S.rite])+"</option>":"")+RO.map(function(r){return '<option value="'+r+'"'+(S.view==="day"&&r===S.rite?" selected":"")+">"+esc(u.rites[r])+"</option>"}).join("");
  if(LANGS[S.rite].indexOf(S.lang)<0)S.lang="en";$("langseg").innerHTML=LANGS[S.rite].map(function(l){return "<button data-lang=\"" + l + "\" aria-pressed=\""+(S.lang===l)+"\">"+LNAME[l]+"</button>"}).join("");
  if(S.tab==="cal")S.tab="lectern";if(S.tab==="family"){S.tab="homily";S.part=3}
  var TT=TAB2[S.lang]||TAB2.en;$("t-lectern").textContent=TT.lectern;$("t-homily").textContent=TT.homily;
@@ -3896,12 +3903,25 @@ function renderContact(){var MOB=/Android|iPhone|iPad|iPod|Mobile/i.test(navigat
 
 /* ---- first visit: choose rite and language ---- */
 var LEN={ml:"Malayalam",en:"English",ta:"Tamil",hi:"Hindi",de:"German",it:"Italian"},WS={rite:S.rite,lang:S.lang};
-function renderWelcome(){var rn={smc:"Syro-Malabar",smk:"Syro-Malankara",lat:"Latin"};if(LANGS[WS.rite].indexOf(WS.lang)<0)WS.lang="en";
- $("wbox").innerHTML='<h2 id="w-h">Welcome to Daily Word</h2><p>Readings, reflections and homily notes for every day. Please choose your rite and language. You can change them at any time at the top of the page.</p><div class="wl">Your rite</div><div class="wopts">'+["smc","smk","lat"].map(function(r){return '<button data-wr="'+r+'" aria-pressed="'+(WS.rite===r)+'">'+rn[r]+"</button>"}).join("")+'</div><div class="wl">Your language</div><div class="wopts">'+LANGS[WS.rite].map(function(l){return '<button data-wl="'+l+'" aria-pressed="'+(WS.lang===l)+'">'+LEN[l]+(l!=="en"?" · "+LNAME[l]:"")+"</button>"}).join("")+'</div><button class="go" id="wgo">Start reading</button>'}
-function showWelcome(){if(S.fromLink)return;var seen=false;try{seen=!!localStorage.getItem("av-welcome")}catch(e){}if(seen)return;renderWelcome();$("welcome").hidden=false}
-$("wbox").addEventListener("click",function(e){var r=e.target.closest("[data-wr]"),l=e.target.closest("[data-wl]");
- if(r){WS.rite=r.dataset.wr;renderWelcome()}else if(l){WS.lang=l.dataset.wl;renderWelcome()}
- else if(e.target.id==="wgo"){S.rite=WS.rite;S.lang=WS.lang;S.view="day";try{localStorage.setItem("av-welcome","1")}catch(x){}$("welcome").hidden=true;render()}});
+var WT={en:{h:"Welcome to Daily Word",p:"In your Rite and Language. Choose them below; you can change them any time at the top of the page.",r:"Rite",l:"Language",cr:"Choose your rite",cl:"Choose your language",go:"Start reading",hs:"Keep Daily Word on your home screen",add:"Add to home screen",an:"Android (Chrome): tap ⋮, then “Add to Home screen”.",io:"iPhone (Safari): tap Share, then “Add to Home Screen”."},
+ ml:{h:"അനുദിന വചനത്തിലേക്കു സ്വാഗതം",p:"നിങ്ങളുടെ റീത്തിലും ഭാഷയിലും. താഴെ തിരഞ്ഞെടുക്കുക; പേജിന്റെ മുകളിൽനിന്ന് എപ്പോൾ വേണമെങ്കിലും മാറ്റാം.",r:"റീത്ത്",l:"ഭാഷ",cr:"നിങ്ങളുടെ റീത്ത് തിരഞ്ഞെടുക്കുക",cl:"ഭാഷ തിരഞ്ഞെടുക്കുക",go:"വായന തുടങ്ങുക",hs:"അനുദിന വചനം ഹോം സ്ക്രീനിൽ സൂക്ഷിക്കുക",add:"ഹോം സ്ക്രീനിൽ ചേർക്കുക",an:"ആൻഡ്രോയ്ഡ് (Chrome): ⋮ അമർത്തി “Add to Home screen” തിരഞ്ഞെടുക്കുക.",io:"ഐഫോൺ (Safari): Share അമർത്തി “Add to Home Screen” തിരഞ്ഞെടുക്കുക."},
+ ta:{h:"அனுதின இறைவார்த்தைக்கு வரவேற்கிறோம்",p:"உங்கள் வழிபாட்டு முறையிலும் மொழியிலும். கீழே தேர்ந்தெடுங்கள்; பக்கத்தின் மேலே எப்போது வேண்டுமானாலும் மாற்றலாம்.",r:"வழிபாட்டு முறை",l:"மொழி",cr:"உங்கள் வழிபாட்டு முறையைத் தேர்ந்தெடுங்கள்",cl:"மொழியைத் தேர்ந்தெடுங்கள்",go:"வாசிக்கத் தொடங்குங்கள்",hs:"அனுதின இறைவார்த்தையை முகப்புத் திரையில் வைத்துக்கொள்ளுங்கள்",add:"முகப்புத் திரையில் சேர்",an:"ஆண்ட்ராய்டு (Chrome): ⋮ தொட்டு “Add to Home screen” தேர்ந்தெடுங்கள்.",io:"ஐபோன் (Safari): Share தொட்டு “Add to Home Screen” தேர்ந்தெடுங்கள்."},
+ hi:{h:"दैनिक वचन में आपका स्वागत है",p:"आपकी रीति और आपकी भाषा में। नीचे चुनें; पृष्ठ के ऊपर से इन्हें कभी भी बदल सकते हैं।",r:"रीति",l:"भाषा",cr:"अपनी रीति चुनें",cl:"अपनी भाषा चुनें",go:"पढ़ना शुरू करें",hs:"दैनिक वचन को अपनी होम स्क्रीन पर रखें",add:"होम स्क्रीन पर जोड़ें",an:"एंड्रॉइड (Chrome): ⋮ छुएँ, फिर “Add to Home screen” चुनें।",io:"आईफ़ोन (Safari): Share छुएँ, फिर “Add to Home Screen” चुनें।"},
+ de:{h:"Willkommen beim Wort des Tages",p:"In Ihrem Ritus und Ihrer Sprache. Wählen Sie unten; oben auf der Seite können Sie beides jederzeit ändern.",r:"Ritus",l:"Sprache",cr:"Ritus wählen",cl:"Sprache wählen",go:"Lesen beginnen",hs:"Das Wort des Tages auf dem Startbildschirm behalten",add:"Zum Startbildschirm hinzufügen",an:"Android (Chrome): ⋮ antippen, dann „Zum Startbildschirm hinzufügen“.",io:"iPhone (Safari): Teilen antippen, dann „Zum Home-Bildschirm“."},
+ it:{h:"Benvenuti in La Parola di ogni giorno",p:"Nel vostro rito e nella vostra lingua. Sceglieteli qui sotto; potete cambiarli in qualsiasi momento in cima alla pagina.",r:"Rito",l:"Lingua",cr:"Scegliete il rito",cl:"Scegliete la lingua",go:"Inizia a leggere",hs:"Tenete La Parola di ogni giorno nella schermata Home",add:"Aggiungi alla schermata Home",an:"Android (Chrome): toccate ⋮, poi “Aggiungi a schermata Home”.",io:"iPhone (Safari): toccate Condividi, poi “Aggiungi alla schermata Home”."}};
+var DEFER=null;window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();DEFER=e;if(!$("welcome").hidden)renderWelcome()});
+function riteOrder(lang){var rn=(UI[lang]||UI.en).rites;return ["smc","smk","lat"].sort(function(a,b){return String(rn[a]).localeCompare(String(rn[b]),lang)})}
+function renderWelcome(){var wl=WS.lang||"en",w=WT[wl]||WT.en,rn=(UI[wl]||UI.en).rites;if(WS.rite&&LANGS[WS.rite].indexOf(WS.lang)<0)WS.lang="";
+ var inst=false;try{inst=matchMedia("(display-mode: standalone)").matches||navigator.standalone}catch(e){}
+ $("wbox").innerHTML='<h2 id="w-h">'+esc(w.h)+"</h2><p>"+esc(w.p)+'</p><label class="wl" for="wrs">'+esc(w.r)+'</label><select class="wsel" id="wrs"><option value=""'+(WS.rite?"":" selected")+" disabled>"+esc(w.cr)+"</option>"+riteOrder(wl).map(function(r){return '<option value="'+r+'"'+(WS.rite===r?" selected":"")+">"+esc(rn[r])+"</option>"}).join("")+"</select>"+
+  '<label class="wl" for="wls">'+esc(w.l)+'</label><select class="wsel" id="wls"'+(WS.rite?"":" disabled")+'><option value=""'+(WS.lang?"":" selected")+" disabled>"+esc(w.cl)+"</option>"+(WS.rite?LANGS[WS.rite]:[]).map(function(l){return '<option value="'+l+'"'+(WS.lang===l?" selected":"")+">"+esc(LNAME[l]+(l!=="en"?" · "+LEN[l]:""))+"</option>"}).join("")+"</select>"+
+  '<button class="go" id="wgo"'+(WS.rite&&WS.lang?"":" disabled")+">"+esc(w.go)+"</button>"+
+  (inst?"":'<div class="whs"><b>🏠 '+esc(w.hs)+"</b>"+(DEFER?'<button type="button" id="winst">'+esc(w.add)+"</button>":"<p>"+esc(w.an)+"</p><p>"+esc(w.io)+"</p>")+"</div>")}
+function showWelcome(){if(S.fromLink)return;var seen=false;try{seen=!!localStorage.getItem("av-welcome")}catch(e){}if(seen)return;WS.rite="";WS.lang="";renderWelcome();$("welcome").hidden=false}
+$("wbox").addEventListener("change",function(e){if(e.target.id==="wrs"){WS.rite=e.target.value;renderWelcome()}else if(e.target.id==="wls"){WS.lang=e.target.value;renderWelcome()}});
+$("wbox").addEventListener("click",function(e){
+ if(e.target.id==="wgo"&&WS.rite&&WS.lang){S.rite=WS.rite;S.lang=WS.lang;S.view="day";try{localStorage.setItem("av-welcome","1")}catch(x){}$("welcome").hidden=true;render()}
+ else if(e.target.id==="winst"&&DEFER){DEFER.prompt();DEFER.userChoice.then(function(){DEFER=null;renderWelcome()})}});
 
 /* ---- search ---- */
 var IDX={};

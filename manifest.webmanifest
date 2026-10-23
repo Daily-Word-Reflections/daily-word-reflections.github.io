@@ -1,7 +1,7 @@
 {
   "name": "Daily Word",
   "short_name": "Daily Word",
-  "description": "Readings, reflections and homily notes for every day: Syro-Malabar, Syro-Malankara and Latin.",
+  "description": "Daily Word: in your Rite and Language",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
