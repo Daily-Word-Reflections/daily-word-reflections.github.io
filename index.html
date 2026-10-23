@@ -239,7 +239,7 @@ details.about li b{display:block;color:var(--ink)}
 .wbox .wsel{font:600 16px var(--sans);padding:12px;border-radius:12px;border:1px solid var(--rule);background:var(--bg);color:var(--ink);width:100%}
 .wbox .wsel:disabled{opacity:.55}
 .wbox .go:disabled{opacity:.45;cursor:default}
-.wbox .whs{border:1px dashed var(--gold);border-radius:12px;padding:12px;display:grid;gap:6px;background:var(--goldsoft)}
+.wbox .whs{border:1px solid var(--rule);border-radius:12px;padding:12px;display:grid;gap:8px;background:var(--bg)}
 .wbox .whs b{font:600 15px var(--sans);color:var(--ink)}
 .wbox .whs p{font-size:13.5px}
 .wbox .whs button{font:600 14px var(--sans);padding:10px;border-radius:10px;border:0;background:var(--accent);color:var(--paper);cursor:pointer}
@@ -3916,12 +3916,12 @@ function renderWelcome(){var wl=WS.lang||"en",w=WT[wl]||WT.en,rn=(UI[wl]||UI.en)
  $("wbox").innerHTML='<h2 id="w-h">'+esc(w.h)+"</h2><p>"+esc(w.p)+'</p><label class="wl" for="wrs">'+esc(w.r)+'</label><select class="wsel" id="wrs"><option value=""'+(WS.rite?"":" selected")+" disabled>"+esc(w.cr)+"</option>"+riteOrder(wl).map(function(r){return '<option value="'+r+'"'+(WS.rite===r?" selected":"")+">"+esc(rn[r])+"</option>"}).join("")+"</select>"+
   '<label class="wl" for="wls">'+esc(w.l)+'</label><select class="wsel" id="wls"'+(WS.rite?"":" disabled")+'><option value=""'+(WS.lang?"":" selected")+" disabled>"+esc(w.cl)+"</option>"+(WS.rite?LANGS[WS.rite]:[]).map(function(l){return '<option value="'+l+'"'+(WS.lang===l?" selected":"")+">"+esc(LNAME[l]+(l!=="en"?" · "+LEN[l]:""))+"</option>"}).join("")+"</select>"+
   '<button class="go" id="wgo"'+(WS.rite&&WS.lang?"":" disabled")+">"+esc(w.go)+"</button>"+
-  (inst?"":'<div class="whs"><b>🏠 '+esc(w.hs)+"</b>"+(DEFER?'<button type="button" id="winst">'+esc(w.add)+"</button>":"<p>"+esc(w.an)+"</p><p>"+esc(w.io)+"</p>")+"</div>")}
+  (inst?"":'<div class="whs"><b>🏠 '+esc(w.hs)+'</b><button type="button" id="winst">'+esc(w.add)+"</button>"+(WS.help?"<p>"+esc(/iPhone|iPad|iPod/i.test(navigator.userAgent)?w.io:w.an)+"</p>":"")+"</div>")}
 function showWelcome(){if(S.fromLink)return;var seen=false;try{seen=!!localStorage.getItem("av-welcome")}catch(e){}if(seen)return;WS.rite="";WS.lang="";renderWelcome();$("welcome").hidden=false}
 $("wbox").addEventListener("change",function(e){if(e.target.id==="wrs"){WS.rite=e.target.value;renderWelcome()}else if(e.target.id==="wls"){WS.lang=e.target.value;renderWelcome()}});
 $("wbox").addEventListener("click",function(e){
  if(e.target.id==="wgo"&&WS.rite&&WS.lang){S.rite=WS.rite;S.lang=WS.lang;S.view="day";try{localStorage.setItem("av-welcome","1")}catch(x){}$("welcome").hidden=true;render()}
- else if(e.target.id==="winst"&&DEFER){DEFER.prompt();DEFER.userChoice.then(function(){DEFER=null;renderWelcome()})}});
+ else if(e.target.id==="winst"){if(DEFER){DEFER.prompt();DEFER.userChoice.then(function(){DEFER=null;renderWelcome()})}else{WS.help=1;renderWelcome()}}});
 
 /* ---- search ---- */
 var IDX={};
