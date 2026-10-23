@@ -3921,7 +3921,7 @@ function showWelcome(){if(S.fromLink)return;var seen=false;try{seen=!!localStora
 $("wbox").addEventListener("change",function(e){if(e.target.id==="wrs"){WS.rite=e.target.value;renderWelcome()}else if(e.target.id==="wls"){WS.lang=e.target.value;renderWelcome()}});
 $("wbox").addEventListener("click",function(e){
  if(e.target.id==="wgo"&&WS.rite&&WS.lang){S.rite=WS.rite;S.lang=WS.lang;S.view="day";try{localStorage.setItem("av-welcome","1")}catch(x){}$("welcome").hidden=true;render()}
- else if(e.target.id==="winst"){if(DEFER){DEFER.prompt();DEFER.userChoice.then(function(){DEFER=null;renderWelcome()})}else{WS.help=1;renderWelcome()}}});
+ else if(e.target.id==="winst"){if(DEFER){DEFER.prompt();DEFER.userChoice.then(function(){DEFER=null;renderWelcome()})}else{WS.help=1;renderWelcome();if(/iPhone|iPad|iPod/i.test(navigator.userAgent)&&window.dwIosGuide)window.dwIosGuide()}}});
 
 /* ---- search ---- */
 var IDX={};
@@ -19249,14 +19249,6 @@ showWelcome();
 </script>
 
 <style>
-#a2hs{position:fixed;left:12px;right:12px;bottom:12px;z-index:9999;display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:16px;
- background:#181e3a;color:#faf0dc;box-shadow:0 8px 28px rgba(0,0,0,.35);font:500 14px/1.4 "IBM Plex Sans","Noto Sans Malayalam",system-ui,sans-serif;max-width:560px;margin:0 auto}
-#a2hs img{width:44px;height:44px;border-radius:10px;flex:none}
-#a2hs .t{flex:1;min-width:0}
-#a2hs .t b{display:block;font-size:15px;color:#fff}
-#a2hs button{font-weight:600;font-size:14px;font-family:inherit;border:0;border-radius:999px;padding:8px 14px;cursor:pointer}
-#a2hs .go{background:#d8b45a;color:#181e3a}
-#a2hs .x{background:transparent;color:#faf0dc;font-size:20px;padding:4px 8px;line-height:1}
 #a2hsg{position:fixed;left:12px;right:12px;bottom:max(12px,env(safe-area-inset-bottom));z-index:10000;max-width:420px;margin:0 auto;background:#fff;color:#111;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.35);padding:14px 16px;font:500 15px/1.4 -apple-system,system-ui,sans-serif;text-align:center}
 #a2hsg .st{font-weight:700;font-size:16px;margin-bottom:8px}
 #a2hsg .row{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#f2f2f7;border:2px solid #d8b45a;border-radius:12px;padding:10px 14px;font-size:17px;text-align:left}
@@ -19266,41 +19258,16 @@ showWelcome();
 </style>
 <script>
 (function(){
- var KEY="dw_a2hs_dismissed";
- function get(){try{return localStorage.getItem(KEY)}catch(e){return null}}
- function set(){try{localStorage.setItem(KEY,String(Date.now()))}catch(e){}}
  if("serviceWorker" in navigator){try{navigator.serviceWorker.register("sw.js")}catch(e){}}
- var standalone=(window.matchMedia&&matchMedia("(display-mode: standalone)").matches)||navigator.standalone===true;
- if(standalone)return;
- var ua0=navigator.userAgent||"",ios0=/iPhone|iPad|iPod/.test(ua0)||(/Macintosh/.test(ua0)&&"ontouchend" in document);
- try{if(localStorage.getItem("dw_a2hs_ios_done"))return}catch(e){}
- var d=get();if(d&&Date.now()-Number(d)<(ios0?7:1)*864e5)return; /* closed: ask again later (iPhone weekly, others next day), until added */
- var ua=navigator.userAgent||"",ios=/iPhone|iPad|iPod/.test(ua)||(/Macintosh/.test(ua)&&"ontouchend" in document);
- var T={h:"Get the Daily Word app",a:"One tap to add it to your home screen.",ios:"Keep it on your home screen like an app.",go:"Add"};
- function show(body,btn){
-  if(document.getElementById("a2hs"))return;
-  var w=document.createElement("div");w.id="a2hs";w.setAttribute("role","dialog");w.setAttribute("aria-label",T.h);
-  w.innerHTML='<img src="icon-192.png" alt=""><div class="t"><b>'+T.h+'</b>'+body+'</div>'+(btn?'<button class="go">'+T.go+'</button>':'')+'<button class="x" aria-label="Close">×</button>';
-  document.body.appendChild(w);
-  w.querySelector(".x").onclick=function(){w.remove();set()};
-  if(btn)w.querySelector(".go").onclick=btn;
- }
  function guide(){
   if(document.getElementById("a2hsg"))return;
   var g=document.createElement("div");g.id="a2hsg";
   g.innerHTML='<button class="x" aria-label="Close">×</button><div class="st">3 quick steps</div><div class="row"><span><b>1.</b> Tap the Share button <svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5" fill="none" stroke="#0a84ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 11H5v10h14V11h-1" fill="none" stroke="#0a84ff" stroke-width="2" stroke-linecap="round"/></svg> in Safari&#39;s bottom bar <small>(on newer iPhones: tap ••• first, then Share)</small></span></div><div class="row" style="margin-top:8px"><span><b>2.</b> Scroll down the list and tap <b>Add to Home Screen</b></span><svg width="22" height="22" viewBox="0 0 26 26" aria-hidden="true"><rect x="2" y="2" width="22" height="22" rx="5" fill="none" stroke="#111" stroke-width="2"/><path d="M13 7v12M7 13h12" stroke="#111" stroke-width="2" stroke-linecap="round"/></svg></div><div class="row" style="margin-top:8px"><span><b>3.</b> Tap <b>Add</b> (top right). Done!</span></div><div class="dn" style="margin-top:10px">⬇︎ The Share button is down there ⬇︎</div>';
   document.body.appendChild(g);
-  g.querySelector(".x").onclick=function(){g.remove();set()};
+  g.querySelector(".x").onclick=function(){g.remove()};
   setTimeout(function(){if(g.parentNode)g.remove()},120000);
  }
- var deferred=null;
- window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();deferred=e;
-  setTimeout(function(){show(T.a,function(){var w=document.getElementById("a2hs");if(w)w.remove();deferred.prompt();deferred.userChoice.then(function(){set()},function(){})})},2500)});
- window.addEventListener("appinstalled",function(){var w=document.getElementById("a2hs");if(w)w.remove();set()});
- if(ios&&!/CriOS|FxiOS|EdgiOS/.test(ua))setTimeout(function(){show(T.ios,function(){
-   var w=document.getElementById("a2hs");if(w)w.remove();guide();try{localStorage.setItem("dw_a2hs_ios_done","1")}catch(e){}
-
-  })},2500);
+ window.dwIosGuide=guide;
 })();
 </script>
 </body>
