@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daily-word-reflections.github.io/sitemap.xml
