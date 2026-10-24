@@ -295,7 +295,7 @@ details.about li b{display:block;color:var(--ink)}
   </section>
 
   <div class="bar">
-    <div class="seg ritebar" role="group" aria-label="Rite"><label class="ritewrap"><select id="ritesel" aria-label="Rite"></select></label><button id="home" class="homebtn"></button><button id="r-docs" data-view="docs"></button><button id="r-saints" data-view="saints"></button><button id="r-occ" data-view="occ"></button><button id="r-sos" class="sosnav" type="button"></button></div>
+    <div class="seg ritebar" role="group" aria-label="Rite"><label class="ritewrap"><select id="ritesel" aria-label="Rite"></select></label><button id="home" class="homebtn"></button><button id="r-docs" data-view="docs"></button><button id="r-saints" data-view="saints"></button><button id="r-occ" data-view="occ"></button></div>
     <div class="seg" role="group" aria-label="Language" id="langseg"></div>
     <div class="seg fs" role="group" aria-label="Text size"><button id="fs-m" aria-label="Smaller text">A−</button><button id="fs-p" aria-label="Larger text">A+</button></div>
   </div>
@@ -939,7 +939,7 @@ $("card").addEventListener("click",function(e){var b=e.target.closest("[data-sai
 $("note").addEventListener("change",function(e){if(e.target.id==="smcset"){S.set=e.target.value;S.setManual=true;render()}});
 $("r-docs").addEventListener("click",function(){S.view="docs";render()});
 $("r-occ").addEventListener("click",function(){S.view="occ";render()});
-$("r-sos").addEventListener("click",goSOS);$("r-saints").addEventListener("click",function(){S.view="saints";S.smon=0;S.saint="";render()});
+$("r-saints").addEventListener("click",function(){S.view="saints";S.smon=0;S.saint="";render()});
 document.addEventListener("change",function(e){if(e.target&&e.target.id==="saintsel"){S.saint=e.target.value;S.smon=0;render();window.scrollTo(0,0)}});
 $("card").addEventListener("change",function(e){if(e.target.id==="partsel"){S.part=+e.target.value;render()}else if(e.target.id==="gsel"){S.gi=+e.target.value;render()}else if(e.target.id==="occsel"){S.occ=e.target.value;render()}});
 $("card").addEventListener("click",function(e){if(e.target.id==="g-prev"||e.target.id==="g-next"){var n=document.querySelectorAll("#gsel option").length;S.gi=(S.gi+(e.target.id==="g-next"?1:n-1))%n;render()}});
