@@ -585,7 +585,7 @@ function render(){
  document.documentElement.style.setProperty("--accent",ACC[S.rite]);
  $("eyebrow").textContent=u.eyebrow;$("brand").textContent=u.brand;$("bandsub").textContent=u.sub;
  var RO=[S.rite].concat(riteOrder(S.lang).filter(function(r){return r!==S.rite}));$("ritesel").innerHTML=(S.view!=="day"?'<option value="" hidden selected>'+esc(u.rites[S.rite])+"</option>":"")+RO.map(function(r){return '<option value="'+r+'"'+(S.view==="day"&&r===S.rite?" selected":"")+">"+esc(u.rites[r])+"</option>"}).join("");
- if(LANGS[S.rite].indexOf(S.lang)<0)S.lang="en";$("langseg").innerHTML=LANGS[S.rite].map(function(l){return "<button data-lang=\"" + l + "\" aria-pressed=\""+(S.lang===l)+"\">"+LNAME[l]+"</button>"}).join("");
+ if(LANGS[S.rite].indexOf(S.lang)<0)S.lang="en";$("langseg").innerHTML=lsort(LANGS[S.rite]).map(function(l){return "<button data-lang=\"" + l + "\" aria-pressed=\""+(S.lang===l)+"\">"+LNAME[l]+"</button>"}).join("");
  if(S.tab==="cal")S.tab="lectern";if(S.tab==="family"){S.tab="homily";S.part=3}
  var TT=TAB2[S.lang]||TAB2.en;$("t-lectern").textContent=TT.lectern;$("t-homily").textContent=TT.homily;
  ["lectern","homily","lit"].forEach(function(k){if(k==="lit")$("t-"+k).textContent=u.tabs[k];$("t-"+k).setAttribute("aria-selected",S.tab===k)});
@@ -852,6 +852,7 @@ function renderContact(){var MOB=/Android|iPhone|iPad|iPod|Mobile/i.test(navigat
 
 /* ---- first visit: choose rite and language ---- */
 var LEN={ml:"Malayalam",en:"English",ta:"Tamil",hi:"Hindi",de:"German",it:"Italian"},WS={rite:S.rite,lang:S.lang};
+function lsort(a){return a.slice().sort(function(x,y){return (LEN[x]||x).localeCompare(LEN[y]||y)})}
 var WT={en:{h:"Welcome to Daily Word",p:"In your Rite and Language. Choose them below; you can change them any time at the top of the page.",r:"Rite",l:"Language",cr:"Choose your rite",cl:"Choose your language",go:"Start reading",hs:"Keep Daily Word on your home screen",add:"Add to home screen",an:"Android (Chrome): tap ⋮, then “Add to Home screen”.",io:"iPhone (Safari): tap Share, then “Add to Home Screen”."},
  ml:{h:"അനുദിന വചനത്തിലേക്കു സ്വാഗതം",p:"നിങ്ങളുടെ റീത്തിലും ഭാഷയിലും. താഴെ തിരഞ്ഞെടുക്കുക; പേജിന്റെ മുകളിൽനിന്ന് എപ്പോൾ വേണമെങ്കിലും മാറ്റാം.",r:"റീത്ത്",l:"ഭാഷ",cr:"നിങ്ങളുടെ റീത്ത് തിരഞ്ഞെടുക്കുക",cl:"ഭാഷ തിരഞ്ഞെടുക്കുക",go:"വായന തുടങ്ങുക",hs:"അനുദിന വചനം ഹോം സ്ക്രീനിൽ സൂക്ഷിക്കുക",add:"ഹോം സ്ക്രീനിൽ ചേർക്കുക",an:"ആൻഡ്രോയ്ഡ് (Chrome): ⋮ അമർത്തി “Add to Home screen” തിരഞ്ഞെടുക്കുക.",io:"ഐഫോൺ (Safari): Share അമർത്തി “Add to Home Screen” തിരഞ്ഞെടുക്കുക."},
  ta:{h:"அனுதின இறைவார்த்தைக்கு வரவேற்கிறோம்",p:"உங்கள் வழிபாட்டு முறையிலும் மொழியிலும். கீழே தேர்ந்தெடுங்கள்; பக்கத்தின் மேலே எப்போது வேண்டுமானாலும் மாற்றலாம்.",r:"வழிபாட்டு முறை",l:"மொழி",cr:"உங்கள் வழிபாட்டு முறையைத் தேர்ந்தெடுங்கள்",cl:"மொழியைத் தேர்ந்தெடுங்கள்",go:"வாசிக்கத் தொடங்குங்கள்",hs:"அனுதின இறைவார்த்தையை முகப்புத் திரையில் வைத்துக்கொள்ளுங்கள்",add:"முகப்புத் திரையில் சேர்",an:"ஆண்ட்ராய்டு (Chrome): ⋮ தொட்டு “Add to Home screen” தேர்ந்தெடுங்கள்.",io:"ஐபோன் (Safari): Share தொட்டு “Add to Home Screen” தேர்ந்தெடுங்கள்."},
@@ -863,7 +864,7 @@ function riteOrder(lang){var rn=(UI[lang]||UI.en).rites;return ["smc","smk","lat
 function renderWelcome(){var wl=WS.lang||"en",w=WT[wl]||WT.en,rn=(UI[wl]||UI.en).rites;if(WS.rite&&LANGS[WS.rite].indexOf(WS.lang)<0)WS.lang="";
  var inst=false;try{inst=matchMedia("(display-mode: standalone)").matches||navigator.standalone}catch(e){}
  $("wbox").innerHTML='<h2 id="w-h">'+esc(w.h)+"</h2><p>"+esc(w.p)+'</p><label class="wl" for="wrs">'+esc(w.r)+'</label><select class="wsel" id="wrs"><option value=""'+(WS.rite?"":" selected")+" disabled>"+esc(w.cr)+"</option>"+riteOrder(wl).map(function(r){return '<option value="'+r+'"'+(WS.rite===r?" selected":"")+">"+esc(rn[r])+"</option>"}).join("")+"</select>"+
-  '<label class="wl" for="wls">'+esc(w.l)+'</label><select class="wsel" id="wls"'+(WS.rite?"":" disabled")+'><option value=""'+(WS.lang?"":" selected")+" disabled>"+esc(w.cl)+"</option>"+(WS.rite?LANGS[WS.rite]:[]).map(function(l){return '<option value="'+l+'"'+(WS.lang===l?" selected":"")+">"+esc(LNAME[l]+(l!=="en"?" · "+LEN[l]:""))+"</option>"}).join("")+"</select>"+
+  '<label class="wl" for="wls">'+esc(w.l)+'</label><select class="wsel" id="wls"'+(WS.rite?"":" disabled")+'><option value=""'+(WS.lang?"":" selected")+" disabled>"+esc(w.cl)+"</option>"+(WS.rite?lsort(LANGS[WS.rite]):[]).map(function(l){return '<option value="'+l+'"'+(WS.lang===l?" selected":"")+">"+esc(LNAME[l]+(l!=="en"?" · "+LEN[l]:""))+"</option>"}).join("")+"</select>"+
   '<button class="go" id="wgo"'+(WS.rite&&WS.lang?"":" disabled")+">"+esc(w.go)+"</button>"+
   (inst?"":'<div class="whs"><b>🏠 '+esc(w.hs)+'</b><button type="button" id="winst">'+esc(w.add)+"</button>"+(WS.help?"<p>"+esc(/iPhone|iPad|iPod/i.test(navigator.userAgent)?w.io:w.an)+"</p>":"")+"</div>")}
 function showWelcome(){if(S.fromLink)return;var seen=false;try{seen=!!localStorage.getItem("av-welcome")}catch(e){}if(seen)return;WS.rite="";WS.lang="";renderWelcome();$("welcome").hidden=false}
@@ -1862,6 +1863,118 @@ latinLabelDI=function(L,lang){if(lang!=="fr")return _l(L,lang);
  return L.w===0?ord(L.n)+" dimanche "+wh:day+" de la "+ord(L.n)+" semaine "+wh};
 var _dl=dateLabel;dateLabel=function(t,lang){if(lang!=="fr")return _dl(t,lang);var d=new Date(t),u=UI.fr,n=d.getUTCDate();return u.days[d.getUTCDay()]+" "+(n===1?"1er":n)+" "+u.months[d.getUTCMonth()]+" "+d.getUTCFullYear()};
 var _smd=saintMD;saintMD=function(md,lang){if(lang!=="fr")return _smd(md,lang);var n=+md.slice(3);return (n===1?"1er":n)+" "+UI.fr.months[+md.slice(0,2)-1]};
+})();
+/* ===== Tagalog (tl) for the Latin rite (added 25 October 2026). Terms: Hesus, Kristo, Simbahan, Banal na Misa, Eukaristiya. Scripture: references only (book names as in the Magandang Balita Biblia; chapter:verse). ===== */
+(function(){
+function A(o,b){return Object.assign({},o,b)}
+LNAME.tl="Tagalog";LEN.tl="Tagalog";/*TLON*/
+if(typeof VLINK!=="undefined")VLINK.tl="en";
+UI.tl=A(UI.en,{eyebrow:"Ang Salita ng Diyos sa bawat araw",brand:"Salita sa Araw-araw",sub:"Sa iyong rito at sa iyong wika\nMga pagbasa, pagninilay at homiliya",
+ rites:{smc:"Siro-Malabar",smk:"Siro-Malankara",lat:"Latino"},
+ tabs:{lectern:"Ambo",homily:"Homiliya",cal:"Pahina ng kalendaryo",family:"Grupo ng panalangin",lit:"Kilalanin ang liturhiya",occ:"Mga natatanging okasyon"},
+ today:"Ngayon",sample:"Halimbawang araw",days:["Linggo","Lunes","Martes","Miyerkules","Huwebes","Biyernes","Sabado"],dshort:["Lin","Lun","Mar","Miy","Huw","Biy","Sab"],
+ months:["Enero","Pebrero","Marso","Abril","Mayo","Hunyo","Hulyo","Agosto","Setyembre","Oktubre","Nobyembre","Disyembre"],
+ h:{readings:"Mga Pagbasa",verse:"Salita ng araw",theo:"Teolohikong pagninilay",conn:"Mga pangakong natupad · ugnayan sa Bibliya",altar:"Sa altar",outline:"Balangkas ng homiliya",live:"Isabuhay ang Salita ngayong linggo",fathers:"Tinig ng mga Ama ng Simbahan",magis:"Magisterio at mga bagong dokumento",saints:"Mga santo ng linggo",week:"Ngayong linggo",prayer:"Panalangin",post:"Handang ibahagi sa WhatsApp o Telegram",feasts:"Mga kapistahan at paggunita ng linggo",homily:"Homiliya para sa Misa",kidsMass:"Misa kasama ang mga bata at paaralan"},
+ copy:"Kopyahin ang teksto",copied:"Nakopya na",copyfail:"Piliin ang teksto sa itaas at kopyahin",
+ notprep:"Hindi pa handa ang pagninilay at homiliya para sa araw na ito.",goSample:"Buksan ang inihandang halimbawa",
+ latsrc:"Ang panahon at linggo ay kinuwenta ayon sa kalendaryong Romano; tingnan ang mga kapistahan sa opisyal na Ordo ng liturhiya.",
+ cycle:function(s,w){return "Siklo ng Linggo "+s+" · Siklo ng karaniwang araw "+w},
+ partial:"Nasa Tagalog ang homiliya, homiliya para sa mga bata, mga pagbasa at panalangin; ang ibang bahagi ay nasa Ingles muna.",
+ allen:"Hindi pa naisasalin sa Tagalog ang araw na ito; ipinapakita ito sa Ingles.",
+ foot:["Mga sanggunian lamang ng Bibliya. Basahin ang buong teksto sa iyong Bibliyang Katoliko o sa aprobadong Leksiyonaryo. Ang mga sipi mula sa mga Ama ng Simbahan at sa Magisterio ay dapat suriin sa orihinal na dokumento bago ilimbag."]});
+U2.tl=A(U2.en,{quick:"Sa isang sulyap",action:"Ngayong araw",question:"Tanong ng araw",special:"Tala para sa Linggong ito",illus:"Halimbawa",kids:"Para sa mga bata sa unahan",diaspora:"Para sa mga nasa malayo",diasporaPh:"Puwang para sa tala para sa mga Katolikong nasa ibang bansa: mga kapistahang ipinagdiriwang sa ibang petsa, oras ng Misa sa lugar, mga intensiyon para sa mga migrante.",famcorner:"Para sa panalangin ng pamilya at mga grupo ng panalangin",read:"Basahin",explain:"Sa simpleng salita",intention:"Intensiyon ngayong gabi",ask:"Sa hapag-kainan",catech:"Katesismo",kidsaint:"Isang santo para sa mga bata",req:"Mga intensiyon sa panalangin",reqtxt:"Ipadala ang iyong mga intensiyon. Inihahandog ang mga ito tuwing Biyernes sa Misang iniaalay para sa mga mambabasa.",reqbtn:"Dito ilalagay ang isang form",term:"Salita ng araw",season:"Tungkol sa panahong ito",more:"Alam mo ba?",search:"Maghanap ng petsa, kapistahan, santo, aklat ng Bibliya o anumang salita",noresult:"Walang nahanap.",about:"Tungkol sa Salita sa Araw-araw",about1:"Ang pahinang ito ay inihahanda nang may panalangin ng isang paring Katoliko na hindi nagpapakilala, upang ang Salita lamang ang makita. Sinusunod nito ang mga opisyal na kalendaryo ng liturhiya ng mga Simbahang Siro-Malabar, Siro-Malankara at Latino.",about2:"Ang mga teksto ng Bibliya ay ibinibigay bilang sanggunian lamang. Ang mga pagninilay at mungkahing homiliya ay orihinal na akda."});
+TAB2.tl={lectern:"Salita ng araw",homily:"Mangaral at magturo"};
+PARTS.tl=A(PARTS.en,{label:"Pumili",o:["1. Balangkas ng homiliya: mga punto at Kasulatan","2. Homiliya (buong teksto)","3. Grupo ng panalangin","4. Katekesis"],intro:"Panimula",concl:"Pangwakas",resolve:"Pasya para sa linggo",apply:"Sa buhay",ot:"Lumang Tipan",nt:"Bagong Tipan",soon:"Inihahanda pa ang detalyadong balangkas na may mga sipi ng Kasulatan para sa araw na ito. Narito muna ang pangunahing balangkas."});
+LIT.tl={prev:"Naunang termino",next:"Susunod na termino",all:"Lahat ng termino",word:"Kilalanin ang liturhiya",lesson:"Aralin",notes:"Mahahalagang tala",refs:"Mga sanggunian"};
+OCT.tl={h:"Mga natatanging okasyon",choose:"Piliin ang okasyon",read:"Mga mungkahing pagbasa",readnote:"Mga mungkahi lamang. Gamitin ang mga pagbasang nakatakda sa aklat ng liturhiya.",verse:"Salita para sa okasyon",points:"Mga punto ng homiliya",homily:"Homiliya",prayer:"Panalangin",ref:"Basahin ito sa iyong Bibliyang Katoliko",eng:"Ang bahaging ito ay nasa Ingles muna."};
+STT.tl={g1:"Mga okasyon",g2:"Mga santo",life:"Buhay",lessons:"Mga aral mula sa kanyang buhay",quotes:"Mga salitang dapat tandaan",stories:"Mga kuwento",word:"Salita ng Diyos",prayer:"Panalangin",H:"Kasaysayan",T:"Tradisyon",L:"Alamat",today:"Mga santo ngayon",open:"Buhay, aral, salita, kuwento",feast:"Kapistahan",ref:"Basahin ito sa iyong Bibliyang Katoliko"};
+CT.tl={h:"Mga intensiyon, mungkahi at puna",p:"Ipadala sa amin ang iyong mga intensiyon sa panalangin: tuwing Biyernes, inihahandog ang mga ito sa {Q} na iniaalay para sa mga mambabasa ng pahinang ito. Tumutulong sa amin ang iyong mga mungkahi at puna upang mapabuti ito.",b:["Magpadala ng intensiyon","Magpadala ng mungkahi","Magpadala ng puna"]};
+QNAME.tl={smc:"Banal na Qurbana",smk:"Banal na Qurbana",lat:"Banal na Misa"};
+WKX.tl={pmH:"Maikling panalangin kasama ang Salita ng araw",pmP:"Ang buong tala para sa grupo ng panalangin ay ibinibigay tuwing Linggo at kapistahan. Para ngayong araw, ang simpleng balangkas na ito kasama ang mga pagbasa ng araw.",catH:"Katekesis tuwing Linggo at kapistahan",catP:"Sa karaniwang araw, ang Salita ng araw ang nagsasalita; ang mga aralin ng katekesis ay dumarating tuwing Linggo at kapistahan.",next:"Susunod na katekesis",go:"Buksan",pray:"Pangwakas na panalangin",none:"Manalangin kasama ang Ebanghelyo ng araw at bumalik sa Linggo."};
+SAT.tl={cal:"Ngayong buwan, araw-araw",sp:"Homiliya: mga punto",sh:"Homiliya",day:"Araw ng kapistahan sa kalendaryo",life:"Buhay ng santo",refl:"Pagninilay ng araw",serm:"Homiliya",kids:"Para sa mga bata",h:"Mga santo",intro:"Mga santo at paggunita sa kalendaryo ngayong buwan:",more:"Bawat buwan ay may idinadagdag na mas buong talambuhay, na may markang kasaysayan, tradisyon o alamat.",empty:"Wala pang santong naidagdag para sa buwang ito.",prev:"Nakaraang buwan",next:"Susunod na buwan"};
+if(typeof DOCT!=="undefined")DOCT.tl=[
+["Lumapit kayo sa Akin","Mga pagninilay tungkol sa pagpapasa ng pananampalataya sa pagbabago ng panahon; dokumento ng Dikasteryo para sa Doktrina ng Pananampalataya na inaprubahan ni Papa Leon XIV."],
+["Kahanga-hangang pagkatao","Tungkol sa pangangalaga sa tao sa panahon ng artificial intelligence."],
+["Katapatang nagbubunga ng hinaharap","Sa ika-60 anibersaryo ng mga dekreto ng Konsilyo tungkol sa paghubog at sa ministeryo at buhay ng mga pari (Optatam totius, Presbyterorum ordinis)."],
+["Sa pagkakaisa ng pananampalataya","Sa ika-1700 anibersaryo ng Konsilyo ng Nicea at ng Kredong ating ipinapahayag."],
+["Gumuhit ng mga bagong mapa ng pag-asa","Sa ika-60 anibersaryo ng deklarasyon ng Konsilyo tungkol sa edukasyong Kristiyano (Gravissimum educationis)."],
+["Inibig kita","Tungkol sa pag-ibig sa mga dukha."],
+["Inibig niya tayo","Tungkol sa pag-ibig na pantao at banal ng Puso ni Hesukristo."],
+["Ito ay pagtitiwala","Tungkol sa pagtitiwala sa maawaing pag-ibig ng Diyos, sa ika-150 anibersaryo ni Santa Teresita ng Batang Hesus."],
+["Purihin ang Diyos","Tungkol sa krisis sa klima, karugtong ng Laudato si'."],
+["Lubos kong ninais","Tungkol sa paghubog sa liturhiya ng bayan ng Diyos."],
+["Lahat ay magkakapatid","Tungkol sa kapatiran at pagkakaibigang panlipunan."],
+["May puso ng isang ama","Tungkol kay San Jose, sa ika-150 anibersaryo ng pagpapahayag sa kanya bilang patron ng buong Simbahan."],
+["Mahal na Amazonia","Pagkatapos ng Sinodo tungkol sa rehiyon ng Amazon."],
+["Si Kristo ay buhay","Para sa mga kabataan at sa buong bayan ng Diyos."],
+["Magalak at magdiwang","Tungkol sa panawagan sa kabanalan sa mundo ngayon."],
+["Ang galak ng pag-ibig","Tungkol sa pag-ibig sa pamilya."],
+["Purihin ka","Tungkol sa pangangalaga sa ating iisang tahanan."],
+["Ang mukha ng awa","Bula ng pagpapahayag ng Pambihirang Hubileo ng Awa."],
+["Ang galak ng Ebanghelyo","Tungkol sa pagpapahayag ng Ebanghelyo sa mundo ngayon; ang programa ng isang Simbahang misyonero."],
+["Ang liwanag ng pananampalataya","Tungkol sa pananampalataya; sinimulan ni Benedicto XVI at tinapos ni Francisco."],
+["Ang Salita ng Panginoon","Tungkol sa Salita ng Diyos sa buhay at misyon ng Simbahan."],
+["Pag-ibig sa katotohanan","Tungkol sa buong pag-unlad ng tao sa pag-ibig at katotohanan."],
+["Iniligtas sa pag-asa","Tungkol sa pag-asang Kristiyano."],
+["Sakramento ng pag-ibig","Tungkol sa Eukaristiya, bukal at rurok ng buhay at misyon ng Simbahan."],
+["Ang Diyos ay pag-ibig","Tungkol sa pag-ibig na Kristiyano."],
+["Ang Simbahan ay nabubuhay sa Eukaristiya","Tungkol sa Eukaristiya at sa kaugnayan nito sa Simbahan."],
+["Ang Rosaryo ng Birheng Maria","Tungkol sa Santo Rosaryo; ipinakilala ang mga misteryo ng liwanag."],
+["Sa simula ng bagong milenyo","Sa pagtatapos ng Dakilang Hubileo ng taong 2000: pumalaot sa malalim."],
+["Ang Simbahan sa Asya","Pagkatapos ng Sinodo para sa Asya; tungkol kay Hesukristo na Tagapagligtas at sa kanyang misyon sa Asya. Nilagdaan sa New Delhi."],
+["Pananampalataya at katwiran","Tungkol sa ugnayan ng pananampalataya at katwiran."],
+["Ang araw ng Panginoon","Tungkol sa pagpapabanal sa araw ng Linggo."],
+["Ang liwanag ng Silangan","Tungkol sa mga kayamanan ng mga Simbahan sa Silangan, kasama ang mga tradisyong Siriako."],
+["Ang Ebanghelyo ng buhay","Tungkol sa halaga at kabanalan ng buhay ng tao."],
+["Ang misyon ng Manunubos","Tungkol sa patuloy na bisa ng utos na magmisyon."],
+["Ang tagapag-alaga ng Manunubos","Tungkol sa katauhan at misyon ni San Jose sa buhay ni Kristo at ng Simbahan."],
+["Ang pamayanan ng pamilya","Tungkol sa tungkulin ng pamilyang Kristiyano sa mundo ngayon."],
+["Ang pagpapahayag ng Ebanghelyo","Tungkol sa ebanghelisasyon: ang pinakamalalim na pagkakakilanlan ng Simbahan."],
+["Tungkol sa buhay ng tao","Tungkol sa pagpaplano ng pagsilang."],
+["Ang pag-unlad ng mga bayan","Tungkol sa pag-unlad ng mga bayan."],
+["Sa mga bansa","Dekreto tungkol sa gawaing misyonero ng Simbahan."],
+["Ang Salita ng Diyos","Dogmatikong konstitusyon tungkol sa banal na pahayag."],
+["Galak at pag-asa","Pastoral na konstitusyon tungkol sa Simbahan sa mundo ngayon."],
+["Tungkol sa mga Simbahan sa Silangan","Dekreto tungkol sa mga Simbahang Katoliko sa Silangan."],
+["Liwanag ng mga bansa","Dogmatikong konstitusyon tungkol sa Simbahan."],
+["Ang banal na Konsilyong ito","Konstitusyon tungkol sa banal na liturhiya."]];
+if(typeof DOCL!=="undefined")DOCL.tl={lib:"Aklatan",h:"Mga dokumento ng Papa",sub:"Mga ensiklika, eksortasyon at liham ng mga Papa at mga dokumento ng Ikalawang Konsilyo Vaticano, mula sa pinakabago hanggang sa pinakaluma.",all:"Lahat",open:"Buksan sa vatican.va",filter:"Maghanap ayon sa pamagat o paksa",vh:"Pinakabagong balita mula sa Vaticano",vn:"Vatican News",va:"Mga pangkalahatang audiensiya",vg:"Angelus at Regina Caeli",vm:"Mga mensahe at dokumento",
+ popes:{"leo-xiv":"Papa Leon XIV","francesco":"Papa Francisco","benedict-xvi":"Benedicto XVI","john-paul-ii":"San Juan Pablo II","paul-vi":"San Pablo VI","council":"Ikalawang Konsilyo Vaticano"},
+ types:{enc:"Ensiklika",exh:"Apostolikong eksortasyon",let:"Apostolikong liham",bull:"Bula",con:"Dokumento ng Konsilyo",ddf:"Dokumento ng dikasteryo na inaprubahan ng Papa"}};
+DI.tl={seas:{adv:"Adbiyento",chr:"Panahon ng Pasko",ot:"Karaniwang Panahon",lent:"Kuwaresma",holy:"Mahal na Araw",east:"Panahon ng Pagkabuhay"},col:{green:"Kulay ng liturhiya: berde",violet:"Kulay ng liturhiya: lila",red:"Kulay ng liturhiya: pula",white:"Kulay ng liturhiya: puti"}};
+SXL.tl={adv:["Adbiyento","Apat na linggo ng masayang paghihintay sa Panginoon: sa kanyang pagdating sa wakas ng panahon at sa pagdiriwang ng kanyang pagsilang sa Pasko. Kulay: lila."],chr:["Panahon ng Pasko","Mula sa Pagsilang ng Panginoon hanggang sa Binyag ng Panginoon: ang Salitang nagkatawang-tao, ang Banal na Mag-anak, si Santa Maria Ina ng Diyos, ang Epipanya. Kulay: puti."],ot:["Karaniwang Panahon","Mga linggong may bilang kung saan, Linggo-Linggo, sinusundan ng Simbahan ang pampublikong buhay at turo ni Kristo. Kulay: berde, kulay ng paglago."],lent:["Kuwaresma","Apatnapung araw ng panalangin, pag-aayuno at paglilimos mula Miyerkules ng Abo; inihahanda nito ang mga katekumeno sa binyag at ang lahat ng mananampalataya sa Pasko ng Pagkabuhay. Kulay: lila."],holy:["Mahal na Araw","Mula Linggo ng Palaspas hanggang sa Tatlong Araw ng Pasko: ang pagpasok ng Panginoon sa Jerusalem, ang Huling Hapunan, ang kanyang Pagpapakasakit at kamatayan, ang Bihilya ng Pasko ng Pagkabuhay."],east:["Panahon ng Pagkabuhay","Limampung araw ng galak mula sa Pagkabuhay hanggang sa Pentekostes, na ipinagdiriwang na parang iisang dakilang Linggo. Kulay: puti."]};
+WT.tl={h:"Maligayang pagdating sa Salita sa Araw-araw",p:"Sa iyong rito at sa iyong wika. Pumili sa ibaba; maaari kang magpalit anumang oras sa itaas ng pahina.",r:"Rito",l:"Wika",cr:"Piliin ang iyong rito",cl:"Piliin ang iyong wika",go:"Simulan ang pagbasa",hs:"Ilagay ang Salita sa Araw-araw sa iyong home screen",add:"Idagdag sa home screen",an:"Android (Chrome): pindutin ang ⋮ at piliin ang \"Add to Home screen\".",io:"iPhone (Safari): pindutin ang Share at piliin ang \"Add to Home Screen\"."};
+u2h.tl="Bumalik sa mga pagbasa ng araw";
+HOW.tl={t:"Paano gamitin ang pahinang ito",intro:"Nasa iisang pahina ang lahat. Ganito ka makakapaglibot:",
+ steps:[["Piliin ang iyong rito at wika","Sa kahon sa itaas, piliin ang Siro-Malabar, Siro-Malankara o Latino, saka pindutin ang iyong wika. Tatandaan ng pahina ang iyong pinili sa susunod."],
+  ["⌂ Ngayon: bumalik sa simula","Mula sa anumang pahina (mga santo, dokumento ng Papa, natatanging okasyon o ibang petsa), pindutin ang \"⌂ Ngayon\" o ang pamagat sa itaas upang bumalik sa mga pagbasa ng araw."],
+  ["Pumunta sa anumang araw","Gamitin ang ‹ › para sa nakaraan o susunod na araw; pindutin ang 📅 upang pumili ng petsa; o pindutin ang \"Ngayon\". Ipinapakita ng guhit ng linggo ang kapistahan ng bawat araw at ang mga santo ng iyong rito; pindutin ang isang araw upang buksan ito. Sa ‹ › katabi ng pangalan ng linggo, lilipat ka bawat linggo."],
+  ["Buksan ang tatlong bahagi","Salita ng araw: ang araw sa isang sulyap, mga pagbasa, pagninilay, mga Ama ng Simbahan, Magisterio, mga santo. Mangaral at magturo: 1. balangkas ng homiliya (mga punto at Kasulatan), 2. buong homiliya kasama ang homiliya para sa mga bata at mensaheng maibabahagi, 3. grupo ng panalangin, 4. katekesis. Kilalanin ang liturhiya: mga aralin at termino ng liturhiya. Nasa ibaba rin ng bawat pahina ang tatlong link na ito."],
+  ["Pindutin upang malaman pa","Pindutin ang pangalan ng panahon ng liturhiya (sa itaas ng pamagat ng araw) upang makita ang maikling paliwanag at ang kahulugan ng kulay. Sa \"Sa isang sulyap\", pindutin ang pangalan ng santo upang buksan ang kanyang pahina."],
+  ["Mga santo","Ipinapakita ng buton na \"Mga santo\" ang mga santo ng iyong rito. Maaari kang pumili mula sa listahan o tingnan ang buwan araw-araw. Bawat santo ay may buhay, mga aral, mga kuwento (may markang kasaysayan, tradisyon o alamat), mga salitang dapat tandaan, balangkas at homiliya, at panalangin. Dinadala ka ng \"Araw ng kapistahan sa kalendaryo\" sa mga pagbasa ng araw na iyon."],
+  ["Maghanap","I-type ang petsa, kapistahan, santo, aklat ng Bibliya o anumang salita sa iyong wika. Unang lumalabas ang mga santo at natatanging okasyon, saka ang mga araw. Pindutin ang isang resulta upang buksan ito."],
+  ["Magbasa nang maginhawa at magbahagi","Binabago ng A− at A+ ang laki ng teksto. Sa \"Mangaral at magturo\" (2. buong homiliya), kinokopya ng \"Kopyahin ang teksto\" ang maikling mensahe para sa WhatsApp o Telegram."],
+  ["Mga dokumento ng Papa at natatanging okasyon","Ibinibigay ng \"Mga dokumento ng Papa\" ang mga ensiklika at iba pang dokumento, kasama ang mga link sa pinakabagong balita, talumpati at mensahe mula sa Vaticano. Ibinibigay ng \"Mga natatanging okasyon\" ang mga homiliya para sa mga sakramento, libing, anibersaryo at iba pang okasyon."],
+  ["Sumulat sa amin","Ang mga buton para sa intensiyon, mungkahi at puna sa ibaba ng pahina ay nagbubukas ng Gmail sa kompyuter o ng app ng email sa telepono, na nakalagay na ang address. Maaari mo ring kopyahin ang address at sumulat mula sa anumang email."]],
+ bible:"Mga teksto ng Bibliya: Bibliyang Katoliko sa Tagalog (mga sanggunian lamang)."};
+window.LCMX=window.LCMX||{};LCMX.tl={green:"pag-asa at paglago kay Kristo (Karaniwang Panahon)",violet:"pagsisisi at paghihintay (Adbiyento, Kuwaresma, panalangin para sa mga yumao)",red:"ang apoy ng Espiritu Santo at ang dugo ng mga martir",white:"galak, kalinisan at kaluwalhatian (mga kapistahan ng Panginoon, ng Birheng Maria at ng mga santong hindi martir)",rose:"ang galak na sumisibol sa gitna ng paghihintay (mga Linggong Gaudete at Laetare)"};
+window.ROSEX=window.ROSEX||{};ROSEX.tl="Kulay ng liturhiya: rosas (o lila)";
+window.CCX=window.CCX||{};CCX.tl=["O sumulat sa","Kopyahin ang address","Nakopya na","Ang iyong intensiyon:","Ang iyong mensahe:"];
+window.HLX=window.HLX||{};HLX.tl="Ngayon";
+if(window.PMX)PMX.tl={open:"Pambungad na panalangin",share:"Pagbabahagi: mga tanong para sa grupo",interc:"Panalangin ng bayan",resp:"Tugon:",close:"Pangwakas na panalangin at pagbabasbas",qa:"Mga tanong at sagot"};
+var TL={"11-01":"Todos los Santos","11-02":"Paggunita sa Lahat ng mga Yumaong Binyagan","11-04":"San Carlos Borromeo","11-09":"Pagtatalaga ng Basilika ng Laterano","11-10":"San Leon Magno","11-11":"San Martin ng Tours","11-12":"San Josafat","11-17":"Santa Isabel ng Hungary","11-21":"Pagdadala kay Birheng Maria sa Templo","11-22":"Santa Cecilia","11-24":"Mga Martir ng Vietnam","11-30":"San Andres","12-03":"San Francisco Javier","12-07":"San Ambrosio","12-08":"Kalinis-linisang Paglilihi","12-12":"Mahal na Birhen ng Guadalupe","12-13":"Santa Lucia","12-14":"San Juan de la Cruz","12-26":"San Esteban","12-27":"San Juan, apostol","12-28":"Mga Banal na Sanggol na Walang Malay","01-01":"Santa Maria, Ina ng Diyos","01-02":"San Basilio at San Gregorio","01-03":"San Ciriaco Elias Chavara","01-17":"San Antonio, abad","01-24":"San Francisco de Sales","01-25":"Pagbabalik-loob ni San Pablo","01-28":"Santo Tomas de Aquino","01-31":"San Juan Bosco"};
+window.LFX3=window.LFX3||{};Object.keys(TL).forEach(function(k){LFX3[k]=LFX3[k]||{};LFX3[k].tl=TL[k]});
+var SPt={palm:"Linggo ng Palaspas",pent:"Linggo ng Pentekostes",bapt:"Pagbibinyag sa Panginoon",ash:"Miyerkules ng Abo",king:"Ang Ating Panginoong Hesukristo, Hari ng Sanlibutan",xmas:"Pagsilang ng Panginoon"};
+var _l=latinLabelDI;
+latinLabelDI=function(L,lang){if(lang!=="tl")return _l(L,lang);
+ var day=UI.tl.days[L.w],S2=DI.tl.seas;
+ if(L.special)return SPt[L.special];
+ if(L.s==="chr"||L.s==="holy")return S2[L.s]+" · "+day;
+ if(L.s==="lent"&&L.n===0)return day+" pagkatapos ng Miyerkules ng Abo";
+ var wh=L.s==="ot"?"sa Karaniwang Panahon":L.s==="adv"?"ng Adbiyento":L.s==="lent"?"ng Kuwaresma":"ng Pagkabuhay";
+ return L.w===0?"Ika-"+L.n+" na Linggo "+wh:day+" ng Ika-"+L.n+" na Linggo "+wh};
+var _dl=dateLabel;dateLabel=function(t,lang){if(lang!=="tl")return _dl(t,lang);var d=new Date(t),u=UI.tl;return u.days[d.getUTCDay()]+", "+d.getUTCDate()+" "+u.months[d.getUTCMonth()]+" "+d.getUTCFullYear()};
+var _smd=saintMD;saintMD=function(md,lang){if(lang!=="tl")return _smd(md,lang);return (+md.slice(3))+" "+UI.tl.months[+md.slice(0,2)-1]};
 })();
 /* SOS: Priests in Distress (added 24 October 2026). Shown under the contact box in every rite and language.
    Set SOS.wa to the dedicated WhatsApp number (digits with country code, no + or spaces) to switch the button on. */
