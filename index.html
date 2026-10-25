@@ -268,6 +268,7 @@ details.about li b{display:block;color:var(--ink)}
 .term{font-family:var(--display);font-size:28px;font-weight:600;margin:0}
 .partpick select{flex:1;font-weight:600}
 .spoint{margin:22px 0;padding-top:14px;border-top:1px solid var(--rule)}
+.hobar{border:1px solid var(--rule);border-radius:12px;padding:12px;margin:14px 0;background:var(--soft,transparent)}.hoh{font-size:13px;letter-spacing:.04em;text-transform:uppercase;opacity:.8;margin-bottom:8px}.hobtns{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px}.hob{display:grid;gap:2px;text-align:left;font:inherit;font-size:14px;padding:10px 12px;border:1px solid var(--rule);border-radius:10px;background:var(--paper,#fff);color:inherit;cursor:pointer}.hob span{font-size:13px;opacity:.8;line-height:1.35}.hob.on{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
 .sp-h{display:flex;gap:12px;align-items:baseline;margin:0 0 10px;font-size:20px;line-height:1.3}
 .sp-n{flex:none;display:inline-grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--accent);color:#fff;font-size:15px;font-weight:700}
 .sp-sub{margin:0 0 12px;padding-left:22px;display:grid;gap:8px;max-width:68ch;list-style:lower-alpha}
@@ -700,8 +701,11 @@ tl:["Ang Daily Word ay magsisimula sa 1 Nobyembre 2026.","Ang mga pagbasa, pagni
   html+=saintCard();
   html+='<div class="picker partpick"><select id="partsel" aria-label="'+esc(PT.label)+'">'+PT.o.map(function(o,i){return '<option value="'+(i+1)+'"'+(pt===i+1?" selected":"")+">"+esc(o)+"</option>"}).join("")+"</select></div>";
   if(!C&&!X)html+=empty;
+  var HN=(pt===1||pt===2)?hoN("day:"+S.date+S.rite+S.lang,H):1,HO=HN>1&&S.ho?H.opts[S.ho-1]:null;
+  if(HN>1&&(C||X))html+=hoBar(H);
+  if(!C&&!X){}
   else if(pt===1){
-   var SR=getSR();
+   var SR=HO||getSR();
    if(SR){
     html+='<div class="sermon">';
     html+=sec(PT.intro,'<div class="prose lprose">'+SR.intro.map(function(p){return "<p>"+esc(p)+"</p>"}).join("")+"</div>");
@@ -721,7 +725,7 @@ tl:["Ang Daily Word ay magsisimula sa 1 Nobyembre 2026.","Ang mga pagbasa, pagni
   else if(pt===2){
    if(C){
     if(X&&X.special)html+='<div class="special"><b>'+esc(v.special)+":</b> "+esc(X.special)+"</div>";
-    if(H){html+=sec(u.h.homily,paras(H.homily));html+=sec(u.h.kidsMass,paras(H.kids))}
+    if(H){html+=sec(u.h.homily,paras(HO?HO.homily:H.homily));html+=sec(u.h.kidsMass,paras(H.kids))}
     if(X&&X.illus)html+=sec(v.illus,items([X.illus]));
     html+=sec(u.h.altar,paras(C.altar));
     html+=sec(u.h.live,items(C.live));
@@ -766,6 +770,12 @@ var PARTS={en:{label:"Choose",o:["1. Homily outline: points & Scripture","2. Ful
  ta:{label:"தேர்ந்தெடுக்க",o:["1. மறையுரைக் குறிப்புகள்: கருத்துகளும் இறைவார்த்தையும்","2. மறையுரை (முழு வடிவம்)","3. செபக் கூட்டம்","4. மறைக்கல்வி"]},
  hi:{label:"चुनें",o:["1. प्रवचन रूपरेखा: बिंदु और धर्मग्रंथ","2. प्रवचन (पूर्ण पाठ)","3. प्रार्थना सभा","4. धर्मशिक्षा"]}};
 ["de","it","ta","hi"].forEach(function(l){for(var k in PARTS.en)if(!(k in PARTS[l]))PARTS[l][k]=PARTS.en[k]});
+/* homily options: item.a1 = label of option 1, item.opts = [{a,...}] options 2..n */
+var HOL={en:["Homily options: choose one","Option"],ml:["പ്രസംഗം: ഒന്ന് തിരഞ്ഞെടുക്കുക","രൂപം"]};
+function hoN(key,L){var n=L&&L.opts&&L.opts.length?L.opts.length+1:1;if(S.hok!==key){S.hok=key;S.ho=0}if(!(S.ho<n))S.ho=0;return n}
+function hoBar(L){var T=HOL[S.lang]||HOL.en,labs=[L.a1||""].concat(L.opts.map(function(o){return o.a||""}));
+ return '<div class="hobar"><div class="hoh">'+esc(T[0])+'</div><div class="hobtns">'+labs.map(function(a,i){return '<button type="button" class="hob'+(i===S.ho?" on":"")+'" data-ho="'+i+'"><b>'+esc(T[1])+" "+(i+1)+"</b>"+(a?"<span>"+esc(a)+"</span>":"")+"</button>"}).join("")+"</div></div>"}
+document.addEventListener("click",function(e){var b=e.target.closest&&e.target.closest("[data-ho]");if(!b)return;S.ho=+b.dataset.ho;var y=window.scrollY;render();window.scrollTo(0,y)});
 function getSR(){if(typeof SERMON==="undefined")return null;var d=SERMON[S.date],r=d&&d[S.rite];return r&&(r[S.lang]||r.en)||null}
 /* ---- know your liturgy: browsable list ---- */
 var LIT={en:{prev:"Previous word",next:"Next word",all:"All words",word:"Know your liturgy",lesson:"Lesson",notes:"Serious notes",refs:"Sources"},ml:{prev:"മുമ്പത്തെ വാക്ക്",next:"അടുത്ത വാക്ക്",all:"എല്ലാ വാക്കുകളും",word:"ആരാധനക്രമം അറിയാൻ",lesson:"പാഠം",notes:"ഗൗരവമായ കുറിപ്പുകൾ",refs:"ആധാരങ്ങൾ"},
@@ -825,8 +835,9 @@ function renderOcc(){
  if(lk!==S.lang&&T.eng)h+='<div class="placeholder">'+esc(T.eng)+"</div>";
  h+=sec(T.read,'<div class="readings">'+L.read.map(function(r,i){var E=o.en&&o.en.read&&o.en.read[i]?o.en.read[i][1]:r[1],eP=String(E).split(/ or /),mP=String(r[1]).split(/ അല്ലെങ്കിൽ | or /),fp="";mP.forEach(function(m,k){var x=fullPassage(eP[k]||eP[0],m);if(x)fp+=(mP.length>1?'<div class="alt" style="margin-top:6px">'+esc(m)+"</div>":"")+x});return '<div class="rd"><span class="lab">'+esc(r[0])+'</span><span class="ref">'+esc(r[1])+"</span>"+fp+"</div>"}).join("")+'</div><p class="alt">'+esc(T.readnote)+"</p>");
  if(L.verse)h+=sec(T.verse,'<blockquote class="key">“'+esc(L.verse)+"”<cite>"+esc(L.cite)+"</cite></blockquote>");else if(L.cite)h+=sec(T.verse,'<blockquote class="key">📖 '+esc(L.cite)+(T.ref?"<cite>"+esc(T.ref)+"</cite>":"")+"</blockquote>");
- h+=sec(T.points,outline(L.points.map(function(p){return [f(p[0]),f(p[1])]})));
- h+=sec(T.homily,paras(L.homily.map(f)));
+ var HN=hoN("occ:"+o.id+lk,L),P=HN>1&&S.ho?L.opts[S.ho-1]:L;if(HN>1)h+=hoBar(L);
+ h+=sec(T.points,outline(P.points.map(function(p){return [f(p[0]),f(p[1])]})));
+ h+=sec(T.homily,paras(P.homily.map(f)));
  h+='<p class="prayer">'+esc(f(L.prayer))+"</p>";
  return h}
 
@@ -1288,7 +1299,7 @@ function renderSaintPage(s,T){var lk=s[S.lang]?S.lang:"en",L=s[lk],st=STT[lk]||S
  if(L.lessons)h+=sec(st.lessons,outline(L.lessons));
  if(L.stories)h+=sec(st.stories,L.stories.map(function(x){return '<div class="ststory"><h4>'+esc(x[0])+(x[2]?' <span class="sttag">'+esc(st[x[2]]||x[2])+"</span>":"")+"</h4>"+paras([x[1]])+"</div>"}).join(""));
  if(L.quotes&&L.quotes.length)h+=sec(st.quotes,L.quotes.map(function(q){return '<blockquote class="key">'+(q[2]==="p"?esc(q[0]):"“"+esc(q[0])+"”")+"<cite>"+esc(q[1])+"</cite></blockquote>"}).join(""));
- if(L.ser){h+=sec(T.sp,outline(L.ser.points.map(function(p){return [f(p[0]),f(p[1])]})));h+=sec(T.sh,paras(L.ser.homily.map(f)))}
+ if(L.ser){var HN=hoN("st:"+s.id+S.lang,L),P=HN>1&&S.ho?L.opts[S.ho-1]:L.ser;if(HN>1)h+=hoBar(L);h+=sec(T.sp,outline(P.points.map(function(p){return [f(p[0]),f(p[1])]})));h+=sec(T.sh,paras(P.homily.map(f)))}
  if(L.prayer)h+='<p class="prayer">'+esc(L.prayer)+"</p>";
  if(CONTENT[dk]&&CONTENT[dk][S.rite])h+='<div class="restday"><p>'+esc(T.day)+": "+esc(dateLabel(parseISO(dk),S.lang))+'</p><div class="sbtns"><button class="pill" data-gt="'+dk+'|lectern">'+esc(T.refl)+'</button><button class="pill ghost" data-gt="'+dk+'|homily">'+esc(T.serm)+"</button></div></div>";
  return h}
