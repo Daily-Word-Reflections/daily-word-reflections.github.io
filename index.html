@@ -411,7 +411,7 @@ var UI={
   latsrc:"Season and week calculated from the Roman calendar; check feasts in the official Ordo.",
   smknone:"Syro-Malankara readings and reflection for this day will be added from the official Sacred Lectionary.",smksrc:"Readings from the Sacred Lectionary of the Syro-Malankara Catholic Church (Sunday pattern of 2025–26; to be confirmed with the 2026–27 lectionary).",
   cycle:function(s,w){return "Sunday cycle "+s+" · Weekday cycle "+w},
-  foot:["References only. Read the full texts in the POC Bible or your approved lectionary. Quotations from the Fathers and the Magisterium should be checked against the original documents before printing."]},
+  foot:["References only. Read the full texts in your Catholic Bible (NRSV) or the approved Lectionary. Quotations from the Fathers and the Magisterium should be checked against the original documents before printing."]},
  ml:{eyebrow:"Preach the Word every day",brand:"അനുദിന വചനം",sub:"വായനകളും വിചിന്തനങ്ങളും പ്രസംഗങ്ങളും\nനിങ്ങളുടെ റീത്തിലും ഭാഷയിലും",
   rites:{smc:"സീറോ മലബാർ",smk:"സീറോ മലങ്കര",lat:"ലത്തീൻ"},tabs:{lectern:"വായനാപീഠം",homily:"പ്രസംഗക്കുറിപ്പുകൾ",cal:"കലണ്ടർ താൾ",family:"പ്രാർഥനാകൂട്ടായ്മ",lit:"ആരാധനക്രമം അറിയാൻ",occ:"വിശേഷാവസരങ്ങൾ"},
   today:"ഇന്ന്",sample:"മാതൃകാദിവസം",days:["ഞായർ","തിങ്കൾ","ചൊവ്വ","ബുധൻ","വ്യാഴം","വെള്ളി","ശനി"],dshort:["ഞാ","തി","ചൊ","ബു","വ്യാ","വെ","ശ"],
@@ -971,7 +971,7 @@ $("card").addEventListener("click",function(e){var p=e.target.closest("[data-pop
 var LANGS={smc:["ml","en","ta","hi"],smk:["ml","en","ta","hi"],lat:["ml","en","de","it"]};
 var LNAME={ml:"മലയാളം",en:"English",ta:"தமிழ்",hi:"हिन्दी",de:"Deutsch",it:"Italiano"};
 var PACK={
- de:{u:{eyebrow:"Gottes Wort für jeden Tag",brand:"Das Wort des Tages",sub:"In Ihrem Ritus und Ihrer Sprache\nLesungen, Betrachtungen und Predigten",
+ de:{u:{eyebrow:"Gottes Wort für jeden Tag",foot:["Nur Bibelstellen. Lesen Sie die vollständigen Texte in der Einheitsübersetzung oder im approbierten Lektionar. Zitate der Kirchenväter und des Lehramts sollten vor dem Druck an den Originaldokumenten geprüft werden."],brand:"Das Wort des Tages",sub:"In Ihrem Ritus und Ihrer Sprache\nLesungen, Betrachtungen und Predigten",
    rites:{smc:"Syro-Malabarisch",smk:"Syro-Malankarisch",lat:"Lateinisch"},tabs:{lectern:"Ambo",homily:"Predigt",cal:"Kalenderblatt",family:"Gebetskreis",lit:"Liturgie verstehen",occ:"Besondere Anlässe"},
    today:"Heute",sample:"Beispieltag",days:["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],dshort:["So","Mo","Di","Mi","Do","Fr","Sa"],
    months:["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],
@@ -980,7 +980,7 @@ var PACK={
    latsrc:"Zeit und Woche nach dem römischen Kalender berechnet; Feste bitte im offiziellen Direktorium prüfen.",cycle:function(s,w){return "Lesejahr "+s+" · Wochentagsreihe "+w},
    partial:"Die Predigt, die Kinderpredigt, die Lesungen und das Gebet sind auf Deutsch; die übrigen Abschnitte vorerst auf Englisch.",allen:"Dieser Tag ist noch nicht ins Deutsche übersetzt und wird auf Englisch angezeigt."},
   v:{search:"Suche nach Datum, Fest, Heiligen, Bibelbuch oder Stichwort",quick:"Auf einen Blick",action:"Heute",question:"Frage für den Tag",noresult:"Nichts gefunden."}},
- it:{u:{eyebrow:"La Parola di Dio per ogni giorno",brand:"La Parola di ogni giorno",sub:"Nel vostro rito e nella vostra lingua\nLetture, riflessioni e omelie",
+ it:{u:{eyebrow:"La Parola di Dio per ogni giorno",foot:["Solo riferimenti biblici. Leggete i testi completi nella Bibbia CEI o nel Lezionario approvato. Le citazioni dei Padri e del Magistero vanno verificate sui documenti originali prima della stampa."],brand:"La Parola di ogni giorno",sub:"Nel vostro rito e nella vostra lingua\nLetture, riflessioni e omelie",
    rites:{smc:"Siro-malabarese",smk:"Siro-malankarese",lat:"Latino"},tabs:{lectern:"Ambone",homily:"Omelia",cal:"Pagina del calendario",family:"Gruppo di preghiera",lit:"Conoscere la liturgia",occ:"Occasioni speciali"},
    today:"Oggi",sample:"Giorno di esempio",days:["Domenica","Lunedì","Martedì","Mercoledì","Giovedì","Venerdì","Sabato"],dshort:["Do","Lu","Ma","Me","Gi","Ve","Sa"],
    months:["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],
