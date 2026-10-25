@@ -432,7 +432,7 @@ function iso(t){var d=new Date(t);return d.getUTCFullYear()+"-"+String(d.getUTCM
 function parseISO(s){var p=s.split("-");return Date.UTC(+p[0],+p[1]-1,+p[2])}
 function todayISO(){var n=new Date();return iso(Date.UTC(n.getFullYear(),n.getMonth(),n.getDate()))}
 var S={rite:"smc",lang:"en",tab:"lectern",date:todayISO(),view:"day"};
-try{var sv=JSON.parse(localStorage.getItem("av-state3")||"{}");["rite","lang","tab","occ","part"].forEach(function(k){if(sv[k])S[k]=sv[k]})}catch(e){}
+try{var sv=JSON.parse(localStorage.getItem("av-state3")||"{}");["rite","lang","tab","occ"].forEach(function(k){if(sv[k])S[k]=sv[k]})}catch(e){}
 try{var QP=new URLSearchParams(location.search);if(/^\d{4}-\d\d-\d\d$/.test(QP.get("d")||"")){S.date=QP.get("d");S.fromLink=true}if(["smc","smk","lat"].indexOf(QP.get("r"))>=0)S.rite=QP.get("r");if(/^(en|ml|ta|hi|de|it|kn|te|es|pt|fr|tl)$/.test(QP.get("l")||"")){S.lang=QP.get("l");S.fromLink=true}if(S.fromLink){S.tab="lectern";S.view="day"}}catch(e){}
 function $(id){return document.getElementById(id)}
 function esc(t){return String(t==null?"":t).replace(/&/g,"&amp;").replace(/</g,"&lt;")}
@@ -926,7 +926,7 @@ function renderDocs(){
 function go(k){S.date=k;S.view="day";$("results").hidden=true;$("q").value="";render()}
 $("ritesel").addEventListener("change",function(){if(!this.value)return;S.rite=this.value;S.view="day";render()});
 $("langseg").addEventListener("click",function(e){var b=e.target.closest("[data-lang]");if(b){S.lang=b.dataset.lang;render()}});
-document.querySelectorAll("[data-tab]").forEach(function(b){b.addEventListener("click",function(){S.tab=b.dataset.tab;render()})});
+document.querySelectorAll("[data-tab]").forEach(function(b){b.addEventListener("click",function(){S.tab=b.dataset.tab;if(S.tab==="homily")S.part=1;render()})});
 $("botnav").addEventListener("click",function(e){var b=e.target.closest("[data-bt]");if(!b)return;S.tab=b.dataset.bt;if(S.tab==="homily")S.part=1;S.view="day";S.saint="";$("results").hidden=true;$("q").value="";render();window.scrollTo(0,0)});
 $("prev").addEventListener("click",function(){go(iso(parseISO(S.date)-DAY))});
 $("next").addEventListener("click",function(){go(iso(parseISO(S.date)+DAY))});
