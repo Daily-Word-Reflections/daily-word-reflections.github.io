@@ -2574,5 +2574,49 @@ showWelcome();
  window.dwIosGuide=guide;
 })();
 </script>
+<style>
+#a2hsg{position:fixed;left:12px;right:12px;bottom:max(12px,env(safe-area-inset-bottom));z-index:10000;max-width:420px;margin:0 auto;background:#fff;color:#111;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.35);padding:14px 16px;font:500 15px/1.4 -apple-system,system-ui,sans-serif;text-align:center}
+#a2hsg .st{font-weight:700;font-size:16px;margin-bottom:8px}
+#a2hsg .row{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#f2f2f7;border:2px solid #d8b45a;border-radius:12px;padding:10px 14px;font-size:17px;text-align:left}
+#a2hsg .row svg{flex:none}
+#a2hsg .dn{font-size:15px;font-weight:700;line-height:1;margin:6px 0;color:#d8b45a}
+#a2hsg .x{position:absolute;right:8px;top:4px;border:0;background:none;font-size:22px;color:#888}
+</style>
+<script>
+(function(){
+ if("serviceWorker" in navigator){try{navigator.serviceWorker.register("sw.js")}catch(e){}}
+ function guide(){
+  if(document.getElementById("a2hsg"))return;
+  var g=document.createElement("div");g.id="a2hsg";
+  g.innerHTML='<button class="x" aria-label="Close">×</button><div class="st">3 quick steps</div><div class="row"><span><b>1.</b> Tap the Share button <svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5" fill="none" stroke="#0a84ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 11H5v10h14V11h-1" fill="none" stroke="#0a84ff" stroke-width="2" stroke-linecap="round"/></svg> in Safari&#39;s bottom bar <small>(on newer iPhones: tap ••• first, then Share)</small></span></div><div class="row" style="margin-top:8px"><span><b>2.</b> Scroll down the list and tap <b>Add to Home Screen</b></span><svg width="22" height="22" viewBox="0 0 26 26" aria-hidden="true"><rect x="2" y="2" width="22" height="22" rx="5" fill="none" stroke="#111" stroke-width="2"/><path d="M13 7v12M7 13h12" stroke="#111" stroke-width="2" stroke-linecap="round"/></svg></div><div class="row" style="margin-top:8px"><span><b>3.</b> Tap <b>Add</b> (top right). Done!</span></div><div class="dn" style="margin-top:10px">⬇︎ The Share button is down there ⬇︎</div>';
+  document.body.appendChild(g);
+  g.querySelector(".x").onclick=function(){g.remove()};
+  setTimeout(function(){if(g.parentNode)g.remove()},120000);
+ }
+ window.dwIosGuide=guide;
+})();
+</script>
+<style>
+#a2hsg{position:fixed;left:12px;right:12px;bottom:max(12px,env(safe-area-inset-bottom));z-index:10000;max-width:420px;margin:0 auto;background:#fff;color:#111;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.35);padding:14px 16px;font:500 15px/1.4 -apple-system,system-ui,sans-serif;text-align:center}
+#a2hsg .st{font-weight:700;font-size:16px;margin-bottom:8px}
+#a2hsg .row{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#f2f2f7;border:2px solid #d8b45a;border-radius:12px;padding:10px 14px;font-size:17px;text-align:left}
+#a2hsg .row svg{flex:none}
+#a2hsg .dn{font-size:15px;font-weight:700;line-height:1;margin:6px 0;color:#d8b45a}
+#a2hsg .x{position:absolute;right:8px;top:4px;border:0;background:none;font-size:22px;color:#888}
+</style>
+<script>
+(function(){
+ if("serviceWorker" in navigator){try{navigator.serviceWorker.register("sw.js")}catch(e){}}
+ function guide(){
+  if(document.getElementById("a2hsg"))return;
+  var g=document.createElement("div");g.id="a2hsg";
+  g.innerHTML='<button class="x" aria-label="Close">×</button><div class="st">3 quick steps</div><div class="row"><span><b>1.</b> Tap the Share button <svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5" fill="none" stroke="#0a84ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 11H5v10h14V11h-1" fill="none" stroke="#0a84ff" stroke-width="2" stroke-linecap="round"/></svg> in Safari&#39;s bottom bar <small>(on newer iPhones: tap ••• first, then Share)</small></span></div><div class="row" style="margin-top:8px"><span><b>2.</b> Scroll down the list and tap <b>Add to Home Screen</b></span><svg width="22" height="22" viewBox="0 0 26 26" aria-hidden="true"><rect x="2" y="2" width="22" height="22" rx="5" fill="none" stroke="#111" stroke-width="2"/><path d="M13 7v12M7 13h12" stroke="#111" stroke-width="2" stroke-linecap="round"/></svg></div><div class="row" style="margin-top:8px"><span><b>3.</b> Tap <b>Add</b> (top right). Done!</span></div><div class="dn" style="margin-top:10px">⬇︎ The Share button is down there ⬇︎</div>';
+  document.body.appendChild(g);
+  g.querySelector(".x").onclick=function(){g.remove()};
+  setTimeout(function(){if(g.parentNode)g.remove()},120000);
+ }
+ window.dwIosGuide=guide;
+})();
+</script>
 </body>
 </html>
