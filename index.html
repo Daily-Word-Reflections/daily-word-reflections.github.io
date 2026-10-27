@@ -1656,6 +1656,19 @@ function renderSaints(){var T=SAT[S.lang]||SAT.en;if(S.saint){var ss=saintsFor(S
   "<p>"+esc(T.intro)+" <b>"+esc(u.rites[S.rite])+"</b>.</p>"+(rows.length?'<ul class="slist">'+rows.join("")+"</ul>":'<div class="restday"><p>'+esc(T.empty)+"</p></div>")+'<p class="alt">'+esc(T.more)+"</p>"}
 document.addEventListener("click",function(e){var b=e.target.closest&&e.target.closest("[data-gt]");if(!b)return;var a=b.dataset.gt.split("|");S.tab=a[1];if(a[1]==="homily")S.part=1;S.smon=0;go(a[0]);window.scrollTo(0,0)});
 document.addEventListener("click",function(e){if(e.target.id==="s-prev"){S.smon=(S.smon||0)-1;render()}else if(e.target.id==="s-next"){S.smon=(S.smon||0)+1;render()}});
+/* Analytics events for shares and contacts (key events: share, sos_contact) */
+document.addEventListener("click",function(e){if(typeof gtag!=="function"||!e.target.closest)return;var t=e.target,ctx={language:S.lang,rite:S.rite,view:S.view,item:S.saint||S.date};
+ function ev(n,p){try{for(var k in ctx)if(!(k in p))p[k]=ctx[k];gtag("event",n,p)}catch(x){}}
+ if(t.closest(".shb.wa"))ev("share",{method:"whatsapp"});
+ else if(t.closest(".shb.tg"))ev("share",{method:"telegram"});
+ else if(t.closest("#sharecopy,#stcopy"))ev("share",{method:"copy_link"});
+ else if(t.closest("#sosbtn"))ev("sos_contact",{method:"whatsapp"});
+ else if(t.closest(".sos a.sosbtn"))ev("sos_contact",{method:"email"});
+ else if(t.closest(".sosmore"))ev("sos_page_open",{});
+ else if(t.closest("#ctwa"))ev("contact_click",{method:"whatsapp"});
+ else if(t.closest(".contact .btns a"))ev("contact_click",{method:"email"});
+ else if(t.closest("#ccopy"))ev("contact_click",{method:"copy_address"});
+},true);
 
 var u2h={en:"Back to today's readings",ml:"ഇന്നത്തെ വായനകളിലേക്ക്",ta:"இன்றைய வாசகங்களுக்குத் திரும்ப",hi:"आज के पाठों पर लौटें",de:"Zurück zu den Lesungen von heute",it:"Torna alle letture di oggi"};
 var _render=render;render=function(){if(S.tab==="occ")S.tab="lectern";var occ=S.view==="occ",docs=S.view==="docs"||occ||S.view==="saints";_render();document.querySelector(".datebar").hidden=docs;document.querySelector(".tabs").hidden=docs;$("note").hidden=docs;$("r-occ").textContent=(OCT[S.lang]||OCT.en).h;$("r-occ").setAttribute("aria-pressed",occ);if(occ){$("card").innerHTML=renderOcc();}$("r-docs").textContent=({en:"Papal documents",ml:"മാർപാപ്പമാരുടെ രേഖകൾ",de:"Päpstliche Dokumente",it:"Documenti pontifici",ta:"திருத்தந்தையரின் ஆவணங்கள்",hi:"संत पापाओं के दस्तावेज़",kn:"ಜಗದ್ಗುರುಗಳ ದಾಖಲೆಗಳು",es:"Documentos pontificios",pt:"Documentos pontifícios",fr:"Documents pontificaux",tl:"Mga Dokumento ng Papa",sw:"Nyaraka za Papa",te:"పోపుగారి పత్రాలు"})[S.lang]||"Papal documents";$("r-docs").setAttribute("aria-pressed",S.view==="docs");if(S.view==="docs"){renderDocs()}if(window.SOS){var sn=$("r-sos");if(sn){sn.innerHTML='<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M12 7v10M7 12h10" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg><span>'+esc((SOS.nav&&SOS.nav[S.lang])||"SOS Priests")+"</span>";sn.title=(SOS.t[S.lang]||SOS.t.en)[0]}}var sv=S.view==="saints";$("r-saints").textContent=(SAT[S.lang]||SAT.en).h;$("r-saints").setAttribute("aria-pressed",sv);var HL={en:"Today",ml:"ഇന്ന്",ta:"இன்று",hi:"आज",de:"Heute",it:"Oggi"};$("home").textContent="⌂ "+(HL[S.lang]||(window.HLX&&HLX[S.lang])||HL.en);$("home").setAttribute("aria-pressed",S.view==="day"&&S.date===todayISO());$("home").title=(u2h[S.lang]||u2h.en);document.querySelector(".ritewrap").classList.toggle("off",S.view!=="day");if(sv)$("card").innerHTML=renderSaints();};
