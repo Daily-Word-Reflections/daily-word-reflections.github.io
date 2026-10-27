@@ -822,7 +822,7 @@ function saintChips(){var md=S.date.slice(5),seen={},L=saintsFor(S.rite).filter(
  return '<div class="schips"><span class="sclab">'+esc(st.today)+':</span>'+L.map(function(z){var y=z[S.lang]||z.en;return '<button class="schip" data-saint="'+z.id+'">'+esc(y.n)+" →</button>"}).join("")+"</div>"}
 function saintCard(){var ts=saintsToday();if(!ts.length)return "";var st=STT[S.lang]||STT.en;
  return '<div class="stcard"><div class="season">'+esc(st.today)+"</div>"+ts.map(function(s){var y=s[S.lang]||s.en;return '<button class="stlink" data-saint="'+s.id+'"><b>'+esc(y.n)+"</b><span>"+esc(st.open)+" →</span></button>"}).join("")+"</div>"}
-function stLink(s,lk){return SITE+"h/"+lk+"/saint/"+s.id+"/"}
+function stLink(s,lk){return SITE+"h/"+lk+"/saint/"+s.id+"/?open=1"}
 function stShare(s,lk){var y=s[lk]||s.en;return shareBar(y.n,null,null,stLink(s,lk))}
 document.addEventListener("click",function(e){var b=e.target.closest&&e.target.closest("#stcopy");if(!b)return;var u=SHARETXT;if(navigator.share&&/Android|iPhone|iPad|iPod/i.test(navigator.userAgent||"")){navigator.share({url:u}).catch(function(){});return}try{navigator.clipboard.writeText(u).then(function(){b.innerHTML='<b style="font-size:18px">✓</b>'})}catch(x){}});
 function stImg(s,lk){var g=s.img;if(!g)return "";var c=(g.cap&&(g.cap[lk]||g.cap.en))||"";return '<figure class="stimg"><img src="'+SITE+g.src+'" alt="'+esc(c)+'" loading="lazy" onerror="this.parentNode.style.display=\'none\'"><figcaption>'+esc(c)+"</figcaption></figure>"}
@@ -842,7 +842,7 @@ function renderOcc(){
  if(!list.some(function(o){return o.id===S.occ}))S.occ=list[0].id;
  var o=list.filter(function(x){return x.id===S.occ})[0],lk=o[S.lang]?S.lang:"en",L=o[lk],T=Object.assign({},OCT.en,OCT[lk],{h:(OCT[S.lang]||OCT.en).h,choose:(OCT[S.lang]||OCT.en).choose,eng:(OCT[S.lang]||OCT.en).eng}),q=(QNAME[lk]||QNAME.en)[S.rite];
  function f(s){return String(s||"").replace(/\{Q\}/g,q)}
- var h='<header style="display:grid;gap:8px"><div class="season">'+esc(T.h)+'</div>'+occPicker(list,T,f)+'<h2 class="dtitle">'+esc(f(L.t))+'</h2><div class="week">'+esc(f(L.sub))+"</div></header>"+shareBar(f(L.t),null,null,(S.lang==="en"||S.lang==="ml")&&o[S.lang]?SITE+"h/"+S.lang+"/occasion/"+o.id+"/":SITE+"?o="+o.id+"&r="+S.rite+"&l="+S.lang);
+ var h='<header style="display:grid;gap:8px"><div class="season">'+esc(T.h)+'</div>'+occPicker(list,T,f)+'<h2 class="dtitle">'+esc(f(L.t))+'</h2><div class="week">'+esc(f(L.sub))+"</div></header>"+shareBar(f(L.t),null,null,(S.lang==="en"||S.lang==="ml")&&o[S.lang]?SITE+"h/"+S.lang+"/occasion/"+o.id+"/?open=1":SITE+"?o="+o.id+"&r="+S.rite+"&l="+S.lang);
  if(lk!==S.lang&&T.eng)h+='<div class="placeholder">'+esc(T.eng)+"</div>";
  h+=sec(T.read,'<div class="readings">'+L.read.map(function(r,i){var E=o.en&&o.en.read&&o.en.read[i]?o.en.read[i][1]:r[1],eP=String(E).split(/ or /),mP=String(r[1]).split(/ അല്ലെങ്കിൽ | or /),fp="";mP.forEach(function(m,k){var x=fullPassage(eP[k]||eP[0],m);if(x)fp+=(mP.length>1?'<div class="alt" style="margin-top:6px">'+esc(m)+"</div>":"")+x});return '<div class="rd"><span class="lab">'+esc(r[0])+'</span><span class="ref">'+esc(r[1])+"</span>"+fp+"</div>"}).join("")+'</div><p class="alt">'+esc(T.readnote)+"</p>");
  if(L.verse)h+=sec(T.verse,'<blockquote class="key">“'+esc(L.verse)+"”<cite>"+esc(L.cite)+"</cite></blockquote>");else if(L.cite)h+=sec(T.verse,'<blockquote class="key">📖 '+esc(L.cite)+(T.ref?"<cite>"+esc(T.ref)+"</cite>":"")+"</blockquote>");
