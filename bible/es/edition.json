@@ -1,0 +1,6 @@
+{
+ "name": "Sagrada Biblia, versión oficial de la Conferencia Episcopal Española",
+ "publisher": "Conferencia Episcopal Española (BAC, 2010/2011)",
+ "source": "https://www.conferenciaepiscopal.es/biblia/",
+ "numbering": "Hebrew psalm numbering (the site also shows the Vulgate number in brackets); psalm superscriptions are numbered verses. Ps 9 and 10 share one page on the site and were split at Ps 10:1. Greek Esther additions kept as lettered verses inside Esther (e.g. 1a-1r); in Esther 5 the Greek form of verse 2 (after 5:1a-f) repeats the number 2 and is stored as key \"2gr\". The site gives no Sirach prologue. Poetry line breaks flattened to spaces."
+}
