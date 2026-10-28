@@ -522,7 +522,9 @@ var BIB={en:["NRSV Catholic Edition","📖 Read the passage here","Could not loa
  es:["Sagrada Biblia, Conferencia Episcopal Española","📖 Lea aquí el pasaje","No se pudo cargar. Ábralo de nuevo."],
  pt:["Bíblia Sagrada, Difusora Bíblica","📖 Leia aqui a passagem","Não foi possível carregar. Abra de novo."],
  fr:["Bible de la liturgie (AELF)","📖 Lire le passage ici","Chargement impossible. Rouvrez, s'il vous plaît."]};
-var BIBREADY=["es","ta"];
+var BIBREADY=["es","ta","fr","pt","de","it"];
+/* passages an edition cannot show correctly (missing on the source site or non-standard numbering) */
+var BIBSKIP={pt:{esther:1,"wisdom:18":1,"wisdom:19":1}};
 var BIBEURO={de:1,it:1,es:1,pt:1,fr:1};
 var BIBBASE=(/github\.io$|^localhost$|^127\./.test(location.hostname)?"bible/":SITE+"bible/");
 function euroSegs(s){s=String(s||"").replace(/\([^)]*\)/g," ").split(/\s+(?:oder|oppure|o|ou|or)\s+/)[0];var m=/^\s*(?:[1-3]\s?)?[^\d]+?\s*(\d.*)$/.exec(s);if(!m)return null;
@@ -532,7 +534,7 @@ function euroSegs(s){s=String(s||"").replace(/\([^)]*\)/g," ").split(/\s+(?:oder
  return segs.length?segs:null}
 function fullPassage(ref,mlref){
  var p=(S.lang==="ml"&&parseRef(mlref))||parseRef(ref);if(!p)return "";var b=p.b,rest=p.rest,ch=refChapters(p).slice(0,3),ml=S.lang==="ml";
- if(!ml){if(BIBREADY.indexOf(S.lang)<0||!BIB[S.lang])return "";var sg=(BIBEURO[S.lang]&&euroSegs(mlref))||p.segs;
+ if(!ml){if(BIBREADY.indexOf(S.lang)<0||!BIB[S.lang])return "";var eg=BIBEURO[S.lang]?euroSegs(mlref):null;if(BIBEURO[S.lang]&&!eg)return "";var sg=eg||p.segs,sk=BIBSKIP[S.lang]||{};if(sk[b[1]]||sg.some(function(s){return sk[b[1]+":"+s[0]]||sk[b[1]+":"+s[2]]}))return "";
   return '<div class="fullp"><details class="ptxt" data-lang="'+S.lang+'" data-b="'+b[1]+'" data-s="'+sg.map(function(s){return s.join(".")}).join("|")+'"><summary>'+esc(BIB[S.lang][1])+'</summary><div class="pbody"></div></details></div>'}
  var box="";if(ml){box='<details class="ptxt" data-b="'+b[1]+'" data-s="'+p.segs.map(function(s){return s.join(".")}).join("|")+'"><summary>📖 വായനഭാഗം ഇവിടെ വായിക്കാം</summary><div class="pbody"></div></details>'}
  return box?'<div class="fullp">'+box+"</div>":""}

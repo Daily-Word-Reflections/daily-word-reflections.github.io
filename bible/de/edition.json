@@ -1,0 +1,6 @@
+{
+ "name": "Einheitsübersetzung der Heiligen Schrift (2016)",
+ "publisher": "Katholische Bibelanstalt GmbH, Stuttgart (Katholisches Bibelwerk), for the Bishops of Germany, Austria, Switzerland et al.",
+ "source": "https://www.bibleserver.com/EU",
+ "numbering": "Hebrew psalm numbering, superscriptions numbered (Ps 51:3 = 'Gott, sei mir gnädig'). Lettered verses (Esther additions, e.g. 4:17a-z) are merged by the source into the preceding numbered verse (Est 4:17 holds 17a-z). Verses the edition prints together keep a range key, e.g. Tob 6 '5-6', Mt 17 '20-21' (22 cases). Daniel 3 runs 1-100 (Azariah and the Song included). The Sirach prologue is stored as sirach/0.json. EU's ' / ' poetry line marks are replaced by spaces; '[Sela]' is kept as printed."
+}

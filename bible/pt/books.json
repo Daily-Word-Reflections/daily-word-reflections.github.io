@@ -1,0 +1,294 @@
+{
+"genesis": [
+"Génesis",
+50
+],
+"exodus": [
+"Êxodo",
+40
+],
+"leviticus": [
+"Levítico",
+27
+],
+"numbers": [
+"Números",
+36
+],
+"deuteronomy": [
+"Deuteronómio",
+34
+],
+"joshua": [
+"Josué",
+24
+],
+"judges": [
+"Juízes",
+21
+],
+"ruth": [
+"Rute",
+4
+],
+"1-samuel": [
+"1.º Samuel",
+31
+],
+"2-samuel": [
+"2.º Samuel",
+24
+],
+"1-kings": [
+"1.º Reis",
+22
+],
+"2-kings": [
+"2.º Reis",
+25
+],
+"1-chronicles": [
+"1.º Crónicas",
+29
+],
+"2-chronicles": [
+"2.º Crónicas",
+36
+],
+"ezra": [
+"Esdras",
+10
+],
+"nehemiah": [
+"Neemias",
+13
+],
+"tobit": [
+"Tobite",
+14
+],
+"judith": [
+"Judite",
+16
+],
+"esther": [
+"Ester",
+16
+],
+"1-maccabees": [
+"1.º Macabeus",
+16
+],
+"2-maccabees": [
+"2.º Macabeus",
+15
+],
+"job": [
+"Job",
+42
+],
+"psalms": [
+"Salmos",
+150
+],
+"proverbs": [
+"Provérbios",
+31
+],
+"ecclesiastes": [
+"Eclesiastes",
+12
+],
+"song-of-songs": [
+"Cântico dos Cânticos",
+8
+],
+"wisdom": [
+"Sabedoria",
+17
+],
+"sirach": [
+"Ben Sira",
+51
+],
+"isaiah": [
+"Isaías",
+66
+],
+"jeremiah": [
+"Jeremias",
+52
+],
+"lamentations": [
+"Lamentações",
+5
+],
+"baruch": [
+"Baruc",
+6
+],
+"ezekiel": [
+"Ezequiel",
+48
+],
+"daniel": [
+"Daniel",
+14
+],
+"hosea": [
+"Oseias",
+14
+],
+"joel": [
+"Joel",
+4
+],
+"amos": [
+"Amós",
+9
+],
+"obadiah": [
+"Abdias",
+1
+],
+"jonah": [
+"Jonas",
+4
+],
+"micah": [
+"Miqueias",
+7
+],
+"nahum": [
+"Naum",
+3
+],
+"habakkuk": [
+"Habacuc",
+3
+],
+"zephaniah": [
+"Sofonias",
+3
+],
+"haggai": [
+"Ageu",
+2
+],
+"zechariah": [
+"Zacarias",
+14
+],
+"malachi": [
+"Malaquias",
+3
+],
+"matthew": [
+"São Mateus",
+28
+],
+"mark": [
+"São Marcos",
+16
+],
+"luke": [
+"São Lucas",
+24
+],
+"john": [
+"São João",
+21
+],
+"acts": [
+"Actos dos Apóstolos",
+28
+],
+"romans": [
+"Romanos",
+16
+],
+"1-corinthians": [
+"1.ª Coríntios",
+16
+],
+"2-corinthians": [
+"2.ª Coríntios",
+13
+],
+"galatians": [
+"Gálatas",
+6
+],
+"ephesians": [
+"Efésios",
+6
+],
+"philippians": [
+"Filipenses",
+4
+],
+"colossians": [
+"Colossenses",
+4
+],
+"1-thessalonians": [
+"1.ª Tessalonicenses",
+5
+],
+"2-thessalonians": [
+"2.ª Tessalonicenses",
+3
+],
+"1-timothy": [
+"1.ª Timóteo",
+6
+],
+"2-timothy": [
+"2.ª Timóteo",
+4
+],
+"titus": [
+"Tito",
+3
+],
+"philemon": [
+"Filémon",
+1
+],
+"hebrews": [
+"Carta aos Hebreus",
+13
+],
+"james": [
+"Tiago",
+5
+],
+"1-peter": [
+"1.ª Pedro",
+5
+],
+"2-peter": [
+"2.ª Pedro",
+3
+],
+"1-john": [
+"1.ª João",
+5
+],
+"2-john": [
+"2.ª João",
+1
+],
+"3-john": [
+"3.ª João",
+1
+],
+"jude": [
+"Judas",
+1
+],
+"revelation": [
+"Apocalipse",
+22
+]
+}

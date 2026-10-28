@@ -1,0 +1,6 @@
+{
+ "name": "Bible de la liturgie (traduction officielle liturgique, 2013)",
+ "publisher": "AELF (Association épiscopale liturgique pour les pays francophones)",
+ "source": "https://www.aelf.org/bible",
+ "numbering": "Psalms converted from AELF's Greek/Vulgate numbering to Hebrew: Greek 9A/9B = Ps 9/10, 113A/113B = 114/115, Greek 114+115 merged into Ps 116 (verses 1-9 + 10-19), Greek 146+147 merged into Ps 147 (1-11 + 12-20), others +1 in the 10-146 range. AELF's own psalm verse numbers kept; the liturgical psalter omits most superscriptions, so some psalms begin at verse 2 or 3 (Ps 51 starts at 3). Chant marks (* and +) removed. Greek Esther additions kept as lettered verses (Addition A = esther/1 keys 1a-1l before verse 1, AELF's chapter 0; 4:17a-17z etc.). Sirach prologue stored as sirach/0.json (key '0'). Baruch 6 = AELF's separate 'Lettre de Jérémie' (verses 0-72). Obadiah is AELF chapter 0, stored as 1. Joel has 4 chapters and Malachi 3 (Hebrew division). Tobit 9:3-4 is one combined verse (key '3-4'). Opening words in capitals as on the site."
+}

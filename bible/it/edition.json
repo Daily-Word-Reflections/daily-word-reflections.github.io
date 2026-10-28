@@ -1,0 +1,6 @@
+{
+ "name": "La Sacra Bibbia, versione CEI 2008",
+ "publisher": "Conferenza Episcopale Italiana; © Fondazione di religione Santi Francesco d'Assisi e Caterina da Siena",
+ "source": "https://www.bibbiaedu.it/CEI2008/",
+ "numbering": "Hebrew psalm numbering, superscriptions numbered (Ps 51:3 = 'Pietà di me, o Dio'). Lettered verses kept as their own keys (e.g. Est 4:17a-17z). Esther is the Greek text (CEI's main text), so Est 9:30 is absent; the Hebrew text the site prints after it is not included. Daniel 3 runs 1-100. Verses CEI leaves out of the text (e.g. Mt 17:21, Mk 9:44.46, Jn 5:4, Acts 8:37; 16 in all) are not present. Num 25:19 (printed by CEI at the head of ch. 26) is stored in numbers/25.json. The Sirach prologue is stored as sirach/0.json."
+}

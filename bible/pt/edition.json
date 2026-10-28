@@ -1,0 +1,6 @@
+{
+ "name": "Bíblia Sagrada (Difusora Bíblica, Franciscanos Capuchinhos)",
+ "publisher": "Difusora Bíblica",
+ "source": "https://www.paroquias.org/biblia/",
+ "numbering": "Hebrew psalm numbering; psalm superscriptions are numbered verses (Ps 51:3 = 'Tem compaixão de mim'). ESTHER: the site numbers Greek Esther as one continuous sequence of 16 chapters in the Greek order (1 = Addition A, 2 = Hebrew ch 1, 3 = Hebrew ch 2, 4 = Hebrew 3:1-13, 5 = Addition B, ...), so esther/<n> does NOT match standard Esther chapter numbers. WISDOM: the site has only chapters 1-17 (18 and 19 return 404), so wisdom/18 and wisdom/19 are missing. Joel has 4 chapters and Malachi 3 (Hebrew division). John 5:4 is an empty verse on the site and was left out. Three section headings that had leaked into verse text (Hab 2:6, Sir 49:7, Is 55:11) were removed."
+}
