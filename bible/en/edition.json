@@ -1,0 +1,6 @@
+{
+ "name": "New Revised Standard Version, Catholic Edition (NRSVCE)",
+ "publisher": "National Council of the Churches of Christ in the USA (Catholic Edition approved by the USCCB / CCCB)",
+ "source": "https://www.biblegateway.com (version NRSVCE)",
+ "numbering": "Psalms in Hebrew numbering, superscriptions not numbered and not included (51:1 = 'Have mercy'). Greek Esther additions stored in their Vulgate chapters as Bible Gateway's inner numbers give them: A = 11:2-12:6, B = 13:1-7, C = 13:8-14:19, D = 15:1-16 (replaces Hebrew 5:1-2, so esther/5 starts at 5:3), E = 16:1-24, F = 10:4-13 + 11:1. Dan 3:24-90 = Prayer of Azariah and Song (97 verses); Daniel 13 = Susanna, 14 = Bel and the Dragon; Baruch 6 = Letter of Jeremiah. Joel 3 chapters, Malachi 4 (English numbering). Verses NRSV omits as text-critical (e.g. Mt 17:21, Jn 5:4, Acts 8:37, several in Sirach) are absent. Lettered/merged keys as given: Sir 28:24a-25b, 43:17a-b, Jas 1:7-8, Tob 14:8-9. The Sirach Prologue is kept separately in sirach/prologue.json (not in 1:1)."
+}

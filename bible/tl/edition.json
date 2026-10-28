@@ -1,0 +1,6 @@
+{
+ "name": "Magandang Balita Biblia with Deuterocanon (MBBTAG-DC)",
+ "publisher": "Philippine Bible Society (Catholic imprimatur)",
+ "source": "https://www.biblegateway.com (version MBBTAG-DC)",
+ "numbering": "Psalms in Hebrew numbering, English-style verse numbers. Many verse ranges are merged as the source gives them (keys like '4-5', Mt 1 '2-6a', '6b-11'). Greek Esther additions are stored as their own lettered chapters in the edition's Filipino (Abakada) lettering: A, B, K (=C), D, E, G (=F) - files esther/A.json etc.; A precedes 1:1, B after 3:13, K and D before 5:3 (Hebrew 5:1-2 replaced), E after 8:12, G after 10:3. Daniel 3 has 98 verses incl. the Prayer of Azariah and Song; Daniel 13-14 = Susanna, Bel. Joel 4 chapters, Malachi 3."
+}

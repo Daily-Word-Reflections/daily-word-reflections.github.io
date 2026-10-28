@@ -1,0 +1,294 @@
+{
+ "genesis": [
+  "Genesis",
+  50
+ ],
+ "exodus": [
+  "Exodo",
+  40
+ ],
+ "leviticus": [
+  "Levitico",
+  27
+ ],
+ "numbers": [
+  "Mga Bilang",
+  36
+ ],
+ "deuteronomy": [
+  "Deuteronomio",
+  34
+ ],
+ "joshua": [
+  "Josue",
+  24
+ ],
+ "judges": [
+  "Mga Hukom",
+  21
+ ],
+ "ruth": [
+  "Ruth",
+  4
+ ],
+ "1-samuel": [
+  "1 Samuel",
+  31
+ ],
+ "2-samuel": [
+  "2 Samuel",
+  24
+ ],
+ "1-kings": [
+  "1 Mga Hari",
+  22
+ ],
+ "2-kings": [
+  "2 Mga Hari",
+  25
+ ],
+ "1-chronicles": [
+  "1 Cronica",
+  29
+ ],
+ "2-chronicles": [
+  "2 Cronica",
+  36
+ ],
+ "ezra": [
+  "Ezra",
+  10
+ ],
+ "nehemiah": [
+  "Nehemias",
+  13
+ ],
+ "tobit": [
+  "Tobit",
+  14
+ ],
+ "judith": [
+  "Judith",
+  16
+ ],
+ "esther": [
+  "Ester",
+  10
+ ],
+ "1-maccabees": [
+  "1 Macabeo",
+  16
+ ],
+ "2-maccabees": [
+  "2 Macabeo",
+  15
+ ],
+ "job": [
+  "Job",
+  42
+ ],
+ "psalms": [
+  "Mga Awit",
+  150
+ ],
+ "proverbs": [
+  "Mga Kawikaan",
+  31
+ ],
+ "ecclesiastes": [
+  "Mangangaral",
+  12
+ ],
+ "song-of-songs": [
+  "Awit ni Solomon",
+  8
+ ],
+ "wisdom": [
+  "Karunungan ni Solomon",
+  19
+ ],
+ "sirach": [
+  "Ecclesiastico",
+  51
+ ],
+ "isaiah": [
+  "Isaias",
+  66
+ ],
+ "jeremiah": [
+  "Jeremias",
+  52
+ ],
+ "lamentations": [
+  "Panaghoy",
+  5
+ ],
+ "baruch": [
+  "Baruc",
+  6
+ ],
+ "ezekiel": [
+  "Ezekiel",
+  48
+ ],
+ "daniel": [
+  "Daniel",
+  14
+ ],
+ "hosea": [
+  "Hosea",
+  14
+ ],
+ "joel": [
+  "Joel",
+  4
+ ],
+ "amos": [
+  "Amos",
+  9
+ ],
+ "obadiah": [
+  "Obadias",
+  1
+ ],
+ "jonah": [
+  "Jonas",
+  4
+ ],
+ "micah": [
+  "Mikas",
+  7
+ ],
+ "nahum": [
+  "Nahum",
+  3
+ ],
+ "habakkuk": [
+  "Habakuk",
+  3
+ ],
+ "zephaniah": [
+  "Zefanias",
+  3
+ ],
+ "haggai": [
+  "Hagai",
+  2
+ ],
+ "zechariah": [
+  "Zacarias",
+  14
+ ],
+ "malachi": [
+  "Malakias",
+  3
+ ],
+ "matthew": [
+  "Mateo",
+  28
+ ],
+ "mark": [
+  "Marcos",
+  16
+ ],
+ "luke": [
+  "Lucas",
+  24
+ ],
+ "john": [
+  "Juan",
+  21
+ ],
+ "acts": [
+  "Mga Gawa",
+  28
+ ],
+ "romans": [
+  "Roma",
+  16
+ ],
+ "1-corinthians": [
+  "1 Corinto",
+  16
+ ],
+ "2-corinthians": [
+  "2 Corinto",
+  13
+ ],
+ "galatians": [
+  "Galacia",
+  6
+ ],
+ "ephesians": [
+  "Efeso",
+  6
+ ],
+ "philippians": [
+  "Filipos",
+  4
+ ],
+ "colossians": [
+  "Colosas",
+  4
+ ],
+ "1-thessalonians": [
+  "1 Tesalonica",
+  5
+ ],
+ "2-thessalonians": [
+  "2 Tesalonica",
+  3
+ ],
+ "1-timothy": [
+  "1 Timoteo",
+  6
+ ],
+ "2-timothy": [
+  "2 Timoteo",
+  4
+ ],
+ "titus": [
+  "Tito",
+  3
+ ],
+ "philemon": [
+  "Filemon",
+  1
+ ],
+ "hebrews": [
+  "Mga Hebreo",
+  13
+ ],
+ "james": [
+  "Santiago",
+  5
+ ],
+ "1-peter": [
+  "1 Pedro",
+  5
+ ],
+ "2-peter": [
+  "2 Pedro",
+  3
+ ],
+ "1-john": [
+  "1 Juan",
+  5
+ ],
+ "2-john": [
+  "2 Juan",
+  1
+ ],
+ "3-john": [
+  "3 Juan",
+  1
+ ],
+ "jude": [
+  "Judas",
+  1
+ ],
+ "revelation": [
+  "Pahayag",
+  22
+ ]
+}
