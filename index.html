@@ -211,7 +211,7 @@ details.sx .sxbody{margin-top:8px;font:15px/1.6 var(--serif);color:var(--ink);ba
 .question{text-align:center;font-family:var(--display);font-style:italic;font-size:21px;padding:6px 10px}
 :lang(ml) .question{font-family:var(--mlserif);font-style:normal;font-size:17px}
 .special{font:14.5px/1.55 var(--sans);border-left:4px solid var(--accent);background:var(--bg);border-radius:0 12px 12px 0;padding:10px 14px}
-.sintro{border:1px solid var(--rule);border-top:4px solid var(--gold);background:var(--paper);border-radius:14px;padding:4px 16px;margin:12px 0;box-shadow:var(--shadow)}.sintro summary{cursor:pointer;list-style:none;padding:10px 0;font:600 17px/1.4 var(--display);color:var(--accent)}.sintro summary::-webkit-details-marker{display:none}.sintro summary small{display:block;font:500 12px/1.4 var(--sans);color:var(--muted);letter-spacing:.04em;text-transform:uppercase}.sintro .sp{font:15.5px/1.65 var(--serif);margin:0 0 10px}.sintro .sk{margin:10px 0;padding:8px 12px;border-left:3px solid var(--gold);background:var(--bg);border-radius:0 10px 10px 0;font:14.5px/1.55 var(--sans)}.sintro .sk b{display:block;font:600 13.5px/1.4 var(--sans);margin-bottom:2px}
+.sintro{border:1px solid var(--rule);border-top:4px solid var(--gold);background:var(--paper);border-radius:14px;padding:4px 16px;margin:12px 0;box-shadow:var(--shadow)}.sintro summary{cursor:pointer;list-style:none;padding:10px 0;font:600 17px/1.4 var(--display);color:var(--accent)}.sintro summary::-webkit-details-marker{display:none}.sintro .shd{padding:10px 0 6px;font:600 17px/1.4 var(--display);color:var(--accent)}.sintro .shd small{display:block;font:500 12px/1.4 var(--sans);color:var(--muted);letter-spacing:.04em;text-transform:uppercase}.sintro .smore summary{cursor:pointer;font:600 14px var(--sans);color:var(--gold);padding:4px 0 10px}.sintro.mini summary{font-size:15px}.sintro .srm{font:600 13px var(--sans);color:var(--gold)}.sintro summary small{display:block;font:500 12px/1.4 var(--sans);color:var(--muted);letter-spacing:.04em;text-transform:uppercase}.sintro .sp{font:15.5px/1.65 var(--serif);margin:0 0 10px}.sintro .sk{margin:10px 0;padding:8px 12px;border-left:3px solid var(--gold);background:var(--bg);border-radius:0 10px 10px 0;font:14.5px/1.55 var(--sans)}.sintro .sk b{display:block;font:600 13.5px/1.4 var(--sans);margin-bottom:2px}
 .placeholder{font:14px/1.55 var(--sans);color:var(--muted);border:1px dashed var(--rule);border-radius:12px;padding:12px 14px}
 .reqcard{display:grid;gap:8px;border-radius:16px;padding:16px 18px;background:radial-gradient(100% 120% at 100% 0%,var(--goldsoft),var(--bg) 70%);border:1px solid var(--rule)}
 .reqcard b{font:600 16px var(--sans)}
@@ -477,8 +477,13 @@ function latinLabel(L,lang){if(DI[lang])return latinLabelDI(L,lang);
 /* ---- rendering helpers ---- */
 function sec(h,inner){if(!inner)return "";return '<section class="prose-sec"><h3 class="sh">'+esc(h)+"</h3>"+inner+"</section>"}
 var SEAL={en:["A new season begins","About this season"],ml:["പുതിയ ആരാധനക്രമകാലം ആരംഭിക്കുന്നു","ഈ കാലത്തെക്കുറിച്ച്"],ta:["புதிய திருவழிபாட்டுக் காலம் தொடங்குகிறது","இந்தக் காலத்தைப் பற்றி"],hi:["नया धर्मविधिक काल आरम्भ होता है","इस काल के बारे में"],te:["కొత్త ఆరాధనా కాలం ప్రారంభమవుతుంది","ఈ కాలం గురించి"],kn:["ಹೊಸ ಆರಾಧನಾ ಕಾಲ ಆರಂಭವಾಗುತ್ತದೆ","ಈ ಕಾಲದ ಬಗ್ಗೆ"],de:["Eine neue Zeit im Kirchenjahr beginnt","Über diese Zeit"],it:["Inizia un nuovo tempo liturgico","Su questo tempo"],es:["Comienza un nuevo tiempo litúrgico","Sobre este tiempo"],pt:["Começa um novo tempo litúrgico","Sobre este tempo"],fr:["Un nouveau temps liturgique commence","À propos de ce temps"],tl:["Nagsisimula ang bagong panahon ng liturhiya","Tungkol sa panahong ito"],sw:["Kipindi kipya cha liturujia kinaanza","Kuhusu kipindi hiki"]};
-function seasonCard(){var R=(window.SEASON||{})[S.rite];if(!R)return "";var k=null;Object.keys(R).sort().forEach(function(x){if(x<=S.date&&S.date<=R[x].end)k=x});if(!k)return "";var z=R[k][S.lang];if(!z)return "";var L=SEAL[S.lang]||SEAL.en,first=k===S.date;
- return '<details class="sintro"'+(first?" open":"")+'><summary><small>'+esc(first?L[0]:L[1])+"</small>"+esc(z.t)+"</summary>"+(z.p||[]).map(function(p){return '<p class="sp">'+esc(p)+"</p>"}).join("")+(z.k||[]).map(function(q){return '<div class="sk"><b>'+esc(q[0])+"</b>"+esc(q[1])+"</div>"}).join("")+"</details>"}
+var SEARM={en:"Read more",ml:"കൂടുതൽ വായിക്കാം",ta:"மேலும் வாசிக்க",hi:"और पढ़ें",te:"మరింత చదవండి",kn:"ಇನ್ನಷ್ಟು ಓದಿ",de:"Weiterlesen",it:"Leggi di più",es:"Leer más",pt:"Ler mais",fr:"Lire la suite",tl:"Magbasa pa",sw:"Soma zaidi"};
+/* Season introduction: one sentence with the rest under "Read more" (Word of the day, placed after the day's summary); in Preach & teach only a closed one-line "Read more". */
+function seasonCard(mini){var R=(window.SEASON||{})[S.rite];if(!R)return "";var k=null;Object.keys(R).sort().forEach(function(x){if(x<=S.date&&S.date<=R[x].end)k=x});if(!k)return "";var z=R[k][S.lang];if(!z)return "";var L=SEAL[S.lang]||SEAL.en,first=k===S.date,rm=SEARM[S.lang]||SEARM.en;
+ var ps=(z.p||[]).slice(),p0=ps.shift()||"",m=/^(.+?[.!?।])\s+(.*)$/.exec(p0),lead=m?m[1]:p0,rest0=m?m[2]:"";
+ var restH=(rest0?'<p class="sp">'+esc(rest0)+"</p>":"")+ps.map(function(p){return '<p class="sp">'+esc(p)+"</p>"}).join("")+(z.k||[]).map(function(q){return '<div class="sk"><b>'+esc(q[0])+"</b>"+esc(q[1])+"</div>"}).join("");
+ if(mini)return '<details class="sintro mini"><summary><small>'+esc(first?L[0]:L[1])+"</small>"+esc(z.t)+' <span class="srm">· '+esc(rm)+'</span></summary><p class="sp">'+esc(lead)+"</p>"+restH+"</details>";
+ return '<div class="sintro"><div class="shd"><small>'+esc(first?L[0]:L[1])+"</small>"+esc(z.t)+'</div><p class="sp">'+esc(lead)+"</p>"+(restH?'<details class="smore"><summary>'+esc(rm)+"</summary>"+restH+"</details>":"")+"</div>"}
 function paras(a){if(!a||!a.length)return "";return '<div class="prose">'+a.map(function(p){return "<p>"+esc(p)+"</p>"}).join("")+"</div>"}
 function items(a,cls){a=(a||[]).filter(function(x){return x&&x[1]});if(!a.length)return "";return '<div class="items '+(cls||"")+'">'+a.map(function(it){return '<div class="item"><b>'+esc(it[0])+"</b><p>"+esc(it[1])+"</p></div>"}).join("")+"</div>"}
 function outline(a){if(!a||!a.length)return "";return '<div class="outline">'+a.map(function(it,i){var last=i===0||i>=a.length-2;return '<div class="ol"><span class="n'+(last?" g":"")+'">'+(i===0?"✦":i>=a.length-2?"✦":i)+'</span><div><b>'+esc(it[0])+"</b><p>"+esc(it[1])+"</p></div></div>"}).join("")+"</div>"}
@@ -709,9 +714,10 @@ tl:["Ang Daily Word ay magsisimula sa 1 Nobyembre 2026.","Ang mga pagbasa, pagni
  var strip='<div class="wkrow"><button class="wkn" data-go="'+pw+'" aria-label="'+pl+'" title="'+pl+'">‹</button><div class="wkname">'+esc(wn||"")+'</div><button class="wkn" data-go="'+nw+'" aria-label="'+nl+'" title="'+nl+'">›</button></div><div class="strip">'+cells+"</div>";
  if(S.tab==="lectern"){
   html+=strip;
-  html+=seasonCard();
+  if(!C)html+=seasonCard();
   if(C){
    if(X&&X.quick)html+='<div class="quick"><div class="qh">'+esc(v.quick)+'</div><blockquote class="key" style="padding:8px 4px;background:none;border:0">'+(C.verse?'“'+esc(C.verse)+'”':'📖')+'<cite>'+esc(C.cite)+'</cite>'+(!C.verse&&C.key?'<span style="display:block;font-style:normal;margin-top:4px">'+esc(C.key)+'</span>':'')+'</blockquote><ul>'+X.quick.map(function(q){return "<li>"+esc(q)+"</li>"}).join("")+'</ul><div class="act">'+esc(v.action)+": "+esc(X.action)+"</div>"+saintChips()+"</div>";
+   html+=seasonCard();
    html+=sec(C.readTitle,'<div class="readings">'+C.readings.map(function(r,ri){var E0=CONTENT[S.date]&&CONTENT[S.date][S.rite]&&CONTENT[S.date][S.rite].en,er=E0&&E0.readings&&E0.readings[ri]?E0.readings[ri][1]:r[1];return '<div class="rd"><span class="lab">'+esc(r[0])+'</span><span class="ref">'+esc(r[1])+'</span><span class="rt">'+esc(r[2])+"</span>"+fullPassage(er,r[1])+"</div>"}).join("")+"</div>"+(C.alt?'<p class="alt">'+esc(C.alt)+"</p>":""));
    html+=sec(u.h.theo,paras(C.theo));
    html+=sec(u.h.conn,items(C.conn));
@@ -729,7 +735,7 @@ tl:["Ang Daily Word ay magsisimula sa 1 Nobyembre 2026.","Ang mga pagbasa, pagni
  else if(S.tab==="homily"){
   var PT=PARTS[S.lang]||PARTS.en,pt=S.part||1;
   html+=saintCard();
-  html+=seasonCard();
+  html+=seasonCard(true);
   html+='<div class="picker partpick"><select id="partsel" aria-label="'+esc(PT.label)+'">'+PT.o.map(function(o,i){return '<option value="'+(i+1)+'"'+(pt===i+1?" selected":"")+">"+esc(o)+"</option>"}).join("")+"</select></div>";
   if(!C&&!X)html+=empty;
   var HN=(pt===1||pt===2)?hoN("day:"+S.date+S.rite+S.lang,H):1,HO=HN>1&&S.ho?H.opts[S.ho-1]:null;
