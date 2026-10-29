@@ -4243,13 +4243,14 @@ sw:{read:"Masomo ya leo",refl:"Tafakari",exsub:"Maneno, mazingira, jinsi Kanisa 
 var HIC={read:'<path d="M2 5h7a3 3 0 0 1 3 3v12a2 2 0 0 0-2-2H2zM22 5h-7a3 3 0 0 0-3 3v12a2 2 0 0 1 2-2h8z"/>',refl:'<path d="M12 3v3M12 18v3M3 12h3M18 12h3"/><circle cx="12" cy="12" r="5"/>',exeg:'<circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.5-4.5M8 10.5h5M10.5 8v5"/>',homily:'<rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0M12 17v5M8 22h8"/>',saints:'<ellipse cx="12" cy="5" rx="5" ry="2"/><circle cx="12" cy="12" r="3"/><path d="M6 21a6 6 0 0 1 12 0"/>',lit:'<path d="M12 2v5M9.5 4.5h5"/><path d="M5 22V12l7-4 7 4v10z"/><path d="M10 22v-5h4v5"/>',occ:'<path d="M12 2c2 3-2 4 0 7 1-1 2-2 2-3 2 2 3 4 3 7a5 5 0 0 1-10 0c0-3 2-5 5-11z"/>',docs:'<path d="M4 4h6v16H4zM10 4h4v16h-4zM15 5l4-1 3 15-4 1z"/>',cont:'<path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/>',intent:'<path d="M12 21s-7-4.4-9.3-9A5 5 0 0 1 12 6a5 5 0 0 1 9.3 6c-2.3 4.6-9.3 9-9.3 9z"/>',cal:'<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/>',share:'<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/>',sun:'<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>',moon:'<path d="M21 13A9 9 0 1 1 11 3a7 7 0 0 0 10 10z"/>'};
 function hIco(k){return '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+HIC[k]+"</svg>"}
 var HCHEV='<svg class="hchev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg>';
+function hToday(){var td=todayISO(),hs=(window.HAS&&HAS[S.rite])||[];return hs.length&&td<hs[0]?hs[0]:td}
 function hC(d){var c=CONTENT[d]&&CONTENT[d][S.rite];return c&&(c[S.lang]||c.en)||null}
 function hX(d){var c=EXTRA[d]&&EXTRA[d][S.rite];return c&&(c[S.lang]||c.en)||null}
 function hSeason(d){var R=(window.SEASON||{})[S.rite],out="";if(!R)return "";Object.keys(R).sort().forEach(function(k){if(k<=d&&d<=R[k].end){var z=R[k][S.lang]||R[k].en;if(z&&z.t)out=z.t.split(":")[0]}});return out}
 function hRow(k,title,sub,extra){return '<button class="hrow" type="button" data-h="'+k+'"'+(extra||"")+'><span class="hic">'+hIco(k)+'</span><span class="htx"><b>'+esc(title)+"</b>"+(sub?"<span>"+esc(sub)+"</span>":"")+"</span>"+HCHEV+"</button>"}
 function hShortRefs(C){return (C&&C.readings||[]).map(function(r){return String(r[1]||"").split(":")[0].replace(/\s*\(.*$/,"")}).filter(function(x,i,a){return x&&a.indexOf(x)===i}).slice(0,5).join(" · ")}
-function hNeed(){var ds=[todayISO(),iso(parseISO(todayISO())+DAY)],out=[];if(typeof CHUNKS==="undefined")return out;var ls=S.lang==="en"?["en"]:[S.lang,"en"];ds.forEach(function(d){ls.forEach(function(l){var k=S.rite+"-"+l+"-"+d.slice(0,7);if(CHUNKS.indexOf(k)>=0&&!LOADED[k]&&out.indexOf(k)<0)out.push(k)})});return out}
-function drawHome(){var H=HOMEL[S.lang]||HOMEL.en,u=UI[S.lang]||UI.en,td=todayISO(),tm=iso(parseISO(td)+DAY),C=hC(td),X=hX(td),C2=hC(tm),now=new Date(),hr=now.getHours(),dw=now.getDay();
+function hNeed(){var ds=[hToday(),iso(parseISO(hToday())+DAY)],out=[];if(typeof CHUNKS==="undefined")return out;var ls=S.lang==="en"?["en"]:[S.lang,"en"];ds.forEach(function(d){ls.forEach(function(l){var k=S.rite+"-"+l+"-"+d.slice(0,7);if(CHUNKS.indexOf(k)>=0&&!LOADED[k]&&out.indexOf(k)<0)out.push(k)})});return out}
+function drawHome(){var H=HOMEL[S.lang]||HOMEL.en,u=UI[S.lang]||UI.en,td=hToday(),tm=iso(parseISO(td)+DAY),C=hC(td),X=hX(td),C2=hC(tm),now=new Date(),hr=now.getHours(),dw=now.getDay();
  var head='<div class="hday"><div class="hd1">'+esc(dateLabel(parseISO(td),S.lang))+'</div><div class="hd2">'+esc(C?C.title:"")+'</div><div class="hd3">'+esc(hSeason(td))+"</div></div>";
  var nowc="";
  if(hr>=15&&dw===6){nowc='<section class="hnow"><div class="hlab">'+hIco("moon")+esc(H.sat)+'</div><div class="hnt">'+esc(C2?C2.title:"")+'</div><div class="hacts"><button class="hbtn fill" type="button" data-h="sun">'+esc(H.open)+"</button></div></section>"}
@@ -4265,7 +4266,7 @@ function drawHome(){var H=HOMEL[S.lang]||HOMEL.en,u=UI[S.lang]||UI.en,td=todayIS
  $("card").innerHTML='<div class="home">'+head+nowc+cont+g1+g2+g3+"</div>"}
 function hScroll(sel,open){setTimeout(function(){var e=typeof sel==="string"?document.querySelector(sel):sel;if(!e)return;if(open&&e.tagName==="DETAILS")e.open=true;var y=e.getBoundingClientRect().top+window.scrollY-70;window.scrollTo({top:y,behavior:"smooth"})},80)}
 function hDay(d,tab,after){S.view="day";S.saint="";S.date=d;S.tab=tab;if(tab==="homily")S.part=1;render();window.scrollTo(0,0);if(after)after()}
-document.addEventListener("click",function(e){var b=e.target.closest&&e.target.closest("[data-h]");if(!b||!b.closest(".home"))return;var k=b.dataset.h,td=todayISO(),tm=iso(parseISO(td)+DAY);
+document.addEventListener("click",function(e){var b=e.target.closest&&e.target.closest("[data-h]");if(!b||!b.closest(".home"))return;var k=b.dataset.h,td=hToday(),tm=iso(parseISO(td)+DAY);
  if(k==="read")hDay(td,"lectern",function(){hScroll("#card .readings")});
  else if(k==="quick")hDay(td,"lectern",function(){hScroll("#card .quick")});
  else if(k==="refl")hDay(td,"lectern",function(){var r=document.querySelector("#card .readings");var s=r?r.closest(".prose-sec")||r:null;var n=s?s.nextElementSibling:null;while(n&&!(n.classList&&n.classList.contains("prose-sec")))n=n.nextElementSibling;hScroll(n||"#card .prose-sec")});
@@ -4284,7 +4285,7 @@ document.addEventListener("click",function(e){var b=e.target.closest&&e.target.c
  else if(k==="share"){var url=SITE;try{if(navigator.share){navigator.share({title:document.title,url:url});return}}catch(x){}try{navigator.clipboard.writeText(url)}catch(x){}}});
 var _rH=render;render=function(){var hm=S.view==="home";document.body.classList.toggle("onhome",hm);
  if(!hm)return _rH.apply(this,arguments);
- S.view="day";S.date=todayISO();var tb=S.tab;if(tb==="lit")S.tab="lectern";window.HOMER=1;try{_rH.apply(this,arguments)}finally{window.HOMER=0}S.tab=tb==="lit"?"lectern":tb;S.view="home";
+ S.view="day";S.date=hToday();var tb=S.tab;if(tb==="lit")S.tab="lectern";window.HOMER=1;try{_rH.apply(this,arguments)}finally{window.HOMER=0}S.tab=tb==="lit"?"lectern":tb;S.view="home";
  if(LS&&LS.on)lstop();var lb=$("lbar");if(lb)lb.remove();
  var miss=hNeed();drawHome();$("home").setAttribute("aria-pressed","true");
  if(miss.length)Promise.all(miss.map(loadChunk)).then(function(){if(S.view==="home")drawHome()})};
