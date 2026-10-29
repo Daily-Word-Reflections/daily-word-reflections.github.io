@@ -5,11 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:दैनिक वचन · Syro-Malankara
 X-WR-TIMEZONE:Asia/Kolkata
+X-APPLE-CALENDAR-COLOR:#2C4677
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:2026-11-01-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:कूदोश ईत्तो रविवार · कली
@@ -37,11 +38,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:कूदोश ईत्तो रविवार के बा
- द सोमवार
+SUMMARY:कूदोश ईत्तो और हूदोश ईत्
+ तो
 DESCRIPTION:कूदोश ईत्तो रविवार के ब
  ाद सोमवार\n1 थेसलनीकियों 4:1–8 
  · मत्ती 5:1–12\nहमारी पवित्रता 
@@ -52,19 +53,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-02&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कूदोश ईत्तो र
- विवार के बाद सोमवार
+DESCRIPTION:कल का वचन: कूदोश ईत्तो औ
+ र हूदोश ईत्तो
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:कूदोश ईत्तो रविवार के बा
- द मंगलवार · निकेया के 318 धर्म
- ाचार्य
+SUMMARY:निकेया के 318 धर्माचार्य
 DESCRIPTION:कूदोश ईत्तो रविवार के ब
  ाद मंगलवार · निकेया के 318 धर्
  माचार्य\nइब्रानियों 13:7–16 · म
@@ -76,19 +75,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कूदोश ईत्तो र
- विवार के बाद मंगलवार · निके
- या के 318 धर्माचार्य
+DESCRIPTION:कल का वचन: निकेया के 318 धर
+ ्माचार्य
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:कूदोश ईत्तो रविवार के बा
- द बुधवार
+SUMMARY:कूदोश ईत्तो और हूदोश ईत्
+ तो
 DESCRIPTION:कूदोश ईत्तो रविवार के ब
  ाद बुधवार\n1 कुरिन्थियों 4:6–14 
  · लूकस 6:37–42\nहमारे पास जो कुछ 
@@ -99,18 +97,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कूदोश ईत्तो र
- विवार के बाद बुधवार
+DESCRIPTION:कल का वचन: कूदोश ईत्तो औ
+ र हूदोश ईत्तो
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:कूदोश ईत्तो रविवार के बा
- द गुरुवार
+SUMMARY:कूदोश ईत्तो और हूदोश ईत्
+ तो
 DESCRIPTION:कूदोश ईत्तो रविवार के ब
  ाद गुरुवार\nइब्रानियों 12:4–11 
  · योहन 5:19–23\nईश्वर जिनसे प्रे
@@ -122,18 +120,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कूदोश ईत्तो र
- विवार के बाद गुरुवार
+DESCRIPTION:कल का वचन: कूदोश ईत्तो औ
+ र हूदोश ईत्तो
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:कूदोश ईत्तो रविवार के बा
- द शुक्रवार
+SUMMARY:कूदोश ईत्तो और हूदोश ईत्
+ तो
 DESCRIPTION:कूदोश ईत्तो रविवार के ब
  ाद शुक्रवार\n1 तिमथी 6:17–19 · लू
  कस 7:36–50\nधन पर नहीं\, ईश्वर पर 
@@ -144,19 +142,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कूदोश ईत्तो र
- विवार के बाद शुक्रवार
+DESCRIPTION:कल का वचन: कूदोश ईत्तो औ
+ र हूदोश ईत्तो
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:कूदोश ईत्तो रविवार के बा
- द शनिवार · मेलितेने के 33 शही
- द
+SUMMARY:मेलितेने के 33 शहीद
 DESCRIPTION:कूदोश ईत्तो रविवार के ब
  ाद शनिवार · मेलितेने के 33 शह
  ीद\n1 कुरिन्थियों 1:10–17 · योहन 12
@@ -167,15 +163,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कूदोश ईत्तो र
- विवार के बाद शनिवार · मेलित
- ेने के 33 शहीद
+DESCRIPTION:कल का वचन: मेलितेने के 33 
+ शहीद
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:हूदोश ईत्तो रविवार · कली
@@ -201,11 +196,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:हूदोश ईत्तो रविवार के बा
- द सोमवार · संत थियोडोर
+SUMMARY:संत थियोडोर
 DESCRIPTION:हूदोश ईत्तो रविवार के ब
  ाद सोमवार · संत थियोडोर\nइब्
  रानियों 4:6–11 · मत्ती 18:10–14\nआज उ
@@ -216,20 +210,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: हूदोश ईत्तो र
- विवार के बाद सोमवार · संत थि
- योडोर
+DESCRIPTION:कल का वचन: संत थियोडोर
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:हूदोश ईत्तो रविवार के बा
- द मंगलवार · नबी समुएल\; संत प
- ापा महान लियो
+SUMMARY:नबी समुएल\; संत पापा महान 
+ लियो
 DESCRIPTION:हूदोश ईत्तो रविवार के ब
  ाद मंगलवार · नबी समुएल\; संत 
  पापा महान लियो\n1 तिमथी 6:1–2 · म
@@ -241,19 +232,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: हूदोश ईत्तो र
- विवार के बाद मंगलवार · नबी स
- मुएल\; संत पापा महान लियो
+DESCRIPTION:कल का वचन: नबी समुएल\; सं
+ त पापा महान लियो
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:हूदोश ईत्तो रविवार के बा
- द बुधवार
+SUMMARY:कूदोश ईत्तो और हूदोश ईत्
+ तो
 DESCRIPTION:हूदोश ईत्तो रविवार के ब
  ाद बुधवार\nएफ़ेसियों 2:14–22 · म
  त्ती 9:14–17\nमसीह ने विभाजन की 
@@ -264,19 +254,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: हूदोश ईत्तो र
- विवार के बाद बुधवार
+DESCRIPTION:कल का वचन: कूदोश ईत्तो औ
+ र हूदोश ईत्तो
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:हूदोश ईत्तो रविवार के बा
- द गुरुवार · सिकंदरिया के मा
- र योहन
+SUMMARY:सिकंदरिया के मार योहन
 DESCRIPTION:हूदोश ईत्तो रविवार के ब
  ाद गुरुवार · सिकंदरिया के म
  ार योहन\nएफ़ेसियों 1:15–23 · मार
@@ -288,21 +276,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: हूदोश ईत्तो र
- विवार के बाद गुरुवार · सिकं
- दरिया के मार योहन
+DESCRIPTION:कल का वचन: सिकंदरिया के 
+ मार योहन
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:हूदोश ईत्तो रविवार के बा
- द शुक्रवार · स्वर्ण-मुख मार 
- इवानियोस (संत योहन क्रिसोस
- ्तोम)
+SUMMARY:स्वर्ण-मुख मार इवानियोस (
+ संत योहन क्रिसोस्तोम)
 DESCRIPTION:हूदोश ईत्तो रविवार के ब
  ाद शुक्रवार · स्वर्ण-मुख मा
  र इवानियोस (संत योहन क्रिसो
@@ -315,21 +300,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: हूदोश ईत्तो र
- विवार के बाद शुक्रवार · स्व
- र्ण-मुख मार इवानियोस (संत यो
- हन क्रिसोस्तोम)
+DESCRIPTION:कल का वचन: स्वर्ण-मुख मा
+ र इवानियोस (संत योहन क्रिसो
+ स्तोम)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:हूदोश ईत्तो रविवार के बा
- द शनिवार · प्रेरित मार फ़िल
- िप
+SUMMARY:प्रेरित मार फ़िलिप
 DESCRIPTION:हूदोश ईत्तो रविवार के ब
  ाद शनिवार · प्रेरित मार फ़ि
  लिप\n1 कुरिन्थियों 4:1–5 · योहन 1
@@ -341,15 +323,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: हूदोश ईत्तो र
- विवार के बाद शनिवार · प्रेर
- ित मार फ़िलिप
+DESCRIPTION:कल का वचन: प्रेरित मार फ
+ ़िलिप
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:ज़करिया को शुभ संदेश का र
@@ -373,12 +354,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:ज़करिया को शुभ संदेश के र
- विवार के बाद सोमवार · प्रेर
- ित मार मत्ती
+SUMMARY:प्रेरित मार मत्ती
 DESCRIPTION:ज़करिया को शुभ संदेश के
   रविवार के बाद सोमवार · प्रे
  रित मार मत्ती\nएफ़ेसियों 4:1–6
@@ -390,19 +369,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ज़करिया को शु
- भ संदेश के रविवार के बाद सोम
- वार · प्रेरित मार मत्ती
+DESCRIPTION:कल का वचन: प्रेरित मार म
+ त्ती
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:ज़करिया को शुभ संदेश के र
- विवार के बाद मंगलवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:ज़करिया को शुभ संदेश के
   रविवार के बाद मंगलवार\nरोमि
  यों 11:17–24 · मत्ती 9:1–8\nमित्रों 
@@ -414,19 +392,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ज़करिया को शु
- भ संदेश के रविवार के बाद मंग
- लवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:ज़करिया को शुभ संदेश के र
- विवार के बाद बुधवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:ज़करिया को शुभ संदेश के
   रविवार के बाद बुधवार\n2 तिमथ
  ी 4:19–22 · मत्ती 23:37–39\nपौलुस के अ
@@ -438,19 +415,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ज़करिया को शु
- भ संदेश के रविवार के बाद बुध
- वार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:ज़करिया को शुभ संदेश के र
- विवार के बाद गुरुवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:ज़करिया को शुभ संदेश के
   रविवार के बाद गुरुवार\nएफ़े
  सियों 6:1–4 · मत्ती 23:1–12\nपिता औ
@@ -461,19 +437,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ज़करिया को शु
- भ संदेश के रविवार के बाद गुर
- ुवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:ज़करिया को शुभ संदेश के र
- विवार के बाद शुक्रवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:ज़करिया को शुभ संदेश के
   रविवार के बाद शुक्रवार\nरोम
  ियों 10:5–13 · मत्ती 13:1–9\nवचन निक
@@ -484,15 +459,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ज़करिया को शु
- भ संदेश के रविवार के बाद शुक
- ्रवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:ईश्वर की माता मरियम का मं
@@ -514,7 +488,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:ईश्वर की माता मरियम को शु
@@ -541,13 +515,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:ईश्वर की माता मरियम को शु
- भ संदेश के रविवार के बाद सोम
- वार · संत क्लेमेंट\, पोप\; संत 
- फ़ेलिसिटी
+SUMMARY:संत क्लेमेंट\, पोप\; संत फ़
+ ेलिसिटी
 DESCRIPTION:ईश्वर की माता मरियम को 
  शुभ संदेश के रविवार के बाद स
  ोमवार · संत क्लेमेंट\, पोप\; स
@@ -560,21 +532,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम को शुभ संदेश के रविवा
- र के बाद सोमवार · संत क्लेमे
- ंट\, पोप\; संत फ़ेलिसिटी
+DESCRIPTION:कल का वचन: संत क्लेमेंट\,
+  पोप\; संत फ़ेलिसिटी
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:ईश्वर की माता मरियम को शु
- भ संदेश के रविवार के बाद मंग
- लवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:ईश्वर की माता मरियम को 
  शुभ संदेश के रविवार के बाद म
  ंगलवार\nतीतुस 2:11–15 · मत्ती 24:32
@@ -586,20 +555,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम को शुभ संदेश के रविवा
- र के बाद मंगलवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:ईश्वर की माता मरियम को शु
- भ संदेश के रविवार के बाद बुध
- वार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:ईश्वर की माता मरियम को 
  शुभ संदेश के रविवार के बाद ब
  ुधवार\nफ़िलिप्पियों 1:15–20 · म
@@ -612,20 +579,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम को शुभ संदेश के रविवा
- र के बाद बुधवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:ईश्वर की माता मरियम को शु
- भ संदेश के रविवार के बाद गुर
- ुवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:ईश्वर की माता मरियम को 
  शुभ संदेश के रविवार के बाद ग
  ुरुवार\n1 कुरिंथियों 10:14–22 · ल
@@ -637,20 +602,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम को शुभ संदेश के रविवा
- र के बाद गुरुवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:ईश्वर की माता मरियम को शु
- भ संदेश के रविवार के बाद शुक
- ्रवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:ईश्वर की माता मरियम को 
  शुभ संदेश के रविवार के बाद श
  ुक्रवार\n2 थेसलनीकियों 3:6–15 · 
@@ -662,20 +625,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम को शुभ संदेश के रविवा
- र के बाद शुक्रवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:ईश्वर की माता मरियम को शु
- भ संदेश के रविवार के बाद शनि
- वार · संत कैथरीन
+SUMMARY:संत कैथरीन
 DESCRIPTION:ईश्वर की माता मरियम को 
  शुभ संदेश के रविवार के बाद श
  निवार · संत कैथरीन\n1 कुरिंथि
@@ -687,15 +647,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम को शुभ संदेश के रविवा
- र के बाद शनिवार · संत कैथरीन
+DESCRIPTION:कल का वचन: संत कैथरीन
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:ईश्वर की माता मरियम की एल
@@ -721,13 +679,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:ईश्वर की माता मरियम की एल
- ीज़बेथ से भेंट के रविवार के 
- बाद सोमवार · प्रेरित मार अं
- द्रेयस
+SUMMARY:प्रेरित मार अंद्रेयस
 DESCRIPTION:ईश्वर की माता मरियम की 
  एलीज़बेथ से भेंट के रविवार 
  के बाद सोमवार · प्रेरित मार 
@@ -740,22 +695,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम की एलीज़बेथ से भेंट क
- े रविवार के बाद सोमवार · प्र
- ेरित मार अंद्रेयस
+DESCRIPTION:कल का वचन: प्रेरित मार अ
+ ंद्रेयस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:ईश्वर की माता मरियम की एल
- ीज़बेथ से भेंट के रविवार के 
- बाद मंगलवार · पच्चीस दिवसीय
-  उपवास का आरंभ
+SUMMARY:पच्चीस दिवसीय उपवास का आ
+ रंभ
 DESCRIPTION:ईश्वर की माता मरियम की 
  एलीज़बेथ से भेंट के रविवार 
  के बाद मंगलवार · पच्चीस दिव
@@ -768,21 +719,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम की एलीज़बेथ से भेंट क
- े रविवार के बाद मंगलवार · पच
- ्चीस दिवसीय उपवास का आरंभ
+DESCRIPTION:कल का वचन: पच्चीस दिवसी
+ य उपवास का आरंभ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:ईश्वर की माता मरियम की एल
- ीज़बेथ से भेंट के रविवार के 
- बाद बुधवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:ईश्वर की माता मरियम की 
  एलीज़बेथ से भेंट के रविवार 
  के बाद बुधवार\nरोमियों 10:14–15 ·
@@ -794,21 +742,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम की एलीज़बेथ से भेंट क
- े रविवार के बाद बुधवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:ईश्वर की माता मरियम की एल
- ीज़बेथ से भेंट के रविवार के 
- बाद गुरुवार · संत फ़्रांसिस
-  ज़ेवियर
+SUMMARY:संत फ़्रांसिस ज़ेवियर
 DESCRIPTION:ईश्वर की माता मरियम की 
  एलीज़बेथ से भेंट के रविवार 
  के बाद गुरुवार · संत फ़्रां
@@ -821,22 +765,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम की एलीज़बेथ से भेंट क
- े रविवार के बाद गुरुवार · सं
- त फ़्रांसिस ज़ेवियर
+DESCRIPTION:कल का वचन: संत फ़्रांसि
+ स ज़ेवियर
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:ईश्वर की माता मरियम की एल
- ीज़बेथ से भेंट के रविवार के 
- बाद शुक्रवार · दमिश्क के सं
- त योहन
+SUMMARY:दमिश्क के संत योहन
 DESCRIPTION:ईश्वर की माता मरियम की 
  एलीज़बेथ से भेंट के रविवार 
  के बाद शुक्रवार · दमिश्क के 
@@ -848,23 +787,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम की एलीज़बेथ से भेंट क
- े रविवार के बाद शुक्रवार · द
- मिश्क के संत योहन
+DESCRIPTION:कल का वचन: दमिश्क के संत 
+ योहन
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:ईश्वर की माता मरियम की एल
- ीज़बेथ से भेंट के रविवार के 
- बाद शनिवार · मार साबा\; अलेक्
- ज़ान्द्रिया के संत क्लेमें
- ट
+SUMMARY:मार साबा\; अलेक्ज़ान्द्र
+ िया के संत क्लेमेंट
 DESCRIPTION:ईश्वर की माता मरियम की 
  एलीज़बेथ से भेंट के रविवार 
  के बाद शनिवार · मार साबा\; अल
@@ -877,17 +811,15 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: ईश्वर की माता 
- मरियम की एलीज़बेथ से भेंट क
- े रविवार के बाद शनिवार · मार 
- साबा\; अलेक्ज़ान्द्रिया के 
- संत क्लेमेंट
+DESCRIPTION:कल का वचन: मार साबा\; अले
+ क्ज़ान्द्रिया के संत क्लेम
+ ेंट
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:योहन बपतिस्ता के जन्म का 
@@ -911,12 +843,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:योहन बपतिस्ता के जन्म के 
- रविवार के बाद सोमवार · संत अ
- ंब्रोस
+SUMMARY:संत अंब्रोस
 DESCRIPTION:योहन बपतिस्ता के जन्म क
  े रविवार के बाद सोमवार · संत 
  अंब्रोस\n2 तिमथी 1:8–14 · योहन 16:25
@@ -928,15 +858,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: योहन बपतिस्त
- ा के जन्म के रविवार के बाद स
- ोमवार · संत अंब्रोस
+DESCRIPTION:कल का वचन: संत अंब्रोस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:ईश्वर की पवित्र माता का न
@@ -960,11 +888,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:योहन बपतिस्ता के जन्म के 
- रविवार के बाद बुधवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:योहन बपतिस्ता के जन्म क
  े रविवार के बाद बुधवार\nइब्र
  ानियों 1:1–4 · लूकस 7:18–23\nईश्वर 
@@ -976,21 +904,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: योहन बपतिस्त
- ा के जन्म के रविवार के बाद ब
- ुधवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:योहन बपतिस्ता के जन्म के 
- रविवार के बाद गुरुवार · मार 
- बेहनाम\, उनकी बहन सारा और चा
- लीस शहीद
+SUMMARY:मार बेहनाम\, उनकी बहन सार
+ ा और चालीस शहीद
 DESCRIPTION:योहन बपतिस्ता के जन्म क
  े रविवार के बाद गुरुवार · मा
  र बेहनाम\, उनकी बहन सारा और च
@@ -1003,20 +928,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: योहन बपतिस्त
- ा के जन्म के रविवार के बाद ग
- ुरुवार · मार बेहनाम\, उनकी बह
- न सारा और चालीस शहीद
+DESCRIPTION:कल का वचन: मार बेहनाम\, उ
+ नकी बहन सारा और चालीस शहीद
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:योहन बपतिस्ता के जन्म के 
- रविवार के बाद शुक्रवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:योहन बपतिस्ता के जन्म क
  े रविवार के बाद शुक्रवार\n1 क
  ुरिंथियों 16:1–4 · मत्ती 12:1–8\nरव
@@ -1028,19 +951,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: योहन बपतिस्त
- ा के जन्म के रविवार के बाद श
- ुक्रवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:योहन बपतिस्ता के जन्म के 
- रविवार के बाद शनिवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:योहन बपतिस्ता के जन्म क
  े रविवार के बाद शनिवार\n1 थेस
  लनीकियों 5:12–22 · मरकुस 9:42–50\nआन
@@ -1053,15 +975,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: योहन बपतिस्त
- ा के जन्म के रविवार के बाद श
- निवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:संत यूसुफ़ को स्वर्गदूत 
@@ -1087,12 +1008,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:संत यूसुफ़ को स्वर्गदूत 
- के दर्शन के रविवार के बाद सो
- मवार · क्रूस के संत योहन
+SUMMARY:क्रूस के संत योहन
 DESCRIPTION:संत यूसुफ़ को स्वर्गदू
  त के दर्शन के रविवार के बाद 
  सोमवार · क्रूस के संत योहन\nइ
@@ -1105,21 +1024,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: संत यूसुफ़ को 
- स्वर्गदूत के दर्शन के रविव
- ार के बाद सोमवार · क्रूस के स
- ंत योहन
+DESCRIPTION:कल का वचन: क्रूस के संत य
+ ोहन
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:संत यूसुफ़ को स्वर्गदूत 
- के दर्शन के रविवार के बाद मं
- गलवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:संत यूसुफ़ को स्वर्गदू
  त के दर्शन के रविवार के बाद 
  मंगलवार\n1 कुरिंथियों 2:1–5 · य
@@ -1131,20 +1047,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: संत यूसुफ़ को 
- स्वर्गदूत के दर्शन के रविव
- ार के बाद मंगलवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:संत यूसुफ़ को स्वर्गदूत 
- के दर्शन के रविवार के बाद बु
- धवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:संत यूसुफ़ को स्वर्गदू
  त के दर्शन के रविवार के बाद 
  बुधवार\n2 कुरिंथियों 12:7–10 · लू
@@ -1156,20 +1070,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: संत यूसुफ़ को 
- स्वर्गदूत के दर्शन के रविव
- ार के बाद बुधवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:संत यूसुफ़ को स्वर्गदूत 
- के दर्शन के रविवार के बाद गु
- रुवार · मार रब्बूला
+SUMMARY:मार रब्बूला
 DESCRIPTION:संत यूसुफ़ को स्वर्गदू
  त के दर्शन के रविवार के बाद 
  गुरुवार · मार रब्बूला\nरोमि
@@ -1182,22 +1093,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: संत यूसुफ़ को 
- स्वर्गदूत के दर्शन के रविव
- ार के बाद गुरुवार · मार रब्ब
- ूला
+DESCRIPTION:कल का वचन: मार रब्बूला
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:संत यूसुफ़ को स्वर्गदूत 
- के दर्शन के रविवार के बाद शु
- क्रवार · मायलापुर का चमत्का
- री क्रूस
+SUMMARY:मायलापुर का चमत्कारी क्
+ रूस
 DESCRIPTION:संत यूसुफ़ को स्वर्गदू
  त के दर्शन के रविवार के बाद 
  शुक्रवार · मायलापुर का चमत्
@@ -1211,21 +1117,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: संत यूसुफ़ को 
- स्वर्गदूत के दर्शन के रविव
- ार के बाद शुक्रवार · मायलाप
- ुर का चमत्कारी क्रूस
+DESCRIPTION:कल का वचन: मायलापुर का च
+ मत्कारी क्रूस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:संत यूसुफ़ को स्वर्गदूत 
- के दर्शन के रविवार के बाद शन
- िवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:संत यूसुफ़ को स्वर्गदू
  त के दर्शन के रविवार के बाद 
  शनिवार\nएफ़ेसियों 2:14–22 · मत्
@@ -1237,15 +1140,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: संत यूसुफ़ को 
- स्वर्गदूत के दर्शन के रविव
- ार के बाद शनिवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:यल्दो से पहले का रविवार
@@ -1269,11 +1171,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-SUMMARY:यल्दो से पहले के रविवार क
- े बाद सोमवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:यल्दो से पहले के रविवार
   के बाद सोमवार\nरोमियों 1:8–15 · 
  योहन 1:1–5\nविश्वास दूसरों के 
@@ -1284,18 +1186,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: यल्दो से पहले 
- के रविवार के बाद सोमवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:यल्दो से पहले के रविवार क
- े बाद मंगलवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:यल्दो से पहले के रविवार
   के बाद मंगलवार\nगलातियों 4:8–
  11 · योहन 1:6–9\nयोहन ज्योति की ग
@@ -1306,18 +1208,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: यल्दो से पहले 
- के रविवार के बाद मंगलवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-SUMMARY:यल्दो से पहले के रविवार क
- े बाद बुधवार
+SUMMARY:घोषणाओं के रविवार (सूबोर
+ ो)
 DESCRIPTION:यल्दो से पहले के रविवार
   के बाद बुधवार\nकलोसियों 2:1–5 
  · योहन 1:10–13\nसंसार ने उसे नहीं
@@ -1329,19 +1231,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: यल्दो से पहले 
- के रविवार के बाद बुधवार
+DESCRIPTION:कल का वचन: घोषणाओं के रव
+ िवार (सूबोरो)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-SUMMARY:यल्दो से पहले के रविवार क
- े बाद गुरुवार · यल्दो की पूर
- ्व-संध्या
+SUMMARY:यल्दो की पूर्व-संध्या
 DESCRIPTION:यल्दो से पहले के रविवार
   के बाद गुरुवार · यल्दो की पू
  र्व-संध्या\nरोमियों 1:18–23 · यो
@@ -1353,15 +1253,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: यल्दो से पहले 
- के रविवार के बाद गुरुवार · य
- ल्दो की पूर्व-संध्या
+DESCRIPTION:कल का वचन: यल्दो की पूर्
+ व-संध्या
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:यल्दो · हमारे प्रभु का जन
@@ -1386,7 +1285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:ईश्वर की पवित्र माता की स
@@ -1408,7 +1307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:यल्दो के बाद का पहला रविव
@@ -1434,12 +1333,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-SUMMARY:यल्दो के बाद के पहले रविव
- ार के बाद सोमवार · दाऊद\, राज
- ा और नबी
+SUMMARY:दाऊद\, राजा और नबी
 DESCRIPTION:यल्दो के बाद के पहले रव
  िवार के बाद सोमवार · दाऊद\, र
  ाजा और नबी\nइब्रानियों 11:32–40 ·
@@ -1452,19 +1349,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: यल्दो के बाद क
- े पहले रविवार के बाद सोमवार 
- · दाऊद\, राजा और नबी
+DESCRIPTION:कल का वचन: दाऊद\, राजा और 
+ नबी
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:यल्दो के बाद के पहले रविव
- ार के बाद मंगलवार
+SUMMARY:यल्दो
 DESCRIPTION:यल्दो के बाद के पहले रव
  िवार के बाद मंगलवार\nरोमियो
  ं 11:25–32 · मत्ती 15:1–9\nईश्वर के व
@@ -1476,19 +1371,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-29&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: यल्दो के बाद क
- े पहले रविवार के बाद मंगलवा
- र
+DESCRIPTION:कल का वचन: यल्दो
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:यल्दो के बाद के पहले रविव
- ार के बाद बुधवार
+SUMMARY:यल्दो
 DESCRIPTION:यल्दो के बाद के पहले रव
  िवार के बाद बुधवार\nरोमियों 
  15:7–13 · मत्ती 2:19–23\nयूसुफ़ आज्ञ
@@ -1500,19 +1392,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-30&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: यल्दो के बाद क
- े पहले रविवार के बाद बुधवार
+DESCRIPTION:कल का वचन: यल्दो
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:यल्दो के बाद के पहले रविव
- ार के बाद गुरुवार · वर्ष का अ
- ंतिम दिन
+SUMMARY:वर्ष का अंतिम दिन
 DESCRIPTION:यल्दो के बाद के पहले रव
  िवार के बाद गुरुवार · वर्ष क
  ा अंतिम दिन\nरोमियों 15:14–21 · ल
@@ -1524,15 +1413,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: यल्दो के बाद क
- े पहले रविवार के बाद गुरुवा
- र · वर्ष का अंतिम दिन
+DESCRIPTION:कल का वचन: वर्ष का अंतिम 
+ दिन
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:हमारे प्रभु का नामकरण · न
@@ -1554,12 +1442,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-SUMMARY:नववर्ष के बाद का शनिवार · 
- मार बसेलियोस और मार ग्रेगो
- रियोस
+SUMMARY:मार बसेलियोस और मार ग्रे
+ गोरियोस
 DESCRIPTION:नववर्ष के बाद का शनिवार
   · मार बसेलियोस और मार ग्रेग
  ोरियोस\n2 तिमथी 2:21–26 · योहन 3:1–14
@@ -1572,15 +1459,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: नववर्ष के बाद 
- का शनिवार · मार बसेलियोस और 
- मार ग्रेगोरियोस
+DESCRIPTION:कल का वचन: मार बसेलियोस 
+ और मार ग्रेगोरियोस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:यल्दो के बाद का दूसरा रवि
@@ -1605,13 +1491,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-SUMMARY:यल्दो के बाद के दूसरे रवि
- वार के बाद सोमवार · नबी मलाक
- ी\; संत कुरियाकोस एलियास चाव
- रा
+SUMMARY:नबी मलाकी\; संत कुरियाकोस
+  एलियास चावरा
 DESCRIPTION:यल्दो के बाद के दूसरे र
  विवार के बाद सोमवार · नबी मल
  ाकी\; संत कुरियाकोस एलियास च
@@ -1624,21 +1508,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: यल्दो के बाद क
- े दूसरे रविवार के बाद सोमवा
- र · नबी मलाकी\; संत कुरियाकोस
-  एलियास चावरा
+DESCRIPTION:कल का वचन: नबी मलाकी\; सं
+ त कुरियाकोस एलियास चावरा
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-SUMMARY:यल्दो के बाद के दूसरे रवि
- वार के बाद मंगलवार · देन्हो 
- की पूर्व संध्या
+SUMMARY:देन्हो की पूर्व संध्या
 DESCRIPTION:यल्दो के बाद के दूसरे र
  विवार के बाद मंगलवार · देन्
  हो की पूर्व संध्या\nएफ़ेसिय
@@ -1651,15 +1531,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: यल्दो के बाद क
- े दूसरे रविवार के बाद मंगलव
- ार · देन्हो की पूर्व संध्या
+DESCRIPTION:कल का वचन: देन्हो की पूर
+ ्व संध्या
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:देन्हो · हमारे प्रभु का ब
@@ -1684,12 +1563,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:देन्हो के बाद का गुरुवार 
- · संत योहन बपतिस्ता का गुणग
- ान
+SUMMARY:संत योहन बपतिस्ता का गुण
+ गान
 DESCRIPTION:देन्हो के बाद का गुरुवा
  र · संत योहन बपतिस्ता का गुण
  गान\nएफ़ेसियों 3:1–7 · लूकस 7:24–29
@@ -1701,19 +1579,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- का गुरुवार · संत योहन बपतिस
- ्ता का गुणगान
+DESCRIPTION:कल का वचन: संत योहन बपति
+ स्ता का गुणगान
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-SUMMARY:देन्हो के बाद का शुक्रवा
- र · प्रथम शहीद मार स्तेफ़ान
+SUMMARY:प्रथम शहीद मार स्तेफ़ान
  ोस
 DESCRIPTION:देन्हो के बाद का शुक्रव
  ार · प्रथम शहीद मार स्तेफ़ा
@@ -1727,18 +1603,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- का शुक्रवार · प्रथम शहीद मा
+DESCRIPTION:कल का वचन: प्रथम शहीद मा
  र स्तेफ़ानोस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:देन्हो के बाद का शनिवार
+SUMMARY:देन्हो और देन्हो के बाद क
+ े रविवार
 DESCRIPTION:देन्हो के बाद का शनिवार
  \nरोमियों 3:1–8 · मरकुस 7:1–8\nहमार
  ा विश्वासघात ईश्वर की सत्य
@@ -1749,14 +1625,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- का शनिवार
+DESCRIPTION:कल का वचन: देन्हो और देन
+ ्हो के बाद के रविवार
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:देन्हो के बाद का पहला रवि
@@ -1781,12 +1657,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:देन्हो के बाद के पहले रवि
- वार के बाद सोमवार · निस्सा क
- े मार ग्रेगोरियोस
+SUMMARY:निस्सा के मार ग्रेगोरिय
+ ोस
 DESCRIPTION:देन्हो के बाद के पहले र
  विवार के बाद सोमवार · निस्स
  ा के मार ग्रेगोरियोस\n2 कुरि
@@ -1799,21 +1674,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के पहले रविवार के बाद सोमवा
- र · निस्सा के मार ग्रेगोरिय
- ोस
+DESCRIPTION:कल का वचन: निस्सा के मार 
+ ग्रेगोरियोस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:देन्हो के बाद के पहले रवि
- वार के बाद मंगलवार · मठाधिप
- ति मार तेवोदोसियोस
+SUMMARY:मठाधिपति मार तेवोदोसियो
+ स
 DESCRIPTION:देन्हो के बाद के पहले र
  विवार के बाद मंगलवार · मठाध
  िपति मार तेवोदोसियोस\n2 कुरि
@@ -1826,20 +1698,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के पहले रविवार के बाद मंगलव
- ार · मठाधिपति मार तेवोदोसिय
- ोस
+DESCRIPTION:कल का वचन: मठाधिपति मार 
+ तेवोदोसियोस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:देन्हो के बाद के पहले रवि
- वार के बाद बुधवार
+SUMMARY:देन्हो और देन्हो के बाद क
+ े रविवार
 DESCRIPTION:देन्हो के बाद के पहले र
  विवार के बाद बुधवार\n1 तिमथी 2
  :1–7 · मत्ती 7:1–6\nसबके लिए प्रा
@@ -1850,20 +1720,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के पहले रविवार के बाद बुधवा
- र
+DESCRIPTION:कल का वचन: देन्हो और देन
+ ्हो के बाद के रविवार
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:देन्हो के बाद के पहले रवि
- वार के बाद गुरुवार · सीनै के 
- चालीस शहीद\; संत देवसहायम
+SUMMARY:सीनै के चालीस शहीद\; संत द
+ ेवसहायम
 DESCRIPTION:देन्हो के बाद के पहले र
  विवार के बाद गुरुवार · सीनै 
  के चालीस शहीद\; संत देवसहायम
@@ -1876,22 +1744,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के पहले रविवार के बाद गुरुव
- ार · सीनै के चालीस शहीद\; संत 
- देवसहायम
+DESCRIPTION:कल का वचन: सीनै के चालीस 
+ शहीद\; संत देवसहायम
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:देन्हो के बाद के पहले रवि
- वार के बाद शुक्रवार · बीजों 
- के लिए ईश्वर की माता मरियम क
- ा स्मरण
+SUMMARY:बीजों के लिए ईश्वर की मात
+ ा मरियम का स्मरण
 DESCRIPTION:देन्हो के बाद के पहले र
  विवार के बाद शुक्रवार · बीज
  ों के लिए ईश्वर की माता मरिय
@@ -1904,21 +1768,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के पहले रविवार के बाद शुक्र
- वार · बीजों के लिए ईश्वर की म
- ाता मरियम का स्मरण
+DESCRIPTION:कल का वचन: बीजों के लिए ई
+ श्वर की माता मरियम का स्मरण
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:देन्हो के बाद के पहले रवि
- वार के बाद शनिवार · संत पेत्
- रुस की ज़ंजीरें
+SUMMARY:संत पेत्रुस की ज़ंजीरें
 DESCRIPTION:देन्हो के बाद के पहले र
  विवार के बाद शनिवार · संत पे
  त्रुस की ज़ंजीरें\nइब्रानि
@@ -1931,15 +1791,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के पहले रविवार के बाद शनिवा
- र · संत पेत्रुस की ज़ंजीरें
+DESCRIPTION:कल का वचन: संत पेत्रुस क
+ ी ज़ंजीरें
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:देन्हो के बाद का दूसरा रव
@@ -1964,12 +1823,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-SUMMARY:देन्हो के बाद के दूसरे रव
- िवार के बाद सोमवार · नीनवे व
- ासियों के उपवास का पहला दिन
+SUMMARY:नीनवे वासियों के उपवास क
+ ा पहला दिन
 DESCRIPTION:देन्हो के बाद के दूसरे 
  रविवार के बाद सोमवार · नीनव
  े वासियों के उपवास का पहला द
@@ -1982,22 +1840,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के दूसरे रविवार के बाद सोमव
- ार · नीनवे वासियों के उपवास 
- का पहला दिन
+DESCRIPTION:कल का वचन: नीनवे वासियो
+ ं के उपवास का पहला दिन
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:देन्हो के बाद के दूसरे रव
- िवार के बाद मंगलवार · नीनवे 
- वासियों के उपवास का दूसरा द
- िन · मार मकारियोस
+SUMMARY:नीनवे वासियों के उपवास क
+ ा दूसरा दिन · मार मकारियोस
 DESCRIPTION:देन्हो के बाद के दूसरे 
  रविवार के बाद मंगलवार · नीन
  वे वासियों के उपवास का दूसर
@@ -2011,23 +1865,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के दूसरे रविवार के बाद मंगल
- वार · नीनवे वासियों के उपवा
- स का दूसरा दिन · मार मकारियो
- स
+DESCRIPTION:कल का वचन: नीनवे वासियो
+ ं के उपवास का दूसरा दिन · मार
+  मकारियोस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:देन्हो के बाद के दूसरे रव
- िवार के बाद बुधवार · नीनवे व
- ासियों के उपवास का तीसरा दि
- न · संत सेबस्तियन
+SUMMARY:नीनवे वासियों के उपवास क
+ ा तीसरा दिन · संत सेबस्तियन
 DESCRIPTION:देन्हो के बाद के दूसरे 
  रविवार के बाद बुधवार · नीनव
  े वासियों के उपवास का तीसरा 
@@ -2041,23 +1891,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के दूसरे रविवार के बाद बुधव
- ार · नीनवे वासियों के उपवास 
- का तीसरा दिन · संत सेबस्तिय
- न
+DESCRIPTION:कल का वचन: नीनवे वासियो
+ ं के उपवास का तीसरा दिन · संत
+  सेबस्तियन
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-SUMMARY:देन्हो के बाद के दूसरे रव
- िवार के बाद गुरुवार · नीनवे 
- वासियों के उपवास का समापन · 
- संत आग्नेस
+SUMMARY:नीनवे वासियों के उपवास क
+ ा समापन · संत आग्नेस
 DESCRIPTION:देन्हो के बाद के दूसरे 
  रविवार के बाद गुरुवार · नीन
  वे वासियों के उपवास का समाप
@@ -2074,21 +1920,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के दूसरे रविवार के बाद गुरु
- वार · नीनवे वासियों के उपवा
- स का समापन · संत आग्नेस
+DESCRIPTION:कल का वचन: नीनवे वासियो
+ ं के उपवास का समापन · संत आग्
+ नेस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:देन्हो के बाद के दूसरे रव
- िवार के बाद शुक्रवार · प्रे
- रित मार तिमोथेयोस
+SUMMARY:प्रेरित मार तिमोथेयोस
 DESCRIPTION:देन्हो के बाद के दूसरे 
  रविवार के बाद शुक्रवार · प्
  रेरित मार तिमोथेयोस\n1 तिमथी
@@ -2100,20 +1943,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के दूसरे रविवार के बाद शुक्
- रवार · प्रेरित मार तिमोथेयो
- स
+DESCRIPTION:कल का वचन: प्रेरित मार त
+ िमोथेयोस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:देन्हो के बाद के दूसरे रव
- िवार के बाद शनिवार
+SUMMARY:देन्हो और देन्हो के बाद क
+ े रविवार
 DESCRIPTION:देन्हो के बाद के दूसरे 
  रविवार के बाद शनिवार\nइब्रा
  नियों 8:1–6 · मत्ती 9:32–34\nयेसु ई
@@ -2125,15 +1966,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: देन्हो के बाद 
- के दूसरे रविवार के बाद शनिव
- ार
+DESCRIPTION:कल का वचन: देन्हो और देन
+ ्हो के बाद के रविवार
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:कोह्ने रविवार · दिवंगत प
@@ -2160,12 +2000,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-SUMMARY:कोह्ने रविवार के बाद का स
- ोमवार · संत पौलुस का मन-परिव
- र्तन
+SUMMARY:संत पौलुस का मन-परिवर्तन
 DESCRIPTION:कोह्ने रविवार के बाद का
   सोमवार · संत पौलुस का मन-परि
  वर्तन\nप्रेरित-चरित 9:1–9 · गला
@@ -2178,20 +2016,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कोह्ने रविवा
- र के बाद का सोमवार · संत पौलु
- स का मन-परिवर्तन
+DESCRIPTION:कल का वचन: संत पौलुस का म
+ न-परिवर्तन
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-SUMMARY:कोह्ने रविवार के बाद का म
- ंगलवार · भारत का गणतंत्र दि
- वस
+SUMMARY:भारत का गणतंत्र दिवस
 DESCRIPTION:कोह्ने रविवार के बाद का
   मंगलवार · भारत का गणतंत्र द
  िवस\n2 कुरिन्थियों 3:1–5 · मत्त
@@ -2203,19 +2038,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कोह्ने रविवा
- र के बाद का मंगलवार · भारत का
-  गणतंत्र दिवस
+DESCRIPTION:कल का वचन: भारत का गणतंत
+ ्र दिवस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:कोह्ने रविवार के बाद का ब
- ुधवार
+SUMMARY:देन्हो और देन्हो के बाद क
+ े रविवार
 DESCRIPTION:कोह्ने रविवार के बाद का
   बुधवार\nएफ़ेसियों 5:22–33 · मत्
  ती 5:31–32\nमसीह के प्रति श्रद्ध
@@ -2227,18 +2061,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कोह्ने रविवा
- र के बाद का बुधवार
+DESCRIPTION:कल का वचन: देन्हो और देन
+ ्हो के बाद के रविवार
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-SUMMARY:कोह्ने रविवार के बाद का ग
- ुरुवार · संत थॉमस अक्विनास
+SUMMARY:संत थॉमस अक्विनास
 DESCRIPTION:कोह्ने रविवार के बाद का
   गुरुवार · संत थॉमस अक्विना
  स\nइब्रानियों 13:7–16 · योहन 14:1–6\n
@@ -2250,20 +2083,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कोह्ने रविवा
- र के बाद का गुरुवार · संत थॉम
- स अक्विनास
+DESCRIPTION:कल का वचन: संत थॉमस अक्व
+ िनास
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:कोह्ने रविवार के बाद का श
- ुक्रवार · अंताकिया के मार इ
- ग्नातियोस नूरोनो
+SUMMARY:अंताकिया के मार इग्नाति
+ योस नूरोनो
 DESCRIPTION:कोह्ने रविवार के बाद का
   शुक्रवार · अंताकिया के मार 
  इग्नातियोस नूरोनो\nरोमियों
@@ -2276,21 +2107,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कोह्ने रविवा
- र के बाद का शुक्रवार · अंताक
- िया के मार इग्नातियोस नूरो
- नो
+DESCRIPTION:कल का वचन: अंताकिया के म
+ ार इग्नातियोस नूरोनो
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:कोह्ने रविवार के बाद का श
- निवार · फ़ारसी ज्ञानी मार य
- ाकूब अफ़्रहात
+SUMMARY:फ़ारसी ज्ञानी मार याकूब 
+ अफ़्रहात
 DESCRIPTION:कोह्ने रविवार के बाद का
   शनिवार · फ़ारसी ज्ञानी मार 
  याकूब अफ़्रहात\n2 कुरिन्थिय
@@ -2302,15 +2130,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: कोह्ने रविवा
- र के बाद का शनिवार · फ़ारसी ज
- ्ञानी मार याकूब अफ़्रहात
+DESCRIPTION:कल का वचन: फ़ारसी ज्ञान
+ ी मार याकूब अफ़्रहात
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:अनीदे रविवार · दिवंगत वि
@@ -2338,11 +2165,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:अनीदे रविवार के बाद का सो
- मवार
+SUMMARY:देन्हो और देन्हो के बाद क
+ े रविवार
 DESCRIPTION:अनीदे रविवार के बाद का 
  सोमवार\nकलोसियों 1:9–14 · मत्ती
   6:9–15\nपौलुस प्रार्थना करते ह
@@ -2355,14 +2182,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: अनीदे रविवार 
- के बाद का सोमवार
+DESCRIPTION:कल का वचन: देन्हो और देन
+ ्हो के बाद के रविवार
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:मायल्तो · हमारे प्रभु का 
@@ -2389,12 +2216,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:अनीदे रविवार के बाद का बु
- धवार · मार शिमोन और मोर्त हन
- ्ना
+SUMMARY:मार शिमोन और मोर्त हन्ना
 DESCRIPTION:अनीदे रविवार के बाद का 
  बुधवार · मार शिमोन और मोर्त 
  हन्ना\nएफ़ेसियों 3:14–21 · लूकस 2
@@ -2407,19 +2232,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: अनीदे रविवार 
- के बाद का बुधवार · मार शिमोन 
- और मोर्त हन्ना
+DESCRIPTION:कल का वचन: मार शिमोन और म
+ ोर्त हन्ना
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:अनीदे रविवार के बाद का गु
- रुवार · संत जॉन डी ब्रिटो
+SUMMARY:संत जॉन डी ब्रिटो
 DESCRIPTION:अनीदे रविवार के बाद का 
  गुरुवार · संत जॉन डी ब्रिटो\n
  रोमियों 1:13–17 · मत्ती 7:13–14\nपौल
@@ -2431,19 +2254,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: अनीदे रविवार 
- के बाद का गुरुवार · संत जॉन ड
- ी ब्रिटो
+DESCRIPTION:कल का वचन: संत जॉन डी ब्र
+ िटो
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-SUMMARY:अनीदे रविवार के बाद का शु
- क्रवार
+SUMMARY:देन्हो और देन्हो के बाद क
+ े रविवार
 DESCRIPTION:अनीदे रविवार के बाद का 
  शुक्रवार\n1 कुरिन्थियों 10:1–13 
  · योहन 15:18–25\nईश्वर के सब वरदा
@@ -2455,18 +2277,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: अनीदे रविवार 
- के बाद का शुक्रवार
+DESCRIPTION:कल का वचन: देन्हो और देन
+ ्हो के बाद के रविवार
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:अनीदे रविवार के बाद का शन
- िवार
+SUMMARY:देन्हो और देन्हो के बाद क
+ े रविवार
 DESCRIPTION:अनीदे रविवार के बाद का 
  शनिवार\n1 तिमथी 6:17–21 · लूकस 12:16–
  21\nमूर्ख धनी ने केवल अपने लिए
@@ -2478,14 +2300,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: अनीदे रविवार 
- के बाद का शनिवार
+DESCRIPTION:कल का वचन: देन्हो और देन
+ ्हो के बाद के रविवार
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:कोथिने रविवार · महा उपवा
@@ -2511,11 +2333,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-SUMMARY:महा उपवास के पहले सप्ताह 
- का सोमवार · शुबकोनो
+SUMMARY:शुबकोनो
 DESCRIPTION:महा उपवास के पहले सप्ता
  ह का सोमवार · शुबकोनो\nउत्पत
  ्ति 15:1–6 · एफ़ेसियों 4:25–32 · मत्
@@ -2528,19 +2349,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- हले सप्ताह का सोमवार · शुबक
- ोनो
+DESCRIPTION:कल का वचन: शुबकोनो
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:महा उपवास के पहले सप्ताह 
- का मंगलवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के पहले सप्ता
  ह का मंगलवार\nउत्पत्ति 15:7–16 · 
  रोमियों 8:1–11 · योहन 10:11–16\nअब्र
@@ -2552,20 +2370,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- हले सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:महा उपवास के पहले सप्ताह 
- का बुधवार · सीरो-मलंकरा प्र
- मुख महाधर्माध्यक्षीय कलीस
- िया की वर्षगाँठ
+SUMMARY:सीरो-मलंकरा प्रमुख महाध
+ र्माध्यक्षीय कलीसिया की वर
+ ्षगाँठ
 DESCRIPTION:महा उपवास के पहले सप्ता
  ह का बुधवार · सीरो-मलंकरा प्
  रमुख महाधर्माध्यक्षीय कली
@@ -2580,21 +2397,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- हले सप्ताह का बुधवार · सीरो-
- मलंकरा प्रमुख महाधर्माध्य
- क्षीय कलीसिया की वर्षगाँठ
+DESCRIPTION:कल का वचन: सीरो-मलंकरा प
+ ्रमुख महाधर्माध्यक्षीय कल
+ ीसिया की वर्षगाँठ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:महा उपवास के पहले सप्ताह 
- का गुरुवार · लूर्द की माता म
- रियम
+SUMMARY:लूर्द की माता मरियम
 DESCRIPTION:महा उपवास के पहले सप्ता
  ह का गुरुवार · लूर्द की माता 
  मरियम\nउत्पत्ति 16:1–6 · कलोसिय
@@ -2608,19 +2422,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- हले सप्ताह का गुरुवार · लूर
- ्द की माता मरियम
+DESCRIPTION:कल का वचन: लूर्द की माता 
+ मरियम
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:महा उपवास के पहले सप्ताह 
- का शुक्रवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के पहले सप्ता
  ह का शुक्रवार\nउत्पत्ति 16:7–16 
  · रोमियों 2:12–16 · लूकस 12:8–12\nप्र
@@ -2633,19 +2445,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- हले सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:महा उपवास के पहले सप्ताह 
- का शनिवार · मार अप्रेम और मा
- र थियोडोर\; नबी हग्गय
+SUMMARY:मार अप्रेम और मार थियोडो
+ र\; नबी हग्गय
 DESCRIPTION:महा उपवास के पहले सप्ता
  ह का शनिवार · मार अप्रेम और म
  ार थियोडोर\; नबी हग्गय\nउत्प
@@ -2660,16 +2471,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- हले सप्ताह का शनिवार · मार अ
- प्रेम और मार थियोडोर\; नबी ह
- ग्गय
+DESCRIPTION:कल का वचन: मार अप्रेम और 
+ मार थियोडोर\; नबी हग्गय
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:गर्बो रविवार · कोढ़ी का श
@@ -2694,11 +2503,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-SUMMARY:महा उपवास के दूसरे सप्ता
- ह का सोमवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के दूसरे सप्त
  ाह का सोमवार\nउत्पत्ति 17:9–14 · 
  कलोसियों 4:1–6 · मत्ती 6:25–34\nईश्
@@ -2711,18 +2519,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के द
- ूसरे सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:महा उपवास के दूसरे सप्ता
- ह का मंगलवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के दूसरे सप्त
  ाह का मंगलवार\nउत्पत्ति 17:15–22
   · एफ़ेसियों 2:1–10 · मत्ती 7:15–20\n
@@ -2735,18 +2542,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के द
- ूसरे सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:महा उपवास के दूसरे सप्ता
- ह का बुधवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के दूसरे सप्त
  ाह का बुधवार\nउत्पत्ति 17:23–27 ·
   कलोसियों 2:1–5 · मत्ती 8:18–22\nअब
@@ -2758,18 +2564,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के द
- ूसरे सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:महा उपवास के दूसरे सप्ता
- ह का गुरुवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के दूसरे सप्त
  ाह का गुरुवार\nउत्पत्ति 18:1–8 
  · 2 कुरिन्थियों 6:14–18 · मत्ती 22:1
@@ -2782,18 +2587,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के द
- ूसरे सप्ताह का गुरुवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:महा उपवास के दूसरे सप्ता
- ह का शुक्रवार · मार इसहाक
+SUMMARY:मार इसहाक
 DESCRIPTION:महा उपवास के दूसरे सप्त
  ाह का शुक्रवार · मार इसहाक\nउ
  त्पत्ति 18:9–15 · फ़िलिप्पियों 
@@ -2807,19 +2611,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के द
- ूसरे सप्ताह का शुक्रवार · म
- ार इसहाक
+DESCRIPTION:कल का वचन: मार इसहाक
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:महा उपवास के दूसरे सप्ता
- ह का शनिवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के दूसरे सप्त
  ाह का शनिवार\nउत्पत्ति 18:16–21 ·
   तीतुस 3:1–7 · लूकस 12:32–34\nईश्वर न
@@ -2832,14 +2633,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के द
- ूसरे सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:म्शारियो रविवार · लकवे क
@@ -2866,12 +2667,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
-SUMMARY:महा उपवास के तीसरे सप्ता
- ह का सोमवार · अंताकिया में स
- ंत पेत्रुस की धर्मपीठ
+SUMMARY:अंताकिया में संत पेत्रु
+ स की धर्मपीठ
 DESCRIPTION:महा उपवास के तीसरे सप्त
  ाह का सोमवार · अंताकिया में 
  संत पेत्रुस की धर्मपीठ\nउत्
@@ -2885,21 +2685,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-22&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के त
- ीसरे सप्ताह का सोमवार · अंत
- ाकिया में संत पेत्रुस की धर
- ्मपीठ
+DESCRIPTION:कल का वचन: अंताकिया में 
+ संत पेत्रुस की धर्मपीठ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:महा उपवास के तीसरे सप्ता
- ह का मंगलवार · स्मिर्ना के स
- ंत पोलीकार्प
+SUMMARY:स्मिर्ना के संत पोलीकार
+ ्प
 DESCRIPTION:महा उपवास के तीसरे सप्त
  ाह का मंगलवार · स्मिर्ना के 
  संत पोलीकार्प\nउत्पत्ति 19:1–1
@@ -2914,20 +2711,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के त
- ीसरे सप्ताह का मंगलवार · स्
- मिर्ना के संत पोलीकार्प
+DESCRIPTION:कल का वचन: स्मिर्ना के स
+ ंत पोलीकार्प
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:महा उपवास के तीसरे सप्ता
- ह का बुधवार · संत योहन बपतिस
- ्ता के सिर की प्राप्ति
+SUMMARY:संत योहन बपतिस्ता के सिर 
+ की प्राप्ति
 DESCRIPTION:महा उपवास के तीसरे सप्त
  ाह का बुधवार · संत योहन बपति
  स्ता के सिर की प्राप्ति\nउत्
@@ -2942,21 +2737,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के त
- ीसरे सप्ताह का बुधवार · संत 
- योहन बपतिस्ता के सिर की प्र
- ाप्ति
+DESCRIPTION:कल का वचन: संत योहन बपति
+ स्ता के सिर की प्राप्ति
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:महा उपवास के तीसरे सप्ता
- ह का गुरुवार · धन्य रानी मार
- िया
+SUMMARY:धन्य रानी मारिया
 DESCRIPTION:महा उपवास के तीसरे सप्त
  ाह का गुरुवार · धन्य रानी मा
  रिया\nउत्पत्ति 19:23–29 · 2 कुरिन
@@ -2971,19 +2762,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के त
- ीसरे सप्ताह का गुरुवार · धन
- ्य रानी मारिया
+DESCRIPTION:कल का वचन: धन्य रानी मार
+ िया
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:महा उपवास के तीसरे सप्ता
- ह का शुक्रवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के तीसरे सप्त
  ाह का शुक्रवार\nउत्पत्ति 19:30
  –38 · रोमियों 2:1–11 · मत्ती 6:5–8\nभ
@@ -2997,18 +2786,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के त
- ीसरे सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:महा उपवास के तीसरे सप्ता
- ह का शनिवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के तीसरे सप्त
  ाह का शनिवार\nउत्पत्ति 20:1–7 · 
  रोमियों 2:12–16 · लूकस 12:8–12\nभय के
@@ -3022,14 +2810,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के त
- ीसरे सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:क्नानोइथो रविवार · कनानी
@@ -3055,11 +2843,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-01-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:महा उपवास के चौथे सप्ताह 
- का सोमवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के चौथे सप्ता
  ह का सोमवार\nउत्पत्ति 20:8–18 · 2 
  थेसलनीकियों 3:16–18 · मत्ती 14:22–3
@@ -3074,18 +2861,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के च
- ौथे सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:महा उपवास के चौथे सप्ताह 
- का मंगलवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के चौथे सप्ता
  ह का मंगलवार\nउत्पत्ति 21:1–8 · 
  गलातियों 3:26–29 · मत्ती 11:20–24\nईश
@@ -3098,14 +2884,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के च
- ौथे सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:उपवास का मध्य दिवस · महा उ
@@ -3138,11 +2924,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:महा उपवास के चौथे सप्ताह 
- का गुरुवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के चौथे सप्ता
  ह का गुरुवार\nउत्पत्ति 21:9–14 · 
  1 कुरिन्थियों 8:1–6 · मत्ती 5:43–48
@@ -3157,21 +2942,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के च
- ौथे सप्ताह का गुरुवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-SUMMARY:महा उपवास के चौथे सप्ताह 
- का शुक्रवार · हमारे प्रमुख 
- महाधर्माध्यक्ष-काथोलिकोस 
- के सिंहासनारोहण की वर्षगाँ
- ठ
+SUMMARY:हमारे प्रमुख महाधर्माध्
+ यक्ष-काथोलिकोस के सिंहासना
+ रोहण की वर्षगाँठ
 DESCRIPTION:महा उपवास के चौथे सप्ता
  ह का शुक्रवार · हमारे प्रमु
  ख महाधर्माध्यक्ष-काथोलिको
@@ -3188,21 +2971,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के च
- ौथे सप्ताह का शुक्रवार · हम
- ारे प्रमुख महाधर्माध्यक्ष-
- काथोलिकोस के सिंहासनारोहण 
- की वर्षगाँठ
+DESCRIPTION:कल का वचन: हमारे प्रमुख 
+ महाधर्माध्यक्ष-काथोलिकोस 
+ के सिंहासनारोहण की वर्षगाँ
+ ठ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:महा उपवास के चौथे सप्ताह 
- का शनिवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के चौथे सप्ता
  ह का शनिवार\nउत्पत्ति 21:22–34 · 1 
  तिमथी 4:1–5 · लूकस 4:42–44\nअब्राहम
@@ -3216,14 +2997,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के च
- ौथे सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:क्पीफ़्तो रविवार · कुबड़
@@ -3250,11 +3031,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:महा उपवास के पाँचवें सप्
- ताह का सोमवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के पाँचवें सप
  ्ताह का सोमवार\nउत्पत्ति 22:1–
  8 · 1 कुरिन्थियों 11:1–10 · लूकस 5:33
@@ -3268,19 +3048,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- ाँचवें सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:महा उपवास के पाँचवें सप्
- ताह का मंगलवार · सेबास्ते क
- े चालीस शहीद
+SUMMARY:सेबास्ते के चालीस शहीद
 DESCRIPTION:महा उपवास के पाँचवें सप
  ्ताह का मंगलवार · सेबास्ते 
  के चालीस शहीद\nउत्पत्ति 22:9–19 
@@ -3296,19 +3074,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- ाँचवें सप्ताह का मंगलवार · 
- सेबास्ते के चालीस शहीद
+DESCRIPTION:कल का वचन: सेबास्ते के च
+ ालीस शहीद
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-10-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:महा उपवास के पाँचवें सप्
- ताह का बुधवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के पाँचवें सप
  ्ताह का बुधवार\nउत्पत्ति 22:20
  –24 · 1 तिमथी 5:17–22 · मत्ती 15:32–39\nअ
@@ -3321,18 +3097,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- ाँचवें सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:महा उपवास के पाँचवें सप्
- ताह का गुरुवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के पाँचवें सप
  ्ताह का गुरुवार\nउत्पत्ति 23:1
  –9 · कलोसियों 1:3–6 · मत्ती 16:1–4\n
@@ -3347,18 +3122,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- ाँचवें सप्ताह का गुरुवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-SUMMARY:महा उपवास के पाँचवें सप्
- ताह का शुक्रवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के पाँचवें सप
  ्ताह का शुक्रवार\nउत्पत्ति 2
  3:10–16 · एफ़ेसियों 2:11–22 · मरकुस 8:
@@ -3372,18 +3146,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- ाँचवें सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-SUMMARY:महा उपवास के पाँचवें सप्
- ताह का शनिवार
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:महा उपवास के पाँचवें सप
  ्ताह का शनिवार\nउत्पत्ति 23:17
  –20 · रोमियों 3:27–31 · योहन 15:11–17\nम
@@ -3397,14 +3170,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: महा उपवास के प
- ाँचवें सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:सामियो रविवार · अंधों की 
@@ -3429,10 +3202,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-SUMMARY:Monday of the sixth week of the Great Fast
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:Monday of the sixth week of the Great Fast\nGenesis 24:1–9 
  · Ephesians 6:18–20 · Mark 11:27–33\nOld Abraham sends his servant
   to find a wife for Isaac\, trusting God to send his angel ahead.\n\nप
@@ -3442,17 +3215,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Monday of the sixth week of the Grea
- t Fast
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:Tuesday of the sixth week of the Great Fast
+SUMMARY:महा उपवास (वलिया नोम्बु)
 DESCRIPTION:Tuesday of the sixth week of the Great Fast\nGenesis 24:10–
  14 · Colossians 1:24–29 · Mark 9:30–32\nAt the well\, Abraham's se
  rvant prays for guidance and asks for a girl with a generous heart.\n\n
@@ -3462,17 +3235,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Tuesday of the sixth week of the Gre
- at Fast
+DESCRIPTION:कल का वचन: महा उपवास (वलि
+ या नोम्बु)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:Wednesday of the sixth week of the Great Fast · St Patrick
+SUMMARY:St Patrick
 DESCRIPTION:Wednesday of the sixth week of the Great Fast · St Patrick\n
  Genesis 24:15–27 · Ephesians 5:1–4 · Luke 4:16–19\nRebekah gives
   water to the servant and\, unasked\, to all his camels\; the servant bl
@@ -3483,18 +3256,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Wednesday of the sixth week of the G
- reat Fast · St Patrick
+DESCRIPTION:कल का वचन: St Patrick
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:Thursday of the sixth week of the Great Fast · Mar Cyril of Jeru
- salem
+SUMMARY:Mar Cyril of Jerusalem
 DESCRIPTION:Thursday of the sixth week of the Great Fast · Mar Cyril of 
  Jerusalem\nGenesis 24:28–41 · Colossians 3:12–17 · Matthew 5:13–
  16\nAbraham's servant will not eat until he has told his errand\; he spe
@@ -3505,17 +3276,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Thursday of the sixth week of the Gr
- eat Fast · Mar Cyril of Jerusalem
+DESCRIPTION:कल का वचन: Mar Cyril of Jerusalem
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-SUMMARY:The Fortieth Friday · Mar Yauseph (St Joseph)
+SUMMARY:Mar Yauseph (St Joseph)
 DESCRIPTION:The Fortieth Friday · Mar Yauseph (St Joseph)\nMatthew 4:1
  –11 · Genesis 3:1–7 · 2 Samuel 24:18–25 · Jeremiah 7:1–7 · I
  saiah 58:1–8 · 1 Peter 1:13–21 · Romans 14:1–9 · Luke 4:1–13 
@@ -3527,17 +3297,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: The Fortieth Friday · Mar Yauseph (
- St Joseph)
+DESCRIPTION:कल का वचन: Mar Yauseph (St Joseph)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:Lazarus Saturday · The Saturday of the Raising of Lazarus
+SUMMARY:The Saturday of the Raising of Lazarus
 DESCRIPTION:Lazarus Saturday · The Saturday of the Raising of Lazarus\nG
  enesis 24:50–61 · 1 Corinthians 15:20–28 · John 11:28–44\nJesus 
  weeps at the tomb of Lazarus and raises him with a loud cry: “Lazarus\
@@ -3548,14 +3317,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Lazarus Saturday · The Saturday of 
- the Raising of Lazarus
+DESCRIPTION:कल का वचन: The Saturday of the Raising of Lazar
+ us
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Hosanna Sunday · The Lord's Entry into Jerusalem
@@ -3576,10 +3345,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-SUMMARY:Hasha Monday · Monday of Passion Week
+SUMMARY:Monday of Passion Week
 DESCRIPTION:Hasha Monday · Monday of Passion Week\nIsaiah 28:5–13 · H
  ebrews 1:10–14 · Matthew 21:23–27\nGod offered his people rest\, bu
  t their leaders would not hear.\n\nपढ़ें और प्रा
@@ -3589,17 +3358,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Hasha Monday · Monday of Passion We
- ek
+DESCRIPTION:कल का वचन: Monday of Passion Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-23-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:Hasha Tuesday · Tuesday of Passion Week
+SUMMARY:Tuesday of Passion Week
 DESCRIPTION:Hasha Tuesday · Tuesday of Passion Week\nDeuteronomy 31:14
  –30 · Hebrews 4:1–5 · John 12:27–36\nBefore his death Moses comm
  issioned Joshua: be strong and bold\; I will be with you.\n\nपढ़
@@ -3609,17 +3377,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Hasha Tuesday · Tuesday of Passion 
- Week
+DESCRIPTION:कल का वचन: Tuesday of Passion Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:Hasha Wednesday · Wednesday of Passion Week
+SUMMARY:Wednesday of Passion Week
 DESCRIPTION:Hasha Wednesday · Wednesday of Passion Week\nEzekiel 21:28
  –32 · Hebrews 9:23–28 · Matthew 26:14–16\nJudas\, one of the twe
  lve\, sold Jesus for thirty pieces of silver.\n\nपढ़ें और 
@@ -3629,14 +3396,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Hasha Wednesday · Wednesday of Pass
- ion Week
+DESCRIPTION:कल का वचन: Wednesday of Passion Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Pesaha · The Lord's Supper
@@ -3656,10 +3422,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-SUMMARY:Good Friday · The Passion and Death of our Lord
+SUMMARY:The Passion and Death of our Lord
 DESCRIPTION:Good Friday · The Passion and Death of our Lord\nReadings of
   the Hours of Good Friday · Matthew 26–27\; Mark 14–15\; Luke 22–
  23\; John 18–19\n“He was wounded for our transgressions.”\n\nप
@@ -3669,17 +3435,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Good Friday · The Passion and Death
-  of our Lord
+DESCRIPTION:कल का वचन: The Passion and Death of our Lord
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-SUMMARY:Holy Saturday · The Lord Rests in the Tomb
+SUMMARY:The Lord Rests in the Tomb
 DESCRIPTION:Holy Saturday · The Lord Rests in the Tomb\nAmos 6:10–14 (
  as printed) · Romans 6:1–11 · Matthew 27:62–66\nHoly Saturday: the
   great silence\; the Lord rests in the tomb.\n\nपढ़ें और 
@@ -3689,14 +3454,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Holy Saturday · The Lord Rests in t
- he Tomb
+DESCRIPTION:कल का वचन: The Lord Rests in the Tomb
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Qyomtho · The Resurrection of our Lord
@@ -3717,10 +3481,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:Monday of Hevoro week · Easter Monday
+SUMMARY:Easter Monday
 DESCRIPTION:Monday of Hevoro week · Easter Monday\nRomans 7:1–6 · Mat
  thew 28:11–15\nThe guards were paid to say that the body had been stol
  en\; the tomb was empty because Christ was raised.\n\nपढ़ें 
@@ -3730,17 +3494,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Monday of Hevoro week · Easter Mond
- ay
+DESCRIPTION:कल का वचन: Easter Monday
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:Tuesday of Hevoro week · Easter Tuesday
+SUMMARY:Easter Tuesday
 DESCRIPTION:Tuesday of Hevoro week · Easter Tuesday\n1 Corinthians 5:6
  –8 · Mark 4:21–25\nChrist our paschal lamb has been sacrificed\; le
  t us keep the feast with sincerity and truth.\n\nपढ़ें और 
@@ -3750,17 +3513,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Tuesday of Hevoro week · Easter Tue
- sday
+DESCRIPTION:कल का वचन: Easter Tuesday
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-SUMMARY:Wednesday of Hevoro week · Easter Wednesday
+SUMMARY:Easter Wednesday
 DESCRIPTION:Wednesday of Hevoro week · Easter Wednesday\n1 Timothy 1:18
  –20 · Mark 10:17–27\nPaul charges Timothy: fight the good fight wit
  h faith and a good conscience.\n\nपढ़ें और प्रार
@@ -3770,14 +3532,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=smk&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Wednesday of Hevoro week · Easter W
- ednesday
+DESCRIPTION:कल का वचन: Easter Wednesday
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:New Sunday · The Lord Appears to Thomas
@@ -3798,7 +3559,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-11-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Second Sunday after Qyomtho
@@ -3818,7 +3579,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-18-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Third Sunday after Qyomtho · The Road to Emmaus
@@ -3839,7 +3600,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-25-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:Fourth Sunday after Qyomtho
@@ -3859,7 +3620,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-02-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Fifth Sunday after Qyomtho
@@ -3879,7 +3640,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-06-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:Suloko · The Ascension of our Lord
@@ -3899,7 +3660,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-09-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Sixth Sunday after Qyomtho
@@ -3919,7 +3680,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-16-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:The Sunday of Pentecost
@@ -3939,7 +3700,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-23-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:First Sunday after Pentecost
@@ -3959,7 +3720,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-30-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:Second Sunday after Pentecost
@@ -3979,7 +3740,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-06-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:Third Sunday after Pentecost
@@ -3999,7 +3760,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-13-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
 SUMMARY:Fourth Sunday after Pentecost
@@ -4019,7 +3780,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-20-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 SUMMARY:Fifth Sunday after Pentecost
@@ -4039,7 +3800,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-27-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:Sixth Sunday after Pentecost
@@ -4059,7 +3820,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-29-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:Sts Peter and Paul\, Apostles
@@ -4079,7 +3840,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-03-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
 SUMMARY:Dukrono of St Thomas the Apostle
@@ -4099,7 +3860,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-04-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
 SUMMARY:Seventh Sunday after Pentecost
@@ -4119,7 +3880,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-11-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
 SUMMARY:Eighth Sunday after Pentecost
@@ -4139,7 +3900,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-15-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
 SUMMARY:Commemoration of Archbishop Mar Ivanios
@@ -4160,7 +3921,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-18-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
 SUMMARY:Ninth Sunday after Pentecost
@@ -4180,7 +3941,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-25-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
 SUMMARY:Tenth Sunday after Pentecost
@@ -4200,7 +3961,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-01-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:Eleventh Sunday after Pentecost · Sunday School Day
@@ -4221,7 +3982,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-06-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
 SUMMARY:The Transfiguration of Our Lord
@@ -4241,7 +4002,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-08-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
 SUMMARY:First Sunday after the Transfiguration
@@ -4262,7 +4023,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-15-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:Shunoyo: the Assumption of Mary\, Mother of God
@@ -4284,7 +4045,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-22-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:Third Sunday after the Transfiguration
@@ -4305,7 +4066,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-29-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 SUMMARY:Fourth Sunday after the Transfiguration
@@ -4327,7 +4088,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-05-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:Fifth Sunday after the Transfiguration
@@ -4348,7 +4109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-08-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
 SUMMARY:Nativity of Mary\, Mother of God
@@ -4368,7 +4129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-14-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
 SUMMARY:Exaltation of the Holy Cross (Sleebo)
@@ -4389,7 +4150,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-19-smk-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:First Sunday after Sleebo

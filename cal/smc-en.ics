@@ -5,11 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Daily Word · Syro-Malabar
 X-WR-TIMEZONE:Asia/Kolkata
+X-APPLE-CALENDAR-COLOR:#7E2635
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:2026-11-01-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:First Sunday of the Dedication of the Church (Qudash Edtha)
@@ -29,11 +30,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:First Monday of the Dedication of the Church · Commemoration of 
- the Dead
+SUMMARY:Commemoration of the Dead
 DESCRIPTION:First Monday of the Dedication of the Church · Commemoration
   of the Dead\nEzekiel 37:1–14 · 2 Maccabees 12:38–45 · 1 Corinthia
  ns 15:51–58 · John 11:17–27\nWe pray for the dead because we believ
@@ -43,17 +43,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-02&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Monday of the Dedication of the Church
-  · Commemoration of the Dead
+DESCRIPTION:Tomorrow's Word: Commemoration of the Dead
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:First Tuesday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:First Tuesday of the Dedication of the Church\n2 Corinthians 
  5:1–5 · Luke 15:11–24\nOur body is a tent\; our home is with God.\n
  \nRead and pray: https://daily-word-reflections.github.io/?d=2026-11-03&
@@ -62,17 +61,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Tuesday of the Dedication of the Churc
- h
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:First Wednesday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:First Wednesday of the Dedication of the Church\n1 Peter 5:1
  –4 · John 21:15–19\nAuthority in the Church is born of love.\n\nRea
  d and pray: https://daily-word-reflections.github.io/?d=2026-11-04&r=smc
@@ -81,18 +79,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Wednesday of the Dedication of the Chu
- rch
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:First Thursday of the Dedication of the Church · Sts Zechariah a
- nd Elizabeth
+SUMMARY:Sts Zechariah and Elizabeth
 DESCRIPTION:First Thursday of the Dedication of the Church · Sts Zechari
  ah and Elizabeth\nEphesians 3:1–6 · Matthew 8:5–13\nA Gentile's hum
  ble faith astonished Jesus.\n\nRead and pray: https://daily-word-reflect
@@ -101,17 +97,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Thursday of the Dedication of the Chur
- ch · Sts Zechariah and Elizabeth
+DESCRIPTION:Tomorrow's Word: Sts Zechariah and Elizabeth
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:First Friday of the Dedication of the Church · First Friday
+SUMMARY:First Friday
 DESCRIPTION:First Friday of the Dedication of the Church · First Friday\
  nEphesians 6:1–9 · Matthew 21:28–32\nRepentance that acts is better
   than empty promises.\n\nRead and pray: https://daily-word-reflections.g
@@ -120,17 +115,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Friday of the Dedication of the Church
-  · First Friday
+DESCRIPTION:Tomorrow's Word: First Friday
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:First Saturday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:First Saturday of the Dedication of the Church\nRomans 12:9
  –18 · Luke 10:25–37\nThe question is not “Who is my neighbour?”
   but “Will I be one?”\n\nRead and pray: https://daily-word-reflectio
@@ -139,14 +133,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Saturday of the Dedication of the Chur
- ch
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Second Sunday of the Dedication of the Church
@@ -165,10 +158,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:Second Monday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Second Monday of the Dedication of the Church\nColossians 1:1
  2–20 · Matthew 16:13–20\nChrist is the head of the Church\; in him 
  all things hold together.\n\nRead and pray: https://daily-word-reflectio
@@ -177,17 +170,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Monday of the Dedication of the Churc
- h
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:Second Tuesday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Second Tuesday of the Dedication of the Church\n2 Peter 1:12
  –21 · Luke 9:28–36\nOur faith rests on apostolic eyewitnesses.\n\nR
  ead and pray: https://daily-word-reflections.github.io/?d=2026-11-10&r=s
@@ -196,17 +188,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Tuesday of the Dedication of the Chur
- ch
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:Second Wednesday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Second Wednesday of the Dedication of the Church\nRevelation 
  19:1–10 · Matthew 22:1–14\nSalvation history ends in a wedding: Chr
  ist and the Church.\n\nRead and pray: https://daily-word-reflections.git
@@ -215,17 +206,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Wednesday of the Dedication of the Ch
- urch
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Second Thursday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Second Thursday of the Dedication of the Church\n2 Corinthian
  s 11:1–4 · John 3:22–30\nThe Church is betrothed to Christ alone.\n
  \nRead and pray: https://daily-word-reflections.github.io/?d=2026-11-12&
@@ -234,17 +224,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Thursday of the Dedication of the Chu
- rch
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:Second Friday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Second Friday of the Dedication of the Church\n2 Corinthians 
  12:1–5 · John 3:31–36\nHeavenly vision leads to humility.\n\nRead a
  nd pray: https://daily-word-reflections.github.io/?d=2026-11-13&r=smc&l=
@@ -253,17 +242,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Friday of the Dedication of the Churc
- h
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Second Saturday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Second Saturday of the Dedication of the Church\nRevelation 2
  2:1–5 · Matthew 19:13–14\nHeaven is Eden restored: the river and th
  e tree of life.\n\nRead and pray: https://daily-word-reflections.github.
@@ -272,14 +260,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Saturday of the Dedication of the Chu
- rch
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Third Sunday of the Dedication of the Church
@@ -297,10 +284,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:Third Monday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Third Monday of the Dedication of the Church\n1 Corinthians 1
  3:1–10 · Mark 12:28–34\nLove of God and neighbour are one commandme
  nt of love.\n\nRead and pray: https://daily-word-reflections.github.io/?
@@ -309,16 +296,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Monday of the Dedication of the Church
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Third Tuesday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Third Tuesday of the Dedication of the Church\n1 Corinthians 
  4:1–5 · Luke 16:1–13\nWe are stewards\, not owners.\n\nRead and pra
  y: https://daily-word-reflections.github.io/?d=2026-11-17&r=smc&l=en
@@ -326,17 +313,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Tuesday of the Dedication of the Churc
- h
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:Third Wednesday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Third Wednesday of the Dedication of the Church\n1 Corinthian
  s 6:1–11 · Luke 16:13–17\nBaptism really changes us: washed\, sanct
  ified\, justified.\n\nRead and pray: https://daily-word-reflections.gith
@@ -345,17 +331,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Wednesday of the Dedication of the Chu
- rch
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Third Thursday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Third Thursday of the Dedication of the Church\nColossians 1:
  3–11 · Matthew 13:10–23\nThe Gospel is bearing fruit in the whole w
  orld.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2026
@@ -364,17 +349,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Thursday of the Dedication of the Chur
- ch
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Third Friday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Third Friday of the Dedication of the Church\nHebrews 12:4–
  13 · John 15:1–8\nThe Lord disciplines those he loves.\n\nRead and pr
  ay: https://daily-word-reflections.github.io/?d=2026-11-20&r=smc&l=en
@@ -382,13 +366,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Friday of the Dedication of the Church
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Entrance of St Thomas the Apostle into India · Presentation of t
@@ -409,7 +393,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Fourth Sunday of the Dedication of the Church · Feast of Christ 
@@ -430,10 +414,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:Fourth Monday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Fourth Monday of the Dedication of the Church\nEphesians 2:14
  –22 · John 14:1–14\nThe Father's house has room for us.\n\nRead and
   pray: https://daily-word-reflections.github.io/?d=2026-11-23&r=smc&l=en
@@ -441,17 +425,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Monday of the Dedication of the Churc
- h
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:Fourth Tuesday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Fourth Tuesday of the Dedication of the Church\n1 Peter 2:1
  –10 · John 10:7–16\nBaptism makes us God's own people.\n\nRead and 
  pray: https://daily-word-reflections.github.io/?d=2026-11-24&r=smc&l=en
@@ -459,17 +442,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Tuesday of the Dedication of the Chur
- ch
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:Fourth Wednesday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Fourth Wednesday of the Dedication of the Church\nEphesians 1
  :3–12 · Luke 1:46–55\nGod chose us in Christ before the world began
  .\n\nRead and pray: https://daily-word-reflections.github.io/?d=2026-11-
@@ -478,17 +460,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Wednesday of the Dedication of the Ch
- urch
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Fourth Thursday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Fourth Thursday of the Dedication of the Church\nHebrews 13:9
  –16 · Luke 10:17–21\nHere we have no lasting city.\n\nRead and pray
  : https://daily-word-reflections.github.io/?d=2026-11-26&r=smc&l=en
@@ -496,17 +477,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Thursday of the Dedication of the Chu
- rch
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:Fourth Friday of the Dedication of the Church
+SUMMARY:Dedication of the Church (Qudash Edtha)
 DESCRIPTION:Fourth Friday of the Dedication of the Church\nRevelation 7:9
  –12 · Mark 12:18–27\nGod is God of the living.\n\nRead and pray: ht
  tps://daily-word-reflections.github.io/?d=2026-11-27&r=smc&l=en
@@ -514,18 +494,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Friday of the Dedication of the Churc
- h
+DESCRIPTION:Tomorrow's Word: Dedication of the Church (Qudash Edtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:Fourth Saturday of the Dedication of the Church · St Andrew the 
- Apostle (anticipated)
+SUMMARY:St Andrew the Apostle (anticipated)
 DESCRIPTION:Fourth Saturday of the Dedication of the Church · St Andrew 
  the Apostle (anticipated)\nGenesis 28:10–17 · Zechariah 8:20–23 · 
  Romans 10:9–18 · Matthew 4:18–22\nThe heavenly city's temple is God
@@ -535,14 +513,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Saturday of the Dedication of the Chu
- rch · St Andrew the Apostle (anticipated)
+DESCRIPTION:Tomorrow's Word: St Andrew the Apostle (anticipated)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:First Sunday of Annunciation (Suvara) · New Liturgical Year
@@ -562,10 +539,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:First Monday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:First Monday of Annunciation\nGalatians 3:9–14 · Luke 9:37
  –43a\nThose who believe share Abraham's blessing.\n\nRead and pray: ht
  tps://daily-word-reflections.github.io/?d=2026-11-30&r=smc&l=en
@@ -573,16 +550,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Monday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:First Tuesday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:First Tuesday of Annunciation\nRomans 13:8–14 · Luke 1:18
  –20\nNow is the moment to wake from sleep.\n\nRead and pray: https://d
  aily-word-reflections.github.io/?d=2026-12-01&r=smc&l=en
@@ -590,16 +567,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Tuesday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:First Wednesday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:First Wednesday of Annunciation\n1 Corinthians 1:4–9 · Joh
  n 8:26–30\nGod is faithful.\n\nRead and pray: https://daily-word-refle
  ctions.github.io/?d=2026-12-02&r=smc&l=en
@@ -607,16 +584,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Wednesday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:First Thursday of Annunciation · St Francis Xavier
+SUMMARY:St Francis Xavier
 DESCRIPTION:First Thursday of Annunciation · St Francis Xavier\nDeuteron
  omy 26:16–19 · Isaiah 45:20–24 · 2 Corinthians 6:3–10 · Mark 6:
  7–13\nSt Francis Xavier carried the Gospel along India's southern coas
@@ -626,17 +603,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Thursday of Annunciation · St Francis
-  Xavier
+DESCRIPTION:Tomorrow's Word: St Francis Xavier
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:First Friday of Annunciation · First Friday
+SUMMARY:First Friday
 DESCRIPTION:First Friday of Annunciation · First Friday\nColossians 3:1
  –10 · Matthew 13:12–17\nSeek the things that are above.\n\nRead and
   pray: https://daily-word-reflections.github.io/?d=2026-12-04&r=smc&l=en
@@ -644,16 +620,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Friday of Annunciation · First Friday
+DESCRIPTION:Tomorrow's Word: First Friday
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:First Saturday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:First Saturday of Annunciation\nGalatians 3:1–9 · Luke 9:5
  7–62\nWe receive the Spirit by faith.\n\nRead and pray: https://daily-
  word-reflections.github.io/?d=2026-12-05&r=smc&l=en
@@ -661,13 +637,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Saturday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Second Sunday of Annunciation
@@ -685,10 +661,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:Second Monday of Annunciation · St Ambrose
+SUMMARY:St Ambrose
 DESCRIPTION:Second Monday of Annunciation · St Ambrose\nEphesians 4:13
  –16 · John 14:11–14\nFaith must grow to maturity in Christ.\n\nRead
   and pray: https://daily-word-reflections.github.io/?d=2026-12-07&r=smc&
@@ -697,17 +673,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Monday of Annunciation · St Ambrose
+DESCRIPTION:Tomorrow's Word: St Ambrose
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:Second Tuesday of Annunciation · Immaculate Conception of the Bl
- essed Virgin Mary
+SUMMARY:Immaculate Conception of the Blessed Virgin Mary
 DESCRIPTION:Second Tuesday of Annunciation · Immaculate Conception of th
  e Blessed Virgin Mary\nSirach 24:1–14 · Isaiah 7:10–16 · Hebrews 1
  :1–3\; 2:16–18 · Luke 1:46–55\nMary was preserved from original s
@@ -717,17 +692,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-08&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Tuesday of Annunciation · Immaculate
-  Conception of the Blessed Virgin Mary
+DESCRIPTION:Tomorrow's Word: Immaculate Conception of the Blessed Virgin 
+ Mary
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Second Wednesday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:Second Wednesday of Annunciation\nEphesians 1:3–12 · Luke 
  1:34–38\nGod chose us in Christ before the world began.\n\nRead and pr
  ay: https://daily-word-reflections.github.io/?d=2026-12-09&r=smc&l=en
@@ -735,16 +710,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Wednesday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:Second Thursday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:Second Thursday of Annunciation\nRomans 12:9–18 · Luke 1:3
  9–45\nMary went with haste to serve.\n\nRead and pray: https://daily-w
  ord-reflections.github.io/?d=2026-12-10&r=smc&l=en
@@ -752,16 +727,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Thursday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:Second Friday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:Second Friday of Annunciation\n2 Corinthians 8:11–15 · Luk
  e 1:46–56\nMary's song reverses the world's values.\n\nRead and pray: 
  https://daily-word-reflections.github.io/?d=2026-12-11&r=smc&l=en
@@ -769,16 +744,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Friday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:Second Saturday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:Second Saturday of Annunciation\nHebrews 3:12–19 · Luke 11
  :33–36\nToday\, if you hear his voice\, do not harden your heart.\n\nR
  ead and pray: https://daily-word-reflections.github.io/?d=2026-12-12&r=s
@@ -787,13 +762,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Saturday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Third Sunday of Annunciation
@@ -811,10 +786,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:Third Monday of Annunciation · St John of the Cross
+SUMMARY:St John of the Cross
 DESCRIPTION:Third Monday of Annunciation · St John of the Cross\n1 Corin
  thians 5:1–8 · Luke 6:43–45\nClean out the old yeast.\n\nRead and p
  ray: https://daily-word-reflections.github.io/?d=2026-12-14&r=smc&l=en
@@ -822,17 +797,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Monday of Annunciation · St John of t
- he Cross
+DESCRIPTION:Tomorrow's Word: St John of the Cross
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Third Tuesday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:Third Tuesday of Annunciation\nEphesians 2:1–10 · Matthew 
  3:1–6\nWe are saved by grace through faith.\n\nRead and pray: https://
  daily-word-reflections.github.io/?d=2026-12-15&r=smc&l=en
@@ -840,16 +814,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Tuesday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Third Wednesday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:Third Wednesday of Annunciation\n1 Thessalonians 2:13–17 ·
   Luke 16:10–13\nGod's word works in those who believe.\n\nRead and pra
  y: https://daily-word-reflections.github.io/?d=2026-12-16&r=smc&l=en
@@ -857,16 +831,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Wednesday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:Third Thursday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:Third Thursday of Annunciation\nGalatians 3:26–29 · Luke 1
  :67–79\nGod has visited and redeemed his people.\n\nRead and pray: htt
  ps://daily-word-reflections.github.io/?d=2026-12-17&r=smc&l=en
@@ -874,16 +848,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Thursday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:Third Friday of Annunciation · The Miraculous Cross at Mylapore
+SUMMARY:The Miraculous Cross at Mylapore
 DESCRIPTION:Third Friday of Annunciation · The Miraculous Cross at Mylap
  ore\nExodus 17:4–6 · Acts 2:29–36 · Ephesians 2:14–22 · John 14
  :1–6\nThe ancient Mylapore cross witnesses to the antiquity of our fai
@@ -893,17 +867,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Friday of Annunciation · The Miraculo
- us Cross at Mylapore
+DESCRIPTION:Tomorrow's Word: The Miraculous Cross at Mylapore
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:Third Saturday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:Third Saturday of Annunciation\nGalatians 1:11–17 · John 3
  :31–36\nGod calls us before we are born.\n\nRead and pray: https://dai
  ly-word-reflections.github.io/?d=2026-12-19&r=smc&l=en
@@ -911,13 +884,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Saturday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Fourth Sunday of Annunciation
@@ -935,10 +908,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-SUMMARY:Fourth Monday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:Fourth Monday of Annunciation\nEphesians 6:18–20 · John 1:
  1–5\nThe child of Bethlehem is the eternal Word.\n\nRead and pray: htt
  ps://daily-word-reflections.github.io/?d=2026-12-21&r=smc&l=en
@@ -946,16 +919,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Monday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:Fourth Tuesday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:Fourth Tuesday of Annunciation\nGalatians 4:1–7 · John 1:6
  –13\nIn the fullness of time God sent his Son\, born of a woman.\n\nRe
  ad and pray: https://daily-word-reflections.github.io/?d=2026-12-22&r=sm
@@ -964,16 +937,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Tuesday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-SUMMARY:Fourth Wednesday of Annunciation
+SUMMARY:Annunciation (Suvara)
 DESCRIPTION:Fourth Wednesday of Annunciation\n\nIsaiah's names for the Ch
  ild meet our deepest needs.\n\nRead and pray: https://daily-word-reflect
  ions.github.io/?d=2026-12-23&r=smc&l=en
@@ -981,16 +954,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Wednesday of Annunciation
+DESCRIPTION:Tomorrow's Word: Annunciation (Suvara)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-SUMMARY:Fourth Thursday of Annunciation · Christmas Eve
+SUMMARY:Christmas Eve
 DESCRIPTION:Fourth Thursday of Annunciation · Christmas Eve\n\nGod choos
  es the small: little Bethlehem.\n\nRead and pray: https://daily-word-ref
  lections.github.io/?d=2026-12-24&r=smc&l=en
@@ -998,14 +971,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Thursday of Annunciation · Christmas
-  Eve
+DESCRIPTION:Tomorrow's Word: Christmas Eve
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Christmas – The Nativity of Our Lord (Yalda)
@@ -1025,10 +997,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-SUMMARY:First Saturday of Nativity · St Stephen\, Protomartyr
+SUMMARY:St Stephen\, Protomartyr
 DESCRIPTION:First Saturday of Nativity · St Stephen\, Protomartyr\nActs 
  6:8–10\; 7:54–60 · Matthew 10:16–22\nChrist was born on earth so 
  that Stephen could be born into heaven.\n\nRead and pray: https://daily-
@@ -1037,14 +1009,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-26&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Saturday of Nativity · St Stephen\, P
- rotomartyr
+DESCRIPTION:Tomorrow's Word: St Stephen\, Protomartyr
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:First Sunday of Nativity · Feast of the Holy Family
@@ -1064,11 +1035,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-SUMMARY:First Monday of Nativity · Holy Childhood Day (The Holy Innocent
- s)
+SUMMARY:Holy Childhood Day (The Holy Innocents)
 DESCRIPTION:First Monday of Nativity · Holy Childhood Day (The Holy Inno
  cents)\nGenesis 4:3–8 · Jeremiah 31:15–17 · Hebrews 11:32–38 · 
  Matthew 2:13–18\nThe joy of Christmas is followed by the tears of Beth
@@ -1078,17 +1048,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Monday of Nativity · Holy Childhood D
- ay (The Holy Innocents)
+DESCRIPTION:Tomorrow's Word: Holy Childhood Day (The Holy Innocents)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:First Tuesday of Nativity
+SUMMARY:Nativity (Yalda)
 DESCRIPTION:First Tuesday of Nativity\nGalatians 6:1–10 · Luke 2:41–
  52\nJesus knew his Father's house from boyhood.\n\nRead and pray: https:
  //daily-word-reflections.github.io/?d=2026-12-29&r=smc&l=en
@@ -1096,16 +1065,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-29&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Tuesday of Nativity
+DESCRIPTION:Tomorrow's Word: Nativity (Yalda)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:First Wednesday of Nativity
+SUMMARY:Nativity (Yalda)
 DESCRIPTION:First Wednesday of Nativity\n2 Corinthians 12:6–10 · John 
  6:16–24\nGod's power is made perfect in weakness.\n\nRead and pray: ht
  tps://daily-word-reflections.github.io/?d=2026-12-30&r=smc&l=en
@@ -1113,16 +1082,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-30&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Wednesday of Nativity
+DESCRIPTION:Tomorrow's Word: Nativity (Yalda)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:First Thursday of Nativity · End of the Year
+SUMMARY:End of the Year
 DESCRIPTION:First Thursday of Nativity · End of the Year\nLeviticus 6:1
  –7 · Wisdom 5:7–10\, 14–16 · 1 Timothy 6:6–12 · Luke 13:6–9
  \nThank God for the year's blessings.\n\nRead and pray: https://daily-wo
@@ -1131,14 +1100,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Thursday of Nativity · End of the Yea
- r
+DESCRIPTION:Tomorrow's Word: End of the Year
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:The Holy Name of Jesus (Circumcision of our Lord) · New Year's D
@@ -1159,10 +1127,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-SUMMARY:First Saturday of Nativity
+SUMMARY:Nativity (Yalda)
 DESCRIPTION:First Saturday of Nativity\n1 Corinthians 2:11–15 · Luke 1
  2:35–40\nOnly the Spirit of God knows the depths of God\, and he teach
  es us to discern.\n\nRead and pray: https://daily-word-reflections.githu
@@ -1171,13 +1139,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Saturday of Nativity
+DESCRIPTION:Tomorrow's Word: Nativity (Yalda)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:First Sunday of Denha (Sunday before Denha)
@@ -1195,10 +1163,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-SUMMARY:First Monday of Denha
+SUMMARY:Nativity (Yalda)
 DESCRIPTION:First Monday of Denha\n1 John 5:1–5 · John 5:19–23\nWhoe
  ver believes that Jesus is the Christ is born of God.\n\nRead and pray: 
  https://daily-word-reflections.github.io/?d=2027-01-04&r=smc&l=en
@@ -1206,16 +1174,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Monday of Denha
+DESCRIPTION:Tomorrow's Word: Nativity (Yalda)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-SUMMARY:First Tuesday of Denha · Eve of Denha
+SUMMARY:Eve of Denha
 DESCRIPTION:First Tuesday of Denha · Eve of Denha\nTitus 3:8–11 · Luk
  e 13:23–30\nThose who believe must devote themselves to good works.\n\
  nRead and pray: https://daily-word-reflections.github.io/?d=2027-01-05&r
@@ -1224,13 +1192,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Tuesday of Denha · Eve of Denha
+DESCRIPTION:Tomorrow's Word: Eve of Denha
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Denha · The Epiphany and Baptism of our Lord
@@ -1249,10 +1217,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:First Thursday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:First Thursday of Denha\n1 Corinthians 2:6–10 · Luke 7:11
  –17\nGod's wisdom is hidden from the proud and revealed by the Spirit.
  \n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-01-0
@@ -1261,16 +1229,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Thursday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-SUMMARY:First Friday of Denha · Commemoration of St John the Baptist
+SUMMARY:Commemoration of St John the Baptist
 DESCRIPTION:First Friday of Denha · Commemoration of St John the Baptist
  \nIsaiah 40:1–8 · Acts 13:16–26 · Ephesians 2:19–3:7 · Mark 6:1
  4–29\nJohn was the voice that prepared the way of the Lord.\n\nRead an
@@ -1280,17 +1248,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Friday of Denha · Commemoration of St
-  John the Baptist
+DESCRIPTION:Tomorrow's Word: Commemoration of St John the Baptist
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:First Saturday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:First Saturday of Denha\nRomans 9:30–33 · John 10:31–39\
  nRighteousness comes through faith\, not as a wage for our works.\n\nRea
  d and pray: https://daily-word-reflections.github.io/?d=2027-01-09&r=smc
@@ -1299,13 +1266,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Saturday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Second Sunday of Denha
@@ -1323,10 +1290,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:Second Monday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:Second Monday of Denha\n1 Corinthians 11:17–22 · John 17:2
  0–26\nJesus prays that all who believe may be one.\n\nRead and pray: h
  ttps://daily-word-reflections.github.io/?d=2027-01-11&r=smc&l=en
@@ -1334,16 +1301,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Monday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:Second Tuesday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:Second Tuesday of Denha\n1 Corinthians 12:12–18 · John 15:
  1–10\nWe are one body in Christ\, and every member is needed.\n\nRead 
  and pray: https://daily-word-reflections.github.io/?d=2027-01-12&r=smc&l
@@ -1352,16 +1319,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Tuesday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:Second Wednesday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:Second Wednesday of Denha\nEphesians 2:11–19 · John 21:15
  –19\nOnce far off\, we have been brought near by the blood of Christ.\
  n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-01-13
@@ -1370,16 +1337,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Wednesday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:Second Thursday of Denha · St Devasahayam
+SUMMARY:St Devasahayam
 DESCRIPTION:Second Thursday of Denha · St Devasahayam\n1 Peter 5:5–9 
  · Mark 4:35–41\nJesus commands the storm: Peace! Be still!\n\nRead an
  d pray: https://daily-word-reflections.github.io/?d=2027-01-14&r=smc&l=e
@@ -1388,17 +1355,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Thursday of Denha · St Devasahayam
+DESCRIPTION:Tomorrow's Word: St Devasahayam
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:Second Friday of Denha · Commemoration of Sts Peter and Paul\, t
- he Apostles
+SUMMARY:Commemoration of Sts Peter and Paul\, the Apostles
 DESCRIPTION:Second Friday of Denha · Commemoration of Sts Peter and Paul
  \, the Apostles\n2 Kings 4:32–37 · Acts 9:36–42 · 2 Corinthians 11
  :21b–31 · Matthew 16:13–19\nPeter confesses Jesus as the Messiah\, 
@@ -1408,17 +1374,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Friday of Denha · Commemoration of S
- ts Peter and Paul\, the Apostles
+DESCRIPTION:Tomorrow's Word: Commemoration of Sts Peter and Paul\, the Ap
+ ostles
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:Second Saturday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:Second Saturday of Denha\nRomans 10:10–20 · Mark 1:21–28
  \nJesus teaches with authority\, and evil obeys him.\n\nRead and pray: h
  ttps://daily-word-reflections.github.io/?d=2027-01-16&r=smc&l=en
@@ -1426,13 +1392,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Saturday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Third Sunday of Denha
@@ -1450,10 +1416,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-SUMMARY:Third Monday of Denha · First Day of the Three Days' Fast
+SUMMARY:First Day of the Three Days' Fast
 DESCRIPTION:Third Monday of Denha · First Day of the Three Days' Fast\nI
  saiah 64:1–9 · Habakkuk 3:13–19a · 1 Timothy 2:1–7 · Matthew 18
  :23–35\nWe are the clay\; God is our Father and potter.\n\nRead and pr
@@ -1462,17 +1428,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Monday of Denha · First Day of the Th
- ree Days' Fast
+DESCRIPTION:Tomorrow's Word: First Day of the Three Days' Fast
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:Third Tuesday of Denha · Second Day of the Three Days' Fast
+SUMMARY:Second Day of the Three Days' Fast
 DESCRIPTION:Third Tuesday of Denha · Second Day of the Three Days' Fast\
  n1 Samuel 7:3–9 · Isaiah 59:1–8 · Romans 12:1–8 · Luke 18:9–1
  4\nReturn to God with all your heart and put away idols.\n\nRead and pra
@@ -1481,18 +1446,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Tuesday of Denha · Second Day of the 
- Three Days' Fast
+DESCRIPTION:Tomorrow's Word: Second Day of the Three Days' Fast
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:Third Wednesday of Denha · Third Day of the Three Days' Fast · 
- St Sebastian
+SUMMARY:Third Day of the Three Days' Fast · St Sebastian
 DESCRIPTION:Third Wednesday of Denha · Third Day of the Three Days' Fast
   · St Sebastian\nJoel 2:15–19 · Jonah 3:1–10 · Romans 9:19–29 
  · Matthew 6:1–4\nNineveh believed God\, fasted and turned\; God relen
@@ -1502,17 +1465,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Wednesday of Denha · Third Day of the
-  Three Days' Fast · St Sebastian
+DESCRIPTION:Tomorrow's Word: Third Day of the Three Days' Fast · St Seba
+ stian
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-SUMMARY:Third Thursday of Denha · Thursday after the Three Days' Fast
+SUMMARY:Thursday after the Three Days' Fast
 DESCRIPTION:Third Thursday of Denha · Thursday after the Three Days' Fas
  t\nEzekiel 33:10–16 · Micah 7:8–9\, 18–20 · 3 John 1–8 · Luke
   15:1–10\nGod has no pleasure in the death of the wicked.\n\nRead and 
@@ -1521,17 +1484,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Thursday of Denha · Thursday after th
- e Three Days' Fast
+DESCRIPTION:Tomorrow's Word: Thursday after the Three Days' Fast
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:Third Friday of Denha · Commemoration of the Evangelists
+SUMMARY:Commemoration of the Evangelists
 DESCRIPTION:Third Friday of Denha · Commemoration of the Evangelists\n1 
  Kings 18:30–39 · Acts 5:12–16 · 1 Corinthians 4:9–16 · Matthew 
  10:1–15\nOn Carmel God showed that he alone is God.\n\nRead and pray: 
@@ -1540,17 +1502,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Friday of Denha · Commemoration of th
- e Evangelists
+DESCRIPTION:Tomorrow's Word: Commemoration of the Evangelists
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:Third Saturday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:Third Saturday of Denha\nPhilippians 1:27–30 · Matthew 15:
  21–28\nLive in a manner worthy of the gospel of Christ.\n\nRead and pr
  ay: https://daily-word-reflections.github.io/?d=2027-01-23&r=smc&l=en
@@ -1558,13 +1519,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Saturday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Fourth Sunday of Denha
@@ -1583,10 +1544,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-SUMMARY:Fourth Monday of Denha · Conversion of Saint Paul
+SUMMARY:Conversion of Saint Paul
 DESCRIPTION:Fourth Monday of Denha · Conversion of Saint Paul\nExodus 3:
  1–14 · Acts 9:1–22 · 1 Corinthians 15:1–10 · Matthew 20:1–16\
  nGod called Moses and Saul by name.\n\nRead and pray: https://daily-word
@@ -1595,17 +1556,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Monday of Denha · Conversion of Sain
- t Paul
+DESCRIPTION:Tomorrow's Word: Conversion of Saint Paul
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-SUMMARY:Fourth Tuesday of Denha · Republic Day of India
+SUMMARY:Republic Day of India
 DESCRIPTION:Fourth Tuesday of Denha · Republic Day of India\nHebrews 4:1
  –7 · Luke 4:22–30\nGod's rest is still open\; today\, do not harden
   your hearts.\n\nRead and pray: https://daily-word-reflections.github.io
@@ -1614,17 +1574,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Tuesday of Denha · Republic Day of I
- ndia
+DESCRIPTION:Tomorrow's Word: Republic Day of India
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:Fourth Wednesday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:Fourth Wednesday of Denha\nGalatians 1:6–10 · John 10:1–
  6\nThere is no other gospel than the Gospel of Christ.\n\nRead and pray:
   https://daily-word-reflections.github.io/?d=2027-01-27&r=smc&l=en
@@ -1632,16 +1591,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Wednesday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-SUMMARY:Fourth Thursday of Denha · St Thomas Aquinas
+SUMMARY:St Thomas Aquinas
 DESCRIPTION:Fourth Thursday of Denha · St Thomas Aquinas\n2 Corinthians 
  5:11–14 · John 1:35–42\nThe love of Christ urges us on: one has die
  d for all.\n\nRead and pray: https://daily-word-reflections.github.io/?d
@@ -1650,18 +1609,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Thursday of Denha · St Thomas Aquina
- s
+DESCRIPTION:Tomorrow's Word: St Thomas Aquinas
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:Fourth Friday of Denha · Commemoration of St Stephen\, Protomart
- yr
+SUMMARY:Commemoration of St Stephen\, Protomartyr
 DESCRIPTION:Fourth Friday of Denha · Commemoration of St Stephen\, Proto
  martyr\n1 Kings 21:1–21 · Acts 7:54–60 · 2 Corinthians 4:8–18 ·
   Matthew 23:34–39\nNaboth was falsely accused and stoned for keeping h
@@ -1671,17 +1628,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Friday of Denha · Commemoration of S
- t Stephen\, Protomartyr
+DESCRIPTION:Tomorrow's Word: Commemoration of St Stephen\, Protomartyr
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:Fourth Saturday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:Fourth Saturday of Denha\n1 John 5:13–21 · John 8:39–47\
  nWe can know that we have eternal life and pray with confidence.\n\nRead
   and pray: https://daily-word-reflections.github.io/?d=2027-01-30&r=smc&
@@ -1690,13 +1646,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Saturday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Fifth Sunday of Denha
@@ -1714,10 +1670,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:Fifth Monday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:Fifth Monday of Denha\n2 Thessalonians 3:1–5 · Matthew 9:1
  8–26\nThe Lord is faithful even when not all have faith.\n\nRead and p
  ray: https://daily-word-reflections.github.io/?d=2027-02-01&r=smc&l=en
@@ -1725,17 +1681,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Monday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-SUMMARY:Fifth Tuesday of Denha · Mayaltho: The Presentation of the Lord 
- in the Temple
+SUMMARY:Mayaltho: The Presentation of the Lord in the Temple
 DESCRIPTION:Fifth Tuesday of Denha · Mayaltho: The Presentation of the L
  ord in the Temple\nLeviticus 12:1–8 · Isaiah 42:1–7 · Romans 9:30
  –10:4 · Luke 2:22–38\nForty days after his birth\, Jesus was presen
@@ -1745,17 +1700,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-02&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Tuesday of Denha · Mayaltho: The Pres
- entation of the Lord in the Temple
+DESCRIPTION:Tomorrow's Word: Mayaltho: The Presentation of the Lord in th
+ e Temple
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:Fifth Wednesday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:Fifth Wednesday of Denha\n2 Timothy 4:1–6 · John 4:27–38
  \nPaul: proclaim the message\, whether the time is favourable or unfavou
  rable.\n\nRead and pray: https://daily-word-reflections.github.io/?d=202
@@ -1764,16 +1719,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Wednesday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:Fifth Thursday of Denha · St John de Britto
+SUMMARY:St John de Britto
 DESCRIPTION:Fifth Thursday of Denha · St John de Britto\n2 Peter 3:14–
  18 · Luke 6:37–42\nPeter: regard the patience of our Lord as salvatio
  n.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-02
@@ -1782,17 +1737,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Thursday of Denha · St John de Britto
+DESCRIPTION:Tomorrow's Word: St John de Britto
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-SUMMARY:Fifth Friday of Denha · Commemoration of All the Faithful Depart
- ed
+SUMMARY:Commemoration of All the Faithful Departed
 DESCRIPTION:Fifth Friday of Denha · Commemoration of All the Faithful De
  parted\nEzekiel 37:1–14 · Sirach 44:1–15 · 1 Corinthians 15:39–4
  9 · Matthew 25:31–40\nEzekiel saw dry bones rise to life when God's b
@@ -1802,17 +1756,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Friday of Denha · Commemoration of Al
- l the Faithful Departed
+DESCRIPTION:Tomorrow's Word: Commemoration of All the Faithful Departed
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:Fifth Saturday of Denha
+SUMMARY:Epiphany (Denha)
 DESCRIPTION:Fifth Saturday of Denha\nRevelation 3:14–22 · Matthew 15:2
  9–31\nThe Laodiceans were lukewarm and said: we need nothing.\n\nRead 
  and pray: https://daily-word-reflections.github.io/?d=2027-02-06&r=smc&l
@@ -1821,13 +1774,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Saturday of Denha
+DESCRIPTION:Tomorrow's Word: Epiphany (Denha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:First Sunday of the Great Fast
@@ -1845,10 +1798,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-SUMMARY:First Monday of the Great Fast · Vibhoodi (Ash Monday)
+SUMMARY:Vibhoodi (Ash Monday)
 DESCRIPTION:First Monday of the Great Fast · Vibhoodi (Ash Monday)\nGene
  sis 1:1–19 · Joshua 1:1–15 · Romans 1:16–25 · Matthew 5:17–26
  \nThe Great Fast begins: we are dust\, and God is our life.\n\nRead and 
@@ -1857,17 +1810,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Monday of the Great Fast · Vibhoodi (
- Ash Monday)
+DESCRIPTION:Tomorrow's Word: Vibhoodi (Ash Monday)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:First Tuesday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:First Tuesday of the Great Fast\nGenesis 1:20–2:7 · Joshua
   1:16–18 · Romans 2:1–6 · Matthew 5:38–42\nGod made us from dust
   and breathed his life into us.\n\nRead and pray: https://daily-word-ref
@@ -1876,16 +1828,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Tuesday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:First Wednesday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:First Wednesday of the Great Fast\nGenesis 2:18–25 · Joshu
  a 2:8–24 · Romans 2:12–24 · Matthew 6:5–8\nIt is not good to be 
  alone: we keep the fast as families.\n\nRead and pray: https://daily-wor
@@ -1894,16 +1846,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Wednesday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:First Thursday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:First Thursday of the Great Fast\nGenesis 3:1–13 · Joshua 
  3:1–13 · Romans 3:9–20 · Matthew 6:25–34\nSin began with suspici
  on\; God still asks: where are you?\n\nRead and pray: https://daily-word
@@ -1912,16 +1864,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Thursday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:First Friday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:First Friday of the Great Fast\nGenesis 4:1–16 · Joshua 3:
  14–4:9 · Romans 4:13–25 · Matthew 7:1–6\nGod asks: where is your
   brother? We are our brothers' keepers.\n\nRead and pray: https://daily-
@@ -1930,16 +1882,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Friday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:First Saturday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:First Saturday of the Great Fast\nRomans 3:21–26 · Matthew
   6:9–15\nAll have sinned\; we are justified by grace as a gift.\n\nRea
  d and pray: https://daily-word-reflections.github.io/?d=2027-02-13&r=smc
@@ -1948,13 +1900,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Saturday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Second Sunday of the Great Fast
@@ -1972,10 +1924,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-SUMMARY:Second Monday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Second Monday of the Great Fast\nTitus 3:1–7 · Mark 7:14
  –23\nWe fast from clean food so that the heart may become clean.\n\nRe
  ad and pray: https://daily-word-reflections.github.io/?d=2027-02-15&r=sm
@@ -1984,16 +1936,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Monday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:Second Tuesday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Second Tuesday of the Great Fast\nRomans 8:18–25 · Matthew
   7:7–12\nCreation groans like a mother in labour\; glory is coming.\n\
  nRead and pray: https://daily-word-reflections.github.io/?d=2027-02-16&r
@@ -2002,16 +1954,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Tuesday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:Second Wednesday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Second Wednesday of the Great Fast\nRomans 6:15–23 · Matth
  ew 9:1–8\nJesus saw the faith of those who carried the paralysed man.\
  n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-02-17
@@ -2020,16 +1972,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Wednesday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:Second Thursday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Second Thursday of the Great Fast\nRomans 3:1–8 · Matthew 
  5:33–37\nOur faithlessness does not cancel God's faithfulness.\n\nRead
   and pray: https://daily-word-reflections.github.io/?d=2027-02-18&r=smc&
@@ -2038,16 +1990,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Thursday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:Second Friday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Second Friday of the Great Fast\nGenesis 6:5–12 · Joshua 5
  :1–12 · Romans 7:7–12 · Mark 11:27–33\nSin grieves the heart of 
  God\; the Cross shows how deeply.\n\nRead and pray: https://daily-word-r
@@ -2056,16 +2008,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Friday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:Second Saturday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Second Saturday of the Great Fast\n1 Corinthians 5:9–13 · 
  Matthew 11:16–19\nSome would neither dance nor mourn: the problem was 
  the heart\, not the music.\n\nRead and pray: https://daily-word-reflecti
@@ -2074,13 +2026,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Second Saturday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Third Sunday of the Great Fast
@@ -2098,10 +2050,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
-SUMMARY:Third Monday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Third Monday of the Great Fast\nRomans 7:1–6 · Mark 12:28
  –34\nPaul: we serve in the new life of the Spirit\, not under the old 
  written code.\n\nRead and pray: https://daily-word-reflections.github.io
@@ -2110,16 +2062,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-22&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Monday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:Third Tuesday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Third Tuesday of the Great Fast\n1 Corinthians 10:1–13 · L
  uke 21:29–36\nIsrael's story in the desert was written down to instruc
  t us.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027
@@ -2128,16 +2080,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Tuesday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:Third Wednesday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Third Wednesday of the Great Fast\n1 Peter 3:8–12 · Matthe
  w 5:43–48\nPeter: do not repay evil for evil\, but repay with a blessi
  ng.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-0
@@ -2146,16 +2098,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Wednesday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:Third Thursday of the Great Fast · Blessed Rani Maria
+SUMMARY:Blessed Rani Maria
 DESCRIPTION:Third Thursday of the Great Fast · Blessed Rani Maria\nEphes
  ians 6:1–9 · Mark 12:35–40\nPaul: serve as to the Lord\, for we all
   have one Master in heaven.\n\nRead and pray: https://daily-word-reflect
@@ -2164,17 +2116,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Thursday of the Great Fast · Blessed 
- Rani Maria
+DESCRIPTION:Tomorrow's Word: Blessed Rani Maria
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:Third Friday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Third Friday of the Great Fast\nGenesis 9:8–17 · Joshua 6:
  8–27 · Romans 8:1–6 · Mark 12:18–27\nGod hangs his bow in the cl
  ouds and promises to remember his covenant.\n\nRead and pray: https://da
@@ -2183,16 +2134,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Friday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:Third Saturday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Third Saturday of the Great Fast\nEphesians 4:25–32 · Matt
  hew 21:28–32\nPaul: do not let the sun go down on your anger.\n\nRead 
  and pray: https://daily-word-reflections.github.io/?d=2027-02-27&r=smc&l
@@ -2201,13 +2152,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Third Saturday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Fourth Sunday of the Great Fast
@@ -2226,10 +2177,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-01-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:Fourth Monday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Fourth Monday of the Great Fast\nGenesis 12:1–9 · Joshua 7
  :16–26 · Romans 9:1–13 · John 5:1–18\nAbram went as the Lord tol
  d him\, and built an altar wherever he camped.\n\nRead and pray: https:/
@@ -2238,16 +2189,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Monday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:Fourth Tuesday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Fourth Tuesday of the Great Fast\nGenesis 12:9–20 · Joshua
   8:1–9 · Romans 9:14–18 · John 5:19–23\nAbram\, afraid in Egypt\
  , lied about Sarai\; God protected her and kept his promise.\n\nRead and
@@ -2256,16 +2207,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Tuesday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
-SUMMARY:Fourth Wednesday of the Great Fast · Mid-Lent
+SUMMARY:Mid-Lent
 DESCRIPTION:Fourth Wednesday of the Great Fast · Mid-Lent\nGenesis 13:8
  –18 · Joshua 8:18–29 · Romans 10:1–13 · John 6:60–69\nMid-Len
  t: the fast reaches its midpoint\; look back and begin again.\n\nRead an
@@ -2275,17 +2226,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Wednesday of the Great Fast · Mid-Le
- nt
+DESCRIPTION:Tomorrow's Word: Mid-Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:Fourth Thursday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Fourth Thursday of the Great Fast\nGenesis 14:8–16 · Joshu
  a 8:30–35 · Romans 11:1–10 · John 7:1–13\nAbram went after Lot\,
   who had chosen Sodom\, and brought him home.\n\nRead and pray: https://
@@ -2294,16 +2244,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Thursday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-SUMMARY:Fourth Friday of the Great Fast · First Friday
+SUMMARY:First Friday
 DESCRIPTION:Fourth Friday of the Great Fast · First Friday\nGenesis 15:1
  –15 · Joshua 9:1–15 · Romans 11:25–36 · John 7:25–31\nAbram b
  elieved when nothing had changed\, and God passed alone between the piec
@@ -2313,17 +2263,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Friday of the Great Fast · First Fri
- day
+DESCRIPTION:Tomorrow's Word: First Friday
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:Fourth Saturday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Fourth Saturday of the Great Fast\nRomans 13:1–7 · John 7:
  45–53\nPaul: authority comes from God and is meant to serve the good\;
   pay taxes\, give respect\, obey with conscience.\n\nRead and pray: http
@@ -2332,13 +2281,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fourth Saturday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Fifth Sunday of the Great Fast
@@ -2357,10 +2306,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:Fifth Monday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Fifth Monday of the Great Fast\nColossians 2:16–19 · Luke 
  18:18–25\nPaul: food rules and feast days are a shadow\; the substance
   belongs to Christ.\n\nRead and pray: https://daily-word-reflections.git
@@ -2369,16 +2318,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Monday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:Fifth Tuesday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Fifth Tuesday of the Great Fast\n2 Corinthians 9:10–15 · L
  uke 10:33–37\nPaul: God gives seed to the sower\; generous giving prod
  uces thanksgiving and communion.\n\nRead and pray: https://daily-word-re
@@ -2387,16 +2336,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Tuesday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-10-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:Fifth Wednesday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Fifth Wednesday of the Great Fast\nJude 8–13 · John 8:1–
  11\nJude: even Michael left judgment to God\; a life without fruit is a 
  waterless cloud.\n\nRead and pray: https://daily-word-reflections.github
@@ -2405,16 +2354,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Wednesday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:Fifth Thursday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Fifth Thursday of the Great Fast\n1 Timothy 4:6–10 · Luke 
  18:31–34\nPaul: train yourself in godliness\; it holds promise for thi
  s life and the next.\n\nRead and pray: https://daily-word-reflections.gi
@@ -2423,16 +2372,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Thursday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-SUMMARY:Fifth Friday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Fifth Friday of the Great Fast\nGenesis 18:1–14 · Joshua 1
  4:5–12 · Romans 13:8–14 · John 8:49–59\nAbraham runs to welcome 
  three strangers and receives God's promise: nothing is too wonderful for
@@ -2442,16 +2391,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Friday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-SUMMARY:Fifth Saturday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Fifth Saturday of the Great Fast\n1 Corinthians 13:1–13 · 
  Mark 10:1–12\nPaul: without love every gift is nothing\; love is patie
  nt\, kind\, and never ends.\n\nRead and pray: https://daily-word-reflect
@@ -2460,13 +2409,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fifth Saturday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Sixth Sunday of the Great Fast
@@ -2485,10 +2434,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-SUMMARY:Sixth Monday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Sixth Monday of the Great Fast\n1 Thessalonians 3:6–13 · J
  ohn 12:44–50\nPaul lives because his people stand firm in the Lord.\n\
  nRead and pray: https://daily-word-reflections.github.io/?d=2027-03-15&r
@@ -2497,16 +2446,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Sixth Monday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:Sixth Tuesday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Sixth Tuesday of the Great Fast\n2 Peter 2:4–10 · Luke 13:
  31–35\nThe Lord knows how to rescue the godly\, as he rescued Noah and
   Lot.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027
@@ -2515,16 +2464,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Sixth Tuesday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:Sixth Wednesday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Sixth Wednesday of the Great Fast\n1 John 2:7–11 · Matthew
   18:15–20\nThe commandment of love is old as creation and new in Chris
  t.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-03
@@ -2533,16 +2482,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Sixth Wednesday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:Sixth Thursday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Sixth Thursday of the Great Fast\n2 Peter 2:11–17 · Luke 3
  :8–11\nFalse teachers are waterless springs: they promise and do not g
  ive.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-
@@ -2551,17 +2500,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Sixth Thursday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-SUMMARY:Fortieth Friday of the Great Fast · St Joseph\, Spouse of the Bl
- essed Virgin Mary
+SUMMARY:St Joseph\, Spouse of the Blessed Virgin Mary
 DESCRIPTION:Fortieth Friday of the Great Fast · St Joseph\, Spouse of th
  e Blessed Virgin Mary\nGenesis 19:27–30 · Joshua 22:10–20 · Romans
   15:7–13 · John 11:38–45\nForty days complete: God remembered Abrah
@@ -2571,17 +2519,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Fortieth Friday of the Great Fast · St Jose
- ph\, Spouse of the Blessed Virgin Mary
+DESCRIPTION:Tomorrow's Word: St Joseph\, Spouse of the Blessed Virgin Mar
+ y
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:Sixth Saturday of the Great Fast
+SUMMARY:The Great Fast (Sauma Ramba\, Valiya Nombu)
 DESCRIPTION:Sixth Saturday of the Great Fast\nActs 20:22–38 · John 12:
  1–8\nPaul goes to Jerusalem as a captive to the Spirit\, counting his 
  life of no value.\n\nRead and pray: https://daily-word-reflections.githu
@@ -2590,13 +2538,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Sixth Saturday of the Great Fast
+DESCRIPTION:Tomorrow's Word: The Great Fast (Sauma Ramba\, Valiya Nombu)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Hosanna Sunday · Seventh Sunday of the Great Fast
@@ -2616,10 +2564,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-SUMMARY:Seventh Monday of the Great Fast · Monday of Hasha Week
+SUMMARY:Monday of Hasha Week
 DESCRIPTION:Seventh Monday of the Great Fast · Monday of Hasha Week\nGen
  esis 37:5–13\, 18–22 · Joshua 22:21–29 · Hebrews 1:5–14 · Joh
  n 11:47–57\nJoseph\, the beloved son\, is sent by his father to his br
@@ -2629,17 +2577,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Seventh Monday of the Great Fast · Monday o
- f Hasha Week
+DESCRIPTION:Tomorrow's Word: Monday of Hasha Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-23-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:Seventh Tuesday of the Great Fast · Tuesday of Hasha Week
+SUMMARY:Tuesday of Hasha Week
 DESCRIPTION:Seventh Tuesday of the Great Fast · Tuesday of Hasha Week\nG
  enesis 37:23–36 · Joshua 22:30–23:1 · Hebrews 5:1–10 · John 12:
  20–26\nJoseph is stripped\, thrown into a dry pit and sold for twenty 
@@ -2649,17 +2596,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Seventh Tuesday of the Great Fast · Tuesday
-  of Hasha Week
+DESCRIPTION:Tomorrow's Word: Tuesday of Hasha Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:Seventh Wednesday of the Great Fast · Wednesday of Hasha Week
+SUMMARY:Wednesday of Hasha Week
 DESCRIPTION:Seventh Wednesday of the Great Fast · Wednesday of Hasha Wee
  k\nGenesis 40:1–23 · Joshua 23:1–11 · Hebrews 9:15–28 · John 12
  :27–33\nIn prison Joseph interprets the dreams of the cupbearer and th
@@ -2669,17 +2615,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Seventh Wednesday of the Great Fast · Wedne
- sday of Hasha Week
+DESCRIPTION:Tomorrow's Word: Wednesday of Hasha Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-SUMMARY:Pesaha Thursday · Holy Qurbana of the Lord's Supper
+SUMMARY:Holy Qurbana of the Lord's Supper
 DESCRIPTION:Pesaha Thursday · Holy Qurbana of the Lord's Supper\nExodus 
  12:1–20 · Malachi 1:10–14 · 1 Corinthians 11:23–29 · John 13:1
  –14\; Matthew 26:26–30\nThe Passover lamb\, whose blood saved Israel
@@ -2689,17 +2634,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Pesaha Thursday · Holy Qurbana of the Lord'
- s Supper
+DESCRIPTION:Tomorrow's Word: Holy Qurbana of the Lord's Supper
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-SUMMARY:Passion Friday (Good Friday)
+SUMMARY:Hasha
 DESCRIPTION:Passion Friday (Good Friday)\nGenesis 22:1–19 · Isaiah 52:
  13–53:9 · Romans 5:6–16 · Luke 22:63–23:12\; Matthew 27:19\; Luk
  e 23:13–23\; Matthew 27:24–25\; Luke 23:24–45\; Matthew 27:51–54
@@ -2710,16 +2654,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Passion Friday (Good Friday)
+DESCRIPTION:Tomorrow's Word: Hasha
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-SUMMARY:Great Saturday
+SUMMARY:Hasha
 DESCRIPTION:Great Saturday\nGenesis 22:1–19 · Jonah 2:1–10 · Romans
   6:3–11 · Matthew 28:1–20\nThe Lord rests in the tomb and goes down
   among the dead to set them free.\n\nRead and pray: https://daily-word-r
@@ -2728,13 +2672,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Great Saturday
+DESCRIPTION:Tomorrow's Word: Hasha
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Easter Sunday: the Resurrection of our Lord (Uyirppu)
@@ -2754,10 +2698,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:First Monday of Resurrection
+SUMMARY:Resurrection (Qyamtha)
 DESCRIPTION:First Monday of Resurrection\nIsaiah 60:15–22 · Acts 2:29
  –36 · Romans 4:1–8 · John 14:18–28\nIsaiah: the LORD will be you
  r everlasting light\; your days of mourning are ended.\n\nRead and pray:
@@ -2766,16 +2710,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Monday of Resurrection
+DESCRIPTION:Tomorrow's Word: Resurrection (Qyamtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:First Tuesday of Resurrection
+SUMMARY:Resurrection (Qyamtha)
 DESCRIPTION:First Tuesday of Resurrection\nIsaiah 61:1–9 · Acts 2:37
  –47 · 1 Corinthians 15:12–19 · Luke 24:13–27\nIsaiah: a garland 
  instead of ashes\, the oil of gladness instead of mourning.\n\nRead and 
@@ -2784,16 +2728,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Tuesday of Resurrection
+DESCRIPTION:Tomorrow's Word: Resurrection (Qyamtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-smc-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-SUMMARY:First Wednesday of Resurrection
+SUMMARY:Resurrection (Qyamtha)
 DESCRIPTION:First Wednesday of Resurrection\nIsaiah 61:10–62:5 · Acts 
  4:23–31 · Ephesians 4:1–6 · John 15:1–10\nIsaiah: you shall no m
  ore be called Forsaken but My Delight\; as a bridegroom rejoices\, so Go
@@ -2803,7 +2747,7 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=smc&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: First Wednesday of Resurrection
+DESCRIPTION:Tomorrow's Word: Resurrection (Qyamtha)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT

@@ -5,11 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Daily Word · Latin
 X-WR-TIMEZONE:Asia/Kolkata
+X-APPLE-CALENDAR-COLOR:#2D6A4E
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:2026-11-01-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:All Saints · Solemnity
@@ -27,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:The Commemoration of All the Faithful Departed (All Souls)
@@ -46,10 +47,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:Tuesday of the Thirty-first Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Tuesday of the Thirty-first Week in Ordinary Time\nPhilippian
  s 2:5–11 · Psalm 22:26b–27\, 28–30ab\, 30e–32 · Luke 14:15–2
  4\nChrist emptied himself\; God exalted him.\n\nRead and pray: https://d
@@ -58,18 +59,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the Thirty-first Week in Ordinary
-  Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:Wednesday of the Thirty-first Week in Ordinary Time · St Charles
-  Borromeo\, Bishop
+SUMMARY:St Charles Borromeo\, Bishop
 DESCRIPTION:Wednesday of the Thirty-first Week in Ordinary Time · St Cha
  rles Borromeo\, Bishop\nPhilippians 2:12–18 · Psalm 27:1\, 4\, 13–1
  4 · Luke 14:25–33\nDiscipleship costs everything and gives everything
@@ -79,17 +78,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Thirty-first Week in Ordina
- ry Time · St Charles Borromeo\, Bishop
+DESCRIPTION:Tomorrow's Word: St Charles Borromeo\, Bishop
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Thursday of the Thirty-first Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Thursday of the Thirty-first Week in Ordinary Time\nPhilippia
  ns 3:3–8a · Psalm 105:2–3\, 4–5\, 6–7 · Luke 15:1–10\nGod se
  arches for the lost until he finds them.\n\nRead and pray: https://daily
@@ -98,17 +96,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the Thirty-first Week in Ordinar
- y Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Friday of the Thirty-first Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Friday of the Thirty-first Week in Ordinary Time\nPhilippians
   3:17–4:1 · Psalm 122:1–2\, 3–4b\, 4cd–5 · Luke 16:1–8\nWe a
  re stewards who will give an account.\n\nRead and pray: https://daily-wo
@@ -117,17 +114,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the Thirty-first Week in Ordinary 
- Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:Saturday of the Thirty-first Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Saturday of the Thirty-first Week in Ordinary Time\nPhilippia
  ns 4:10–19 · Psalm 112:1b–2\, 5–6\, 8a and 9 · Luke 16:9–15\nF
  aithfulness in small things reveals the heart.\n\nRead and pray: https:/
@@ -136,14 +132,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the Thirty-first Week in Ordinar
- y Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Thirty-second Sunday in Ordinary Time
@@ -161,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:The Dedication of the Lateran Basilica · Feast
@@ -181,11 +176,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:Tuesday of the Thirty-second Week in Ordinary Time · St Leo the 
- Great\, Pope and Doctor
+SUMMARY:St Leo the Great\, Pope and Doctor
 DESCRIPTION:Tuesday of the Thirty-second Week in Ordinary Time · St Leo 
  the Great\, Pope and Doctor\nTitus 2:1–8\, 11–14 · Psalm 37:3–4\,
   18 and 23\, 27 and 29 · Luke 17:7–10\nWe cannot put God in our debt.
@@ -195,18 +189,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the Thirty-second Week in Ordinar
- y Time · St Leo the Great\, Pope and Doctor
+DESCRIPTION:Tomorrow's Word: St Leo the Great\, Pope and Doctor
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:Wednesday of the Thirty-second Week in Ordinary Time · St Martin
-  of Tours\, Bishop
+SUMMARY:St Martin of Tours\, Bishop
 DESCRIPTION:Wednesday of the Thirty-second Week in Ordinary Time · St Ma
  rtin of Tours\, Bishop\nTitus 3:1–7 · Psalm 23:1b–3a\, 3bc–4\, 5\
  , 6 · Luke 17:11–19\nTen were healed\; one turned back and was saved.
@@ -216,18 +208,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Thirty-second Week in Ordin
- ary Time · St Martin of Tours\, Bishop
+DESCRIPTION:Tomorrow's Word: St Martin of Tours\, Bishop
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Thursday of the Thirty-second Week in Ordinary Time · St Josapha
- t\, Bishop and Martyr
+SUMMARY:St Josaphat\, Bishop and Martyr
 DESCRIPTION:Thursday of the Thirty-second Week in Ordinary Time · St Jos
  aphat\, Bishop and Martyr\nPhilemon 7–20 · Psalm 146:7\, 8–9a\, 9bc
  –10 · Luke 17:20–25\nThe Kingdom is already among us in Christ.\n\n
@@ -237,17 +227,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the Thirty-second Week in Ordina
- ry Time · St Josaphat\, Bishop and Martyr
+DESCRIPTION:Tomorrow's Word: St Josaphat\, Bishop and Martyr
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:Friday of the Thirty-second Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Friday of the Thirty-second Week in Ordinary Time\n2 John 4
  –9 · Psalm 119:1\, 2\, 10\, 11\, 17\, 18 · Luke 17:26–37\nOrdinary
   life without God is the real danger.\n\nRead and pray: https://daily-wo
@@ -256,17 +245,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the Thirty-second Week in Ordinary
-  Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Saturday of the Thirty-second Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Saturday of the Thirty-second Week in Ordinary Time\n3 John 5
  –8 · Psalm 112:1–2\, 3–4\, 5–6 · Luke 18:1–8\nPray always an
  d do not lose heart.\n\nRead and pray: https://daily-word-reflections.gi
@@ -275,14 +263,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the Thirty-second Week in Ordina
- ry Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Thirty-third Sunday in Ordinary Time · World Day of the Poor
@@ -302,10 +289,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:Monday of the Thirty-third Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Monday of the Thirty-third Week in Ordinary Time\nRevelation 
  1:1–4\; 2:1–5 · Psalm 1:1–2\, 3\, 4 and 6 · Luke 18:35–43\nA b
  usy church can lose its first love.\n\nRead and pray: https://daily-word
@@ -314,18 +301,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the Thirty-third Week in Ordinary 
- Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Tuesday of the Thirty-third Week in Ordinary Time · St Elizabeth
-  of Hungary\, Religious
+SUMMARY:St Elizabeth of Hungary\, Religious
 DESCRIPTION:Tuesday of the Thirty-third Week in Ordinary Time · St Eliza
  beth of Hungary\, Religious\nRevelation 3:1–6\, 14–22 · Psalm 15:2
  –3a\, 3bc–4ab\, 5 · Luke 19:1–10\nChrist knocks\; he does not bre
@@ -335,17 +320,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the Thirty-third Week in Ordinary
-  Time · St Elizabeth of Hungary\, Religious
+DESCRIPTION:Tomorrow's Word: St Elizabeth of Hungary\, Religious
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:Wednesday of the Thirty-third Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Wednesday of the Thirty-third Week in Ordinary Time\nRevelati
  on 4:1–11 · Psalm 150:1b–2\, 3–4\, 5–6 · Luke 19:11–28\nHeav
  en's worship never ceases\; every Mass joins it.\n\nRead and pray: https
@@ -354,17 +338,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Thirty-third Week in Ordina
- ry Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Thursday of the Thirty-third Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Thursday of the Thirty-third Week in Ordinary Time\nRevelatio
  n 5:1–10 · Psalm 149:1b–2\, 3–4\, 5–6a and 9b · Luke 19:41–4
  4\nThe Lion of Judah is a slaughtered Lamb.\n\nRead and pray: https://da
@@ -373,17 +356,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the Thirty-third Week in Ordinar
- y Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Friday of the Thirty-third Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Friday of the Thirty-third Week in Ordinary Time\nRevelation 
  10:8–11 · Psalm 119:14\, 24\, 72\, 103\, 111\, 131 · Luke 19:45–48
  \nGod's word must be digested before it is proclaimed.\n\nRead and pray:
@@ -392,18 +374,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the Thirty-third Week in Ordinary 
- Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Saturday of the Thirty-third Week in Ordinary Time · The Present
- ation of the Blessed Virgin Mary
+SUMMARY:The Presentation of the Blessed Virgin Mary
 DESCRIPTION:Saturday of the Thirty-third Week in Ordinary Time · The Pre
  sentation of the Blessed Virgin Mary\nRevelation 11:4–12 · Psalm 144:
  1\, 2\, 9–10 · Luke 20:27–40\nGod is God of the living\; to him all
@@ -413,14 +393,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the Thirty-third Week in Ordinar
- y Time · The Presentation of the Blessed Virgin Mary
+DESCRIPTION:Tomorrow's Word: The Presentation of the Blessed Virgin Mary
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Our Lord Jesus Christ\, King of the Universe · Solemnity
@@ -440,10 +419,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:Monday of the Thirty-fourth Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Monday of the Thirty-fourth Week in Ordinary Time\nRevelation
   14:1–3\, 4b–5 · Psalm 24:1b–2\, 3–4ab\, 5–6 · Luke 21:1–4
  \nGod measures gifts by love\, not amount.\n\nRead and pray: https://dai
@@ -452,18 +431,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the Thirty-fourth Week in Ordinary
-  Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:Tuesday of the Thirty-fourth Week in Ordinary Time · Sts Andrew 
- Dung-Lac and Companions\, Martyrs
+SUMMARY:Sts Andrew Dung-Lac and Companions\, Martyrs
 DESCRIPTION:Tuesday of the Thirty-fourth Week in Ordinary Time · Sts And
  rew Dung-Lac and Companions\, Martyrs\nRevelation 14:14–19 · Psalm 96
  :10\, 11–12\, 13 · Luke 21:5–11\nEven the Temple's stones will fall
@@ -473,17 +450,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the Thirty-fourth Week in Ordinar
- y Time · Sts Andrew Dung-Lac and Companions\, Martyrs
+DESCRIPTION:Tomorrow's Word: Sts Andrew Dung-Lac and Companions\, Martyrs
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:Wednesday of the Thirty-fourth Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Wednesday of the Thirty-fourth Week in Ordinary Time\nRevelat
  ion 15:1–4 · Psalm 98:1\, 2–3ab\, 7–8\, 9 · Luke 21:12–19\nPer
  secution becomes an opportunity to testify.\n\nRead and pray: https://da
@@ -492,17 +468,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Thirty-fourth Week in Ordin
- ary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Thursday of the Thirty-fourth Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Thursday of the Thirty-fourth Week in Ordinary Time\nRevelati
  on 18:1–2\, 21–23\; 19:1–3\, 9a · Psalm 100:1b–2\, 3\, 4\, 5 ·
   Luke 21:20–28\nWhat makes others faint makes disciples look up.\n\nRe
@@ -512,17 +487,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the Thirty-fourth Week in Ordina
- ry Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:Friday of the Thirty-fourth Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Friday of the Thirty-fourth Week in Ordinary Time\nRevelation
   20:1–4\, 11–21:2 · Psalm 84:3\, 4\, 5–6a and 8a · Luke 21:29–
  33\nChrist's words outlast heaven and earth.\n\nRead and pray: https://d
@@ -531,17 +505,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the Thirty-fourth Week in Ordinary
-  Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:Saturday of the Thirty-fourth Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Saturday of the Thirty-fourth Week in Ordinary Time\nRevelati
  on 22:1–7 · Psalm 95:1–2\, 3–5\, 6–7ab · Luke 21:34–36\nThe 
  Bible ends where it began: with the tree of life.\n\nRead and pray: http
@@ -550,14 +523,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the Thirty-fourth Week in Ordina
- ry Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:First Sunday of Advent
@@ -576,7 +548,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Saint Andrew\, Apostle · Feast
@@ -594,10 +566,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:Tuesday of the First Week of Advent
+SUMMARY:Advent
 DESCRIPTION:Tuesday of the First Week of Advent\nIsaiah 11:1–10 · Psal
  m 72:1–2\, 7–8\, 12–13\, 17 · Luke 10:21–24\nGod brings new lif
  e from a cut-down stump.\n\nRead and pray: https://daily-word-reflection
@@ -606,16 +578,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the First Week of Advent
+DESCRIPTION:Tomorrow's Word: Advent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:Wednesday of the First Week of Advent
+SUMMARY:Advent
 DESCRIPTION:Wednesday of the First Week of Advent\nIsaiah 25:6–10a · P
  salm 23:1–3a\, 3b–4\, 5\, 6 · Matthew 15:29–37\nGod promises a fe
  ast and the end of death.\n\nRead and pray: https://daily-word-reflectio
@@ -624,17 +596,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the First Week of Advent
+DESCRIPTION:Tomorrow's Word: Advent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:Thursday of the First Week of Advent · St Francis Xavier\, Pries
- t
+SUMMARY:St Francis Xavier\, Priest
 DESCRIPTION:Thursday of the First Week of Advent · St Francis Xavier\, P
  riest\nIsaiah 26:1–6 · Psalm 118:1 and 8–9\, 19–21\, 25–27a · 
  Matthew 7:21\, 24–27\nSaying “Lord\, Lord” is not enough\; we must
@@ -644,17 +615,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the First Week of Advent · St F
- rancis Xavier\, Priest
+DESCRIPTION:Tomorrow's Word: St Francis Xavier\, Priest
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:Friday of the First Week of Advent
+SUMMARY:Advent
 DESCRIPTION:Friday of the First Week of Advent\nIsaiah 29:17–24 · Psal
  m 27:1\, 4\, 13–14 · Matthew 9:27–31\nGod promises that the blind w
  ill see.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2
@@ -663,16 +633,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the First Week of Advent
+DESCRIPTION:Tomorrow's Word: Advent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:Saturday of the First Week of Advent
+SUMMARY:Advent
 DESCRIPTION:Saturday of the First Week of Advent\nIsaiah 30:19–21\, 23
  –26 · Psalm 147:1–2\, 3–4\, 5–6 · Matthew 9:35–10:1\, 5a\, 6
  –8\nGod waits to be gracious and hears our cry.\n\nRead and pray: http
@@ -681,13 +651,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the First Week of Advent
+DESCRIPTION:Tomorrow's Word: Advent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Second Sunday of Advent
@@ -705,11 +675,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:Monday of the Second Week of Advent · St Ambrose\, Bishop and Do
- ctor
+SUMMARY:St Ambrose\, Bishop and Doctor
 DESCRIPTION:Monday of the Second Week of Advent · St Ambrose\, Bishop an
  d Doctor\nIsaiah 35:1–10 · Psalm 85:9ab and 10\, 11–12\, 13–14 ·
   Luke 5:17–26\nGod makes the desert bloom.\n\nRead and pray: https://d
@@ -718,14 +687,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the Second Week of Advent · St Am
- brose\, Bishop and Doctor
+DESCRIPTION:Tomorrow's Word: St Ambrose\, Bishop and Doctor
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:The Immaculate Conception of the Blessed Virgin Mary · Solemnity
@@ -745,10 +713,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Wednesday of the Second Week of Advent
+SUMMARY:Advent
 DESCRIPTION:Wednesday of the Second Week of Advent\nIsaiah 40:25–31 · 
  Psalm 103:1–2\, 3–4\, 8 and 10 · Matthew 11:28–30\nGod never grow
  s weary.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2
@@ -757,16 +725,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Second Week of Advent
+DESCRIPTION:Tomorrow's Word: Advent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:Thursday of the Second Week of Advent
+SUMMARY:Advent
 DESCRIPTION:Thursday of the Second Week of Advent\nIsaiah 41:13–20 · P
  salm 145:1 and 9\, 10–11\, 12–13ab · Matthew 11:11–15\nGod holds 
  our right hand.\n\nRead and pray: https://daily-word-reflections.github.
@@ -775,16 +743,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the Second Week of Advent
+DESCRIPTION:Tomorrow's Word: Advent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:Friday of the Second Week of Advent
+SUMMARY:Advent
 DESCRIPTION:Friday of the Second Week of Advent\nIsaiah 48:17–19 · Psa
  lm 1:1–2\, 3\, 4 and 6 · Matthew 11:16–19\nGod's commandments lead 
  to peace like a river.\n\nRead and pray: https://daily-word-reflections.
@@ -793,16 +761,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the Second Week of Advent
+DESCRIPTION:Tomorrow's Word: Advent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:Saturday of the Second Week of Advent · Our Lady of Guadalupe
+SUMMARY:Our Lady of Guadalupe
 DESCRIPTION:Saturday of the Second Week of Advent · Our Lady of Guadalup
  e\nSirach 48:1–4\, 9–11 · Psalm 80:2ac and 3b\, 15–16\, 18–19 
  · Matthew 17:9a\, 10–13\nElijah was a prophet like fire.\n\nRead and 
@@ -811,14 +779,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the Second Week of Advent · Our
-  Lady of Guadalupe
+DESCRIPTION:Tomorrow's Word: Our Lady of Guadalupe
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Third Sunday of Advent (Gaudete Sunday)
@@ -837,11 +804,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:Monday of the Third Week of Advent · St John of the Cross\, Prie
- st and Doctor
+SUMMARY:St John of the Cross\, Priest and Doctor
 DESCRIPTION:Monday of the Third Week of Advent · St John of the Cross\, 
  Priest and Doctor\nNumbers 24:2–7\, 15–17a · Psalm 25:4–5ab\, 6 a
  nd 7bc\, 8–9 · Matthew 21:23–27\nGod's star rises even through an u
@@ -851,17 +817,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the Third Week of Advent · St Joh
- n of the Cross\, Priest and Doctor
+DESCRIPTION:Tomorrow's Word: St John of the Cross\, Priest and Doctor
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Tuesday of the Third Week of Advent
+SUMMARY:Advent
 DESCRIPTION:Tuesday of the Third Week of Advent\nZephaniah 3:1–2\, 9–
  13 · Psalm 34:2–3\, 6–7\, 17–18\, 19 and 23 · Matthew 21:28–32
  \nGod's future belongs to the humble remnant.\n\nRead and pray: https://
@@ -870,16 +835,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the Third Week of Advent
+DESCRIPTION:Tomorrow's Word: Advent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Wednesday of the Third Week of Advent
+SUMMARY:Advent
 DESCRIPTION:Wednesday of the Third Week of Advent\nIsaiah 45:6b–8\, 18\
  , 21b–25 · Psalm 85:9ab and 10\, 11–12\, 13–14 · Luke 7:18b–23
  \nHeaven rains down the Just One\; earth brings forth the Saviour.\n\nRe
@@ -889,13 +854,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Third Week of Advent
+DESCRIPTION:Tomorrow's Word: Advent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:17 December · Advent Weekday (O Wisdom)
@@ -913,7 +878,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:18 December · Advent Weekday (O Adonai)
@@ -931,7 +896,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:19 December · Advent Weekday (O Root of Jesse)
@@ -950,7 +915,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Fourth Sunday of Advent
@@ -969,7 +934,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:21 December · Advent Weekday (O Dayspring)
@@ -988,7 +953,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:22 December · Advent Weekday (O King of Nations)
@@ -1007,7 +972,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:23 December · Advent Weekday (O Emmanuel)
@@ -1025,7 +990,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:24 December · Advent Weekday (Morning Mass)
@@ -1043,7 +1008,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:The Nativity of the Lord (Christmas) · Solemnity
@@ -1063,7 +1028,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:Saint Stephen\, the First Martyr · Feast
@@ -1082,7 +1047,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:The Holy Family of Jesus\, Mary and Joseph · Feast
@@ -1102,7 +1067,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:The Holy Innocents\, Martyrs · Feast
@@ -1120,7 +1085,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:29 December · Fifth Day within the Octave of Christmas
@@ -1139,7 +1104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:30 December · Sixth Day within the Octave of Christmas
@@ -1158,7 +1123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:31 December · Seventh Day within the Octave of Christmas
@@ -1177,7 +1142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Mary\, the Holy Mother of God · Solemnity · Octave Day of Chris
@@ -1198,7 +1163,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:2 January · Saints Basil the Great and Gregory Nazianzen\, Bisho
@@ -1219,7 +1184,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:The Epiphany of the Lord · Solemnity
@@ -1237,7 +1202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:4 January · Monday after the Epiphany
@@ -1255,7 +1220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:5 January · Tuesday after the Epiphany
@@ -1273,7 +1238,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:6 January · Wednesday after the Epiphany
@@ -1291,7 +1256,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:7 January · Thursday after the Epiphany
@@ -1309,7 +1274,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:8 January · Friday after the Epiphany
@@ -1327,7 +1292,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:9 January · Saturday after the Epiphany
@@ -1345,7 +1310,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:The Baptism of the Lord · Feast
@@ -1364,10 +1329,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:Monday of the First Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Monday of the First Week in Ordinary Time\nHebrews 1:1–6 ·
   Psalm 97:1 and 2b\, 6 and 7c\, 9 · Mark 1:14–20\nGod has spoken his 
  final Word in his Son.\n\nRead and pray: https://daily-word-reflections.
@@ -1376,16 +1341,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the First Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:Tuesday of the First Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Tuesday of the First Week in Ordinary Time\nHebrews 2:5–12 
  · Psalm 8:1\, 4\, 5–6\, 7–8 · Mark 1:21–28\nJesus teaches with h
  is own authority.\n\nRead and pray: https://daily-word-reflections.githu
@@ -1394,16 +1359,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the First Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:Wednesday of the First Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Wednesday of the First Week in Ordinary Time\nHebrews 2:14–
  18 · Psalm 105:1–2\, 3–4\, 6–7\, 8–9 · Mark 1:29–39\nJesus l
  ifts up the sick woman\, and she serves.\n\nRead and pray: https://daily
@@ -1412,16 +1377,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the First Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:Thursday of the First Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Thursday of the First Week in Ordinary Time\nHebrews 3:7–14
   · Psalm 95:6–7c\, 8–9\, 10–11 · Mark 1:40–45\nToday\, do not 
  harden your hearts.\n\nRead and pray: https://daily-word-reflections.git
@@ -1430,16 +1395,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the First Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:Friday of the First Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Friday of the First Week in Ordinary Time\nHebrews 4:1–5\, 
  11 · Psalm 78:3 and 4bc\, 6c–7\, 8 · Mark 2:1–12\nFour friends car
  ry the paralytic to Jesus.\n\nRead and pray: https://daily-word-reflecti
@@ -1448,16 +1413,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the First Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:Saturday of the First Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Saturday of the First Week in Ordinary Time\nHebrews 4:12–1
  6 · Psalm 19:7\, 8\, 9\, 14 · Mark 2:13–17\nGod's word is living and
   sees the heart.\n\nRead and pray: https://daily-word-reflections.github
@@ -1466,13 +1431,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the First Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Second Sunday in Ordinary Time
@@ -1490,10 +1455,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-SUMMARY:Monday of the Second Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Monday of the Second Week in Ordinary Time\nHebrews 5:1–10 
  · Psalm 110:1\, 2\, 3\, 4 · Mark 2:18–22\nChrist the High Priest lea
  rned obedience through suffering.\n\nRead and pray: https://daily-word-r
@@ -1502,16 +1467,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the Second Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:Tuesday of the Second Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Tuesday of the Second Week in Ordinary Time\nHebrews 6:10–2
  0 · Psalm 111:1–2\, 4–5\, 9 and 10c · Mark 2:23–28\nGod does not
   forget the love we show.\n\nRead and pray: https://daily-word-reflectio
@@ -1520,17 +1485,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the Second Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:Wednesday of the Second Week in Ordinary Time · Sts Fabian and S
- ebastian
+SUMMARY:Sts Fabian and Sebastian
 DESCRIPTION:Wednesday of the Second Week in Ordinary Time · Sts Fabian a
  nd Sebastian\nHebrews 7:1–3\, 15–17 · Psalm 110:1\, 2\, 3\, 4 · Ma
  rk 3:1–6\nChrist is a priest for ever\, like Melchizedek.\n\nRead and 
@@ -1539,14 +1503,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Second Week in Ordinary Tim
- e · Sts Fabian and Sebastian
+DESCRIPTION:Tomorrow's Word: Sts Fabian and Sebastian
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Saint Agnes\, Virgin and Martyr
@@ -1564,10 +1527,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:Friday of the Second Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Friday of the Second Week in Ordinary Time\nHebrews 8:6–13 
  · Psalm 85:7 and 9\, 10–11\, 12–13 · Mark 3:13–19\nIn the new co
  venant God writes his law on our hearts.\n\nRead and pray: https://daily
@@ -1576,16 +1539,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the Second Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:Saturday of the Second Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Saturday of the Second Week in Ordinary Time\nHebrews 9:2–3
  \, 11–14 · Psalm 47:1–2\, 5–6\, 7–8 · Mark 3:20–21\nChrist e
  ntered once for all with his own blood.\n\nRead and pray: https://daily-
@@ -1594,13 +1557,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the Second Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Third Sunday in Ordinary Time · Sunday of the Word of God
@@ -1620,7 +1583,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:The Conversion of Saint Paul\, Apostle
@@ -1638,7 +1601,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:Saints Timothy and Titus\, Bishops
@@ -1656,10 +1619,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:Wednesday of the Third Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Wednesday of the Third Week in Ordinary Time\nHebrews 10:11
  –18 · Psalm 110:1\, 2\, 3\, 4 · Mark 4:1–20\nChrist's single sacri
  fice perfects us for all time.\n\nRead and pray: https://daily-word-refl
@@ -1668,13 +1631,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Third Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Saint Thomas Aquinas\, Priest and Doctor of the Church
@@ -1693,10 +1656,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:Friday of the Third Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Friday of the Third Week in Ordinary Time\nHebrews 10:32–39
   · Psalm 37:3–4\, 5–6\, 23–24\, 39–40 · Mark 4:26–34\nDo not
   abandon your confidence\; you need endurance.\n\nRead and pray: https:/
@@ -1705,16 +1668,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the Third Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:Saturday of the Third Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Saturday of the Third Week in Ordinary Time\nHebrews 11:1–2
  \, 8–19 · Luke 1:69–70\, 71–72\, 73–75 · Mark 4:35–41\nFaith
   is the assurance of things hoped for.\n\nRead and pray: https://daily-w
@@ -1723,13 +1686,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the Third Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Fourth Sunday in Ordinary Time
@@ -1747,10 +1710,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:Monday of the Fourth Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Monday of the Fourth Week in Ordinary Time\nHebrews 11:32–4
  0 · Psalm 31:19\, 20\, 21\, 22\, 23 · Mark 5:1–20\nThe heroes of fai
  th suffered\, yet they believed.\n\nRead and pray: https://daily-word-re
@@ -1759,13 +1722,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the Fourth Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:The Presentation of the Lord
@@ -1783,11 +1746,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:Wednesday of the Fourth Week in Ordinary Time · St Blaise\; St A
- nsgar
+SUMMARY:St Blaise\; St Ansgar
 DESCRIPTION:Wednesday of the Fourth Week in Ordinary Time · St Blaise\; 
  St Ansgar\nHebrews 12:4–7\, 11–15 · Psalm 103:1–2\, 13–14\, 17
  –18a · Mark 6:1–6\nGod disciplines us as a Father\, for our holines
@@ -1797,17 +1759,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Fourth Week in Ordinary Tim
- e · St Blaise\; St Ansgar
+DESCRIPTION:Tomorrow's Word: St Blaise\; St Ansgar
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:Thursday of the Fourth Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Thursday of the Fourth Week in Ordinary Time\nHebrews 12:18
  –19\, 21–24 · Psalm 48:1–2a\, 2b–3\, 8\, 9–10 · Mark 6:7–1
  3\nWe have come not to frightening Sinai but to joyful Zion.\n\nRead and
@@ -1816,13 +1777,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the Fourth Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Saint Agatha\, Virgin and Martyr
@@ -1840,7 +1801,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Saints Paul Miki and Companions\, Martyrs
@@ -1858,7 +1819,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Fifth Sunday in Ordinary Time
@@ -1876,10 +1837,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-SUMMARY:Monday of the Fifth Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Monday of the Fifth Week in Ordinary Time\nGenesis 1:1–19 
  · Psalm 104:1–2a\, 5–6\, 10 and 12\, 24 and 35c · Mark 6:53–56\n
  In the beginning God created the heavens and the earth.\n\nRead and pray
@@ -1888,16 +1849,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the Fifth Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:Tuesday of the Fifth Week in Ordinary Time
+SUMMARY:Ordinary Time
 DESCRIPTION:Tuesday of the Fifth Week in Ordinary Time\nGenesis 1:20–2:
  4a · Psalm 8:3–4\, 5–6\, 7–8 · Mark 7:1–13\nGod created humank
  ind in his image\, male and female.\n\nRead and pray: https://daily-word
@@ -1906,16 +1867,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the Fifth Week in Ordinary Time
+DESCRIPTION:Tomorrow's Word: Ordinary Time
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:Ash Wednesday
+SUMMARY:Lent
 DESCRIPTION:Ash Wednesday\nJoel 2:12–18 · Psalm 51:1–2\, 3–4a\, 10
  –11\, 12 and 15 · 2 Corinthians 5:20–6:2 · Matthew 6:1–6\, 16–
  18\nReturn to the Lord with all your heart\; rend your hearts\, not your
@@ -1925,16 +1886,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Ash Wednesday
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:Thursday after Ash Wednesday
+SUMMARY:Lent
 DESCRIPTION:Thursday after Ash Wednesday\nDeuteronomy 30:15–20 · Psalm
   1:1–2\, 3\, 4 and 6 · Luke 9:22–25\nGod sets before us life and de
  ath: choose life.\n\nRead and pray: https://daily-word-reflections.githu
@@ -1943,16 +1904,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday after Ash Wednesday
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:Friday after Ash Wednesday
+SUMMARY:Lent
 DESCRIPTION:Friday after Ash Wednesday\nIsaiah 58:1–9a · Psalm 51:1–
  2\, 3–4a\, 16–17 · Matthew 9:14–15\nGod rejects fasting that igno
  res the poor and oppresses workers.\n\nRead and pray: https://daily-word
@@ -1961,16 +1922,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday after Ash Wednesday
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:Saturday after Ash Wednesday
+SUMMARY:Lent
 DESCRIPTION:Saturday after Ash Wednesday\nIsaiah 58:9b–14 · Psalm 86:1
  –2\, 3–4\, 5–6 · Luke 5:27–32\nRemove the pointing finger and t
  he speaking of evil.\n\nRead and pray: https://daily-word-reflections.gi
@@ -1979,13 +1940,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday after Ash Wednesday
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:First Sunday of Lent
@@ -2003,10 +1964,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-SUMMARY:Monday of the First Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Monday of the First Week of Lent\nLeviticus 19:1–2\, 11–1
  8 · Psalm 19:7\, 8\, 9\, 14 · Matthew 25:31–46\nGod says: be holy\, 
  for I am holy\; do not cheat\, lie or hold a grudge.\n\nRead and pray: h
@@ -2015,16 +1976,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the First Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:Tuesday of the First Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Tuesday of the First Week of Lent\nIsaiah 55:10–11 · Psalm
   34:3–4\, 5–6\, 15–16\, 17–18 · Matthew 6:7–15\nGod's Word is
   like rain: it always brings fruit.\n\nRead and pray: https://daily-word
@@ -2033,16 +1994,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the First Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:Wednesday of the First Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Wednesday of the First Week of Lent\nJonah 3:1–10 · Psalm 
  51:1–2\, 10–11\, 16–17 · Luke 11:29–32\nGod gives Jonah a secon
  d chance\, and Jonah preaches to Nineveh.\n\nRead and pray: https://dail
@@ -2051,16 +2012,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the First Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:Thursday of the First Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Thursday of the First Week of Lent\nEsther C:12\, 14–16\, 2
  3–25 (Greek additions\; in many Bibles 14:1\, 3–5\, 12–14) · Psal
  m 138:1–2a\, 2bc–3\, 7c–8 · Matthew 7:7–12\nQueen Esther\, alon
@@ -2070,16 +2031,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the First Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:Friday of the First Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Friday of the First Week of Lent\nEzekiel 18:21–28 · Psalm
   130:1–2\, 3–4\, 5–6\, 7–8 · Matthew 5:20–26\nGod wants the s
  inner to turn and live\, not to die.\n\nRead and pray: https://daily-wor
@@ -2088,16 +2049,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the First Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:Saturday of the First Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Saturday of the First Week of Lent\nDeuteronomy 26:16–19 ·
   Psalm 119:1–2\, 4–5\, 7–8 · Matthew 5:43–48\nGod and Israel ma
  ke a covenant: you are my treasured people.\n\nRead and pray: https://da
@@ -2106,13 +2067,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the First Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Second Sunday of Lent
@@ -2131,7 +2092,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
 SUMMARY:The Chair of St Peter\, Apostle
@@ -2149,10 +2110,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:Tuesday of the Second Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Tuesday of the Second Week of Lent\nIsaiah 1:10\, 16–20 · 
  Psalm 50:8–9\, 16–17\, 21 and 23 · Matthew 23:1–12\nGod invites s
  inners: though your sins are like scarlet\, they shall be like snow.\n\n
@@ -2162,16 +2123,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the Second Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:Wednesday of the Second Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Wednesday of the Second Week of Lent\nJeremiah 18:18–20 · 
  Psalm 31:4–5\, 13\, 14–15 · Matthew 20:17–28\nJeremiah was repaid
   with evil for the good he did\, and still prayed.\n\nRead and pray: htt
@@ -2180,16 +2141,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Second Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:Thursday of the Second Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Thursday of the Second Week of Lent\nJeremiah 17:5–10 · Ps
  alm 1:1–2\, 3\, 4 and 6 · Luke 16:19–31\nThose who trust in the Lor
  d are like a tree planted by water.\n\nRead and pray: https://daily-word
@@ -2198,16 +2159,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the Second Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:Friday of the Second Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Friday of the Second Week of Lent\nGenesis 37:3–4\, 12–13
  a\, 17b–28 · Psalm 105:16–17\, 18–19\, 20–21 · Matthew 21:33
  –43\, 45–46\nJoseph\, the beloved son\, was sold by his envious brot
@@ -2217,16 +2178,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the Second Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:Saturday of the Second Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Saturday of the Second Week of Lent\nMicah 7:14–15\, 18–2
  0 · Psalm 103:1–2\, 3–4\, 9–10\, 11–12 · Luke 15:1–3\, 11–
  32\nGod delights in mercy and casts our sins into the depths of the sea.
@@ -2236,13 +2197,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the Second Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Third Sunday of Lent
@@ -2261,10 +2222,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-01-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:Monday of the Third Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Monday of the Third Week of Lent\n2 Kings 5:1–15ab · Psalm
   42:1–2\; 43:3–4 · Luke 4:24–30\nNaaman\, a proud army commander\
  , was healed of leprosy by washing seven times in the Jordan.\n\nRead an
@@ -2274,16 +2235,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the Third Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:Tuesday of the Third Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Tuesday of the Third Week of Lent\nDaniel 3:25\, 34–43 · P
  salm 25:4–5ab\, 6 and 7bc\, 8–9 · Matthew 18:21–35\nIn the furnac
  e\, Azariah offered God a contrite heart and a humble spirit.\n\nRead an
@@ -2293,16 +2254,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the Third Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
-SUMMARY:Wednesday of the Third Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Wednesday of the Third Week of Lent\nDeuteronomy 4:1\, 5–9 
  · Psalm 147:12–13\, 15–16\, 19–20 · Matthew 5:17–19\nMoses tau
  ght Israel that God's law is for life\, and that no nation has a God so 
@@ -2312,16 +2273,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Third Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:Thursday of the Third Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Thursday of the Third Week of Lent\nJeremiah 7:23–28 · Psa
  lm 95:1–2\, 6–7\, 8–9 · Luke 11:14–23\nJeremiah lamented a peop
  le who would not listen to God's voice.\n\nRead and pray: https://daily-
@@ -2330,16 +2291,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the Third Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-SUMMARY:Friday of the Third Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Friday of the Third Week of Lent\nHosea 14:1–9 · Psalm 81:
  5c–7a\, 7bc–8\, 9–10ab\, 13 and 16 · Mark 12:28–34\nThrough Hos
  ea\, God teaches Israel the words to return and promises to love them fr
@@ -2349,16 +2310,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the Third Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:Saturday of the Third Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Saturday of the Third Week of Lent\nHosea 6:1–6 · Psalm 51
  :1–2\, 16–17\, 18–19 · Luke 18:9–14\nHosea warns that our love 
  can vanish like morning dew\; God desires steadfast love\, not sacrifice
@@ -2368,13 +2329,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the Third Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Fourth Sunday of Lent (Laetare)
@@ -2393,10 +2354,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:Monday of the Fourth Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Monday of the Fourth Week of Lent\nIsaiah 65:17–21 · Psalm
   30:1\, 3\, 4–5\, 10–12 · John 4:43–54\nGod promises new heavens 
  and a new earth\, a world without weeping.\n\nRead and pray: https://dai
@@ -2405,16 +2366,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the Fourth Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:Tuesday of the Fourth Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Tuesday of the Fourth Week of Lent\nEzekiel 47:1–9\, 12 · 
  Psalm 46:1–2\, 4–5\, 7–8 · John 5:1–16\nEzekiel sees a river fl
  owing from the Temple that brings life wherever it goes.\n\nRead and pra
@@ -2423,16 +2384,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the Fourth Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-10-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:Wednesday of the Fourth Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Wednesday of the Fourth Week of Lent\nIsaiah 49:8–15 · Psa
  lm 145:8–9\, 13c–14\, 17–18 · John 5:17–30\nGod says: even if a
   mother forgets her child\, I will not forget you.\n\nRead and pray: htt
@@ -2441,16 +2402,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Fourth Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:Thursday of the Fourth Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Thursday of the Fourth Week of Lent\nExodus 32:7–14 · Psal
  m 106:19–20\, 21–22\, 23 · John 5:31–47\nIsrael made a golden cal
  f\; Moses interceded and God spared them.\n\nRead and pray: https://dail
@@ -2459,16 +2420,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the Fourth Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-SUMMARY:Friday of the Fourth Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Friday of the Fourth Week of Lent\nWisdom 2:1a\, 12–22 · P
  salm 34:16–20\, 22 · John 7:1–2\, 10\, 25–30\nThe Book of Wisdom 
  foretells the plot against the righteous man who calls God his Father.\n
@@ -2478,16 +2439,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the Fourth Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-SUMMARY:Saturday of the Fourth Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Saturday of the Fourth Week of Lent\nJeremiah 11:18–20 · P
  salm 7:1–2\, 8b–11 · John 7:40–53\nJeremiah\, plotted against\, i
  s like a gentle lamb led to the slaughter\, a figure of Christ.\n\nRead 
@@ -2497,13 +2458,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the Fourth Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Fifth Sunday of Lent
@@ -2521,10 +2482,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-SUMMARY:Monday of the Fifth Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Monday of the Fifth Week of Lent\nDaniel 13:1–9\, 15–17\,
   19–30\, 33–62 (or 13:41c–62) · Psalm 23:1–3a\, 3b–4\, 5\, 6 
  · John 8:1–11\nSusanna chose to fall into the hands of the wicked rat
@@ -2534,16 +2495,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of the Fifth Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:Tuesday of the Fifth Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Tuesday of the Fifth Week of Lent\nNumbers 21:4–9 · Psalm 
  102:1–2\, 15–17\, 18–20 · John 8:21–30\nIsrael grew impatient a
  nd complained against God and the manna.\n\nRead and pray: https://daily
@@ -2552,16 +2513,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of the Fifth Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:Wednesday of the Fifth Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Wednesday of the Fifth Week of Lent\nDaniel 3:14–20\, 91–
  92\, 95 · Daniel 3:52\, 53\, 54\, 55\, 56 · John 8:31–42\nThree youn
  g men refused to worship the golden statue\, even if God did not rescue 
@@ -2571,16 +2532,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of the Fifth Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:Thursday of the Fifth Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Thursday of the Fifth Week of Lent\nGenesis 17:3–9 · Psalm
   105:4–5\, 6–7\, 8–9 · John 8:51–59\nGod made an everlasting co
  venant with Abraham and gave him a new name.\n\nRead and pray: https://d
@@ -2589,13 +2550,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Thursday of the Fifth Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:St Joseph\, Spouse of the Blessed Virgin Mary
@@ -2616,10 +2577,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:Saturday of the Fifth Week of Lent
+SUMMARY:Lent
 DESCRIPTION:Saturday of the Fifth Week of Lent\nEzekiel 37:21–28 · Jer
  emiah 31:10\, 11–12ab\, 13 · John 11:45–56\nEzekiel promises that G
  od will make his scattered people one nation with one shepherd.\n\nRead 
@@ -2629,13 +2590,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Saturday of the Fifth Week of Lent
+DESCRIPTION:Tomorrow's Word: Lent
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Palm Sunday of the Passion of the Lord
@@ -2655,10 +2616,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-SUMMARY:Monday of Holy Week
+SUMMARY:Holy Week and the Paschal Triduum
 DESCRIPTION:Monday of Holy Week\nIsaiah 42:1–7 · Psalm 27:1\, 2\, 3\, 
  13–14 · John 12:1–11\nThe Servant of the Lord is gentle: he does no
  t break the bruised reed.\n\nRead and pray: https://daily-word-reflectio
@@ -2667,16 +2628,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday of Holy Week
+DESCRIPTION:Tomorrow's Word: Holy Week and the Paschal Triduum
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-23-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:Tuesday of Holy Week
+SUMMARY:Holy Week and the Paschal Triduum
 DESCRIPTION:Tuesday of Holy Week\nIsaiah 49:1–6 · Psalm 71:1–2\, 3
  –4a\, 5–6ab\, 15 and 17 · John 13:21–33\, 36–38\nThe Servant is
   called from the womb and made a light to the nations.\n\nRead and pray:
@@ -2685,16 +2646,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday of Holy Week
+DESCRIPTION:Tomorrow's Word: Holy Week and the Paschal Triduum
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:Wednesday of Holy Week
+SUMMARY:Holy Week and the Paschal Triduum
 DESCRIPTION:Wednesday of Holy Week\nIsaiah 50:4–9a · Psalm 69:7–9\, 
  20–21\, 30 and 32–33 · Matthew 26:14–25\nThe Servant listens to G
  od every morning and does not turn back from suffering.\n\nRead and pray
@@ -2703,16 +2664,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday of Holy Week
+DESCRIPTION:Tomorrow's Word: Holy Week and the Paschal Triduum
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-SUMMARY:Holy Thursday: Evening Mass of the Lord's Supper
+SUMMARY:Holy Week and the Paschal Triduum
 DESCRIPTION:Holy Thursday: Evening Mass of the Lord's Supper\nExodus 12:1
  –8\, 11–14 · Psalm 116:12–13\, 15–16bc\, 17–18 · 1 Corinthia
  ns 11:23–26 · John 13:1–15\nJesus\, our Passover Lamb\, gives his B
@@ -2722,17 +2683,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Holy Thursday: Evening Mass of the Lord's Su
- pper
+DESCRIPTION:Tomorrow's Word: Holy Week and the Paschal Triduum
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-SUMMARY:Friday of the Passion of the Lord (Good Friday)
+SUMMARY:Holy Week and the Paschal Triduum
 DESCRIPTION:Friday of the Passion of the Lord (Good Friday)\nIsaiah 52:13
  –53:12 · Psalm 31:1\, 5\, 11–12\, 14–15\, 16\, 24 · Hebrews 4:14
  –16\; 5:7–9 · John 18:1–19:42\nThe Suffering Servant was wounded 
@@ -2742,17 +2702,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Friday of the Passion of the Lord (Good Frid
- ay)
+DESCRIPTION:Tomorrow's Word: Holy Week and the Paschal Triduum
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-SUMMARY:Holy Saturday · The Easter Vigil in the Holy Night
+SUMMARY:The Easter Vigil in the Holy Night
 DESCRIPTION:Holy Saturday · The Easter Vigil in the Holy Night\nGenesis 
  1:1–2:2 (or 1:1\, 26–31a)\; Psalm 104 (or Psalm 33) · Genesis 22:1
  –18 (or 22:1–2\, 9a\, 10–13\, 15–18)\; Psalm 16 · Exodus 14:15
@@ -2768,14 +2727,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Holy Saturday · The Easter Vigil in the Hol
- y Night
+DESCRIPTION:Tomorrow's Word: The Easter Vigil in the Holy Night
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Easter Sunday of the Resurrection of the Lord
@@ -2796,10 +2754,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:Monday within the Octave of Easter
+SUMMARY:Easter
 DESCRIPTION:Monday within the Octave of Easter\nActs 2:14\, 22–33 · Ps
  alm 16:1–2a\, 5\, 7–8\, 9–10\, 11 · Matthew 28:8–15\nPeter: God
   raised Jesus up\; death could not hold him\; we are all witnesses.\n\nR
@@ -2809,16 +2767,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Monday within the Octave of Easter
+DESCRIPTION:Tomorrow's Word: Easter
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:Tuesday within the Octave of Easter
+SUMMARY:Easter
 DESCRIPTION:Tuesday within the Octave of Easter\nActs 2:36–41 · Psalm 
  33:4–5\, 18–19\, 20 and 22 · John 20:11–18\nCut to the heart\, th
  e crowd asked: What should we do? Peter: repent and be baptized.\n\nRead
@@ -2828,16 +2786,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Tuesday within the Octave of Easter
+DESCRIPTION:Tomorrow's Word: Easter
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-lat-en@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-SUMMARY:Wednesday within the Octave of Easter
+SUMMARY:Easter
 DESCRIPTION:Wednesday within the Octave of Easter\nActs 3:1–10 · Psalm
   105:1–2\, 3–4\, 6–7\, 8–9 · Luke 24:13–35\nPeter healed the 
  lame man: what I have I give you\; in the name of Jesus\, walk.\n\nRead 
@@ -2847,7 +2805,7 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=lat&l=en
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tomorrow's Word: Wednesday within the Octave of Easter
+DESCRIPTION:Tomorrow's Word: Easter
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT

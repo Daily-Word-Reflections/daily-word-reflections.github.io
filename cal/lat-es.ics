@@ -5,11 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:La Palabra de cada día · Latin
 X-WR-TIMEZONE:Asia/Kolkata
+X-APPLE-CALENDAR-COLOR:#2D6A4E
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:2026-11-01-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Todos los Santos · Solemnidad
@@ -28,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Conmemoración de todos los fieles difuntos
@@ -47,10 +48,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:Martes de la XXXI semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Martes de la XXXI semana del Tiempo Ordinario\nFilipenses 2\,
  5–11 · Salmo 22\,26b–27.28–30ab.30e–32 · Lucas 14\,15–24\nCr
  isto se despojó de sí mismo\; Dios lo exaltó.\n\nLea y ore: https://d
@@ -59,18 +60,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la XXXI semana del Tiempo Or
- dinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:Miércoles de la XXXI semana del Tiempo Ordinario · San Carlos B
- orromeo\, obispo
+SUMMARY:San Carlos Borromeo\, obispo
 DESCRIPTION:Miércoles de la XXXI semana del Tiempo Ordinario · San Carl
  os Borromeo\, obispo\nFilipenses 2\,12–18 · Salmo 27\,1.4.13–14 · 
  Lucas 14\,25–33\nSer discípulo cuesta todo y lo da todo.\n\nLea y ore
@@ -79,17 +78,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la XXXI semana del Tiemp
- o Ordinario · San Carlos Borromeo\, obispo
+DESCRIPTION:La Palabra de mañana: San Carlos Borromeo\, obispo
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Jueves de la XXXI semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Jueves de la XXXI semana del Tiempo Ordinario\nFilipenses 3\,
  3–8a · Salmo 105\,2–3.4–5.6–7 · Lucas 15\,1–10\nDios busca a
   los perdidos hasta encontrarlos.\n\nLea y ore: https://daily-word-refle
@@ -98,17 +96,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la XXXI semana del Tiempo Or
- dinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Viernes de la XXXI semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Viernes de la XXXI semana del Tiempo Ordinario\nFilipenses 3\
  ,17–4\,1 · Salmo 122\,1–2.3–4b.4cd–5 · Lucas 16\,1–8\nSomos 
  administradores que rendirán cuentas.\n\nLea y ore: https://daily-word-
@@ -117,17 +114,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la XXXI semana del Tiempo O
- rdinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:Sábado de la XXXI semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Sábado de la XXXI semana del Tiempo Ordinario\nFilipenses 4\
  ,10–19 · Salmo 112\,1b–2.5–6.8a.9 · Lucas 16\,9–15\nLa fidelid
  ad en lo pequeño revela el corazón.\n\nLea y ore: https://daily-word-r
@@ -136,14 +132,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la XXXI semana del Tiempo O
- rdinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:XXXII Domingo del Tiempo Ordinario
@@ -161,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Dedicación de la Basílica de Letrán · Fiesta
@@ -181,11 +176,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:Martes de la XXXII semana del Tiempo Ordinario · San León Magno
- \, papa y doctor de la Iglesia
+SUMMARY:San León Magno\, papa y doctor de la Iglesia
 DESCRIPTION:Martes de la XXXII semana del Tiempo Ordinario · San León M
  agno\, papa y doctor de la Iglesia\nTito 2\,1–8.11–14 · Salmo 37\,3
  –4.18.23.27.29 · Lucas 17\,7–10\nNo podemos poner a Dios en deuda c
@@ -195,18 +189,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la XXXII semana del Tiempo O
- rdinario · San León Magno\, papa y doctor de la Iglesia
+DESCRIPTION:La Palabra de mañana: San León Magno\, papa y doctor de la 
+ Iglesia
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:Miércoles de la XXXII semana del Tiempo Ordinario · San Martín
-  de Tours\, obispo
+SUMMARY:San Martín de Tours\, obispo
 DESCRIPTION:Miércoles de la XXXII semana del Tiempo Ordinario · San Mar
  tín de Tours\, obispo\nTito 3\,1–7 · Salmo 23\,1b–3a.3bc–4.5.6 
  · Lucas 17\,11–19\nDiez fueron curados\; uno volvió y fue salvado.\n
@@ -216,18 +209,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la XXXII semana del Tiem
- po Ordinario · San Martín de Tours\, obispo
+DESCRIPTION:La Palabra de mañana: San Martín de Tours\, obispo
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Jueves de la XXXII semana del Tiempo Ordinario · San Josafat\, o
- bispo y mártir
+SUMMARY:San Josafat\, obispo y mártir
 DESCRIPTION:Jueves de la XXXII semana del Tiempo Ordinario · San Josafat
  \, obispo y mártir\nFilemón 7–20 · Salmo 146\,7.8–9a.9bc–10 · 
  Lucas 17\,20–25\nEl Reino ya está entre nosotros en Cristo.\n\nLea y 
@@ -236,17 +227,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la XXXII semana del Tiempo O
- rdinario · San Josafat\, obispo y mártir
+DESCRIPTION:La Palabra de mañana: San Josafat\, obispo y mártir
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:Viernes de la XXXII semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Viernes de la XXXII semana del Tiempo Ordinario\n2 Juan 4–9
   · Salmo 119\,1.2.10.11.17.18 · Lucas 17\,26–37\nEl verdadero peligr
  o es la vida corriente sin Dios.\n\nLea y ore: https://daily-word-reflec
@@ -255,17 +245,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la XXXII semana del Tiempo 
- Ordinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Sábado de la XXXII semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Sábado de la XXXII semana del Tiempo Ordinario\n3 Juan 5–8
   · Salmo 112\,1–2.3–4.5–6 · Lucas 18\,1–8\nOrar siempre sin de
  sanimarse.\n\nLea y ore: https://daily-word-reflections.github.io/?d=202
@@ -274,14 +263,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la XXXII semana del Tiempo 
- Ordinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:XXXIII Domingo del Tiempo Ordinario · Jornada Mundial de los Pob
@@ -302,10 +290,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:Lunes de la XXXIII semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Lunes de la XXXIII semana del Tiempo Ordinario\nApocalipsis 1
  \,1–4\; 2\,1–5 · Salmo 1\,1–2.3.4.6 · Lucas 18\,35–43\nUna Igl
  esia muy activa puede perder su amor primero.\n\nLea y ore: https://dail
@@ -314,18 +302,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la XXXIII semana del Tiempo O
- rdinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Martes de la XXXIII semana del Tiempo Ordinario · Santa Isabel d
- e Hungría\, religiosa
+SUMMARY:Santa Isabel de Hungría\, religiosa
 DESCRIPTION:Martes de la XXXIII semana del Tiempo Ordinario · Santa Isab
  el de Hungría\, religiosa\nApocalipsis 3\,1–6.14–22 · Salmo 15\,2
  –3a.3bc–4ab.5 · Lucas 19\,1–10\nCristo llama\; no derriba la puer
@@ -335,17 +321,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la XXXIII semana del Tiempo 
- Ordinario · Santa Isabel de Hungría\, religiosa
+DESCRIPTION:La Palabra de mañana: Santa Isabel de Hungría\, religiosa
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:Miércoles de la XXXIII semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Miércoles de la XXXIII semana del Tiempo Ordinario\nApocalip
  sis 4\,1–11 · Salmo 150\,1b–2.3–4.5–6 · Lucas 19\,11–28\nEl 
  culto del cielo nunca cesa\; cada Misa se une a él.\n\nLea y ore: https
@@ -354,17 +339,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la XXXIII semana del Tie
- mpo Ordinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Jueves de la XXXIII semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Jueves de la XXXIII semana del Tiempo Ordinario\nApocalipsis 
  5\,1–10 · Salmo 149\,1b–2.3–4.5–6a.9b · Lucas 19\,41–44\nEl 
  León de Judá es un Cordero degollado.\n\nLea y ore: https://daily-word
@@ -373,17 +357,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la XXXIII semana del Tiempo 
- Ordinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Viernes de la XXXIII semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Viernes de la XXXIII semana del Tiempo Ordinario\nApocalipsis
   10\,8–11 · Salmo 119\,14.24.72.103.111.131 · Lucas 19\,45–48\nLa 
  palabra de Dios se digiere antes de anunciarla.\n\nLea y ore: https://da
@@ -392,18 +375,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la XXXIII semana del Tiempo
-  Ordinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Sábado de la XXXIII semana del Tiempo Ordinario · Presentación
-  de la Virgen María
+SUMMARY:Presentación de la Virgen María
 DESCRIPTION:Sábado de la XXXIII semana del Tiempo Ordinario · Presentac
  ión de la Virgen María\nApocalipsis 11\,4–12 · Salmo 144\,1.2.9–1
  0 · Lucas 20\,27–40\nDios es Dios de vivos\; para él todos están vi
@@ -413,14 +394,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la XXXIII semana del Tiempo
-  Ordinario · Presentación de la Virgen María
+DESCRIPTION:La Palabra de mañana: Presentación de la Virgen María
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Nuestro Señor Jesucristo\, Rey del Universo · Solemnidad
@@ -440,10 +420,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:Lunes de la XXXIV semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Lunes de la XXXIV semana del Tiempo Ordinario\nApocalipsis 14
  \,1–3.4b–5 · Salmo 24\,1b–2.3–4ab.5–6 · Lucas 21\,1–4\nDio
  s mide los dones por el amor\, no por la cantidad.\n\nLea y ore: https:/
@@ -452,18 +432,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la XXXIV semana del Tiempo Or
- dinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:Martes de la XXXIV semana del Tiempo Ordinario · Santos Andrés 
- Dung-Lac y compañeros\, mártires
+SUMMARY:Santos Andrés Dung-Lac y compañeros\, mártires
 DESCRIPTION:Martes de la XXXIV semana del Tiempo Ordinario · Santos Andr
  és Dung-Lac y compañeros\, mártires\nApocalipsis 14\,14–19 · Salmo
   96\,10.11–12.13 · Lucas 21\,5–11\nHasta las piedras del templo cae
@@ -473,17 +451,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la XXXIV semana del Tiempo O
- rdinario · Santos Andrés Dung-Lac y compañeros\, mártires
+DESCRIPTION:La Palabra de mañana: Santos Andrés Dung-Lac y compañeros\
+ , mártires
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:Miércoles de la XXXIV semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Miércoles de la XXXIV semana del Tiempo Ordinario\nApocalips
  is 15\,1–4 · Salmo 98\,1.2–3ab.7–8.9 · Lucas 21\,12–19\nLa per
  secución se convierte en ocasión de dar testimonio.\n\nLea y ore: http
@@ -492,17 +470,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la XXXIV semana del Tiem
- po Ordinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Jueves de la XXXIV semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Jueves de la XXXIV semana del Tiempo Ordinario\nApocalipsis 1
  8\,1–2.21–23\; 19\,1–3.9a · Salmo 100\,1b–2.3.4.5 · Lucas 21\,
  20–28\nLo que hace desfallecer a otros hace mirar arriba a los discíp
@@ -512,17 +489,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la XXXIV semana del Tiempo O
- rdinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:Viernes de la XXXIV semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Viernes de la XXXIV semana del Tiempo Ordinario\nApocalipsis 
  20\,1–4.11–21\,2 · Salmo 84\,3.4.5–6a.8a · Lucas 21\,29–33\nLa
  s palabras de Cristo duran más que el cielo y la tierra.\n\nLea y ore: 
@@ -531,17 +507,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la XXXIV semana del Tiempo 
- Ordinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:Sábado de la XXXIV semana del Tiempo Ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Sábado de la XXXIV semana del Tiempo Ordinario\nApocalipsis 
  22\,1–7 · Salmo 95\,1–2.3–5.6–7ab · Lucas 21\,34–36\nLa Bibl
  ia termina donde empezó: con el árbol de la vida.\n\nLea y ore: https:
@@ -550,14 +525,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la XXXIV semana del Tiempo 
- Ordinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:I Domingo de Adviento
@@ -576,7 +550,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:San Andrés\, apóstol · Fiesta
@@ -594,10 +568,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:Martes de la I semana de Adviento
+SUMMARY:El tiempo de Adviento
 DESCRIPTION:Martes de la I semana de Adviento\nIsaías 11\,1–10 · Salm
  o 72\,1–2.7–8.12–13.17 · Lucas 10\,21–24\nDios saca vida nueva 
  de un tronco cortado.\n\nLea y ore: https://daily-word-reflections.githu
@@ -606,16 +580,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la I semana de Adviento
+DESCRIPTION:La Palabra de mañana: El tiempo de Adviento
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:Miércoles de la I semana de Adviento
+SUMMARY:El tiempo de Adviento
 DESCRIPTION:Miércoles de la I semana de Adviento\nIsaías 25\,6–10a ·
   Salmo 23\,1–3a.3b–4.5.6 · Mateo 15\,29–37\nDios promete un banqu
  ete y el fin de la muerte.\n\nLea y ore: https://daily-word-reflections.
@@ -624,17 +598,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la I semana de Adviento
+DESCRIPTION:La Palabra de mañana: El tiempo de Adviento
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:Jueves de la I semana de Adviento · San Francisco Javier\, presb
- ítero
+SUMMARY:San Francisco Javier\, presbítero
 DESCRIPTION:Jueves de la I semana de Adviento · San Francisco Javier\, p
  resbítero\nIsaías 26\,1–6 · Salmo 118\,1.8–9.19–21.25–27a · 
  Mateo 7\,21.24–27\nDecir Señor\, Señor no basta\; hay que hacer su v
@@ -644,17 +617,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la I semana de Adviento · S
- an Francisco Javier\, presbítero
+DESCRIPTION:La Palabra de mañana: San Francisco Javier\, presbítero
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:Viernes de la I semana de Adviento
+SUMMARY:El tiempo de Adviento
 DESCRIPTION:Viernes de la I semana de Adviento\nIsaías 29\,17–24 · Sa
  lmo 27\,1.4.13–14 · Mateo 9\,27–31\nDios promete que los ciegos ver
  án.\n\nLea y ore: https://daily-word-reflections.github.io/?d=2026-12-0
@@ -663,16 +635,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la I semana de Adviento
+DESCRIPTION:La Palabra de mañana: El tiempo de Adviento
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:Sábado de la I semana de Adviento
+SUMMARY:El tiempo de Adviento
 DESCRIPTION:Sábado de la I semana de Adviento\nIsaías 30\,19–21.23–
  26 · Salmo 147\,1–2.3–4.5–6 · Mateo 9\,35–10\,1.5a.6–8\nDios
   espera para tener piedad y escucha nuestro clamor.\n\nLea y ore: https:
@@ -681,13 +653,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la I semana de Adviento
+DESCRIPTION:La Palabra de mañana: El tiempo de Adviento
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:II Domingo de Adviento
@@ -705,11 +677,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:Lunes de la II semana de Adviento · San Ambrosio\, obispo y doct
- or de la Iglesia
+SUMMARY:San Ambrosio\, obispo y doctor de la Iglesia
 DESCRIPTION:Lunes de la II semana de Adviento · San Ambrosio\, obispo y 
  doctor de la Iglesia\nIsaías 35\,1–10 · Salmo 85\,9ab.10.11–12.13
  –14 · Lucas 5\,17–26\nDios hace florecer el desierto.\n\nLea y ore:
@@ -718,14 +689,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la II semana de Adviento · S
- an Ambrosio\, obispo y doctor de la Iglesia
+DESCRIPTION:La Palabra de mañana: San Ambrosio\, obispo y doctor de la I
+ glesia
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Inmaculada Concepción de la Bienaventurada Virgen María · Sole
@@ -746,10 +717,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Miércoles de la II semana de Adviento
+SUMMARY:El tiempo de Adviento
 DESCRIPTION:Miércoles de la II semana de Adviento\nIsaías 40\,25–31 
  · Salmo 103\,1–2.3–4.8.10 · Mateo 11\,28–30\nDios nunca se cansa
  .\n\nLea y ore: https://daily-word-reflections.github.io/?d=2026-12-09&r
@@ -758,16 +729,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la II semana de Adviento
+DESCRIPTION:La Palabra de mañana: El tiempo de Adviento
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:Jueves de la II semana de Adviento
+SUMMARY:El tiempo de Adviento
 DESCRIPTION:Jueves de la II semana de Adviento\nIsaías 41\,13–20 · Sa
  lmo 145\,1.9.10–11.12–13ab · Mateo 11\,11–15\nDios nos toma de la
   mano derecha.\n\nLea y ore: https://daily-word-reflections.github.io/?d
@@ -776,16 +747,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la II semana de Adviento
+DESCRIPTION:La Palabra de mañana: El tiempo de Adviento
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:Viernes de la II semana de Adviento
+SUMMARY:El tiempo de Adviento
 DESCRIPTION:Viernes de la II semana de Adviento\nIsaías 48\,17–19 · S
  almo 1\,1–2.3.4.6 · Mateo 11\,16–19\nLos mandamientos de Dios lleva
  n a una paz como un río.\n\nLea y ore: https://daily-word-reflections.g
@@ -794,17 +765,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la II semana de Adviento
+DESCRIPTION:La Palabra de mañana: El tiempo de Adviento
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:Sábado de la II semana de Adviento · Nuestra Señora de Guadalu
- pe
+SUMMARY:Nuestra Señora de Guadalupe
 DESCRIPTION:Sábado de la II semana de Adviento · Nuestra Señora de Gua
  dalupe\nEclesiástico 48\,1–4.9–11 · Salmo 80\,2ac.3b.15–16.18–
  19 · Mateo 17\,9a.10–13\nElías fue un profeta como un fuego.\n\nLea 
@@ -813,14 +783,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la II semana de Adviento ·
-  Nuestra Señora de Guadalupe
+DESCRIPTION:La Palabra de mañana: Nuestra Señora de Guadalupe
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:III Domingo de Adviento (Gaudete)
@@ -839,11 +808,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:Lunes de la III semana de Adviento · San Juan de la Cruz\, presb
- ítero y doctor de la Iglesia
+SUMMARY:San Juan de la Cruz\, presbítero y doctor de la Iglesia
 DESCRIPTION:Lunes de la III semana de Adviento · San Juan de la Cruz\, p
  resbítero y doctor de la Iglesia\nNúmeros 24\,2–7.15–17a · Salmo 
  25\,4–5ab.6.7bc.8–9 · Mateo 21\,23–27\nLa estrella de Dios sale i
@@ -853,17 +821,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la III semana de Adviento · 
- San Juan de la Cruz\, presbítero y doctor de la Iglesia
+DESCRIPTION:La Palabra de mañana: San Juan de la Cruz\, presbítero y do
+ ctor de la Iglesia
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Martes de la III semana de Adviento
+SUMMARY:El tiempo de Adviento
 DESCRIPTION:Martes de la III semana de Adviento\nSofonías 3\,1–2.9–1
  3 · Salmo 34\,2–3.6–7.17–18.19.23 · Mateo 21\,28–32\nEl futuro
   de Dios pertenece al resto humilde.\n\nLea y ore: https://daily-word-re
@@ -872,16 +840,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la III semana de Adviento
+DESCRIPTION:La Palabra de mañana: El tiempo de Adviento
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Miércoles de la III semana de Adviento
+SUMMARY:El tiempo de Adviento
 DESCRIPTION:Miércoles de la III semana de Adviento\nIsaías 45\,6b–8.1
  8.21b–25 · Salmo 85\,9ab.10.11–12.13–14 · Lucas 7\,18b–23\nEl 
  cielo hace llover al Justo\; la tierra da a luz al Salvador.\n\nLea y or
@@ -890,14 +858,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la III semana de Advient
- o
+DESCRIPTION:La Palabra de mañana: El tiempo de Adviento
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:17 de diciembre · Feria de Adviento (Oh Sabiduría)
@@ -916,7 +883,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:18 de diciembre · Feria de Adviento (Oh Adonai)
@@ -935,7 +902,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:19 de diciembre · Feria de Adviento (Oh Renuevo de Jesé)
@@ -954,7 +921,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Cuarto domingo de Adviento
@@ -973,7 +940,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:21 de diciembre · Feria de Adviento (Oh Sol que naces de lo alto
@@ -994,7 +961,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:22 de diciembre · Feria de Adviento (Oh Rey de las naciones)
@@ -1013,7 +980,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:23 de diciembre · Feria de Adviento (Oh Emmanuel)
@@ -1032,7 +999,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:24 de diciembre · Feria de Adviento (Misa de la mañana)
@@ -1052,7 +1019,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Natividad del Señor (Navidad) · Solemnidad
@@ -1072,7 +1039,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:San Esteban\, protomártir · Fiesta
@@ -1091,7 +1058,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Sagrada Familia de Jesús\, María y José · Fiesta
@@ -1111,7 +1078,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Santos Inocentes\, mártires · Fiesta
@@ -1129,7 +1096,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:29 de diciembre · Quinto día de la octava de Navidad
@@ -1148,7 +1115,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:30 de diciembre · Sexto día de la octava de Navidad
@@ -1167,7 +1134,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:31 de diciembre · Séptimo día de la octava de Navidad
@@ -1186,7 +1153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Santa María\, Madre de Dios · Solemnidad · Octava de Navidad
@@ -1206,7 +1173,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:2 de enero · Santos Basilio Magno y Gregorio Nacianceno\, obispo
@@ -1227,7 +1194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Epifanía del Señor · Solemnidad
@@ -1245,7 +1212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:4 de enero · Lunes después de la Epifanía
@@ -1264,7 +1231,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:5 de enero · Martes después de la Epifanía
@@ -1283,7 +1250,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:6 de enero · Miércoles después de la Epifanía
@@ -1302,7 +1269,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:7 de enero · Jueves después de la Epifanía
@@ -1321,7 +1288,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:8 de enero · Viernes después de la Epifanía
@@ -1340,7 +1307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:9 de enero · Sábado después de la Epifanía
@@ -1359,7 +1326,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Bautismo del Señor · Fiesta
@@ -1377,10 +1344,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:Lunes de la I semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Lunes de la I semana del tiempo ordinario\nHebreos 1\,1–6 
  · Salmo 97\,1.2b.6.7c.9 · Marcos 1\,14–20\nDios ha dicho su Palabra 
  definitiva en su Hijo.\n\nLea y ore: https://daily-word-reflections.gith
@@ -1389,17 +1356,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la I semana del tiempo ordina
- rio
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:Martes de la I semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Martes de la I semana del tiempo ordinario\nHebreos 2\,5–12
   · Salmo 8\,2a.5.6–7.8–9 · Marcos 1\,21–28\nJesús enseña con a
  utoridad propia.\n\nLea y ore: https://daily-word-reflections.github.io/
@@ -1408,17 +1374,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la I semana del tiempo ordin
- ario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:Miércoles de la I semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Miércoles de la I semana del tiempo ordinario\nHebreos 2\,14
  –18 · Salmo 105\,1–2.3–4.6–7.8–9 · Marcos 1\,29–39\nJesús
   levanta a la mujer enferma\, y ella sirve.\n\nLea y ore: https://daily-
@@ -1427,17 +1392,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la I semana del tiempo o
- rdinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:Jueves de la I semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Jueves de la I semana del tiempo ordinario\nHebreos 3\,7–14
   · Salmo 95\,6–7c.8–9.10–11 · Marcos 1\,40–45\nHoy\, no endure
  zcan su corazón.\n\nLea y ore: https://daily-word-reflections.github.io
@@ -1446,17 +1410,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la I semana del tiempo ordin
- ario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:Viernes de la I semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Viernes de la I semana del tiempo ordinario\nHebreos 4\,1–5
  .11 · Salmo 78\,3.4bc.6c–7.8 · Marcos 2\,1–12\nCuatro amigos lleva
  n al paralítico hasta Jesús.\n\nLea y ore: https://daily-word-reflecti
@@ -1465,17 +1428,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la I semana del tiempo ordi
- nario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:Sábado de la I semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Sábado de la I semana del tiempo ordinario\nHebreos 4\,12–
  16 · Salmo 19\,8.9.10.15 · Marcos 2\,13–17\nLa palabra de Dios es vi
  va y ve el corazón.\n\nLea y ore: https://daily-word-reflections.github
@@ -1484,14 +1446,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la I semana del tiempo ordi
- nario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Domingo II del tiempo ordinario
@@ -1509,10 +1470,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-SUMMARY:Lunes de la II semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Lunes de la II semana del tiempo ordinario\nHebreos 5\,1–10
   · Salmo 110\,1.2.3.4 · Marcos 2\,18–22\nCristo\, Sumo Sacerdote\, a
  prendió\, sufriendo\, a obedecer.\n\nLea y ore: https://daily-word-refl
@@ -1521,17 +1482,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la II semana del tiempo ordin
- ario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:Martes de la II semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Martes de la II semana del tiempo ordinario\nHebreos 6\,10–
  20 · Salmo 111\,1–2.4–5.9.10c · Marcos 2\,23–28\nDios no olvida 
  el amor que mostramos.\n\nLea y ore: https://daily-word-reflections.gith
@@ -1540,18 +1500,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la II semana del tiempo ordi
- nario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:Miércoles de la II semana del tiempo ordinario · Santos Fabián
-  y Sebastián
+SUMMARY:Santos Fabián y Sebastián
 DESCRIPTION:Miércoles de la II semana del tiempo ordinario · Santos Fab
  ián y Sebastián\nHebreos 7\,1–3.15–17 · Salmo 110\,1.2.3.4 · Mar
  cos 3\,1–6\nCristo es sacerdote para siempre\, como Melquisedec.\n\nLe
@@ -1561,14 +1519,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la II semana del tiempo 
- ordinario · Santos Fabián y Sebastián
+DESCRIPTION:La Palabra de mañana: Santos Fabián y Sebastián
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Santa Inés\, virgen y mártir
@@ -1586,10 +1543,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:Viernes de la II semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Viernes de la II semana del tiempo ordinario\nHebreos 8\,6–
  13 · Salmo 85\,8.10.11–12.13–14 · Marcos 3\,13–19\nEn la alianza
   nueva Dios escribe su ley en nuestro corazón.\n\nLea y ore: https://da
@@ -1598,17 +1555,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la II semana del tiempo ord
- inario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:Sábado de la II semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Sábado de la II semana del tiempo ordinario\nHebreos 9\,2–
  3.11–14 · Salmo 47\,2–3.6–7.8–9 · Marcos 3\,20–21\nCristo en
  tró una vez para siempre con su propia sangre.\n\nLea y ore: https://da
@@ -1617,14 +1573,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la II semana del tiempo ord
- inario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Domingo III del tiempo ordinario · Domingo de la Palabra de Dios
@@ -1644,7 +1599,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Conversión de san Pablo\, apóstol
@@ -1663,7 +1618,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:Santos Timoteo y Tito\, obispos
@@ -1681,10 +1636,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:Miércoles de la III semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Miércoles de la III semana del tiempo ordinario\nHebreos 10\
  ,11–18 · Salmo 110\,1.2.3.4 · Marcos 4\,1–20\nEl único sacrificio
   de Cristo nos perfecciona para siempre.\n\nLea y ore: https://daily-wor
@@ -1693,14 +1648,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la III semana del tiempo
-  ordinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Santo Tomás de Aquino\, presbítero y doctor de la Iglesia
@@ -1719,10 +1673,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:Viernes de la III semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Viernes de la III semana del tiempo ordinario\nHebreos 10\,32
  –39 · Salmo 37\,3–4.5–6.23–24.39–40 · Marcos 4\,26–34\nNo 
  pierdan su confianza\; necesitan constancia.\n\nLea y ore: https://daily
@@ -1731,17 +1685,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la III semana del tiempo or
- dinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:Sábado de la III semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Sábado de la III semana del tiempo ordinario\nHebreos 11\,1
  –2.8–19 · Lucas 1\,69–70.71–72.73–75 · Marcos 4\,35–41\nLa
   fe es la garantía de lo que se espera.\n\nLea y ore: https://daily-wor
@@ -1750,14 +1703,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la III semana del tiempo or
- dinario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Domingo IV del tiempo ordinario
@@ -1776,10 +1728,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:Lunes de la IV semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Lunes de la IV semana del tiempo ordinario\nHebreos 11\,32–
  40 · Salmo 31\,20.21.22.23.24 · Marcos 5\,1–20\nLos héroes de la fe
   sufrieron\, y sin embargo creyeron.\n\nLea y ore: https://daily-word-re
@@ -1788,14 +1740,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la IV semana del tiempo ordin
- ario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:Presentación del Señor · Fiesta
@@ -1814,11 +1765,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:Miércoles de la IV semana del tiempo ordinario · San Blas\; san
-  Óscar (Anscario)
+SUMMARY:San Blas\; san Óscar (Anscario)
 DESCRIPTION:Miércoles de la IV semana del tiempo ordinario · San Blas\;
   san Óscar (Anscario)\nHebreos 12\,4–7.11–15 · Salmo 103\,1–2.13
  –14.17–18a · Marcos 6\,1–6\nDios nos corrige como un Padre\, para
@@ -1828,17 +1778,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la IV semana del tiempo 
- ordinario · San Blas\; san Óscar (Anscario)
+DESCRIPTION:La Palabra de mañana: San Blas\; san Óscar (Anscario)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:Jueves de la IV semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Jueves de la IV semana del tiempo ordinario\nHebreos 12\,18
  –19.21–24 · Salmo 48\,2–3a.3b–4.9.10–11 · Marcos 6\,7–13\n
  No nos hemos acercado al Sinaí que da miedo\, sino a la Sion gozosa.\n\
@@ -1848,14 +1797,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la IV semana del tiempo ordi
- nario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Santa Águeda\, virgen y mártir
@@ -1873,7 +1821,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Santos Pablo Miki y compañeros\, mártires
@@ -1892,7 +1840,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Domingo V del tiempo ordinario
@@ -1910,10 +1858,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-SUMMARY:Lunes de la V semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Lunes de la V semana del tiempo ordinario\nGénesis 1\,1–19
   · Salmo 104\,1–2a.5–6.10.12.24.35c · Marcos 6\,53–56\nAl princi
  pio Dios creó el cielo y la tierra.\n\nLea y ore: https://daily-word-re
@@ -1922,17 +1870,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la V semana del tiempo ordina
- rio
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:Martes de la V semana del tiempo ordinario
+SUMMARY:El Tiempo Ordinario
 DESCRIPTION:Martes de la V semana del tiempo ordinario\nGénesis 1\,20–
  2\,4a · Salmo 8\,4–5.6–7.8–9 · Marcos 7\,1–13\nDios creó al h
  ombre a su imagen\, varón y mujer.\n\nLea y ore: https://daily-word-ref
@@ -1941,17 +1888,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la V semana del tiempo ordin
- ario
+DESCRIPTION:La Palabra de mañana: El Tiempo Ordinario
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:Miércoles de Ceniza
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Miércoles de Ceniza\nJoel 2\,12–18 · Salmo 51\,3–4.5–
  6a.12–13.14.17 · 2 Corintios 5\,20–6\,2 · Mateo 6\,1–6.16–18\n
  Vuelvan al Señor de todo corazón\; rasguen los corazones\, no las vest
@@ -1961,16 +1907,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de Ceniza
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:Jueves después de Ceniza
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Jueves después de Ceniza\nDeuteronomio 30\,15–20 · Salmo 
  1\,1–2.3.4.6 · Lucas 9\,22–25\nDios pone ante nosotros la vida y la
   muerte: elige la vida.\n\nLea y ore: https://daily-word-reflections.git
@@ -1979,16 +1925,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves después de Ceniza
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:Viernes después de Ceniza
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Viernes después de Ceniza\nIsaías 58\,1–9a · Salmo 51\,3
  –4.5–6a.18–19 · Mateo 9\,14–15\nDios rechaza el ayuno que ignor
  a a los pobres y explota a los trabajadores.\n\nLea y ore: https://daily
@@ -1997,16 +1943,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes después de Ceniza
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:Sábado después de Ceniza
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Sábado después de Ceniza\nIsaías 58\,9b–14 · Salmo 86\,
  1–2.3–4.5–6 · Lucas 5\,27–32\nAparten el dedo acusador y la pal
  abra maligna.\n\nLea y ore: https://daily-word-reflections.github.io/?d=
@@ -2015,13 +1961,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado después de Ceniza
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Domingo I de Cuaresma
@@ -2039,10 +1985,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-SUMMARY:Lunes de la I semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Lunes de la I semana de Cuaresma\nLevítico 19\,1–2.11–18
   · Salmo 19\,8.9.10.15 · Mateo 25\,31–46\nDios dice: sean santos\, p
  orque yo soy santo\; no engañen\, no mientan\, no guarden rencor.\n\nLe
@@ -2052,16 +1998,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la I semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:Martes de la I semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Martes de la I semana de Cuaresma\nIsaías 55\,10–11 · Sal
  mo 34\,4–5.6–7.16–17.18–19 · Mateo 6\,7–15\nLa Palabra de Dio
  s es como la lluvia: siempre da fruto.\n\nLea y ore: https://daily-word-
@@ -2070,16 +2016,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la I semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:Miércoles de la I semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Miércoles de la I semana de Cuaresma\nJonás 3\,1–10 · Sa
  lmo 51\,3–4.12–13.18–19 · Lucas 11\,29–32\nDios da a Jonás una
   segunda oportunidad\, y Jonás predica en Nínive.\n\nLea y ore: https:
@@ -2088,16 +2034,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la I semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:Jueves de la I semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Jueves de la I semana de Cuaresma\nEster C\,12.14–16.23–2
  5 (adiciones griegas\; en muchas Biblias 14\,1.3–5.12–14) · Salmo 1
  38\,1–2a.2bc–3.7c–8 · Mateo 7\,7–12\nLa reina Ester\, sola y en
@@ -2107,16 +2053,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la I semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:Viernes de la I semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Viernes de la I semana de Cuaresma\nEzequiel 18\,21–28 · S
  almo 130\,1–2.3–4.5–6.7–8 · Mateo 5\,20–26\nDios quiere que e
  l pecador se convierta y viva\, no que muera.\n\nLea y ore: https://dail
@@ -2125,16 +2071,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la I semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:Sábado de la I semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Sábado de la I semana de Cuaresma\nDeuteronomio 26\,16–19 
  · Salmo 119\,1–2.4–5.7–8 · Mateo 5\,43–48\nDios e Israel hacen
   una alianza: tú eres el pueblo de mi propiedad.\n\nLea y ore: https://
@@ -2143,13 +2089,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la I semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Domingo II de Cuaresma
@@ -2168,7 +2114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
 SUMMARY:Cátedra de san Pedro\, apóstol
@@ -2186,10 +2132,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:Martes de la II semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Martes de la II semana de Cuaresma\nIsaías 1\,10.16–20 · 
  Salmo 50\,8–9.16–17.21.23 · Mateo 23\,1–12\nDios invita a los pec
  adores: aunque sus pecados sean como la grana\, quedarán blancos como l
@@ -2199,16 +2145,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la II semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:Miércoles de la II semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Miércoles de la II semana de Cuaresma\nJeremías 18\,18–20
   · Salmo 31\,5–6.14.15–16 · Mateo 20\,17–28\nA Jeremías le paga
  ron con mal el bien que hizo\, y aun así siguió rezando.\n\nLea y ore:
@@ -2217,16 +2163,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la II semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:Jueves de la II semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Jueves de la II semana de Cuaresma\nJeremías 17\,5–10 · S
  almo 1\,1–2.3.4.6 · Lucas 16\,19–31\nEl que confía en el Señor es
   como un árbol plantado junto al agua.\n\nLea y ore: https://daily-word
@@ -2235,16 +2181,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la II semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:Viernes de la II semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Viernes de la II semana de Cuaresma\nGénesis 37\,3–4.12–
  13a.17b–28 · Salmo 105\,16–17.18–19.20–21 · Mateo 21\,33–43.
  45–46\nJosé\, el hijo amado\, fue vendido por sus hermanos envidiosos
@@ -2254,16 +2200,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la II semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:Sábado de la II semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Sábado de la II semana de Cuaresma\nMiqueas 7\,14–15.18–
  20 · Salmo 103\,1–2.3–4.9–10.11–12 · Lucas 15\,1–3.11–32\n
  Dios se complace en la misericordia y arroja nuestros pecados a lo hondo
@@ -2273,13 +2219,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la II semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Domingo III de Cuaresma
@@ -2298,10 +2244,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-01-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:Lunes de la III semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Lunes de la III semana de Cuaresma\n2 Reyes 5\,1–15ab · Sa
  lmo 42\,2–3\; 43\,3–4 · Lucas 4\,24–30\nNaamán\, un orgulloso je
  fe del ejército\, fue curado de la lepra al lavarse siete veces en el J
@@ -2311,16 +2257,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la III semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:Martes de la III semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Martes de la III semana de Cuaresma\nDaniel 3\,25.34–43 · 
  Salmo 25\,4–5ab.6.7bc.8–9 · Mateo 18\,21–35\nEn el horno\, Azarí
  as ofreció a Dios un corazón contrito y un espíritu humilde.\n\nLea y
@@ -2329,16 +2275,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la III semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
-SUMMARY:Miércoles de la III semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Miércoles de la III semana de Cuaresma\nDeuteronomio 4\,1.5
  –9 · Salmo 147\,12–13.15–16.19–20 · Mateo 5\,17–19\nMoisés 
  enseñó a Israel que la ley de Dios es para la vida\, y que ninguna nac
@@ -2348,17 +2294,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la III semana de Cuaresm
- a
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:Jueves de la III semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Jueves de la III semana de Cuaresma\nJeremías 7\,23–28 · 
  Salmo 95\,1–2.6–7.8–9 · Lucas 11\,14–23\nJeremías se lamentó 
  por un pueblo que no quería escuchar la voz de Dios.\n\nLea y ore: http
@@ -2367,16 +2312,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la III semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-SUMMARY:Viernes de la III semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Viernes de la III semana de Cuaresma\nOseas 14\,2–10 · Sal
  mo 81\,6c–8a.8bc–9.10–11ab.14.17 · Marcos 12\,28–34\nPor medio 
  de Oseas\, Dios enseña a Israel las palabras para volver y promete amar
@@ -2386,16 +2331,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la III semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:Sábado de la III semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Sábado de la III semana de Cuaresma\nOseas 6\,1–6 · Salmo
   51\,3–4.18–19.20–21 · Lucas 18\,9–14\nOseas advierte que nuest
  ro amor puede desaparecer como el rocío de la mañana\; Dios quiere amo
@@ -2405,13 +2350,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la III semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Domingo IV de Cuaresma (Laetare)
@@ -2430,10 +2375,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:Lunes de la IV semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Lunes de la IV semana de Cuaresma\nIsaías 65\,17–21 · Sal
  mo 30\,2.4.5–6.11–13 · Juan 4\,43–54\nDios promete un cielo nuevo
   y una tierra nueva\, un mundo sin llanto.\n\nLea y ore: https://daily-w
@@ -2442,16 +2387,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la IV semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:Martes de la IV semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Martes de la IV semana de Cuaresma\nEzequiel 47\,1–9.12 · 
  Salmo 46\,2–3.5–6.8–9 · Juan 5\,1–16\nEzequiel ve un río que s
  ale del Templo y da la vida dondequiera que llega.\n\nLea y ore: https:/
@@ -2460,16 +2405,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la IV semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-10-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:Miércoles de la IV semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Miércoles de la IV semana de Cuaresma\nIsaías 49\,8–15 ·
   Salmo 145\,8–9.13cd–14.17–18 · Juan 5\,17–30\nDios dice: aunqu
  e una madre se olvide de su hijo\, yo no te olvidaré.\n\nLea y ore: htt
@@ -2478,16 +2423,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la IV semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:Jueves de la IV semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Jueves de la IV semana de Cuaresma\nÉxodo 32\,7–14 · Salm
  o 106\,19–20.21–22.23 · Juan 5\,31–47\nIsrael se fabricó un bece
  rro de oro\; Moisés intercedió y Dios lo perdonó.\n\nLea y ore: https
@@ -2496,16 +2441,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la IV semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-SUMMARY:Viernes de la IV semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Viernes de la IV semana de Cuaresma\nSabiduría 2\,1a.12–22
   · Salmo 34\,17–21.23 · Juan 7\,1–2.10.25–30\nEl libro de la Sab
  iduría anuncia el complot contra el justo que llama a Dios su Padre.\n\
@@ -2515,16 +2460,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Viernes de la IV semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-SUMMARY:Sábado de la IV semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Sábado de la IV semana de Cuaresma\nJeremías 11\,18–20 ·
   Salmo 7\,2–3.9b–12 · Juan 7\,40–53\nJeremías\, objeto de un com
  plot\, es como un cordero manso llevado al matadero\, figura de Cristo.\
@@ -2534,13 +2479,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la IV semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Domingo V de Cuaresma
@@ -2559,10 +2504,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-SUMMARY:Lunes de la V semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Lunes de la V semana de Cuaresma\nDaniel 13\,1–9.15–17.19
  –30.33–62 (o 13\,41c–62) · Salmo 23\,1–3a.3b–4.5.6 · Juan 8\
  ,1–11\nSusana prefirió caer en manos de los malvados antes que pecar 
@@ -2572,16 +2517,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Lunes de la V semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:Martes de la V semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Martes de la V semana de Cuaresma\nNúmeros 21\,4–9 · Salm
  o 102\,2–3.16–18.19–21 · Juan 8\,21–30\nIsrael perdió la pacie
  ncia y se quejó contra Dios y contra el maná.\n\nLea y ore: https://da
@@ -2590,16 +2535,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Martes de la V semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:Miércoles de la V semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Miércoles de la V semana de Cuaresma\nDaniel 3\,14–20.91
  –92.95 · Daniel 3\,52.53.54.55.56 · Juan 8\,31–42\nTres jóvenes s
  e negaron a adorar la estatua de oro\, aunque Dios no los librara.\n\nLe
@@ -2609,16 +2554,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Miércoles de la V semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:Jueves de la V semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Jueves de la V semana de Cuaresma\nGénesis 17\,3–9 · Salm
  o 105\,4–5.6–7.8–9 · Juan 8\,51–59\nDios hizo una alianza perpe
  tua con Abrahán y le dio un nombre nuevo.\n\nLea y ore: https://daily-w
@@ -2627,13 +2572,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Jueves de la V semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:San José\, esposo de la Virgen María
@@ -2653,10 +2598,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:Sábado de la V semana de Cuaresma
+SUMMARY:El tiempo de Cuaresma
 DESCRIPTION:Sábado de la V semana de Cuaresma\nEzequiel 37\,21–28 · J
  eremías 31\,10.11–12ab.13 · Juan 11\,45–56\nEzequiel promete que D
  ios hará de su pueblo disperso una sola nación con un solo pastor.\n\n
@@ -2666,13 +2611,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Sábado de la V semana de Cuaresma
+DESCRIPTION:La Palabra de mañana: El tiempo de Cuaresma
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Domingo de Ramos en la Pasión del Señor
@@ -2693,10 +2638,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-SUMMARY:Monday of Holy Week
+SUMMARY:La Semana Santa y el Triduo pascual
 DESCRIPTION:Monday of Holy Week\nIsaiah 42:1–7 · Psalm 27:1\, 2\, 3\, 
  13–14 · John 12:1–11\nThe Servant of the Lord is gentle: he does no
  t break the bruised reed.\n\nLea y ore: https://daily-word-reflections.g
@@ -2705,16 +2650,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Monday of Holy Week
+DESCRIPTION:La Palabra de mañana: La Semana Santa y el Triduo pascual
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-23-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:Tuesday of Holy Week
+SUMMARY:La Semana Santa y el Triduo pascual
 DESCRIPTION:Tuesday of Holy Week\nIsaiah 49:1–6 · Psalm 71:1–2\, 3
  –4a\, 5–6ab\, 15 and 17 · John 13:21–33\, 36–38\nThe Servant is
   called from the womb and made a light to the nations.\n\nLea y ore: htt
@@ -2723,16 +2668,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Tuesday of Holy Week
+DESCRIPTION:La Palabra de mañana: La Semana Santa y el Triduo pascual
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:Wednesday of Holy Week
+SUMMARY:La Semana Santa y el Triduo pascual
 DESCRIPTION:Wednesday of Holy Week\nIsaiah 50:4–9a · Psalm 69:7–9\, 
  20–21\, 30 and 32–33 · Matthew 26:14–25\nThe Servant listens to G
  od every morning and does not turn back from suffering.\n\nLea y ore: ht
@@ -2741,16 +2686,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Wednesday of Holy Week
+DESCRIPTION:La Palabra de mañana: La Semana Santa y el Triduo pascual
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-SUMMARY:Holy Thursday: Evening Mass of the Lord's Supper
+SUMMARY:La Semana Santa y el Triduo pascual
 DESCRIPTION:Holy Thursday: Evening Mass of the Lord's Supper\nExodus 12:1
  –8\, 11–14 · Psalm 116:12–13\, 15–16bc\, 17–18 · 1 Corinthia
  ns 11:23–26 · John 13:1–15\nJesus\, our Passover Lamb\, gives his B
@@ -2760,17 +2705,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Holy Thursday: Evening Mass of the Lor
- d's Supper
+DESCRIPTION:La Palabra de mañana: La Semana Santa y el Triduo pascual
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-SUMMARY:Friday of the Passion of the Lord (Good Friday)
+SUMMARY:La Semana Santa y el Triduo pascual
 DESCRIPTION:Friday of the Passion of the Lord (Good Friday)\nIsaiah 52:13
  –53:12 · Psalm 31:1\, 5\, 11–12\, 14–15\, 16\, 24 · Hebrews 4:14
  –16\; 5:7–9 · John 18:1–19:42\nThe Suffering Servant was wounded 
@@ -2780,17 +2724,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Friday of the Passion of the Lord (Goo
- d Friday)
+DESCRIPTION:La Palabra de mañana: La Semana Santa y el Triduo pascual
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-SUMMARY:Holy Saturday · The Easter Vigil in the Holy Night
+SUMMARY:The Easter Vigil in the Holy Night
 DESCRIPTION:Holy Saturday · The Easter Vigil in the Holy Night\nGenesis 
  1:1–2:2 (or 1:1\, 26–31a)\; Psalm 104 (or Psalm 33) · Genesis 22:1
  –18 (or 22:1–2\, 9a\, 10–13\, 15–18)\; Psalm 16 · Exodus 14:15
@@ -2806,14 +2749,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Holy Saturday · The Easter Vigil in t
- he Holy Night
+DESCRIPTION:La Palabra de mañana: The Easter Vigil in the Holy Night
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Easter Sunday of the Resurrection of the Lord
@@ -2834,10 +2776,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:Monday within the Octave of Easter
+SUMMARY:El tiempo de Pascua
 DESCRIPTION:Monday within the Octave of Easter\nActs 2:14\, 22–33 · Ps
  alm 16:1–2a\, 5\, 7–8\, 9–10\, 11 · Matthew 28:8–15\nPeter: God
   raised Jesus up\; death could not hold him\; we are all witnesses.\n\nL
@@ -2847,16 +2789,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Monday within the Octave of Easter
+DESCRIPTION:La Palabra de mañana: El tiempo de Pascua
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:Tuesday within the Octave of Easter
+SUMMARY:El tiempo de Pascua
 DESCRIPTION:Tuesday within the Octave of Easter\nActs 2:36–41 · Psalm 
  33:4–5\, 18–19\, 20 and 22 · John 20:11–18\nCut to the heart\, th
  e crowd asked: What should we do? Peter: repent and be baptized.\n\nLea 
@@ -2865,16 +2807,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Tuesday within the Octave of Easter
+DESCRIPTION:La Palabra de mañana: El tiempo de Pascua
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-lat-es@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-SUMMARY:Wednesday within the Octave of Easter
+SUMMARY:El tiempo de Pascua
 DESCRIPTION:Wednesday within the Octave of Easter\nActs 3:1–10 · Psalm
   105:1–2\, 3–4\, 6–7\, 8–9 · Luke 24:13–35\nPeter healed the 
  lame man: what I have I give you\; in the name of Jesus\, walk.\n\nLea y
@@ -2883,7 +2825,7 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=lat&l=es
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:La Palabra de mañana: Wednesday within the Octave of Easter
+DESCRIPTION:La Palabra de mañana: El tiempo de Pascua
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT

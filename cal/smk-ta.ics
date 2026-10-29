@@ -6,11 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:அனுதின இறைவார்த்தை · Syro
  -Malankara
 X-WR-TIMEZONE:Asia/Kolkata
+X-APPLE-CALENDAR-COLOR:#2C4677
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:2026-11-01-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறு · தி
@@ -41,11 +42,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் திங்கள்
+SUMMARY:கூதோஷ் ஈத்தோ\, ஹூதோஷ் ஈத்
+ தோ
 DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் திங்கள்\n1 தெசலோனி
  க்கர் 4:1–8 · மத்தேயு 5:1–12\nநம் த
@@ -58,19 +59,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: கூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் திங்கள்
+ ோஷ் ஈத்தோ\, ஹூதோஷ் ஈத்தோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் செவ்வாய் · நிசேயாவி
- ன் 318 தந்தையர்
+SUMMARY:நிசேயாவின் 318 தந்தையர்
 DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் செவ்வாய் · நிசேயா
  வின் 318 தந்தையர்\nஎபிரேயர் 13:7
@@ -84,20 +82,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் செவ்வாய் · நிசேயாவின் 318 த
- ந்தையர்
+DESCRIPTION:நாளைய இறைவார்த்தை: நிச
+ ேயாவின் 318 தந்தையர்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் புதன்
+SUMMARY:கூதோஷ் ஈத்தோ\, ஹூதோஷ் ஈத்
+ தோ
 DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் புதன்\n1 கொரிந்திய
  ர் 4:6–14 · லூக்கா 6:37–42\nநம்மிடம
@@ -109,18 +105,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: கூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் புதன்
+ ோஷ் ஈத்தோ\, ஹூதோஷ் ஈத்தோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் வியாழன்
+SUMMARY:கூதோஷ் ஈத்தோ\, ஹூதோஷ் ஈத்
+ தோ
 DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் வியாழன்\nஎபிரேயர
  ் 12:4–11 · யோவான் 5:19–23\nகடவுள் தா
@@ -134,18 +129,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: கூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் வியாழன்
+ ோஷ் ஈத்தோ\, ஹூதோஷ் ஈத்தோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் வெள்ளி
+SUMMARY:கூதோஷ் ஈத்தோ\, ஹூதோஷ் ஈத்
+ தோ
 DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் வெள்ளி\n1 திமொத்தே
  யு 6:17–19 · லூக்கா 7:36–50\nசெல்வத்
@@ -158,19 +152,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: கூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் வெள்ளி
+ ோஷ் ஈத்தோ\, ஹூதோஷ் ஈத்தோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் சனி · மெலித்தேனின் 33
-  மறைசாட்சிகள்
+SUMMARY:மெலித்தேனின் 33 மறைசாட்ச
+ ிகள்
 DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் சனி · மெலித்தேனின
  ் 33 மறைசாட்சிகள்\n1 கொரிந்தி
@@ -183,16 +175,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் சனி · மெலித்தேனின் 33 மறைசா
- ட்சிகள்
+DESCRIPTION:நாளைய இறைவார்த்தை: மெல
+ ித்தேனின் 33 மறைசாட்சிகள்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறு · தி
@@ -221,12 +211,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் திங்கள் · தூய தியடோ
- ர்
+SUMMARY:தூய தியடோர்
 DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் திங்கள் · தூய திய
  டோர்\nஎபிரேயர் 4:6–11 · மத்தேயு
@@ -238,21 +226,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் திங்கள் · தூய தியடோர்
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ தியடோர்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் செவ்வாய் · சாமுவேல்
-  இறைவாக்கினர்\; திருத்தந்த
- ை தூய பெரிய லியோ
+SUMMARY:சாமுவேல் இறைவாக்கினர்\; 
+ திருத்தந்தை தூய பெரிய லியோ
 DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் செவ்வாய் · சாமுவே
  ல் இறைவாக்கினர்\; திருத்தந
@@ -266,21 +251,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் செவ்வாய் · சாமுவேல் இறைவா
- க்கினர்\; திருத்தந்தை தூய ப
- ெரிய லியோ
+DESCRIPTION:நாளைய இறைவார்த்தை: சாம
+ ுவேல் இறைவாக்கினர்\; திருத
+ ்தந்தை தூய பெரிய லியோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் புதன்
+SUMMARY:கூதோஷ் ஈத்தோ\, ஹூதோஷ் ஈத்
+ தோ
 DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் புதன்\nஎபேசியர் 2:14
  –22 · மத்தேயு 9:14–17\nகிறிஸ்து ப
@@ -292,20 +275,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் புதன்
+DESCRIPTION:நாளைய இறைவார்த்தை: கூத
+ ோஷ் ஈத்தோ\, ஹூதோஷ் ஈத்தோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் வியாழன் · அலெக்சாந்
- திரியாவின் மார் யோவான்
+SUMMARY:அலெக்சாந்திரியாவின் மா
+ ர் யோவான்
 DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் வியாழன் · அலெக்சா
  ந்திரியாவின் மார் யோவான்\n
@@ -318,22 +299,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் வியாழன் · அலெக்சாந்திரிய
- ாவின் மார் யோவான்
+DESCRIPTION:நாளைய இறைவார்த்தை: அலெ
+ க்சாந்திரியாவின் மார் யோவ
+ ான்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் வெள்ளி · பொன்வாய் ம
- ார் இவானியோஸ் (தூய யோவான் க
- ிறிசோஸ்தோம்)
+SUMMARY:பொன்வாய் மார் இவானியோஸ்
+  (தூய யோவான் கிறிசோஸ்தோம்)
 DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் வெள்ளி · பொன்வாய்
   மார் இவானியோஸ் (தூய யோவான் 
@@ -347,22 +325,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் வெள்ளி · பொன்வாய் மார் இவ
- ானியோஸ் (தூய யோவான் கிறிசோ
- ஸ்தோம்)
+DESCRIPTION:நாளைய இறைவார்த்தை: பொன
+ ்வாய் மார் இவானியோஸ் (தூய ய
+ ோவான் கிறிசோஸ்தோம்)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
- ப் பின் சனி · மார் பீலிப்போ
- ஸ் திருத்தூதர்
+SUMMARY:மார் பீலிப்போஸ் திருத்த
+ ூதர்
 DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
  குப் பின் சனி · மார் பீலிப்
  போஸ் திருத்தூதர்\n1 கொரிந்த
@@ -376,16 +351,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
- ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
- ் சனி · மார் பீலிப்போஸ் திர
- ுத்தூதர்
+DESCRIPTION:நாளைய இறைவார்த்தை: மார
+ ் பீலிப்போஸ் திருத்தூதர்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:சக்கரியாவுக்கு அறிவிக்
@@ -414,13 +387,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:சக்கரியாவுக்கு மங்கள வா
- ர்த்தை ஞாயிறுக்குப் பின் த
- ிங்கள் · மார் மத்தேயு திருத
- ்தூதர்
+SUMMARY:மார் மத்தேயு திருத்தூதர
+ ்
 DESCRIPTION:சக்கரியாவுக்கு மங்கள 
  வார்த்தை ஞாயிறுக்குப் பின
  ் திங்கள் · மார் மத்தேயு தி
@@ -434,22 +405,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: சக்
- கரியாவுக்கு மங்கள வார்த்த
- ை ஞாயிறுக்குப் பின் திங்கள
- ் · மார் மத்தேயு திருத்தூதர
- ்
+DESCRIPTION:நாளைய இறைவார்த்தை: மார
+ ் மத்தேயு திருத்தூதர்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:சக்கரியாவுக்கு மங்கள வா
- ர்த்தை ஞாயிறுக்குப் பின் ச
- ெவ்வாய்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:சக்கரியாவுக்கு மங்கள 
  வார்த்தை ஞாயிறுக்குப் பின
  ் செவ்வாய்\nஉரோமையர் 11:17–24 · ம
@@ -463,21 +430,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: சக்
- கரியாவுக்கு மங்கள வார்த்த
- ை ஞாயிறுக்குப் பின் செவ்வா
- ய்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:சக்கரியாவுக்கு மங்கள வா
- ர்த்தை ஞாயிறுக்குப் பின் ப
- ுதன்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:சக்கரியாவுக்கு மங்கள 
  வார்த்தை ஞாயிறுக்குப் பின
  ் புதன்\n2 திமொத்தேயு 4:19–22 · ம
@@ -491,20 +456,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: சக்
- கரியாவுக்கு மங்கள வார்த்த
- ை ஞாயிறுக்குப் பின் புதன்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:சக்கரியாவுக்கு மங்கள வா
- ர்த்தை ஞாயிறுக்குப் பின் வ
- ியாழன்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:சக்கரியாவுக்கு மங்கள 
  வார்த்தை ஞாயிறுக்குப் பின
  ் வியாழன்\nஎபேசியர் 6:1–4 · மத்
@@ -516,21 +480,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: சக்
- கரியாவுக்கு மங்கள வார்த்த
- ை ஞாயிறுக்குப் பின் வியாழன
- ்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:சக்கரியாவுக்கு மங்கள வா
- ர்த்தை ஞாயிறுக்குப் பின் வ
- ெள்ளி
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:சக்கரியாவுக்கு மங்கள 
  வார்த்தை ஞாயிறுக்குப் பின
  ் வெள்ளி\nஉரோமையர் 10:5–13 · மத்
@@ -542,15 +504,15 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: சக்
- கரியாவுக்கு மங்கள வார்த்த
- ை ஞாயிறுக்குப் பின் வெள்ளி
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:கடவுளின் தாய் மரியா கோவ
@@ -576,7 +538,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:கடவுளின் தாய் மரியாவுக்
@@ -607,14 +569,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:கடவுளின் தாய் மரியாவுக்
- கு மங்கள வார்த்தை ஞாயிறுக்
- குப் பின் திங்கள் · திருத்த
- ந்தை தூய கிளமெந்து\; தூய பெல
- ிசிட்டி
+SUMMARY:திருத்தந்தை தூய கிளமெந்
+ து\; தூய பெலிசிட்டி
 DESCRIPTION:கடவுளின் தாய் மரியாவு
  க்கு மங்கள வார்த்தை ஞாயிறு
  க்குப் பின் திங்கள் · திருத
@@ -628,23 +587,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியாவுக்கு மங்
- கள வார்த்தை ஞாயிறுக்குப் ப
- ின் திங்கள் · திருத்தந்தை த
- ூய கிளமெந்து\; தூய பெலிசிட்
- டி
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுத்தந்தை தூய கிளமெந்து\; தூ
+ ய பெலிசிட்டி
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:கடவுளின் தாய் மரியாவுக்
- கு மங்கள வார்த்தை ஞாயிறுக்
- குப் பின் செவ்வாய்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:கடவுளின் தாய் மரியாவு
  க்கு மங்கள வார்த்தை ஞாயிறு
  க்குப் பின் செவ்வாய்\nதீத்
@@ -657,21 +612,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியாவுக்கு மங்
- கள வார்த்தை ஞாயிறுக்குப் ப
- ின் செவ்வாய்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:கடவுளின் தாய் மரியாவுக்
- கு மங்கள வார்த்தை ஞாயிறுக்
- குப் பின் புதன்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:கடவுளின் தாய் மரியாவு
  க்கு மங்கள வார்த்தை ஞாயிறு
  க்குப் பின் புதன்\nபிலிப்ப
@@ -685,21 +638,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியாவுக்கு மங்
- கள வார்த்தை ஞாயிறுக்குப் ப
- ின் புதன்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:கடவுளின் தாய் மரியாவுக்
- கு மங்கள வார்த்தை ஞாயிறுக்
- குப் பின் வியாழன்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:கடவுளின் தாய் மரியாவு
  க்கு மங்கள வார்த்தை ஞாயிறு
  க்குப் பின் வியாழன்\n1 கொரிந
@@ -713,21 +664,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியாவுக்கு மங்
- கள வார்த்தை ஞாயிறுக்குப் ப
- ின் வியாழன்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:கடவுளின் தாய் மரியாவுக்
- கு மங்கள வார்த்தை ஞாயிறுக்
- குப் பின் வெள்ளி
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:கடவுளின் தாய் மரியாவு
  க்கு மங்கள வார்த்தை ஞாயிறு
  க்குப் பின் வெள்ளி\n2 தெசலோன
@@ -740,22 +689,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியாவுக்கு மங்
- கள வார்த்தை ஞாயிறுக்குப் ப
- ின் வெள்ளி
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:கடவுளின் தாய் மரியாவுக்
- கு மங்கள வார்த்தை ஞாயிறுக்
- குப் பின் சனி · தூய கத்தரீன
- ்
+SUMMARY:தூய கத்தரீன்
 DESCRIPTION:கடவுளின் தாய் மரியாவு
  க்கு மங்கள வார்த்தை ஞாயிறு
  க்குப் பின் சனி · தூய கத்தர
@@ -769,16 +714,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியாவுக்கு மங்
- கள வார்த்தை ஞாயிறுக்குப் ப
- ின் சனி · தூய கத்தரீன்
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ கத்தரீன்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:கடவுளின் தாய் மரியா எலி
@@ -806,13 +749,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:கடவுளின் தாய் மரியா எலி
- சபெத்தைச் சந்தித்த ஞாயிறு
- க்குப் பின் திங்கள் · மார் 
- அந்திரேயா திருத்தூதர்
+SUMMARY:மார் அந்திரேயா திருத்தூ
+ தர்
 DESCRIPTION:கடவுளின் தாய் மரியா எல
  ிசபெத்தைச் சந்தித்த ஞாயிற
  ுக்குப் பின் திங்கள் · மார்
@@ -827,24 +768,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியா எலிசபெத்த
- ைச் சந்தித்த ஞாயிறுக்குப் 
- பின் திங்கள் · மார் அந்திரே
- யா திருத்தூதர்
+DESCRIPTION:நாளைய இறைவார்த்தை: மார
+ ் அந்திரேயா திருத்தூதர்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:கடவுளின் தாய் மரியா எலி
- சபெத்தைச் சந்தித்த ஞாயிறு
- க்குப் பின் செவ்வாய் · இருப
- த்தைந்து நாள் நோன்பு தொடங்
- குகிறது
+SUMMARY:இருபத்தைந்து நாள் நோன்ப
+ ு தொடங்குகிறது
 DESCRIPTION:கடவுளின் தாய் மரியா எல
  ிசபெத்தைச் சந்தித்த ஞாயிற
  ுக்குப் பின் செவ்வாய் · இரு
@@ -858,23 +793,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியா எலிசபெத்த
- ைச் சந்தித்த ஞாயிறுக்குப் 
- பின் செவ்வாய் · இருபத்தைந்
- து நாள் நோன்பு தொடங்குகிறத
- ு
+DESCRIPTION:நாளைய இறைவார்த்தை: இரு
+ பத்தைந்து நாள் நோன்பு தொடங
+ ்குகிறது
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:கடவுளின் தாய் மரியா எலி
- சபெத்தைச் சந்தித்த ஞாயிறு
- க்குப் பின் புதன்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:கடவுளின் தாய் மரியா எல
  ிசபெத்தைச் சந்தித்த ஞாயிற
  ுக்குப் பின் புதன்\nஉரோமைய
@@ -887,22 +818,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியா எலிசபெத்த
- ைச் சந்தித்த ஞாயிறுக்குப் 
- பின் புதன்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:கடவுளின் தாய் மரியா எலி
- சபெத்தைச் சந்தித்த ஞாயிறு
- க்குப் பின் வியாழன் · தூய ப
- ிரான்சிஸ் சவேரியார்
+SUMMARY:தூய பிரான்சிஸ் சவேரியார
+ ்
 DESCRIPTION:கடவுளின் தாய் மரியா எல
  ிசபெத்தைச் சந்தித்த ஞாயிற
  ுக்குப் பின் வியாழன் · தூய 
@@ -916,23 +844,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியா எலிசபெத்த
- ைச் சந்தித்த ஞாயிறுக்குப் 
- பின் வியாழன் · தூய பிரான்சி
- ஸ் சவேரியார்
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ பிரான்சிஸ் சவேரியார்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:கடவுளின் தாய் மரியா எலி
- சபெத்தைச் சந்தித்த ஞாயிறு
- க்குப் பின் வெள்ளி · தமஸ்கு
-  நகரத் தூய யோவான்
+SUMMARY:தமஸ்கு நகரத் தூய யோவான்
 DESCRIPTION:கடவுளின் தாய் மரியா எல
  ிசபெத்தைச் சந்தித்த ஞாயிற
  ுக்குப் பின் வெள்ளி · தமஸ்க
@@ -945,24 +867,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியா எலிசபெத்த
- ைச் சந்தித்த ஞாயிறுக்குப் 
- பின் வெள்ளி · தமஸ்கு நகரத் 
- தூய யோவான்
+DESCRIPTION:நாளைய இறைவார்த்தை: தமஸ
+ ்கு நகரத் தூய யோவான்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:கடவுளின் தாய் மரியா எலி
- சபெத்தைச் சந்தித்த ஞாயிறு
- க்குப் பின் சனி · மார் சாபா\;
-  அலெக்சாந்திரியாவின் தூய க
- ிளமெந்து
+SUMMARY:மார் சாபா\; அலெக்சாந்திர
+ ியாவின் தூய கிளமெந்து
 DESCRIPTION:கடவுளின் தாய் மரியா எல
  ிசபெத்தைச் சந்தித்த ஞாயிற
  ுக்குப் பின் சனி · மார் சாப
@@ -976,18 +892,15 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
- ுளின் தாய் மரியா எலிசபெத்த
- ைச் சந்தித்த ஞாயிறுக்குப் 
- பின் சனி · மார் சாபா\; அலெக்ச
- ாந்திரியாவின் தூய கிளமெந்
- து
+DESCRIPTION:நாளைய இறைவார்த்தை: மார
+ ் சாபா\; அலெக்சாந்திரியாவி
+ ன் தூய கிளமெந்து
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:திருமுழுக்கு யோவானின் ப
@@ -1014,12 +927,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:திருமுழுக்கு யோவானின் ப
- ிறப்பு ஞாயிறுக்குப் பின் த
- ிங்கள் · தூய அம்புரோஸ்
+SUMMARY:தூய அம்புரோஸ்
 DESCRIPTION:திருமுழுக்கு யோவானின்
   பிறப்பு ஞாயிறுக்குப் பின்
   திங்கள் · தூய அம்புரோஸ்\n2 த
@@ -1032,16 +943,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுமுழுக்கு யோவானின் பிறப்ப
- ு ஞாயிறுக்குப் பின் திங்கள
- ் · தூய அம்புரோஸ்
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ அம்புரோஸ்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:கடவுளின் தூய தாயின் அமல 
@@ -1066,12 +975,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:திருமுழுக்கு யோவானின் ப
- ிறப்பு ஞாயிறுக்குப் பின் ப
- ுதன்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:திருமுழுக்கு யோவானின்
   பிறப்பு ஞாயிறுக்குப் பின்
   புதன்\nஎபிரேயர் 1:1–4 · லூக்கா
@@ -1083,22 +991,20 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுமுழுக்கு யோவானின் பிறப்ப
- ு ஞாயிறுக்குப் பின் புதன்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:திருமுழுக்கு யோவானின் ப
- ிறப்பு ஞாயிறுக்குப் பின் வ
- ியாழன் · மார் பெஹ்னாம்\, அவர
- ் சகோதரி சாரா\, நாற்பது மறைச
- ்சாட்சிகள்
+SUMMARY:மார் பெஹ்னாம்\, அவர் சகோத
+ ரி சாரா\, நாற்பது மறைச்சாட்
+ சிகள்
 DESCRIPTION:திருமுழுக்கு யோவானின்
   பிறப்பு ஞாயிறுக்குப் பின்
   வியாழன் · மார் பெஹ்னாம்\, அவ
@@ -1113,23 +1019,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுமுழுக்கு யோவானின் பிறப்ப
- ு ஞாயிறுக்குப் பின் வியாழன
- ் · மார் பெஹ்னாம்\, அவர் சகோத
- ரி சாரா\, நாற்பது மறைச்சாட்
- சிகள்
+DESCRIPTION:நாளைய இறைவார்த்தை: மார
+ ் பெஹ்னாம்\, அவர் சகோதரி சார
+ ா\, நாற்பது மறைச்சாட்சிகள்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:திருமுழுக்கு யோவானின் ப
- ிறப்பு ஞாயிறுக்குப் பின் வ
- ெள்ளி
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:திருமுழுக்கு யோவானின்
   பிறப்பு ஞாயிறுக்குப் பின்
   வெள்ளி\n1 கொரிந்தியர் 16:1–4 · ம
@@ -1142,20 +1044,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுமுழுக்கு யோவானின் பிறப்ப
- ு ஞாயிறுக்குப் பின் வெள்ளி
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:திருமுழுக்கு யோவானின் ப
- ிறப்பு ஞாயிறுக்குப் பின் ச
- னி
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:திருமுழுக்கு யோவானின்
   பிறப்பு ஞாயிறுக்குப் பின்
   சனி\n1 தெசலோனிக்கர் 5:12–22 · மா
@@ -1169,15 +1070,15 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுமுழுக்கு யோவானின் பிறப்ப
- ு ஞாயிறுக்குப் பின் சனி
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:தூய யோசேப்புக்கு வானதூத
@@ -1204,13 +1105,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:தூய யோசேப்புக்கு வானதூத
- ர் தோன்றிய ஞாயிறுக்குப் பி
- ன் திங்கள் · சிலுவையின் தூய
-  யோவான்
+SUMMARY:சிலுவையின் தூய யோவான்
 DESCRIPTION:தூய யோசேப்புக்கு வானத
  ூதர் தோன்றிய ஞாயிறுக்குப் 
  பின் திங்கள் · சிலுவையின் த
@@ -1225,22 +1123,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
- யோசேப்புக்கு வானதூதர் தோன
- ்றிய ஞாயிறுக்குப் பின் திங
- ்கள் · சிலுவையின் தூய யோவான
- ்
+DESCRIPTION:நாளைய இறைவார்த்தை: சில
+ ுவையின் தூய யோவான்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:தூய யோசேப்புக்கு வானதூத
- ர் தோன்றிய ஞாயிறுக்குப் பி
- ன் செவ்வாய்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:தூய யோசேப்புக்கு வானத
  ூதர் தோன்றிய ஞாயிறுக்குப் 
  பின் செவ்வாய்\n1 கொரிந்தியர
@@ -1254,21 +1148,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
- யோசேப்புக்கு வானதூதர் தோன
- ்றிய ஞாயிறுக்குப் பின் செவ
- ்வாய்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:தூய யோசேப்புக்கு வானதூத
- ர் தோன்றிய ஞாயிறுக்குப் பி
- ன் புதன்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:தூய யோசேப்புக்கு வானத
  ூதர் தோன்றிய ஞாயிறுக்குப் 
  பின் புதன்\n2 கொரிந்தியர் 12:7
@@ -1281,21 +1173,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
- யோசேப்புக்கு வானதூதர் தோன
- ்றிய ஞாயிறுக்குப் பின் புத
- ன்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:தூய யோசேப்புக்கு வானதூத
- ர் தோன்றிய ஞாயிறுக்குப் பி
- ன் வியாழன் · மார் ரபூலா
+SUMMARY:மார் ரபூலா
 DESCRIPTION:தூய யோசேப்புக்கு வானத
  ூதர் தோன்றிய ஞாயிறுக்குப் 
  பின் வியாழன் · மார் ரபூலா\nஉ
@@ -1309,22 +1198,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
- யோசேப்புக்கு வானதூதர் தோன
- ்றிய ஞாயிறுக்குப் பின் விய
- ாழன் · மார் ரபூலா
+DESCRIPTION:நாளைய இறைவார்த்தை: மார
+ ் ரபூலா
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:தூய யோசேப்புக்கு வானதூத
- ர் தோன்றிய ஞாயிறுக்குப் பி
- ன் வெள்ளி · மயிலாப்பூர் அற்
- புதச் சிலுவை
+SUMMARY:மயிலாப்பூர் அற்புதச் சி
+ லுவை
 DESCRIPTION:தூய யோசேப்புக்கு வானத
  ூதர் தோன்றிய ஞாயிறுக்குப் 
  பின் வெள்ளி · மயிலாப்பூர் அ
@@ -1338,22 +1223,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
- யோசேப்புக்கு வானதூதர் தோன
- ்றிய ஞாயிறுக்குப் பின் வெள
- ்ளி · மயிலாப்பூர் அற்புதச் 
- சிலுவை
+DESCRIPTION:நாளைய இறைவார்த்தை: மயி
+ லாப்பூர் அற்புதச் சிலுவை
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:தூய யோசேப்புக்கு வானதூத
- ர் தோன்றிய ஞாயிறுக்குப் பி
- ன் சனி
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:தூய யோசேப்புக்கு வானத
  ூதர் தோன்றிய ஞாயிறுக்குப் 
  பின் சனி\nஎபேசியர் 2:14–22 · மத்
@@ -1366,15 +1247,15 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
- யோசேப்புக்கு வானதூதர் தோன
- ்றிய ஞாயிறுக்குப் பின் சனி
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:யல்தோவுக்கு முந்தைய ஞாய
@@ -1401,11 +1282,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-SUMMARY:யல்தோவுக்கு முந்தைய ஞாய
- ிறுக்குப் பின் திங்கள்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:யல்தோவுக்கு முந்தைய ஞ
  ாயிறுக்குப் பின் திங்கள்\n
  உரோமையர் 1:8–15 · யோவான் 1:1–5\nவி
@@ -1417,19 +1298,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: யல்
- தோவுக்கு முந்தைய ஞாயிறுக்
- குப் பின் திங்கள்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:யல்தோவுக்கு முந்தைய ஞாய
- ிறுக்குப் பின் செவ்வாய்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:யல்தோவுக்கு முந்தைய ஞ
  ாயிறுக்குப் பின் செவ்வாய்\
  nகலாத்தியர் 4:8–11 · யோவான் 1:6–9\n
@@ -1441,19 +1322,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: யல்
- தோவுக்கு முந்தைய ஞாயிறுக்
- குப் பின் செவ்வாய்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-SUMMARY:யல்தோவுக்கு முந்தைய ஞாய
- ிறுக்குப் பின் புதன்
+SUMMARY:அறிவிப்புகளின் ஞாயிறுக
+ ள் (சூபோரோ)
 DESCRIPTION:யல்தோவுக்கு முந்தைய ஞ
  ாயிறுக்குப் பின் புதன்\nகொ
  லோசையர் 2:1–5 · யோவான் 1:10–13\nஉலக
@@ -1466,20 +1347,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: யல்
- தோவுக்கு முந்தைய ஞாயிறுக்
- குப் பின் புதன்
+DESCRIPTION:நாளைய இறைவார்த்தை: அறி
+ விப்புகளின் ஞாயிறுகள் (சூப
+ ோரோ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-SUMMARY:யல்தோவுக்கு முந்தைய ஞாய
- ிறுக்குப் பின் வியாழன் · யல
- ்தோ முன்தினம்
+SUMMARY:யல்தோ முன்தினம்
 DESCRIPTION:யல்தோவுக்கு முந்தைய ஞ
  ாயிறுக்குப் பின் வியாழன் · 
  யல்தோ முன்தினம்\nஉரோமையர் 1:
@@ -1493,15 +1372,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: யல்
- தோவுக்கு முந்தைய ஞாயிறுக்
- குப் பின் வியாழன் · யல்தோ ம
- ுன்தினம்
+ தோ முன்தினம்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:யல்தோ · நம் ஆண்டவரின் பி
@@ -1527,7 +1404,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:கடவுளின் தூய தாயின் புக
@@ -1550,7 +1427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:யல்தோவுக்குப் பின் முதல
@@ -1578,12 +1455,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-SUMMARY:யல்தோவுக்குப் பின் முதல
- ் ஞாயிறுக்குப் பின் திங்கள
- ் · தாவீது\, அரசரும் இறைவாக்
+SUMMARY:தாவீது\, அரசரும் இறைவாக்
  கினரும்
 DESCRIPTION:யல்தோவுக்குப் பின் மு
  தல் ஞாயிறுக்குப் பின் திங்
@@ -1598,9 +1473,7 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: யல்
- தோவுக்குப் பின் முதல் ஞாயி
- றுக்குப் பின் திங்கள் · தாவ
+DESCRIPTION:நாளைய இறைவார்த்தை: தாவ
  ீது\, அரசரும் இறைவாக்கினரு
  ம்
 TRIGGER:-PT4H
@@ -1608,12 +1481,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:யல்தோவுக்குப் பின் முதல
- ் ஞாயிறுக்குப் பின் செவ்வா
- ய்
+SUMMARY:யல்தோ
 DESCRIPTION:யல்தோவுக்குப் பின் மு
  தல் ஞாயிறுக்குப் பின் செவ்
  வாய்\nஉரோமையர் 11:25–32 · மத்தேய
@@ -1627,18 +1498,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: யல்
- தோவுக்குப் பின் முதல் ஞாயி
- றுக்குப் பின் செவ்வாய்
+ தோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:யல்தோவுக்குப் பின் முதல
- ் ஞாயிறுக்குப் பின் புதன்
+SUMMARY:யல்தோ
 DESCRIPTION:யல்தோவுக்குப் பின் மு
  தல் ஞாயிறுக்குப் பின் புதன
  ்\nஉரோமையர் 15:7–13 · மத்தேயு 2:19–
@@ -1652,19 +1521,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: யல்
- தோவுக்குப் பின் முதல் ஞாயி
- றுக்குப் பின் புதன்
+ தோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:யல்தோவுக்குப் பின் முதல
- ் ஞாயிறுக்குப் பின் வியாழன
- ் · ஆண்டின் இறுதி நாள்
+SUMMARY:ஆண்டின் இறுதி நாள்
 DESCRIPTION:யல்தோவுக்குப் பின் மு
  தல் ஞாயிறுக்குப் பின் வியா
  ழன் · ஆண்டின் இறுதி நாள்\nஉர
@@ -1677,16 +1543,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: யல்
- தோவுக்குப் பின் முதல் ஞாயி
- றுக்குப் பின் வியாழன் · ஆண்
+DESCRIPTION:நாளைய இறைவார்த்தை: ஆண்
  டின் இறுதி நாள்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:நம் ஆண்டவருக்குப் பெயரி
@@ -1710,12 +1574,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-SUMMARY:புத்தாண்டுக்குப் பின் ச
- னி · மார் பசேலியோஸ்\, மார் கி
- ரிகோரியோஸ்
+SUMMARY:மார் பசேலியோஸ்\, மார் கிர
+ ிகோரியோஸ்
 DESCRIPTION:புத்தாண்டுக்குப் பின்
   சனி · மார் பசேலியோஸ்\, மார் 
  கிரிகோரியோஸ்\n2 திமொத்தேயு 2
@@ -1729,16 +1592,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: புத
- ்தாண்டுக்குப் பின் சனி · மா
- ர் பசேலியோஸ்\, மார் கிரிகோர
- ியோஸ்
+DESCRIPTION:நாளைய இறைவார்த்தை: மார
+ ் பசேலியோஸ்\, மார் கிரிகோரி
+ யோஸ்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:யல்தோவுக்குப் பின் இரண்
@@ -1765,14 +1627,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-SUMMARY:யல்தோவுக்குப் பின் இரண்
- டாம் ஞாயிறுக்குப் பின் திங
- ்கள் · இறைவாக்கினர் மலாக்க
- ி\; தூய குரியாக்கோஸ் ஏலியாஸ
- ் சாவறா
+SUMMARY:இறைவாக்கினர் மலாக்கி\; த
+ ூய குரியாக்கோஸ் ஏலியாஸ் சா
+ வறா
 DESCRIPTION:யல்தோவுக்குப் பின் இர
  ண்டாம் ஞாயிறுக்குப் பின் த
  ிங்கள் · இறைவாக்கினர் மலாக
@@ -1787,24 +1647,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: யல்
- தோவுக்குப் பின் இரண்டாம் ஞ
- ாயிறுக்குப் பின் திங்கள் · 
- இறைவாக்கினர் மலாக்கி\; தூய 
- குரியாக்கோஸ் ஏலியாஸ் சாவற
- ா
+DESCRIPTION:நாளைய இறைவார்த்தை: இறை
+ வாக்கினர் மலாக்கி\; தூய குர
+ ியாக்கோஸ் ஏலியாஸ் சாவறா
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-SUMMARY:யல்தோவுக்குப் பின் இரண்
- டாம் ஞாயிறுக்குப் பின் செவ
- ்வாய் · தென்ஹோ திருவிழிப்ப
- ு
+SUMMARY:தென்ஹோ திருவிழிப்பு
 DESCRIPTION:யல்தோவுக்குப் பின் இர
  ண்டாம் ஞாயிறுக்குப் பின் ச
  ெவ்வாய் · தென்ஹோ திருவிழிப
@@ -1818,16 +1672,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: யல்
- தோவுக்குப் பின் இரண்டாம் ஞ
- ாயிறுக்குப் பின் செவ்வாய் 
- · தென்ஹோ திருவிழிப்பு
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோ திருவிழிப்பு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:தென்ஹோ · நம் ஆண்டவரின் த
@@ -1855,12 +1707,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:தென்ஹோவுக்குப் பின் விய
- ாழன் · தூய திருமுழுக்கு யோவ
- ானின் புகழ்ச்சி
+SUMMARY:தூய திருமுழுக்கு யோவானி
+ ன் புகழ்ச்சி
 DESCRIPTION:தென்ஹோவுக்குப் பின் வ
  ியாழன் · தூய திருமுழுக்கு ய
  ோவானின் புகழ்ச்சி\nஎபேசியர
@@ -1873,21 +1724,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் வியாழன் · 
- தூய திருமுழுக்கு யோவானின் 
- புகழ்ச்சி
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ திருமுழுக்கு யோவானின் புக
+ ழ்ச்சி
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-SUMMARY:தென்ஹோவுக்குப் பின் வெள
- ்ளி · முதல் மறைசாட்சியான மா
- ர் ஸ்தேப்பானோஸ்
+SUMMARY:முதல் மறைசாட்சியான மார்
+  ஸ்தேப்பானோஸ்
 DESCRIPTION:தென்ஹோவுக்குப் பின் வ
  ெள்ளி · முதல் மறைசாட்சியான 
  மார் ஸ்தேப்பானோஸ்\nதிருத்த
@@ -1902,19 +1751,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் வெள்ளி · ம
- ுதல் மறைசாட்சியான மார் ஸ்த
- ேப்பானோஸ்
+DESCRIPTION:நாளைய இறைவார்த்தை: முத
+ ல் மறைசாட்சியான மார் ஸ்தேப
+ ்பானோஸ்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:தென்ஹோவுக்குப் பின் சனி
+SUMMARY:தென்ஹோவும் தென்ஹோவுக்க
+ ுப் பிந்திய ஞாயிறுகளும்
 DESCRIPTION:தென்ஹோவுக்குப் பின் ச
  னி\nஉரோமையர் 3:1–8 · மாற்கு 7:1–8\n
  நம் நம்பிக்கைத் துரோகம் கட
@@ -1927,13 +1776,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் சனி
+ ்ஹோவும் தென்ஹோவுக்குப் பி
+ ந்திய ஞாயிறுகளும்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:தென்ஹோவுக்குப் பின் முத
@@ -1961,13 +1811,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:தென்ஹோவுக்குப் பின் முத
- ல் ஞாயிறுக்குப் பின் திங்க
- ள் · நீசாவின் மார் கிரிகோரி
- யோஸ்
+SUMMARY:நீசாவின் மார் கிரிகோரிய
+ ோஸ்
 DESCRIPTION:தென்ஹோவுக்குப் பின் ம
  ுதல் ஞாயிறுக்குப் பின் திங
  ்கள் · நீசாவின் மார் கிரிகோ
@@ -1982,22 +1830,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் முதல் ஞாய
- ிறுக்குப் பின் திங்கள் · நீ
- சாவின் மார் கிரிகோரியோஸ்
+DESCRIPTION:நாளைய இறைவார்த்தை: நீச
+ ாவின் மார் கிரிகோரியோஸ்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:தென்ஹோவுக்குப் பின் முத
- ல் ஞாயிறுக்குப் பின் செவ்வ
- ாய் · மடாதிபதி மார் தேவோதோச
- ியோஸ்
+SUMMARY:மடாதிபதி மார் தேவோதோசிய
+ ோஸ்
 DESCRIPTION:தென்ஹோவுக்குப் பின் ம
  ுதல் ஞாயிறுக்குப் பின் செவ
  ்வாய் · மடாதிபதி மார் தேவோத
@@ -2011,20 +1855,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் முதல் ஞாய
- ிறுக்குப் பின் செவ்வாய் · ம
- டாதிபதி மார் தேவோதோசியோஸ்
+DESCRIPTION:நாளைய இறைவார்த்தை: மடா
+ திபதி மார் தேவோதோசியோஸ்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:தென்ஹோவுக்குப் பின் முத
- ல் ஞாயிறுக்குப் பின் புதன்
+SUMMARY:தென்ஹோவும் தென்ஹோவுக்க
+ ுப் பிந்திய ஞாயிறுகளும்
 DESCRIPTION:தென்ஹோவுக்குப் பின் ம
  ுதல் ஞாயிறுக்குப் பின் புத
  ன்\n1 திமொத்தேயு 2:1–7 · மத்தேய
@@ -2038,20 +1880,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் முதல் ஞாய
- ிறுக்குப் பின் புதன்
+ ்ஹோவும் தென்ஹோவுக்குப் பி
+ ந்திய ஞாயிறுகளும்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:தென்ஹோவுக்குப் பின் முத
- ல் ஞாயிறுக்குப் பின் வியாழ
- ன் · சீனாய் மலையின் நாற்பது
-  மறைசாட்சிகள்\; தூய தேவசகாய
+SUMMARY:சீனாய் மலையின் நாற்பது 
+ மறைசாட்சிகள்\; தூய தேவசகாய
  ம்
 DESCRIPTION:தென்ஹோவுக்குப் பின் ம
  ுதல் ஞாயிறுக்குப் பின் விய
@@ -2067,22 +1907,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் முதல் ஞாய
- ிறுக்குப் பின் வியாழன் · சீ
- னாய் மலையின் நாற்பது மறைசா
- ட்சிகள்\; தூய தேவசகாயம்
+DESCRIPTION:நாளைய இறைவார்த்தை: சீன
+ ாய் மலையின் நாற்பது மறைசாட
+ ்சிகள்\; தூய தேவசகாயம்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:தென்ஹோவுக்குப் பின் முத
- ல் ஞாயிறுக்குப் பின் வெள்ள
- ி · விதைகளுக்கான இறைவனின் த
+SUMMARY:விதைகளுக்கான இறைவனின் த
  ாய் மரியாவின் நினைவு
 DESCRIPTION:தென்ஹோவுக்குப் பின் ம
  ுதல் ஞாயிறுக்குப் பின் வெள
@@ -2097,9 +1933,7 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் முதல் ஞாய
- ிறுக்குப் பின் வெள்ளி · வித
+DESCRIPTION:நாளைய இறைவார்த்தை: வித
  ைகளுக்கான இறைவனின் தாய் மர
  ியாவின் நினைவு
 TRIGGER:-PT4H
@@ -2107,12 +1941,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:தென்ஹோவுக்குப் பின் முத
- ல் ஞாயிறுக்குப் பின் சனி · 
- தூய பேதுருவின் சங்கிலிகள்
+SUMMARY:தூய பேதுருவின் சங்கிலிக
+ ள்
 DESCRIPTION:தென்ஹோவுக்குப் பின் ம
  ுதல் ஞாயிறுக்குப் பின் சனி
   · தூய பேதுருவின் சங்கிலிகள
@@ -2127,16 +1960,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் முதல் ஞாய
- ிறுக்குப் பின் சனி · தூய பே
- துருவின் சங்கிலிகள்
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ பேதுருவின் சங்கிலிகள்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:தென்ஹோவுக்குப் பின் இரண
@@ -2164,13 +1995,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-SUMMARY:தென்ஹோவுக்குப் பின் இரண
- ்டாம் ஞாயிறுக்குப் பின் தி
- ங்கள் · நினிவே மக்களின் நோன
- ்பின் முதல் நாள்
+SUMMARY:நினிவே மக்களின் நோன்பின
+ ் முதல் நாள்
 DESCRIPTION:தென்ஹோவுக்குப் பின் இ
  ரண்டாம் ஞாயிறுக்குப் பின் 
  திங்கள் · நினிவே மக்களின் ந
@@ -2185,24 +2014,20 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் இரண்டாம் 
- ஞாயிறுக்குப் பின் திங்கள் 
- · நினிவே மக்களின் நோன்பின் 
- முதல் நாள்
+DESCRIPTION:நாளைய இறைவார்த்தை: நின
+ ிவே மக்களின் நோன்பின் முதல
+ ் நாள்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:தென்ஹோவுக்குப் பின் இரண
- ்டாம் ஞாயிறுக்குப் பின் செ
- வ்வாய் · நினிவே மக்களின் நோ
- ன்பின் இரண்டாம் நாள் · மார்
-  மக்காரியோஸ்
+SUMMARY:நினிவே மக்களின் நோன்பின
+ ் இரண்டாம் நாள் · மார் மக்க
+ ாரியோஸ்
 DESCRIPTION:தென்ஹோவுக்குப் பின் இ
  ரண்டாம் ஞாயிறுக்குப் பின் 
  செவ்வாய் · நினிவே மக்களின் 
@@ -2218,25 +2043,21 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் இரண்டாம் 
- ஞாயிறுக்குப் பின் செவ்வாய
- ் · நினிவே மக்களின் நோன்பின
- ் இரண்டாம் நாள் · மார் மக்க
- ாரியோஸ்
+DESCRIPTION:நாளைய இறைவார்த்தை: நின
+ ிவே மக்களின் நோன்பின் இரண்
+ டாம் நாள் · மார் மக்காரியோஸ
+ ்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:தென்ஹோவுக்குப் பின் இரண
- ்டாம் ஞாயிறுக்குப் பின் பு
- தன் · நினிவே மக்களின் நோன்ப
- ின் மூன்றாம் நாள் · தூய செப
- ஸ்தியார்
+SUMMARY:நினிவே மக்களின் நோன்பின
+ ் மூன்றாம் நாள் · தூய செபஸ்
+ தியார்
 DESCRIPTION:தென்ஹோவுக்குப் பின் இ
  ரண்டாம் ஞாயிறுக்குப் பின் 
  புதன் · நினிவே மக்களின் நோன
@@ -2252,24 +2073,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் இரண்டாம் 
- ஞாயிறுக்குப் பின் புதன் · ந
- ினிவே மக்களின் நோன்பின் மூ
- ன்றாம் நாள் · தூய செபஸ்தியா
- ர்
+DESCRIPTION:நாளைய இறைவார்த்தை: நின
+ ிவே மக்களின் நோன்பின் மூன்
+ றாம் நாள் · தூய செபஸ்தியார்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-SUMMARY:தென்ஹோவுக்குப் பின் இரண
- ்டாம் ஞாயிறுக்குப் பின் வி
- யாழன் · நினிவே மக்களின் நோன
- ்பின் நிறைவு · தூய ஆக்னஸ்
+SUMMARY:நினிவே மக்களின் நோன்பின
+ ் நிறைவு · தூய ஆக்னஸ்
 DESCRIPTION:தென்ஹோவுக்குப் பின் இ
  ரண்டாம் ஞாயிறுக்குப் பின் 
  வியாழன் · நினிவே மக்களின் ந
@@ -2288,23 +2104,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் இரண்டாம் 
- ஞாயிறுக்குப் பின் வியாழன் 
- · நினிவே மக்களின் நோன்பின் 
- நிறைவு · தூய ஆக்னஸ்
+DESCRIPTION:நாளைய இறைவார்த்தை: நின
+ ிவே மக்களின் நோன்பின் நிறை
+ வு · தூய ஆக்னஸ்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:தென்ஹோவுக்குப் பின் இரண
- ்டாம் ஞாயிறுக்குப் பின் வெ
- ள்ளி · திருத்தூதர் மார் திம
- ோத்தேயோஸ்
+SUMMARY:திருத்தூதர் மார் திமோத்
+ தேயோஸ்
 DESCRIPTION:தென்ஹோவுக்குப் பின் இ
  ரண்டாம் ஞாயிறுக்குப் பின் 
  வெள்ளி · திருத்தூதர் மார் த
@@ -2318,22 +2130,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் இரண்டாம் 
- ஞாயிறுக்குப் பின் வெள்ளி · 
- திருத்தூதர் மார் திமோத்தே
- யோஸ்
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுத்தூதர் மார் திமோத்தேயோஸ
+ ்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:தென்ஹோவுக்குப் பின் இரண
- ்டாம் ஞாயிறுக்குப் பின் சன
- ி
+SUMMARY:தென்ஹோவும் தென்ஹோவுக்க
+ ுப் பிந்திய ஞாயிறுகளும்
 DESCRIPTION:தென்ஹோவுக்குப் பின் இ
  ரண்டாம் ஞாயிறுக்குப் பின் 
  சனி\nஎபிரேயர் 8:1–6 · மத்தேயு 9:3
@@ -2347,14 +2156,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹோவுக்குப் பின் இரண்டாம் 
- ஞாயிறுக்குப் பின் சனி
+ ்ஹோவும் தென்ஹோவுக்குப் பி
+ ந்திய ஞாயிறுகளும்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:கோஹ்னே ஞாயிறு · இறந்த கு
@@ -2382,12 +2191,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
- ் திங்கள் · தூய பவுலின் மனம
- ாற்றம்
+SUMMARY:தூய பவுலின் மனமாற்றம்
 DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
  ின் திங்கள் · தூய பவுலின் ம
  னமாற்றம்\nதிருத்தூதர் பணிக
@@ -2401,20 +2208,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
- ்னே ஞாயிறுக்குப் பின் திங்
- கள் · தூய பவுலின் மனமாற்றம்
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ பவுலின் மனமாற்றம்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
- ் செவ்வாய் · இந்தியக் குடிய
- ரசு நாள்
+SUMMARY:இந்தியக் குடியரசு நாள்
 DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
  ின் செவ்வாய் · இந்தியக் குட
  ியரசு நாள்\n2 கொரிந்தியர் 3:1–
@@ -2427,20 +2231,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
- ்னே ஞாயிறுக்குப் பின் செவ்
- வாய் · இந்தியக் குடியரசு நா
- ள்
+DESCRIPTION:நாளைய இறைவார்த்தை: இந்
+ தியக் குடியரசு நாள்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
- ் புதன்
+SUMMARY:தென்ஹோவும் தென்ஹோவுக்க
+ ுப் பிந்திய ஞாயிறுகளும்
 DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
  ின் புதன்\nஎபேசியர் 5:22–33 · மத
  ்தேயு 5:31–32\nகிறிஸ்துவுக்கு 
@@ -2452,20 +2254,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
- ்னே ஞாயிறுக்குப் பின் புதன
- ்
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவும் தென்ஹோவுக்குப் பி
+ ந்திய ஞாயிறுகளும்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
- ் வியாழன் · தூய தோமா அக்குவ
- ினா
+SUMMARY:தூய தோமா அக்குவினா
 DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
  ின் வியாழன் · தூய தோமா அக்க
  ுவினா\nஎபிரேயர் 13:7–16 · யோவான
@@ -2479,21 +2279,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
- ்னே ஞாயிறுக்குப் பின் வியா
- ழன் · தூய தோமா அக்குவினா
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ தோமா அக்குவினா
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
- ் வெள்ளி · அந்தியோக்கியாவி
- ன் மார் இக்னாத்தியோஸ் நூரோ
- னோ
+SUMMARY:அந்தியோக்கியாவின் மார் 
+ இக்னாத்தியோஸ் நூரோனோ
 DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
  ின் வெள்ளி · அந்தியோக்கியா
  வின் மார் இக்னாத்தியோஸ் நூ
@@ -2507,21 +2304,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
- ்னே ஞாயிறுக்குப் பின் வெள்
- ளி · அந்தியோக்கியாவின் மார
- ் இக்னாத்தியோஸ் நூரோனோ
+DESCRIPTION:நாளைய இறைவார்த்தை: அந்
+ தியோக்கியாவின் மார் இக்னா
+ த்தியோஸ் நூரோனோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
- ் சனி · பாரசீக ஞானியான மார் 
- யாக்கோபு அஃப்ரஹாத்
+SUMMARY:பாரசீக ஞானியான மார் யாக
+ ்கோபு அஃப்ரஹாத்
 DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
  ின் சனி · பாரசீக ஞானியான மா
  ர் யாக்கோபு அஃப்ரஹாத்\n2 கொர
@@ -2535,16 +2330,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
- ்னே ஞாயிறுக்குப் பின் சனி ·
-  பாரசீக ஞானியான மார் யாக்க
- ோபு அஃப்ரஹாத்
+DESCRIPTION:நாளைய இறைவார்த்தை: பார
+ சீக ஞானியான மார் யாக்கோபு 
+ அஃப்ரஹாத்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:அனீதே ஞாயிறு · இறந்த நம்
@@ -2573,11 +2367,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:அனீதே ஞாயிறுக்குப் பின்
-  திங்கள்
+SUMMARY:தென்ஹோவும் தென்ஹோவுக்க
+ ுப் பிந்திய ஞாயிறுகளும்
 DESCRIPTION:அனீதே ஞாயிறுக்குப் பி
  ன் திங்கள்\nகொலோசையர் 1:9–14 · 
  மத்தேயு 6:9–15\nகடவுளின் திருவ
@@ -2590,15 +2384,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: அனீ
- தே ஞாயிறுக்குப் பின் திங்க
- ள்
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவும் தென்ஹோவுக்குப் பி
+ ந்திய ஞாயிறுகளும்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:மாயல்த்தோ · நம் ஆண்டவர் 
@@ -2626,12 +2420,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:அனீதே ஞாயிறுக்குப் பின்
-  புதன் · மார் சிமியோனும் மோ
- ர்த் ஹன்னாவும்
+SUMMARY:மார் சிமியோனும் மோர்த் 
+ ஹன்னாவும்
 DESCRIPTION:அனீதே ஞாயிறுக்குப் பி
  ன் புதன் · மார் சிமியோனும் 
  மோர்த் ஹன்னாவும்\nஎபேசியர்
@@ -2645,21 +2438,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: அனீ
- தே ஞாயிறுக்குப் பின் புதன்
-  · மார் சிமியோனும் மோர்த் ஹ
- ன்னாவும்
+DESCRIPTION:நாளைய இறைவார்த்தை: மார
+ ் சிமியோனும் மோர்த் ஹன்னாவ
+ ும்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:அனீதே ஞாயிறுக்குப் பின்
-  வியாழன் · தூய ஜான் தெ பிரிட
- ்டோ
+SUMMARY:தூய ஜான் தெ பிரிட்டோ
 DESCRIPTION:அனீதே ஞாயிறுக்குப் பி
  ன் வியாழன் · தூய ஜான் தெ பிர
  ிட்டோ\nஉரோமையர் 1:13–17 · மத்தே
@@ -2673,19 +2463,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: அனீ
- தே ஞாயிறுக்குப் பின் வியாழ
- ன் · தூய ஜான் தெ பிரிட்டோ
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ ஜான் தெ பிரிட்டோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-SUMMARY:அனீதே ஞாயிறுக்குப் பின்
-  வெள்ளி
+SUMMARY:தென்ஹோவும் தென்ஹோவுக்க
+ ுப் பிந்திய ஞாயிறுகளும்
 DESCRIPTION:அனீதே ஞாயிறுக்குப் பி
  ன் வெள்ளி\n1 கொரிந்தியர் 10:1–13
   · யோவான் 15:18–25\nகடவுளின் எல்ல
@@ -2698,19 +2487,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: அனீ
- தே ஞாயிறுக்குப் பின் வெள்ள
- ி
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவும் தென்ஹோவுக்குப் பி
+ ந்திய ஞாயிறுகளும்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:அனீதே ஞாயிறுக்குப் பின்
-  சனி
+SUMMARY:தென்ஹோவும் தென்ஹோவுக்க
+ ுப் பிந்திய ஞாயிறுகளும்
 DESCRIPTION:அனீதே ஞாயிறுக்குப் பி
  ன் சனி\n1 திமொத்தேயு 6:17–21 · லூ
  க்கா 12:16–21\nஅறிவற்ற செல்வன் த
@@ -2722,14 +2511,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: அனீ
- தே ஞாயிறுக்குப் பின் சனி
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவும் தென்ஹோவுக்குப் பி
+ ந்திய ஞாயிறுகளும்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:கோத்தினே ஞாயிறு · பெரிய 
@@ -2758,11 +2548,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-SUMMARY:பெரிய நோன்பின் முதல் வா
- ரம்: திங்கள் · சுபுக்கோனோ
+SUMMARY:சுபுக்கோனோ
 DESCRIPTION:பெரிய நோன்பின் முதல் வ
  ாரம்: திங்கள் · சுபுக்கோனோ\n
  தொடக்க நூல் 15:1–6 · எபேசியர் 4:2
@@ -2776,19 +2565,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் வாரம்: தி
- ங்கள் · சுபுக்கோனோ
+DESCRIPTION:நாளைய இறைவார்த்தை: சுப
+ ுக்கோனோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:பெரிய நோன்பின் முதல் வா
- ரம்: செவ்வாய்
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் முதல் வ
  ாரம்: செவ்வாய்\nதொடக்க நூல் 
  15:7–16 · உரோமையர் 8:1–11 · யோவான் 10:
@@ -2802,20 +2590,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் வாரம்: செ
- வ்வாய்
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:பெரிய நோன்பின் முதல் வா
- ரம்: புதன் · சீரோ-மலங்கரா தல
- ைமைப் பேராயர் திருச்சபையி
- ன் ஆண்டு நினைவு
+SUMMARY:சீரோ-மலங்கரா தலைமைப் பே
+ ராயர் திருச்சபையின் ஆண்டு 
+ நினைவு
 DESCRIPTION:பெரிய நோன்பின் முதல் வ
  ாரம்: புதன் · சீரோ-மலங்கரா த
  லைமைப் பேராயர் திருச்சபைய
@@ -2833,21 +2619,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் வாரம்: பு
- தன் · சீரோ-மலங்கரா தலைமைப் 
- பேராயர் திருச்சபையின் ஆண்
- டு நினைவு
+DESCRIPTION:நாளைய இறைவார்த்தை: சீர
+ ோ-மலங்கரா தலைமைப் பேராயர் 
+ திருச்சபையின் ஆண்டு நினைவ
+ ு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:பெரிய நோன்பின் முதல் வா
- ரம்: வியாழன் · லூர்து அன்னை
+SUMMARY:லூர்து அன்னை
 DESCRIPTION:பெரிய நோன்பின் முதல் வ
  ாரம்: வியாழன் · லூர்து அன்ன
  ை\nதொடக்க நூல் 16:1–6 · கொலோசைய
@@ -2862,19 +2646,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் வாரம்: வி
- யாழன் · லூர்து அன்னை
+DESCRIPTION:நாளைய இறைவார்த்தை: லூர
+ ்து அன்னை
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:பெரிய நோன்பின் முதல் வா
- ரம்: வெள்ளி
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் முதல் வ
  ாரம்: வெள்ளி\nதொடக்க நூல் 16:7
  –16 · உரோமையர் 2:12–16 · லூக்கா 12:8
@@ -2889,20 +2672,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் வாரம்: வெ
- ள்ளி
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:பெரிய நோன்பின் முதல் வா
- ரம்: சனி · மார் அப்ரேம்\, மார
- ் தெயோதோர்\; இறைவாக்கினர் ஆ
- காய்
+SUMMARY:மார் அப்ரேம்\, மார் தெயோத
+ ோர்\; இறைவாக்கினர் ஆகாய்
 DESCRIPTION:பெரிய நோன்பின் முதல் வ
  ாரம்: சனி · மார் அப்ரேம்\, மா
  ர் தெயோதோர்\; இறைவாக்கினர் 
@@ -2918,16 +2698,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் வாரம்: சன
- ி · மார் அப்ரேம்\, மார் தெயோத
- ோர்\; இறைவாக்கினர் ஆகாய்
+DESCRIPTION:நாளைய இறைவார்த்தை: மார
+ ் அப்ரேம்\, மார் தெயோதோர்\; இ
+ றைவாக்கினர் ஆகாய்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:கர்போ ஞாயிறு · தொழுநோயாள
@@ -2955,11 +2734,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  வாரம்: திங்கள்
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் வாரம்: திங்கள்\nதொடக்க நூ
  ல் 17:9–14 · கொலோசையர் 4:1–6 · மத்த
@@ -2974,18 +2753,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் வாரம்
- : திங்கள்
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  வாரம்: செவ்வாய்
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் வாரம்: செவ்வாய்\nதொடக்க ந
  ூல் 17:15–22 · எபேசியர் 2:1–10 · மத்
@@ -3001,18 +2779,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் வாரம்
- : செவ்வாய்
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  வாரம்: புதன்
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் வாரம்: புதன்\nதொடக்க நூல்
   17:23–27 · கொலோசையர் 2:1–5 · மத்தேய
@@ -3026,18 +2803,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் வாரம்
- : புதன்
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  வாரம்: வியாழன்
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் வாரம்: வியாழன்\nதொடக்க நூ
  ல் 18:1–8 · 2 கொரிந்தியர் 6:14–18 · ம
@@ -3052,18 +2828,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் வாரம்
- : வியாழன்
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  வாரம்: வெள்ளி · மார் இசஹாக்
+SUMMARY:மார் இசஹாக்
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் வாரம்: வெள்ளி · மார் இசஹா
  க்\nதொடக்க நூல் 18:9–15 · பிலிப்
@@ -3078,19 +2852,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் வாரம்
- : வெள்ளி · மார் இசஹாக்
+DESCRIPTION:நாளைய இறைவார்த்தை: மார
+ ் இசஹாக்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  வாரம்: சனி
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் வாரம்: சனி\nதொடக்க நூல் 18:16
  –21 · தீத்து 3:1–7 · லூக்கா 12:32–34\n
@@ -3106,14 +2879,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் வாரம்
- : சனி
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:ம்ஷாரியோ ஞாயிறு · முடக்க
@@ -3144,13 +2916,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  வாரம்: திங்கள் · அந்தியோக்
- கியாவில் தூய பேதுருவின் ஆட
- ்சிப்பீடம்
+SUMMARY:அந்தியோக்கியாவில் தூய ப
+ ேதுருவின் ஆட்சிப்பீடம்
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் வாரம்: திங்கள் · அந்தியோ
  க்கியாவில் தூய பேதுருவின் 
@@ -3166,22 +2936,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-22&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் வாரம்
- : திங்கள் · அந்தியோக்கியாவி
- ல் தூய பேதுருவின் ஆட்சிப்ப
- ீடம்
+DESCRIPTION:நாளைய இறைவார்த்தை: அந்
+ தியோக்கியாவில் தூய பேதுரு
+ வின் ஆட்சிப்பீடம்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  வாரம்: செவ்வாய் · சிமிர்னா
- வின் தூய பொலிகார்ப்
+SUMMARY:சிமிர்னாவின் தூய பொலிகா
+ ர்ப்
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் வாரம்: செவ்வாய் · சிமிர்
  னாவின் தூய பொலிகார்ப்\nதொட
@@ -3198,22 +2965,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் வாரம்
- : செவ்வாய் · சிமிர்னாவின் த
- ூய பொலிகார்ப்
+DESCRIPTION:நாளைய இறைவார்த்தை: சிம
+ ிர்னாவின் தூய பொலிகார்ப்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  வாரம்: புதன் · திருமுழுக்க
- ு யோவானின் தலை கண்டெடுக்கப
- ்பட்டது
+SUMMARY:திருமுழுக்கு யோவானின் த
+ லை கண்டெடுக்கப்பட்டது
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் வாரம்: புதன் · திருமுழுக
  ்கு யோவானின் தலை கண்டெடுக்
@@ -3230,22 +2993,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் வாரம்
- : புதன் · திருமுழுக்கு யோவா
- னின் தலை கண்டெடுக்கப்பட்ட
- து
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுமுழுக்கு யோவானின் தலை கண்
+ டெடுக்கப்பட்டது
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  வாரம்: வியாழன் · அருளாளர் ர
- ாணி மரியா
+SUMMARY:அருளாளர் ராணி மரியா
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் வாரம்: வியாழன் · அருளாளர
  ் ராணி மரியா\nதொடக்க நூல் 19:23
@@ -3261,20 +3020,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் வாரம்
- : வியாழன் · அருளாளர் ராணி மர
- ியா
+DESCRIPTION:நாளைய இறைவார்த்தை: அரு
+ ளாளர் ராணி மரியா
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  வாரம்: வெள்ளி
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் வாரம்: வெள்ளி\nதொடக்க நூல
  ் 19:30–38 · உரோமையர் 2:1–11 · மத்தே
@@ -3291,18 +3048,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் வாரம்
- : வெள்ளி
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  வாரம்: சனி
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் வாரம்: சனி\nதொடக்க நூல் 20:1
  –7 · உரோமையர் 2:12–16 · லூக்கா 12:8–
@@ -3318,14 +3074,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் வாரம்
- : சனி
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:க்னானோயித்தோ ஞாயிறு · கா
@@ -3355,11 +3110,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-01-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:பெரிய நோன்பின் நான்காம்
-  வாரம்: திங்கள்
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் நான்கா
  ம் வாரம்: திங்கள்\nதொடக்க நூ
  ல் 20:8–18 · 2 தெசலோனிக்கர் 3:16–18 · 
@@ -3375,18 +3130,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் நான்காம் வாரம்
- : திங்கள்
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:பெரிய நோன்பின் நான்காம்
-  வாரம்: செவ்வாய்
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் நான்கா
  ம் வாரம்: செவ்வாய்\nதொடக்க ந
  ூல் 21:1–8 · கலாத்தியர் 3:26–29 · மத
@@ -3402,14 +3156,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் நான்காம் வாரம்
- : செவ்வாய்
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:நோன்பின் நடுநாள் · பெரிய
@@ -3446,11 +3199,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:பெரிய நோன்பின் நான்காம்
-  வாரம்: வியாழன்
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் நான்கா
  ம் வாரம்: வியாழன்\nதொடக்க நூ
  ல் 21:9–14 · 1 கொரிந்தியர் 8:1–6 · ம
@@ -3469,21 +3222,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் நான்காம் வாரம்
- : வியாழன்
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-SUMMARY:பெரிய நோன்பின் நான்காம்
-  வாரம்: வெள்ளி · எங்கள் தலைம
- ைப் பேராயர்-கத்தோலிக்கோஸ் 
- அரியணை ஏறியதன் ஆண்டு நினைவ
- ு
+SUMMARY:எங்கள் தலைமைப் பேராயர்-
+ கத்தோலிக்கோஸ் அரியணை ஏறிய
+ தன் ஆண்டு நினைவு
 DESCRIPTION:பெரிய நோன்பின் நான்கா
  ம் வாரம்: வெள்ளி · எங்கள் தல
  ைமைப் பேராயர்-கத்தோலிக்கோ
@@ -3501,21 +3251,20 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் நான்காம் வாரம்
- : வெள்ளி · எங்கள் தலைமைப் பே
- ராயர்-கத்தோலிக்கோஸ் அரியண
- ை ஏறியதன் ஆண்டு நினைவு
+DESCRIPTION:நாளைய இறைவார்த்தை: எங்
+ கள் தலைமைப் பேராயர்-கத்தோல
+ ிக்கோஸ் அரியணை ஏறியதன் ஆண்
+ டு நினைவு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:பெரிய நோன்பின் நான்காம்
-  வாரம்: சனி
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் நான்கா
  ம் வாரம்: சனி\nதொடக்க நூல் 21:22
  –34 · 1 திமொத்தேயு 4:1–5 · லூக்கா 
@@ -3532,14 +3281,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் நான்காம் வாரம்
- : சனி
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:க்பீப்தோ ஞாயிறு · கூன் வ
@@ -3567,11 +3315,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
- வாரம்: திங்கள்
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
  ் வாரம்: திங்கள்\nதொடக்க நூல
  ் 22:1–8 · 1 கொரிந்தியர் 11:1–10 · லூ
@@ -3587,19 +3335,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் ஐந்தாம் வாரம்: 
- திங்கள்
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
- வாரம்: செவ்வாய் · செபஸ்தேயி
- ன் நாற்பது மறைச்சாட்சிகள்
+SUMMARY:செபஸ்தேயின் நாற்பது மறை
+ ச்சாட்சிகள்
 DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
  ் வாரம்: செவ்வாய் · செபஸ்தே
  யின் நாற்பது மறைச்சாட்சிக
@@ -3617,20 +3363,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் ஐந்தாம் வாரம்: 
- செவ்வாய் · செபஸ்தேயின் நாற
- ்பது மறைச்சாட்சிகள்
+DESCRIPTION:நாளைய இறைவார்த்தை: செப
+ ஸ்தேயின் நாற்பது மறைச்சாட
+ ்சிகள்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-10-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
- வாரம்: புதன்
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
  ் வாரம்: புதன்\nதொடக்க நூல் 22
  :20–24 · 1 திமொத்தேயு 5:17–22 · மத்த
@@ -3646,18 +3391,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் ஐந்தாம் வாரம்: 
- புதன்
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
- வாரம்: வியாழன்
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
  ் வாரம்: வியாழன்\nதொடக்க நூல
  ் 23:1–9 · கொலோசையர் 1:3–6 · மத்தே
@@ -3673,18 +3417,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் ஐந்தாம் வாரம்: 
- வியாழன்
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
- வாரம்: வெள்ளி
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
  ் வாரம்: வெள்ளி\nதொடக்க நூல்
   23:10–16 · எபேசியர் 2:11–22 · மாற்கு 
@@ -3701,18 +3444,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் ஐந்தாம் வாரம்: 
- வெள்ளி
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
- வாரம்: சனி
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
  ் வாரம்: சனி\nதொடக்க நூல் 23:17–
  20 · உரோமையர் 3:27–31 · யோவான் 15:11–1
@@ -3728,14 +3470,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் ஐந்தாம் வாரம்: 
- சனி
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:சாமியோ ஞாயிறு · பார்வையற
@@ -3763,10 +3504,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-SUMMARY:Monday of the sixth week of the Great Fast
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:Monday of the sixth week of the Great Fast\nGenesis 24:1–9 
  · Ephesians 6:18–20 · Mark 11:27–33\nOld Abraham sends his servant
   to find a wife for Isaac\, trusting God to send his angel ahead.\n\nவ
@@ -3777,17 +3519,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Monday of 
- the sixth week of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:Tuesday of the sixth week of the Great Fast
+SUMMARY:பெரிய நோன்பு (வலிய நோம்ப
+ ு)
 DESCRIPTION:Tuesday of the sixth week of the Great Fast\nGenesis 24:10–
  14 · Colossians 1:24–29 · Mark 9:30–32\nAt the well\, Abraham's se
  rvant prays for guidance and asks for a girl with a generous heart.\n\n
@@ -3798,17 +3541,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Tuesday of
-  the sixth week of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (வலிய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:Wednesday of the sixth week of the Great Fast · St Patrick
+SUMMARY:St Patrick
 DESCRIPTION:Wednesday of the sixth week of the Great Fast · St Patrick\n
  Genesis 24:15–27 · Ephesians 5:1–4 · Luke 4:16–19\nRebekah gives
   water to the servant and\, unasked\, to all his camels\; the servant bl
@@ -3819,18 +3562,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Wednesday 
- of the sixth week of the Great Fast · St Patrick
+DESCRIPTION:நாளைய இறைவார்த்தை: St Patrick
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:Thursday of the sixth week of the Great Fast · Mar Cyril of Jeru
- salem
+SUMMARY:Mar Cyril of Jerusalem
 DESCRIPTION:Thursday of the sixth week of the Great Fast · Mar Cyril of 
  Jerusalem\nGenesis 24:28–41 · Colossians 3:12–17 · Matthew 5:13–
  16\nAbraham's servant will not eat until he has told his errand\; he spe
@@ -3841,17 +3582,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Thursday o
- f the sixth week of the Great Fast · Mar Cyril of Jerusalem
+DESCRIPTION:நாளைய இறைவார்த்தை: Mar Cyril 
+ of Jerusalem
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-SUMMARY:The Fortieth Friday · Mar Yauseph (St Joseph)
+SUMMARY:Mar Yauseph (St Joseph)
 DESCRIPTION:The Fortieth Friday · Mar Yauseph (St Joseph)\nMatthew 4:1
  –11 · Genesis 3:1–7 · 2 Samuel 24:18–25 · Jeremiah 7:1–7 · I
  saiah 58:1–8 · 1 Peter 1:13–21 · Romans 14:1–9 · Luke 4:1–13 
@@ -3864,17 +3605,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: The Fortie
- th Friday · Mar Yauseph (St Joseph)
+DESCRIPTION:நாளைய இறைவார்த்தை: Mar Yausep
+ h (St Joseph)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:Lazarus Saturday · The Saturday of the Raising of Lazarus
+SUMMARY:The Saturday of the Raising of Lazarus
 DESCRIPTION:Lazarus Saturday · The Saturday of the Raising of Lazarus\nG
  enesis 24:50–61 · 1 Corinthians 15:20–28 · John 11:28–44\nJesus 
  weeps at the tomb of Lazarus and raises him with a loud cry: “Lazarus\
@@ -3885,14 +3626,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Lazarus Sa
- turday · The Saturday of the Raising of Lazarus
+DESCRIPTION:நாளைய இறைவார்த்தை: The Saturd
+ ay of the Raising of Lazarus
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Hosanna Sunday · The Lord's Entry into Jerusalem
@@ -3914,10 +3655,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-SUMMARY:Hasha Monday · Monday of Passion Week
+SUMMARY:Monday of Passion Week
 DESCRIPTION:Hasha Monday · Monday of Passion Week\nIsaiah 28:5–13 · H
  ebrews 1:10–14 · Matthew 21:23–27\nGod offered his people rest\, bu
  t their leaders would not hear.\n\nவாசித்து இறைவ
@@ -3927,17 +3668,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Hasha Mond
- ay · Monday of Passion Week
+DESCRIPTION:நாளைய இறைவார்த்தை: Monday of 
+ Passion Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-23-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:Hasha Tuesday · Tuesday of Passion Week
+SUMMARY:Tuesday of Passion Week
 DESCRIPTION:Hasha Tuesday · Tuesday of Passion Week\nDeuteronomy 31:14
  –30 · Hebrews 4:1–5 · John 12:27–36\nBefore his death Moses comm
  issioned Joshua: be strong and bold\; I will be with you.\n\nவாச
@@ -3947,17 +3688,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Hasha Tues
- day · Tuesday of Passion Week
+DESCRIPTION:நாளைய இறைவார்த்தை: Tuesday of
+  Passion Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:Hasha Wednesday · Wednesday of Passion Week
+SUMMARY:Wednesday of Passion Week
 DESCRIPTION:Hasha Wednesday · Wednesday of Passion Week\nEzekiel 21:28
  –32 · Hebrews 9:23–28 · Matthew 26:14–16\nJudas\, one of the twe
  lve\, sold Jesus for thirty pieces of silver.\n\nவாசித்த
@@ -3967,14 +3708,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Hasha Wedn
- esday · Wednesday of Passion Week
+DESCRIPTION:நாளைய இறைவார்த்தை: Wednesday 
+ of Passion Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Pesaha · The Lord's Supper
@@ -3995,10 +3736,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-SUMMARY:Good Friday · The Passion and Death of our Lord
+SUMMARY:The Passion and Death of our Lord
 DESCRIPTION:Good Friday · The Passion and Death of our Lord\nReadings of
   the Hours of Good Friday · Matthew 26–27\; Mark 14–15\; Luke 22–
  23\; John 18–19\n“He was wounded for our transgressions.”\n\nவ
@@ -4009,17 +3750,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Good Frida
- y · The Passion and Death of our Lord
+DESCRIPTION:நாளைய இறைவார்த்தை: The Passio
+ n and Death of our Lord
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-SUMMARY:Holy Saturday · The Lord Rests in the Tomb
+SUMMARY:The Lord Rests in the Tomb
 DESCRIPTION:Holy Saturday · The Lord Rests in the Tomb\nAmos 6:10–14 (
  as printed) · Romans 6:1–11 · Matthew 27:62–66\nHoly Saturday: the
   great silence\; the Lord rests in the tomb.\n\nவாசித்து
@@ -4029,14 +3770,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Holy Satur
- day · The Lord Rests in the Tomb
+DESCRIPTION:நாளைய இறைவார்த்தை: The Lord R
+ ests in the Tomb
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Qyomtho · The Resurrection of our Lord
@@ -4057,10 +3798,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:Monday of Hevoro week · Easter Monday
+SUMMARY:Easter Monday
 DESCRIPTION:Monday of Hevoro week · Easter Monday\nRomans 7:1–6 · Mat
  thew 28:11–15\nThe guards were paid to say that the body had been stol
  en\; the tomb was empty because Christ was raised.\n\nவாசித்
@@ -4070,17 +3811,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Monday of 
- Hevoro week · Easter Monday
+DESCRIPTION:நாளைய இறைவார்த்தை: Easter Mon
+ day
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:Tuesday of Hevoro week · Easter Tuesday
+SUMMARY:Easter Tuesday
 DESCRIPTION:Tuesday of Hevoro week · Easter Tuesday\n1 Corinthians 5:6
  –8 · Mark 4:21–25\nChrist our paschal lamb has been sacrificed\; le
  t us keep the feast with sincerity and truth.\n\nவாசித்த
@@ -4090,17 +3831,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Tuesday of
-  Hevoro week · Easter Tuesday
+DESCRIPTION:நாளைய இறைவார்த்தை: Easter Tue
+ sday
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-SUMMARY:Wednesday of Hevoro week · Easter Wednesday
+SUMMARY:Easter Wednesday
 DESCRIPTION:Wednesday of Hevoro week · Easter Wednesday\n1 Timothy 1:18
  –20 · Mark 10:17–27\nPaul charges Timothy: fight the good fight wit
  h faith and a good conscience.\n\nவாசித்து இறைவ
@@ -4110,14 +3851,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=smk&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Wednesday 
- of Hevoro week · Easter Wednesday
+DESCRIPTION:நாளைய இறைவார்த்தை: Easter Wed
+ nesday
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:New Sunday · The Lord Appears to Thomas
@@ -4138,7 +3879,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-11-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Second Sunday after Qyomtho
@@ -4159,7 +3900,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-18-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Third Sunday after Qyomtho · The Road to Emmaus
@@ -4180,7 +3921,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-25-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:Fourth Sunday after Qyomtho
@@ -4201,7 +3942,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-02-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Fifth Sunday after Qyomtho
@@ -4223,7 +3964,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-06-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:Suloko · The Ascension of our Lord
@@ -4244,7 +3985,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-09-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Sixth Sunday after Qyomtho
@@ -4266,7 +4007,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-16-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:The Sunday of Pentecost
@@ -4288,7 +4029,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-23-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:First Sunday after Pentecost
@@ -4309,7 +4050,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-30-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:Second Sunday after Pentecost
@@ -4330,7 +4071,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-06-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:Third Sunday after Pentecost
@@ -4351,7 +4092,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-13-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
 SUMMARY:Fourth Sunday after Pentecost
@@ -4372,7 +4113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-20-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 SUMMARY:Fifth Sunday after Pentecost
@@ -4394,7 +4135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-27-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:Sixth Sunday after Pentecost
@@ -4416,7 +4157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-29-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:Sts Peter and Paul\, Apostles
@@ -4437,7 +4178,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-03-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
 SUMMARY:Dukrono of St Thomas the Apostle
@@ -4459,7 +4200,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-04-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
 SUMMARY:Seventh Sunday after Pentecost
@@ -4481,7 +4222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-11-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
 SUMMARY:Eighth Sunday after Pentecost
@@ -4503,7 +4244,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-15-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
 SUMMARY:Commemoration of Archbishop Mar Ivanios
@@ -4524,7 +4265,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-18-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
 SUMMARY:Ninth Sunday after Pentecost
@@ -4546,7 +4287,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-25-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
 SUMMARY:Tenth Sunday after Pentecost
@@ -4568,7 +4309,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-01-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:Eleventh Sunday after Pentecost · Sunday School Day
@@ -4590,7 +4331,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-06-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
 SUMMARY:The Transfiguration of Our Lord
@@ -4612,7 +4353,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-08-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
 SUMMARY:First Sunday after the Transfiguration
@@ -4633,7 +4374,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-15-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:Shunoyo: the Assumption of Mary\, Mother of God
@@ -4655,7 +4396,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-22-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:Third Sunday after the Transfiguration
@@ -4677,7 +4418,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-29-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 SUMMARY:Fourth Sunday after the Transfiguration
@@ -4699,7 +4440,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-05-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:Fifth Sunday after the Transfiguration
@@ -4720,7 +4461,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-08-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
 SUMMARY:Nativity of Mary\, Mother of God
@@ -4741,7 +4482,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-14-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
 SUMMARY:Exaltation of the Holy Cross (Sleebo)
@@ -4763,7 +4504,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-19-smk-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:First Sunday after Sleebo

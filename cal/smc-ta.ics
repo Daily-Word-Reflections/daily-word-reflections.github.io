@@ -6,11 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:அனுதின இறைவார்த்தை · Syro
  -Malabar
 X-WR-TIMEZONE:Asia/Kolkata
+X-APPLE-CALENDAR-COLOR:#7E2635
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:2026-11-01-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:திருச்சபை அர்ப்பணக் கால
@@ -39,13 +40,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் முதல் திங்கள் · இறந்
- த விசுவாசிகள் அனைவரின் நின
- ைவு
+SUMMARY:இறந்த விசுவாசிகள் அனைவர
+ ின் நினைவு
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் முதல் திங்கள் · இற
  ந்த விசுவாசிகள் அனைவரின் ந
@@ -60,20 +59,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-02&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் முதல் திங்கள் · இறந்த விச
- ுவாசிகள் அனைவரின் நினைவு
+DESCRIPTION:நாளைய இறைவார்த்தை: இறந
+ ்த விசுவாசிகள் அனைவரின் நி
+ னைவு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் முதல் செவ்வாய்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் முதல் செவ்வாய்\n2 க
  ொரிந்தியர் 5:1–5 · லூக்கா 15:11–24\
@@ -86,18 +84,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் முதல் செவ்வாய்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் முதல் புதன்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் முதல் புதன்\n1 பேது
  ரு 5:1–4 · யோவான் 21:15–19\nதிருச்ச
@@ -110,20 +108,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் முதல் புதன்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் முதல் வியாழன் · புனி
- தர்கள் செக்கரியா\, எலிசபெத
- ்து
+SUMMARY:புனிதர்கள் செக்கரியா\, எ
+ லிசபெத்து
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் முதல் வியாழன் · பு
  னிதர்கள் செக்கரியா\, எலிசப
@@ -137,21 +133,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் முதல் வியாழன் · புனிதர்கள
- ் செக்கரியா\, எலிசபெத்து
+DESCRIPTION:நாளைய இறைவார்த்தை: புன
+ ிதர்கள் செக்கரியா\, எலிசபெ
+ த்து
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் முதல் வெள்ளி · முதல்
-  வெள்ளி
+SUMMARY:முதல் வெள்ளி
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் முதல் வெள்ளி · முத
  ல் வெள்ளி\nஎபேசியர் 6:1–9 · மத்
@@ -164,20 +157,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் முதல் வெள்ளி · முதல் வெள்
- ளி
+DESCRIPTION:நாளைய இறைவார்த்தை: முத
+ ல் வெள்ளி
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் முதல் சனி
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் முதல் சனி\nஉரோமைய
  ர் 12:9–18 · லூக்கா 10:25–37\nகேள்வி 
@@ -191,14 +182,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் முதல் சனி
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:திருச்சபை அர்ப்பணக் கால
@@ -224,11 +215,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் இரண்டாம் திங்கள்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் இரண்டாம் திங்கள்\
  nகொலோசையர் 1:12–20 · மத்தேயு 16:13–
@@ -242,18 +233,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் இரண்டாம் திங்கள்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் இரண்டாம் செவ்வாய்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் இரண்டாம் செவ்வாய
  ்\n2 பேதுரு 1:12–21 · லூக்கா 9:28–36\nந
@@ -267,18 +258,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் இரண்டாம் செவ்வாய்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் இரண்டாம் புதன்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் இரண்டாம் புதன்\nத
  ிருவெளிப்பாடு 19:1–10 · மத்தேய
@@ -292,18 +283,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் இரண்டாம் புதன்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் இரண்டாம் வியாழன்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் இரண்டாம் வியாழன்\
  n2 கொரிந்தியர் 11:1–4 · யோவான் 3:22
@@ -317,18 +308,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் இரண்டாம் வியாழன்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் இரண்டாம் வெள்ளி
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் இரண்டாம் வெள்ளி\n2 
  கொரிந்தியர் 12:1–5 · யோவான் 3:31–
@@ -341,18 +332,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் இரண்டாம் வெள்ளி
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் இரண்டாம் சனி
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் இரண்டாம் சனி\nதிர
  ுவெளிப்பாடு 22:1–5 · மத்தேயு 19:1
@@ -366,14 +357,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் இரண்டாம் சனி
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:திருச்சபை அர்ப்பணக் கால
@@ -398,11 +389,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் மூன்றாம் திங்கள்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் மூன்றாம் திங்கள்\
  n1 கொரிந்தியர் 13:1–10 · மாற்கு 12:
@@ -415,18 +406,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் மூன்றாம் திங்கள்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் மூன்றாம் செவ்வாய்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் மூன்றாம் செவ்வாய
  ்\n1 கொரிந்தியர் 4:1–5 · லூக்கா 1
@@ -439,18 +430,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் மூன்றாம் செவ்வாய்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் மூன்றாம் புதன்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் மூன்றாம் புதன்\n1 க
  ொரிந்தியர் 6:1–11 · லூக்கா 16:13–17
@@ -465,18 +456,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் மூன்றாம் புதன்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் மூன்றாம் வியாழன்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் மூன்றாம் வியாழன்\
  nகொலோசையர் 1:3–11 · மத்தேயு 13:10–2
@@ -489,18 +480,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் மூன்றாம் வியாழன்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் மூன்றாம் வெள்ளி
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் மூன்றாம் வெள்ளி\n
  எபிரேயர் 12:4–13 · யோவான் 15:1–8\nஆ
@@ -513,14 +504,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் மூன்றாம் வெள்ளி
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:திருத்தூதர் தூய தோமா இந
@@ -552,7 +543,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:திருச்சபை அர்ப்பணக் கால
@@ -581,11 +572,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் நான்காம் திங்கள்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் நான்காம் திங்கள்\
  nஎபேசியர் 2:14–22 · யோவான் 14:1–14\nத
@@ -598,18 +589,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் நான்காம் திங்கள்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் நான்காம் செவ்வாய்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் நான்காம் செவ்வாய
  ்\n1 பேதுரு 2:1–10 · யோவான் 10:7–16\nத
@@ -623,18 +614,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் நான்காம் செவ்வாய்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் நான்காம் புதன்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் நான்காம் புதன்\nஎ
  பேசியர் 1:3–12 · லூக்கா 1:46–55\nஉல
@@ -648,18 +639,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் நான்காம் புதன்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் நான்காம் வியாழன்
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் நான்காம் வியாழன்\
  nஎபிரேயர் 13:9–16 · லூக்கா 10:17–21\n
@@ -672,18 +663,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் நான்காம் வியாழன்
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் நான்காம் வெள்ளி
+ ம் (குதாஷ் எத்தா)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் நான்காம் வெள்ளி\n
  திருவெளிப்பாடு 7:9–12 · மாற்க
@@ -696,20 +687,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் நான்காம் வெள்ளி
+ ுச்சபை அர்ப்பணக் காலம் (கு
+ தாஷ் எத்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:திருச்சபை அர்ப்பணக் கால
- த்தின் நான்காம் சனி · தூய அ
- ந்திரேயா திருத்தூதர் (முன்
- கூட்டியே)
+SUMMARY:தூய அந்திரேயா திருத்தூத
+ ர் (முன்கூட்டியே)
 DESCRIPTION:திருச்சபை அர்ப்பணக் க
  ாலத்தின் நான்காம் சனி · தூய
   அந்திரேயா திருத்தூதர் (மு
@@ -724,17 +713,15 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: திர
- ுச்சபை அர்ப்பணக் காலத்தின
- ் நான்காம் சனி · தூய அந்திர
- ேயா திருத்தூதர் (முன்கூட்ட
- ியே)
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ அந்திரேயா திருத்தூதர் (முன
+ ்கூட்டியே)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:மங்கள வார்த்தைக் காலத்த
@@ -764,11 +751,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் முதல் திங்கள்
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் முதல் திங்கள்\nகலாத்
  தியர் 3:9–14 · லூக்கா 9:37–43அ\nநம்
@@ -781,18 +768,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மு
- தல் திங்கள்
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் முதல் செவ்வாய்
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் முதல் செவ்வாய்\nஉரோம
  ையர் 13:8–14 · லூக்கா 1:18–20\nதூக்க
@@ -805,18 +792,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மு
- தல் செவ்வாய்
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் முதல் புதன்
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் முதல் புதன்\n1 கொரிந்த
  ியர் 1:4–9 · யோவான் 8:26–30\nகடவுள்
@@ -828,19 +815,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மு
- தல் புதன்
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் முதல் வியாழன் · தூய பிர
- ான்சிஸ் சவேரியார்
+SUMMARY:தூய பிரான்சிஸ் சவேரியார
+ ்
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் முதல் வியாழன் · தூய ப
  ிரான்சிஸ் சவேரியார்\nஇணைச்
@@ -855,21 +841,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மு
- தல் வியாழன் · தூய பிரான்சிஸ
- ் சவேரியார்
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ பிரான்சிஸ் சவேரியார்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் முதல் வெள்ளி · முதல் வெ
- ள்ளி
+SUMMARY:முதல் வெள்ளி
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் முதல் வெள்ளி · முதல் 
  வெள்ளி\nகொலோசையர் 3:1–10 · மத்த
@@ -881,19 +863,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மு
- தல் வெள்ளி · முதல் வெள்ளி
+DESCRIPTION:நாளைய இறைவார்த்தை: முத
+ ல் வெள்ளி
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் முதல் சனி
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் முதல் சனி\nகலாத்தியர
  ் 3:1–9 · லூக்கா 9:57–62\nநம்பிக்கை
@@ -906,14 +887,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மு
- தல் சனி
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:மங்கள வார்த்தைக் காலத்த
@@ -938,12 +919,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் இரண்டாம் திங்கள் · தூய 
- அம்புரோஸ்
+SUMMARY:தூய அம்புரோஸ்
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் இரண்டாம் திங்கள் · தூ
  ய அம்புரோஸ்\nஎபேசியர் 4:13–16 · 
@@ -956,22 +935,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் இர
- ண்டாம் திங்கள் · தூய அம்புர
- ோஸ்
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ அம்புரோஸ்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் இரண்டாம் செவ்வாய் · தூய
-  கன்னி மரியாவின் அமல உற்பவ
- ம்
+SUMMARY:தூய கன்னி மரியாவின் அமல 
+ உற்பவம்
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் இரண்டாம் செவ்வாய் · த
  ூய கன்னி மரியாவின் அமல உற்
@@ -988,20 +963,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-08&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் இர
- ண்டாம் செவ்வாய் · தூய கன்னி
-  மரியாவின் அமல உற்பவம்
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ கன்னி மரியாவின் அமல உற்பவம
+ ்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் இரண்டாம் புதன்
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் இரண்டாம் புதன்\nஎபேச
  ியர் 1:3–12 · லூக்கா 1:34–38\nஉலகம் 
@@ -1015,18 +989,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் இர
- ண்டாம் புதன்
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் இரண்டாம் வியாழன்
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் இரண்டாம் வியாழன்\nஉர
  ோமையர் 12:9–18 · லூக்கா 1:39–45\nபணி
@@ -1039,18 +1013,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் இர
- ண்டாம் வியாழன்
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் இரண்டாம் வெள்ளி
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் இரண்டாம் வெள்ளி\n2 கொர
  ிந்தியர் 8:11–15 · லூக்கா 1:46–56\nம
@@ -1064,18 +1038,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் இர
- ண்டாம் வெள்ளி
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் இரண்டாம் சனி
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் இரண்டாம் சனி\nஎபிரேய
  ர் 3:12–19 · லூக்கா 11:33–36\nஇன்று அ
@@ -1089,14 +1063,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் இர
- ண்டாம் சனி
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:மங்கள வார்த்தைக் காலத்த
@@ -1121,12 +1095,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் மூன்றாம் திங்கள் · சிலு
- வையின் தூய யோவான்
+SUMMARY:சிலுவையின் தூய யோவான்
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் மூன்றாம் திங்கள் · சி
  லுவையின் தூய யோவான்\n1 கொரிந
@@ -1139,20 +1111,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மூ
- ன்றாம் திங்கள் · சிலுவையின
- ் தூய யோவான்
+DESCRIPTION:நாளைய இறைவார்த்தை: சில
+ ுவையின் தூய யோவான்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் மூன்றாம் செவ்வாய்
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் மூன்றாம் செவ்வாய்\nஎ
  பேசியர் 2:1–10 · மத்தேயு 3:1–6\nஅர
@@ -1165,18 +1135,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மூ
- ன்றாம் செவ்வாய்
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் மூன்றாம் புதன்
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் மூன்றாம் புதன்\n1 தெசல
  ோனிக்கர் 2:13–17 · லூக்கா 16:10–13\nவ
@@ -1189,18 +1159,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மூ
- ன்றாம் புதன்
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் மூன்றாம் வியாழன்
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் மூன்றாம் வியாழன்\nகல
  ாத்தியர் 3:26–29 · லூக்கா 1:67–79\nக
@@ -1213,19 +1183,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மூ
- ன்றாம் வியாழன்
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் மூன்றாம் வெள்ளி · மயிலா
- ப்பூர் அற்புதச் சிலுவை
+SUMMARY:மயிலாப்பூர் அற்புதச் சி
+ லுவை
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் மூன்றாம் வெள்ளி · மயி
  லாப்பூர் அற்புதச் சிலுவை\n
@@ -1241,20 +1210,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மூ
- ன்றாம் வெள்ளி · மயிலாப்பூர
- ் அற்புதச் சிலுவை
+DESCRIPTION:நாளைய இறைவார்த்தை: மயி
+ லாப்பூர் அற்புதச் சிலுவை
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் மூன்றாம் சனி
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் மூன்றாம் சனி\nகலாத்த
  ியர் 1:11–17 · யோவான் 3:31–36\nநாம் ப
@@ -1267,14 +1234,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் மூ
- ன்றாம் சனி
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:மங்கள வார்த்தைக் காலத்த
@@ -1299,11 +1266,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் நான்காம் திங்கள்
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் நான்காம் திங்கள்\nஎப
  ேசியர் 6:18–20 · யோவான் 1:1–5\nபெத்
@@ -1316,18 +1283,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் நா
- ன்காம் திங்கள்
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் நான்காம் செவ்வாய்
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் நான்காம் செவ்வாய்\nக
  லாத்தியர் 4:1–7 · யோவான் 1:6–13\nக
@@ -1341,18 +1308,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் நா
- ன்காம் செவ்வாய்
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் நான்காம் புதன்
+SUMMARY:மங்கள வார்த்தைக் காலம் (
+ சுவாறா)
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் நான்காம் புதன்\n\nகுழந
  ்தைக்கு எசாயா தரும் பெயர்க
@@ -1365,20 +1332,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் நா
- ன்காம் புதன்
+ கள வார்த்தைக் காலம் (சுவாற
+ ா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-SUMMARY:மங்கள வார்த்தைக் காலத்த
- ின் நான்காம் வியாழன் · கிறி
- ஸ்து பிறப்புத் திருவிழிப்
- பு
+SUMMARY:கிறிஸ்து பிறப்புத் திரு
+ விழிப்பு
 DESCRIPTION:மங்கள வார்த்தைக் காலத
  ்தின் நான்காம் வியாழன் · கி
  றிஸ்து பிறப்புத் திருவிழி
@@ -1391,16 +1356,15 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: மங்
- கள வார்த்தைக் காலத்தின் நா
- ன்காம் வியாழன் · கிறிஸ்து ப
- ிறப்புத் திருவிழிப்பு
+DESCRIPTION:நாளைய இறைவார்த்தை: கிற
+ ிஸ்து பிறப்புத் திருவிழிப
+ ்பு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:கிறிஸ்து பிறப்பு: நம் ஆண
@@ -1428,12 +1392,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-SUMMARY:பிறப்புக் காலத்தின் முத
- ல் சனி · முதல் மறைசாட்சி தூ
- ய ஸ்தேவான்
+SUMMARY:முதல் மறைசாட்சி தூய ஸ்த
+ ேவான்
 DESCRIPTION:பிறப்புக் காலத்தின் ம
  ுதல் சனி · முதல் மறைசாட்சி 
  தூய ஸ்தேவான்\nதிருத்தூதர் 
@@ -1447,16 +1410,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-26&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பிற
- ப்புக் காலத்தின் முதல் சனி
-  · முதல் மறைசாட்சி தூய ஸ்தே
- வான்
+DESCRIPTION:நாளைய இறைவார்த்தை: முத
+ ல் மறைசாட்சி தூய ஸ்தேவான்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:பிறப்புக் காலத்தின் முத
@@ -1486,13 +1447,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-SUMMARY:பிறப்புக் காலத்தின் முத
- ல் திங்கள் · திருக்குழந்தை
- ப் பருவ நாள் (மாசில்லாக் கு
- ழந்தைகள்)
+SUMMARY:திருக்குழந்தைப் பருவ நா
+ ள் (மாசில்லாக் குழந்தைகள்)
 DESCRIPTION:பிறப்புக் காலத்தின் ம
  ுதல் திங்கள் · திருக்குழந்
  தைப் பருவ நாள் (மாசில்லாக் 
@@ -1508,21 +1467,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பிற
- ப்புக் காலத்தின் முதல் திங
- ்கள் · திருக்குழந்தைப் பரு
- வ நாள் (மாசில்லாக் குழந்தை
- கள்)
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுக்குழந்தைப் பருவ நாள் (மா
+ சில்லாக் குழந்தைகள்)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:பிறப்புக் காலத்தின் முத
- ல் செவ்வாய்
+SUMMARY:பிறப்புக் காலம் (யல்தா)
 DESCRIPTION:பிறப்புக் காலத்தின் ம
  ுதல் செவ்வாய்\nகலாத்தியர் 6:
  1–10 · லூக்கா 2:41–52\nசிறுவயதிலி
@@ -1536,18 +1492,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பிற
- ப்புக் காலத்தின் முதல் செவ
- ்வாய்
+ ப்புக் காலம் (யல்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:பிறப்புக் காலத்தின் முத
- ல் புதன்
+SUMMARY:பிறப்புக் காலம் (யல்தா)
 DESCRIPTION:பிறப்புக் காலத்தின் ம
  ுதல் புதன்\n2 கொரிந்தியர் 12:6
  –10 · யோவான் 6:16–24\nவலுவின்மையி
@@ -1560,19 +1514,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பிற
- ப்புக் காலத்தின் முதல் புத
- ன்
+ ப்புக் காலம் (யல்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:பிறப்புக் காலத்தின் முத
- ல் வியாழன் · ஆண்டின் இறுதி 
- நாள்
+SUMMARY:ஆண்டின் இறுதி நாள்
 DESCRIPTION:பிறப்புக் காலத்தின் ம
  ுதல் வியாழன் · ஆண்டின் இறுத
  ி நாள்\nலேவியர் 6:1–7 · ஞானம் 5:7
@@ -1586,15 +1537,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பிற
- ப்புக் காலத்தின் முதல் விய
- ாழன் · ஆண்டின் இறுதி நாள்
+DESCRIPTION:நாளைய இறைவார்த்தை: ஆண்
+ டின் இறுதி நாள்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:இயேசுவின் திருப்பெயர் (
@@ -1623,11 +1573,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-SUMMARY:பிறப்புக் காலத்தின் முத
- ல் சனி
+SUMMARY:பிறப்புக் காலம் (யல்தா)
 DESCRIPTION:பிறப்புக் காலத்தின் ம
  ுதல் சனி\n1 கொரிந்தியர் 2:11–15 ·
   லூக்கா 12:35–40\nகடவுளின் ஆழங்க
@@ -1642,13 +1591,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பிற
- ப்புக் காலத்தின் முதல் சனி
+ ப்புக் காலம் (யல்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:தென்ஹா காலத்தின் முதல் 
@@ -1677,11 +1626,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-SUMMARY:தென்ஹா காலத்தின் முதல் 
- திங்கள்
+SUMMARY:பிறப்புக் காலம் (யல்தா)
 DESCRIPTION:தென்ஹா காலத்தின் முதல
  ் திங்கள்\n1 யோவான் 5:1–5 · யோவா
  ன் 5:19–23\nஇயேசுவே மெசியா என்ற
@@ -1693,20 +1641,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் முதல் திங்கள
- ்
+DESCRIPTION:நாளைய இறைவார்த்தை: பிற
+ ப்புக் காலம் (யல்தா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-SUMMARY:தென்ஹா காலத்தின் முதல் 
- செவ்வாய் · தென்ஹா திருவிழி
- ப்பு
+SUMMARY:தென்ஹா திருவிழிப்பு
 DESCRIPTION:தென்ஹா காலத்தின் முதல
  ் செவ்வாய் · தென்ஹா திருவிழ
  ிப்பு\nதீத்து 3:8–11 · லூக்கா 13:23
@@ -1720,14 +1665,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் முதல் செவ்வா
- ய் · தென்ஹா திருவிழிப்பு
+ ்ஹா திருவிழிப்பு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:தென்ஹா · நம் ஆண்டவரின் த
@@ -1754,11 +1698,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:தென்ஹா காலத்தின் முதல் 
- வியாழன்
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் முதல
  ் வியாழன்\n1 கொரிந்தியர் 2:6–10 
  · லூக்கா 7:11–17\nகடவுளின் ஞானம
@@ -1771,20 +1715,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் முதல் வியாழன
- ்
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-SUMMARY:தென்ஹா காலத்தின் முதல் 
- வெள்ளி · திருமுழுக்கு யோவா
- னின் நினைவு
+SUMMARY:திருமுழுக்கு யோவானின் ந
+ ினைவு
 DESCRIPTION:தென்ஹா காலத்தின் முதல
  ் வெள்ளி · திருமுழுக்கு யோவ
  ானின் நினைவு\nஎசாயா 40:1–8 · தி
@@ -1798,20 +1740,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் முதல் வெள்ளி
-  · திருமுழுக்கு யோவானின் நி
- னைவு
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுமுழுக்கு யோவானின் நினைவு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:தென்ஹா காலத்தின் முதல் 
- சனி
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் முதல
  ் சனி\nஉரோமையர் 9:30–33 · யோவான் 
  10:31–39\nஇறைவனுக்கு ஏற்புடைமை 
@@ -1824,14 +1764,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் முதல் சனி
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:தென்ஹா காலத்தின் இரண்டா
@@ -1857,11 +1797,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:தென்ஹா காலத்தின் இரண்டா
- ம் திங்கள்
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் இரண்
  டாம் திங்கள்\n1 கொரிந்தியர் 
  11:17–22 · யோவான் 17:20–26\nநம்பிக்கை
@@ -1874,19 +1814,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் இரண்டாம் திங
- ்கள்
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:தென்ஹா காலத்தின் இரண்டா
- ம் செவ்வாய்
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் இரண்
  டாம் செவ்வாய்\n1 கொரிந்தியர
  ் 12:12–18 · யோவான் 15:1–10\nகிறிஸ்து
@@ -1898,19 +1837,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் இரண்டாம் செவ
- ்வாய்
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:தென்ஹா காலத்தின் இரண்டா
- ம் புதன்
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் இரண்
  டாம் புதன்\nஎபேசியர் 2:11–19 · ய
  ோவான் 21:15–19\nஒருகாலத்தில் தொ
@@ -1924,19 +1862,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் இரண்டாம் புத
- ன்
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:தென்ஹா காலத்தின் இரண்டா
- ம் வியாழன் · தூய தேவசகாயம்
+SUMMARY:தூய தேவசகாயம்
 DESCRIPTION:தென்ஹா காலத்தின் இரண்
  டாம் வியாழன் · தூய தேவசகாயம
  ்\n1 பேதுரு 5:5–9 · மாற்கு 4:35–41\nஇ
@@ -1949,20 +1885,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் இரண்டாம் விய
- ாழன் · தூய தேவசகாயம்
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ தேவசகாயம்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:தென்ஹா காலத்தின் இரண்டா
- ம் வெள்ளி · திருத்தூதர்கள் 
- தூய பேதுரு\, பவுல் நினைவு
+SUMMARY:திருத்தூதர்கள் தூய பேது
+ ரு\, பவுல் நினைவு
 DESCRIPTION:தென்ஹா காலத்தின் இரண்
  டாம் வெள்ளி · திருத்தூதர்க
  ள் தூய பேதுரு\, பவுல் நினைவு
@@ -1978,20 +1912,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் இரண்டாம் வெள
- ்ளி · திருத்தூதர்கள் தூய பே
- துரு\, பவுல் நினைவு
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுத்தூதர்கள் தூய பேதுரு\, பவ
+ ுல் நினைவு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:தென்ஹா காலத்தின் இரண்டா
- ம் சனி
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் இரண்
  டாம் சனி\nஉரோமையர் 10:10–20 · மாற
  ்கு 1:21–28\nஇயேசு அதிகாரத்தோட
@@ -2003,14 +1936,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் இரண்டாம் சனி
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:தென்ஹா காலத்தின் மூன்றா
@@ -2036,12 +1969,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-SUMMARY:தென்ஹா காலத்தின் மூன்றா
- ம் திங்கள் · மூன்று நாள் நோ
- ன்பின் முதல் நாள்
+SUMMARY:மூன்று நாள் நோன்பின் மு
+ தல் நாள்
 DESCRIPTION:தென்ஹா காலத்தின் மூன்
  றாம் திங்கள் · மூன்று நாள் 
  நோன்பின் முதல் நாள்\nஎசாயா 6
@@ -2055,21 +1987,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் மூன்றாம் திங
- ்கள் · மூன்று நாள் நோன்பின்
-  முதல் நாள்
+DESCRIPTION:நாளைய இறைவார்த்தை: மூன
+ ்று நாள் நோன்பின் முதல் நா
+ ள்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:தென்ஹா காலத்தின் மூன்றா
- ம் செவ்வாய் · மூன்று நாள் ந
- ோன்பின் இரண்டாம் நாள்
+SUMMARY:மூன்று நாள் நோன்பின் இர
+ ண்டாம் நாள்
 DESCRIPTION:தென்ஹா காலத்தின் மூன்
  றாம் செவ்வாய் · மூன்று நாள்
   நோன்பின் இரண்டாம் நாள்\n1 ச
@@ -2084,22 +2014,20 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் மூன்றாம் செவ
- ்வாய் · மூன்று நாள் நோன்பின
- ் இரண்டாம் நாள்
+DESCRIPTION:நாளைய இறைவார்த்தை: மூன
+ ்று நாள் நோன்பின் இரண்டாம்
+  நாள்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:தென்ஹா காலத்தின் மூன்றா
- ம் புதன் · மூன்று நாள் நோன்
- பின் மூன்றாம் நாள் · தூய செ
- பஸ்தியார்
+SUMMARY:மூன்று நாள் நோன்பின் மூ
+ ன்றாம் நாள் · தூய செபஸ்தியா
+ ர்
 DESCRIPTION:தென்ஹா காலத்தின் மூன்
  றாம் புதன் · மூன்று நாள் நோ
  ன்பின் மூன்றாம் நாள் · தூய 
@@ -2115,23 +2043,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் மூன்றாம் புத
- ன் · மூன்று நாள் நோன்பின் ம
- ூன்றாம் நாள் · தூய செபஸ்திய
- ார்
+DESCRIPTION:நாளைய இறைவார்த்தை: மூன
+ ்று நாள் நோன்பின் மூன்றாம்
+  நாள் · தூய செபஸ்தியார்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-SUMMARY:தென்ஹா காலத்தின் மூன்றா
- ம் வியாழன் · மூன்று நாள் நோ
- ன்புக்குப் பிந்திய வியாழன
- ்
+SUMMARY:மூன்று நாள் நோன்புக்குப
+ ் பிந்திய வியாழன்
 DESCRIPTION:தென்ஹா காலத்தின் மூன்
  றாம் வியாழன் · மூன்று நாள் 
  நோன்புக்குப் பிந்திய வியா
@@ -2145,21 +2069,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் மூன்றாம் விய
- ாழன் · மூன்று நாள் நோன்புக்
- குப் பிந்திய வியாழன்
+DESCRIPTION:நாளைய இறைவார்த்தை: மூன
+ ்று நாள் நோன்புக்குப் பிந்
+ திய வியாழன்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:தென்ஹா காலத்தின் மூன்றா
- ம் வெள்ளி · நற்செய்தியாளர்
- களின் நினைவு
+SUMMARY:நற்செய்தியாளர்களின் நி
+ னைவு
 DESCRIPTION:தென்ஹா காலத்தின் மூன்
  றாம் வெள்ளி · நற்செய்தியாள
  ர்களின் நினைவு\n1 அரசர்கள் 18:
@@ -2174,20 +2096,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் மூன்றாம் வெள
- ்ளி · நற்செய்தியாளர்களின் 
- நினைவு
+DESCRIPTION:நாளைய இறைவார்த்தை: நற்
+ செய்தியாளர்களின் நினைவு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:தென்ஹா காலத்தின் மூன்றா
- ம் சனி
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் மூன்
  றாம் சனி\nபிலிப்பியர் 1:27–30 · 
  மத்தேயு 15:21–28\nகிறிஸ்துவின் 
@@ -2199,14 +2119,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் மூன்றாம் சனி
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:தென்ஹா காலத்தின் நான்கா
@@ -2233,12 +2153,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-SUMMARY:தென்ஹா காலத்தின் நான்கா
- ம் திங்கள் · தூய பவுலின் மன
- மாற்றம்
+SUMMARY:தூய பவுலின் மனமாற்றம்
 DESCRIPTION:தென்ஹா காலத்தின் நான்
  காம் திங்கள் · தூய பவுலின் 
  மனமாற்றம்\nவிடுதலைப் பயணம்
@@ -2253,21 +2171,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் நான்காம் திங
- ்கள் · தூய பவுலின் மனமாற்றம
- ்
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ பவுலின் மனமாற்றம்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-SUMMARY:தென்ஹா காலத்தின் நான்கா
- ம் செவ்வாய் · இந்தியக் குடி
- யரசு நாள்
+SUMMARY:இந்தியக் குடியரசு நாள்
 DESCRIPTION:தென்ஹா காலத்தின் நான்
  காம் செவ்வாய் · இந்தியக் கு
  டியரசு நாள்\nஎபிரேயர் 4:1–7 · ல
@@ -2282,20 +2196,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் நான்காம் செவ
- ்வாய் · இந்தியக் குடியரசு ந
- ாள்
+DESCRIPTION:நாளைய இறைவார்த்தை: இந்
+ தியக் குடியரசு நாள்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:தென்ஹா காலத்தின் நான்கா
- ம் புதன்
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் நான்
  காம் புதன்\nகலாத்தியர் 1:6–10 ·
   யோவான் 10:1–6\nகிறிஸ்துவின் ந
@@ -2307,20 +2219,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் நான்காம் புத
- ன்
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-SUMMARY:தென்ஹா காலத்தின் நான்கா
- ம் வியாழன் · தூய தோமா அக்கு
- வினா
+SUMMARY:தூய தோமா அக்குவினா
 DESCRIPTION:தென்ஹா காலத்தின் நான்
  காம் வியாழன் · தூய தோமா அக்
  குவினா\n2 கொரிந்தியர் 5:11–14 · ய
@@ -2334,20 +2243,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் நான்காம் விய
- ாழன் · தூய தோமா அக்குவினா
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ தோமா அக்குவினா
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:தென்ஹா காலத்தின் நான்கா
- ம் வெள்ளி · முதல் மறைச்சாட்
- சி தூய ஸ்தேவானின் நினைவு
+SUMMARY:முதல் மறைச்சாட்சி தூய ஸ
+ ்தேவானின் நினைவு
 DESCRIPTION:தென்ஹா காலத்தின் நான்
  காம் வெள்ளி · முதல் மறைச்சா
  ட்சி தூய ஸ்தேவானின் நினைவு
@@ -2364,20 +2271,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் நான்காம் வெள
- ்ளி · முதல் மறைச்சாட்சி தூய
-  ஸ்தேவானின் நினைவு
+DESCRIPTION:நாளைய இறைவார்த்தை: முத
+ ல் மறைச்சாட்சி தூய ஸ்தேவான
+ ின் நினைவு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:தென்ஹா காலத்தின் நான்கா
- ம் சனி
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் நான்
  காம் சனி\n1 யோவான் 5:13–21 · யோவா
  ன் 8:39–47\nநமக்கு நிலைவாழ்வு உ
@@ -2390,14 +2296,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் நான்காம் சனி
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:தென்ஹா காலத்தின் ஐந்தாம
@@ -2423,11 +2329,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:தென்ஹா காலத்தின் ஐந்தாம
- ் திங்கள்
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் ஐந்த
  ாம் திங்கள்\n2 தெசலோனிக்கர் 
  3:1–5 · மத்தேயு 9:18–26\nஎல்லாரிடம
@@ -2440,21 +2346,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் ஐந்தாம் திங்
- கள்
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-SUMMARY:தென்ஹா காலத்தின் ஐந்தாம
- ் செவ்வாய் · மாயல்தோ: ஆண்டவ
- ரைக் கோவிலில் அர்ப்பணித்த
- ல்
+SUMMARY:மாயல்தோ: ஆண்டவரைக் கோவி
+ லில் அர்ப்பணித்தல்
 DESCRIPTION:தென்ஹா காலத்தின் ஐந்த
  ாம் செவ்வாய் · மாயல்தோ: ஆண்
  டவரைக் கோவிலில் அர்ப்பணித
@@ -2470,20 +2373,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-02&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் ஐந்தாம் செவ்
- வாய் · மாயல்தோ: ஆண்டவரைக் க
- ோவிலில் அர்ப்பணித்தல்
+DESCRIPTION:நாளைய இறைவார்த்தை: மாய
+ ல்தோ: ஆண்டவரைக் கோவிலில் அ
+ ர்ப்பணித்தல்
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:தென்ஹா காலத்தின் ஐந்தாம
- ் புதன்
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் ஐந்த
  ாம் புதன்\n2 திமொத்தேயு 4:1–6 · 
  யோவான் 4:27–38\nபவுல்: வாய்ப்பா
@@ -2496,20 +2398,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் ஐந்தாம் புதன
- ்
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:தென்ஹா காலத்தின் ஐந்தாம
- ் வியாழன் · தூய ஜான் தெ பிரி
- ட்டோ
+SUMMARY:தூய ஜான் தெ பிரிட்டோ
 DESCRIPTION:தென்ஹா காலத்தின் ஐந்த
  ாம் வியாழன் · தூய ஜான் தெ பி
  ரிட்டோ\n2 பேதுரு 3:14–18 · லூக்கா
@@ -2522,20 +2421,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் ஐந்தாம் வியா
- ழன் · தூய ஜான் தெ பிரிட்டோ
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ ஜான் தெ பிரிட்டோ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-SUMMARY:தென்ஹா காலத்தின் ஐந்தாம
- ் வெள்ளி · இறந்த விசுவாசிகள
- ் அனைவரின் நினைவு
+SUMMARY:இறந்த விசுவாசிகள் அனைவர
+ ின் நினைவு
 DESCRIPTION:தென்ஹா காலத்தின் ஐந்த
  ாம் வெள்ளி · இறந்த விசுவாசி
  கள் அனைவரின் நினைவு\nஎசேக்
@@ -2551,20 +2448,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் ஐந்தாம் வெள்
- ளி · இறந்த விசுவாசிகள் அனைவ
- ரின் நினைவு
+DESCRIPTION:நாளைய இறைவார்த்தை: இறந
+ ்த விசுவாசிகள் அனைவரின் நி
+ னைவு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:தென்ஹா காலத்தின் ஐந்தாம
- ் சனி
+SUMMARY:வெளிப்பாட்டுக் காலம் (த
+ ென்ஹா)
 DESCRIPTION:தென்ஹா காலத்தின் ஐந்த
  ாம் சனி\nதிருவெளிப்பாடு 3:14–2
  2 · மத்தேயு 15:29–31\nஇலவோதிக்கேய
@@ -2577,14 +2473,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: தென
- ்ஹா காலத்தின் ஐந்தாம் சனி
+DESCRIPTION:நாளைய இறைவார்த்தை: வெள
+ ிப்பாட்டுக் காலம் (தென்ஹா)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:பெரிய நோன்பின் முதல் ஞா
@@ -2609,12 +2505,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-SUMMARY:பெரிய நோன்பின் முதல் தி
- ங்கள் · விபூதி (திருநீற்றுத
- ் திங்கள்)
+SUMMARY:விபூதி (திருநீற்றுத் தி
+ ங்கள்)
 DESCRIPTION:பெரிய நோன்பின் முதல் த
  ிங்கள் · விபூதி (திருநீற்று
  த் திங்கள்)\nதொடக்க நூல் 1:1–19 
@@ -2628,20 +2523,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் திங்கள் ·
-  விபூதி (திருநீற்றுத் திங்
- கள்)
+DESCRIPTION:நாளைய இறைவார்த்தை: விப
+ ூதி (திருநீற்றுத் திங்கள்)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:பெரிய நோன்பின் முதல் செ
- வ்வாய்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் முதல் ச
  ெவ்வாய்\nதொடக்க நூல் 1:20–2:7 · ய
  ோசுவா 1:16–18 · உரோமையர் 2:1–6 · மத
@@ -2656,17 +2549,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் செவ்வாய்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:பெரிய நோன்பின் முதல் பு
- தன்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் முதல் ப
  ுதன்\nதொடக்க நூல் 2:18–25 · யோசு
  வா 2:8–24 · உரோமையர் 2:12–24 · மத்தே
@@ -2680,17 +2574,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் புதன்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:பெரிய நோன்பின் முதல் வி
- யாழன்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் முதல் வ
  ியாழன்\nதொடக்க நூல் 3:1–13 · யோ
  சுவா 3:1–13 · உரோமையர் 3:9–20 · மத்
@@ -2705,17 +2600,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் வியாழன்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:பெரிய நோன்பின் முதல் வெ
- ள்ளி
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் முதல் வ
  ெள்ளி\nதொடக்க நூல் 4:1–16 · யோச
  ுவா 3:14–4:9 · உரோமையர் 4:13–25 · மத்
@@ -2730,17 +2626,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் வெள்ளி
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:பெரிய நோன்பின் முதல் சன
- ி
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் முதல் ச
  னி\nஉரோமையர் 3:21–26 · மத்தேயு 6:9
  –15\nஎல்லாரும் பாவம் செய்தனர
@@ -2753,13 +2650,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் முதல் சனி
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:பெரிய நோன்பின் இரண்டாம்
@@ -2785,11 +2683,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  திங்கள்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் திங்கள்\nதீத்து 3:1–7 · மாற்
  கு 7:14–23\nஇதயம் தூய்மையாகும்
@@ -2802,18 +2700,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் திங்க
- ள்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  செவ்வாய்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் செவ்வாய்\nஉரோமையர் 8:18–25 · 
  மத்தேயு 7:7–12\nபேறுகால வேதனைய
@@ -2827,18 +2725,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் செவ்வ
- ாய்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  புதன்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் புதன்\nஉரோமையர் 6:15–23 · மத்
  தேயு 9:1–8\nமுடக்குவாதமுற்றவ
@@ -2852,17 +2750,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் புதன்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  வியாழன்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் வியாழன்\nஉரோமையர் 3:1–8 · மத
  ்தேயு 5:33–37\nநம் நம்பிக்கைத் 
@@ -2876,18 +2775,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் வியாழ
- ன்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  வெள்ளி
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் வெள்ளி\nதொடக்க நூல் 6:5–12 · 
  யோசுவா 5:1–12 · உரோமையர் 7:7–12 · ம
@@ -2902,18 +2801,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் வெள்ள
- ி
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:பெரிய நோன்பின் இரண்டாம்
-  சனி
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் இரண்டா
  ம் சனி\n1 கொரிந்தியர் 5:9–13 · மத
  ்தேயு 11:16–19\nசிலர் கூத்தாடவு
@@ -2927,13 +2826,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் இரண்டாம் சனி
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:பெரிய நோன்பின் மூன்றாம்
@@ -2960,11 +2860,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  திங்கள்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் திங்கள்\nஉரோமையர் 7:1–6 · மா
  ற்கு 12:28–34\nபவுல்: எழுதப்பட்ட
@@ -2978,18 +2878,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் திங்க
- ள்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  செவ்வாய்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் செவ்வாய்\n1 கொரிந்தியர் 10:
  1–13 · லூக்கா 21:29–36\nபாலைநிலத்த
@@ -3003,18 +2903,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் செவ்வ
- ாய்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  புதன்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் புதன்\n1 பேதுரு 3:8–12 · மத்தே
  யு 5:43–48\nபேதுரு: தீமைக்குத் த
@@ -3027,18 +2927,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் புதன்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  வியாழன் · அருளாளர் ராணி மர
- ியா
+SUMMARY:அருளாளர் ராணி மரியா
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் வியாழன் · அருளாளர் ராணி 
  மரியா\nஎபேசியர் 6:1–9 · மாற்கு 
@@ -3052,19 +2951,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் வியாழ
- ன் · அருளாளர் ராணி மரியா
+DESCRIPTION:நாளைய இறைவார்த்தை: அரு
+ ளாளர் ராணி மரியா
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  வெள்ளி
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் வெள்ளி\nதொடக்க நூல் 9:8–17 · 
  யோசுவா 6:8–27 · உரோமையர் 8:1–6 · ம
@@ -3080,18 +2978,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் வெள்ள
- ி
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:பெரிய நோன்பின் மூன்றாம்
-  சனி
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் மூன்றா
  ம் சனி\nஎபேசியர் 4:25–32 · மத்தே
  யு 21:28–32\nபவுல்: கதிரவன் மறைய
@@ -3104,13 +3002,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் மூன்றாம் சனி
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:பெரிய நோன்பின் நான்காம்
@@ -3138,11 +3037,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-01-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:பெரிய நோன்பின் நான்காம்
-  திங்கள்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் நான்கா
  ம் திங்கள்\nதொடக்க நூல் 12:1–9 
  · யோசுவா 7:16–26 · உரோமையர் 9:1–13 · 
@@ -3158,18 +3057,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் நான்காம் திங்க
- ள்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:பெரிய நோன்பின் நான்காம்
-  செவ்வாய்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் நான்கா
  ம் செவ்வாய்\nதொடக்க நூல் 12:9–
  20 · யோசுவா 8:1–9 · உரோமையர் 9:14–18 
@@ -3185,18 +3084,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் நான்காம் செவ்வ
- ாய்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
-SUMMARY:பெரிய நோன்பின் நான்காம்
-  புதன் · பாதிநோன்பு
+SUMMARY:பாதிநோன்பு
 DESCRIPTION:பெரிய நோன்பின் நான்கா
  ம் புதன் · பாதிநோன்பு\nதொடக
  ்க நூல் 13:8–18 · யோசுவா 8:18–29 · உர
@@ -3211,19 +3109,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் நான்காம் புதன்
-  · பாதிநோன்பு
+DESCRIPTION:நாளைய இறைவார்த்தை: பாத
+ ிநோன்பு
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:பெரிய நோன்பின் நான்காம்
-  வியாழன்
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் நான்கா
  ம் வியாழன்\nதொடக்க நூல் 14:8–16 
  · யோசுவா 8:30–35 · உரோமையர் 11:1–10 ·
@@ -3238,18 +3135,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் நான்காம் வியாழ
- ன்
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-SUMMARY:பெரிய நோன்பின் நான்காம்
-  வெள்ளி · முதல் வெள்ளி
+SUMMARY:முதல் வெள்ளி
 DESCRIPTION:பெரிய நோன்பின் நான்கா
  ம் வெள்ளி · முதல் வெள்ளி\nதொ
  டக்க நூல் 15:1–15 · யோசுவா 9:1–15 · 
@@ -3265,19 +3161,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் நான்காம் வெள்ள
- ி · முதல் வெள்ளி
+DESCRIPTION:நாளைய இறைவார்த்தை: முத
+ ல் வெள்ளி
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:பெரிய நோன்பின் நான்காம்
-  சனி
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:பெரிய நோன்பின் நான்கா
  ம் சனி\nஉரோமையர் 13:1–7 · யோவான
  ் 7:45–53\nபவுல்: அதிகாரம் கடவுள
@@ -3293,13 +3188,14 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:நாளைய இறைவார்த்தை: பெர
- ிய நோன்பின் நான்காம் சனி
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
@@ -3326,10 +3222,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:Fifth Monday of the Great Fast
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:Fifth Monday of the Great Fast\nColossians 2:16–19 · Luke 
  18:18–25\nPaul: food rules and feast days are a shadow\; the substance
   belongs to Christ.\n\nவாசித்து இறைவேண்ட
@@ -3339,17 +3236,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Fifth Mond
- ay of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:Fifth Tuesday of the Great Fast
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:Fifth Tuesday of the Great Fast\n2 Corinthians 9:10–15 · L
  uke 10:33–37\nPaul: God gives seed to the sower\; generous giving prod
  uces thanksgiving and communion.\n\nவாசித்து இறை
@@ -3359,17 +3258,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Fifth Tues
- day of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-10-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:Fifth Wednesday of the Great Fast
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:Fifth Wednesday of the Great Fast\nJude 8–13 · John 8:1–
  11\nJude: even Michael left judgment to God\; a life without fruit is a 
  waterless cloud.\n\nவாசித்து இறைவேண்டல
@@ -3379,17 +3280,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Fifth Wedn
- esday of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:Fifth Thursday of the Great Fast
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:Fifth Thursday of the Great Fast\n1 Timothy 4:6–10 · Luke 
  18:31–34\nPaul: train yourself in godliness\; it holds promise for thi
  s life and the next.\n\nவாசித்து இறைவேண்
@@ -3399,17 +3302,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Fifth Thur
- sday of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-SUMMARY:Fifth Friday of the Great Fast
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:Fifth Friday of the Great Fast\nGenesis 18:1–14 · Joshua 1
  4:5–12 · Romans 13:8–14 · John 8:49–59\nAbraham runs to welcome 
  three strangers and receives God's promise: nothing is too wonderful for
@@ -3420,17 +3325,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Fifth Frid
- ay of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-SUMMARY:Fifth Saturday of the Great Fast
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:Fifth Saturday of the Great Fast\n1 Corinthians 13:1–13 · 
  Mark 10:1–12\nPaul: without love every gift is nothing\; love is patie
  nt\, kind\, and never ends.\n\nவாசித்து இறைவே
@@ -3440,14 +3347,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Fifth Satu
- rday of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Sixth Sunday of the Great Fast
@@ -3468,10 +3376,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-SUMMARY:Sixth Monday of the Great Fast
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:Sixth Monday of the Great Fast\n1 Thessalonians 3:6–13 · J
  ohn 12:44–50\nPaul lives because his people stand firm in the Lord.\n\
  nவாசித்து இறைவேண்டல் செய்வ
@@ -3481,17 +3390,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Sixth Mond
- ay of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:Sixth Tuesday of the Great Fast
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:Sixth Tuesday of the Great Fast\n2 Peter 2:4–10 · Luke 13:
  31–35\nThe Lord knows how to rescue the godly\, as he rescued Noah and
   Lot.\n\nவாசித்து இறைவேண்டல் செ
@@ -3501,17 +3412,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Sixth Tues
- day of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:Sixth Wednesday of the Great Fast
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:Sixth Wednesday of the Great Fast\n1 John 2:7–11 · Matthew
   18:15–20\nThe commandment of love is old as creation and new in Chris
  t.\n\nவாசித்து இறைவேண்டல் செய
@@ -3521,17 +3434,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Sixth Wedn
- esday of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:Sixth Thursday of the Great Fast
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:Sixth Thursday of the Great Fast\n2 Peter 2:11–17 · Luke 3
  :8–11\nFalse teachers are waterless springs: they promise and do not g
  ive.\n\nவாசித்து இறைவேண்டல் செ
@@ -3541,18 +3456,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Sixth Thur
- sday of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-SUMMARY:Fortieth Friday of the Great Fast · St Joseph\, Spouse of the Bl
- essed Virgin Mary
+SUMMARY:St Joseph\, Spouse of the Blessed Virgin Mary
 DESCRIPTION:Fortieth Friday of the Great Fast · St Joseph\, Spouse of th
  e Blessed Virgin Mary\nGenesis 19:27–30 · Joshua 22:10–20 · Romans
   15:7–13 · John 11:38–45\nForty days complete: God remembered Abrah
@@ -3563,17 +3478,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Fortieth F
- riday of the Great Fast · St Joseph\, Spouse of the Blessed Virgin Mary
+DESCRIPTION:நாளைய இறைவார்த்தை: St Joseph\
+ , Spouse of the Blessed Virgin Mary
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:Sixth Saturday of the Great Fast
+SUMMARY:பெரிய நோன்பு (சவ்மா ரம்ப
+ ா\, வலிய நோம்பு)
 DESCRIPTION:Sixth Saturday of the Great Fast\nActs 20:22–38 · John 12:
  1–8\nPaul goes to Jerusalem as a captive to the Spirit\, counting his 
  life of no value.\n\nவாசித்து இறைவேண்ட
@@ -3583,14 +3499,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Sixth Satu
- rday of the Great Fast
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பு (சவ்மா ரம்பா\, வலி
+ ய நோம்பு)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Hosanna Sunday · Seventh Sunday of the Great Fast
@@ -3611,10 +3528,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-SUMMARY:Seventh Monday of the Great Fast · Monday of Hasha Week
+SUMMARY:Monday of Hasha Week
 DESCRIPTION:Seventh Monday of the Great Fast · Monday of Hasha Week\nGen
  esis 37:5–13\, 18–22 · Joshua 22:21–29 · Hebrews 1:5–14 · Joh
  n 11:47–57\nJoseph\, the beloved son\, is sent by his father to his br
@@ -3625,17 +3542,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Seventh Mo
- nday of the Great Fast · Monday of Hasha Week
+DESCRIPTION:நாளைய இறைவார்த்தை: Monday of 
+ Hasha Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-23-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:Seventh Tuesday of the Great Fast · Tuesday of Hasha Week
+SUMMARY:Tuesday of Hasha Week
 DESCRIPTION:Seventh Tuesday of the Great Fast · Tuesday of Hasha Week\nG
  enesis 37:23–36 · Joshua 22:30–23:1 · Hebrews 5:1–10 · John 12:
  20–26\nJoseph is stripped\, thrown into a dry pit and sold for twenty 
@@ -3646,17 +3563,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Seventh Tu
- esday of the Great Fast · Tuesday of Hasha Week
+DESCRIPTION:நாளைய இறைவார்த்தை: Tuesday of
+  Hasha Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:Seventh Wednesday of the Great Fast · Wednesday of Hasha Week
+SUMMARY:Wednesday of Hasha Week
 DESCRIPTION:Seventh Wednesday of the Great Fast · Wednesday of Hasha Wee
  k\nGenesis 40:1–23 · Joshua 23:1–11 · Hebrews 9:15–28 · John 12
  :27–33\nIn prison Joseph interprets the dreams of the cupbearer and th
@@ -3667,17 +3584,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Seventh We
- dnesday of the Great Fast · Wednesday of Hasha Week
+DESCRIPTION:நாளைய இறைவார்த்தை: Wednesday 
+ of Hasha Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-SUMMARY:Pesaha Thursday · Holy Qurbana of the Lord's Supper
+SUMMARY:Holy Qurbana of the Lord's Supper
 DESCRIPTION:Pesaha Thursday · Holy Qurbana of the Lord's Supper\nExodus 
  12:1–20 · Malachi 1:10–14 · 1 Corinthians 11:23–29 · John 13:1
  –14\; Matthew 26:26–30\nThe Passover lamb\, whose blood saved Israel
@@ -3688,17 +3605,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Pesaha Thu
- rsday · Holy Qurbana of the Lord's Supper
+DESCRIPTION:நாளைய இறைவார்த்தை: Holy Qurba
+ na of the Lord's Supper
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-SUMMARY:Passion Friday (Good Friday)
+SUMMARY:ஹாஷா
 DESCRIPTION:Passion Friday (Good Friday)\nGenesis 22:1–19 · Isaiah 52:
  13–53:9 · Romans 5:6–16 · Luke 22:63–23:12\; Matthew 27:19\; Luk
  e 23:13–23\; Matthew 27:24–25\; Luke 23:24–45\; Matthew 27:51–54
@@ -3710,17 +3627,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Passion Fr
- iday (Good Friday)
+DESCRIPTION:நாளைய இறைவார்த்தை: ஹாஷ
+ ா
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-SUMMARY:Great Saturday
+SUMMARY:ஹாஷா
 DESCRIPTION:Great Saturday\nGenesis 22:1–19 · Jonah 2:1–10 · Romans
   6:3–11 · Matthew 28:1–20\nThe Lord rests in the tomb and goes down
   among the dead to set them free.\n\nவாசித்து இறை
@@ -3730,14 +3647,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: Great Satu
- rday
+DESCRIPTION:நாளைய இறைவார்த்தை: ஹாஷ
+ ா
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Easter Sunday: the Resurrection of our Lord (Uyirppu)
@@ -3758,10 +3675,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:First Monday of Resurrection
+SUMMARY:உயிர்ப்புக் காலம் (கியா
+ ம்த்தா)
 DESCRIPTION:First Monday of Resurrection\nIsaiah 60:15–22 · Acts 2:29
  –36 · Romans 4:1–8 · John 14:18–28\nIsaiah: the LORD will be you
  r everlasting light\; your days of mourning are ended.\n\nவாசி
@@ -3771,17 +3689,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: First Mond
- ay of Resurrection
+DESCRIPTION:நாளைய இறைவார்த்தை: உயி
+ ர்ப்புக் காலம் (கியாம்த்தா
+ )
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:First Tuesday of Resurrection
+SUMMARY:உயிர்ப்புக் காலம் (கியா
+ ம்த்தா)
 DESCRIPTION:First Tuesday of Resurrection\nIsaiah 61:1–9 · Acts 2:37
  –47 · 1 Corinthians 15:12–19 · Luke 24:13–27\nIsaiah: a garland 
  instead of ashes\, the oil of gladness instead of mourning.\n\nவாச
@@ -3791,17 +3711,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: First Tues
- day of Resurrection
+DESCRIPTION:நாளைய இறைவார்த்தை: உயி
+ ர்ப்புக் காலம் (கியாம்த்தா
+ )
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-smc-ta@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-SUMMARY:First Wednesday of Resurrection
+SUMMARY:உயிர்ப்புக் காலம் (கியா
+ ம்த்தா)
 DESCRIPTION:First Wednesday of Resurrection\nIsaiah 61:10–62:5 · Acts 
  4:23–31 · Ephesians 4:1–6 · John 15:1–10\nIsaiah: you shall no m
  ore be called Forsaken but My Delight\; as a bridegroom rejoices\, so Go
@@ -3812,8 +3734,9 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=smc&l=ta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:நாளைய இறைவார்த்தை: First Wedn
- esday of Resurrection
+DESCRIPTION:நாளைய இறைவார்த்தை: உயி
+ ர்ப்புக் காலம் (கியாம்த்தா
+ )
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT

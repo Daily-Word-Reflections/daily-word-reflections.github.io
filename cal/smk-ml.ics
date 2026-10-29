@@ -5,11 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:അനുദിന വചനം · Syro-Malankara
 X-WR-TIMEZONE:Asia/Kolkata
+X-APPLE-CALENDAR-COLOR:#2C4677
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:2026-11-01-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:കൂദോശ് ഈത്തോ ഞായർ · സഭാശ
@@ -39,11 +40,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:കൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള തിങ്കൾ
+SUMMARY:കൂദോശ് ഈത്തോയും ഹൂദോശ് 
+ ഈത്തോയും
 DESCRIPTION:കൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള തിങ്കൾ\n1 തെസലോനിക്
  കാ 4:1–8 · മത്തായി 5:1–12\nനമ്മുടെ 
@@ -55,19 +56,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: കൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള തിങ്ക
- ൾ
+ ്തോയും ഹൂദോശ് ഈത്തോയും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:കൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള ചൊവ്വ · നിഖ്യായിലെ 318 
- പിതാക്കന്മാർ
+SUMMARY:നിഖ്യായിലെ 318 പിതാക്കന്മ
+ ാർ
 DESCRIPTION:കൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള ചൊവ്വ · നിഖ്യായിലെ 
  318 പിതാക്കന്മാർ\nഹെബ്രായർ 13:7
@@ -80,20 +79,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: കൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള ചൊവ്വ 
- · നിഖ്യായിലെ 318 പിതാക്കന്മാ
- ർ
+DESCRIPTION:നാളത്തെ വചനം: നിഖ്യായി
+ ലെ 318 പിതാക്കന്മാർ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:കൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള ബുധൻ
+SUMMARY:കൂദോശ് ഈത്തോയും ഹൂദോശ് 
+ ഈത്തോയും
 DESCRIPTION:കൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള ബുധൻ\n1 കോറിന്തോസ് 4:6
  –14 · ലൂക്കാ 6:37–42\nനമുക്കുള്ളത
@@ -105,17 +102,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: കൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള ബുധൻ
+ ്തോയും ഹൂദോശ് ഈത്തോയും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:കൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള വ്യാഴം
+SUMMARY:കൂദോശ് ഈത്തോയും ഹൂദോശ് 
+ ഈത്തോയും
 DESCRIPTION:കൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള വ്യാഴം\nഹെബ്രായർ 12:4
  –11 · യോഹന്നാൻ 5:19–23\nതാൻ സ്നേഹ
@@ -128,18 +125,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: കൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള വ്യാഴ
- ം
+ ്തോയും ഹൂദോശ് ഈത്തോയും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:കൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള വെള്ളി
+SUMMARY:കൂദോശ് ഈത്തോയും ഹൂദോശ് 
+ ഈത്തോയും
 DESCRIPTION:കൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള വെള്ളി\n1 തിമോത്തേയ
  ോസ് 6:17–19 · ലൂക്കാ 7:36–50\nസമ്പത്
@@ -152,19 +148,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: കൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള വെള്ള
- ി
+ ്തോയും ഹൂദോശ് ഈത്തോയും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:കൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള ശനി · മിലിത്തീനിലെ 33 സ
- ഹദേന്മാർ
+SUMMARY:മിലിത്തീനിലെ 33 സഹദേന്മാ
+ ർ
 DESCRIPTION:കൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള ശനി · മിലിത്തീനിലെ 
  33 സഹദേന്മാർ\n1 കോറിന്തോസ് 1:10–
@@ -176,15 +170,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: കൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള ശനി · മ
- ിലിത്തീനിലെ 33 സഹദേന്മാർ
+DESCRIPTION:നാളത്തെ വചനം: മിലിത്തീ
+ നിലെ 33 സഹദേന്മാർ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:ഹൂദോശ് ഈത്തോ ഞായർ · സഭാന
@@ -210,12 +203,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:ഹൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള തിങ്കൾ · വിശുദ്ധ തിയഡ
- ോർ
+SUMMARY:വിശുദ്ധ തിയഡോർ
 DESCRIPTION:ഹൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള തിങ്കൾ · വിശുദ്ധ തി
  യഡോർ\nഹെബ്രായർ 4:6–11 · മത്തായി
@@ -227,20 +218,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള തിങ്ക
- ൾ · വിശുദ്ധ തിയഡോർ
+DESCRIPTION:നാളത്തെ വചനം: വിശുദ്ധ ത
+ ിയഡോർ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:ഹൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള ചൊവ്വ · സാമുവൽ നിബിയാ
- \; വിശുദ്ധ ലിയോ മാർപാപ്പ
+SUMMARY:സാമുവൽ നിബിയാ\; വിശുദ്ധ ല
+ ിയോ മാർപാപ്പ
 DESCRIPTION:ഹൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള ചൊവ്വ · സാമുവൽ നിബി
  യാ\; വിശുദ്ധ ലിയോ മാർപാപ്പ\n1 
@@ -253,20 +242,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള ചൊവ്വ 
- · സാമുവൽ നിബിയാ\; വിശുദ്ധ ലി
- യോ മാർപാപ്പ
+DESCRIPTION:നാളത്തെ വചനം: സാമുവൽ നി
+ ബിയാ\; വിശുദ്ധ ലിയോ മാർപാപ്
+ പ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:ഹൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള ബുധൻ
+SUMMARY:കൂദോശ് ഈത്തോയും ഹൂദോശ് 
+ ഈത്തോയും
 DESCRIPTION:ഹൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള ബുധൻ\nഎഫേസോസ് 2:14–22 · 
  മത്തായി 9:14–17\nവിഭജനത്തിന്റെ
@@ -277,19 +265,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള ബുധൻ
+DESCRIPTION:നാളത്തെ വചനം: കൂദോശ് ഈത
+ ്തോയും ഹൂദോശ് ഈത്തോയും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ഹൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള വ്യാഴം · അലക്സാണ്ഡ്ര
- ിയായിലെ മാർ യോഹന്നാൻ
+SUMMARY:അലക്സാണ്ഡ്രിയായിലെ മാർ 
+ യോഹന്നാൻ
 DESCRIPTION:ഹൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള വ്യാഴം · അലക്സാണ്ഡ
  ്രിയായിലെ മാർ യോഹന്നാൻ\nഎഫ
@@ -302,21 +289,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള വ്യാഴ
- ം · അലക്സാണ്ഡ്രിയായിലെ മാർ 
- യോഹന്നാൻ
+DESCRIPTION:നാളത്തെ വചനം: അലക്സാണ്
+ ഡ്രിയായിലെ മാർ യോഹന്നാൻ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:ഹൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള വെള്ളി · സ്വർണനാവുകാ
- രനായ മാർ ഈവാനിയോസ്
+SUMMARY:സ്വർണനാവുകാരനായ മാർ ഈവാ
+ നിയോസ്
 DESCRIPTION:ഹൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള വെള്ളി · സ്വർണനാവു
  കാരനായ മാർ ഈവാനിയോസ്\n1 കോറി
@@ -329,21 +313,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള വെള്ള
- ി · സ്വർണനാവുകാരനായ മാർ ഈവാ
- നിയോസ്
+DESCRIPTION:നാളത്തെ വചനം: സ്വർണനാവ
+ ുകാരനായ മാർ ഈവാനിയോസ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:ഹൂദോശ് ഈത്തോ ഞായറിനുശേഷ
- മുള്ള ശനി · മാർ ഫീലിപ്പോസ് 
- ശ്ലീഹാ
+SUMMARY:മാർ ഫീലിപ്പോസ് ശ്ലീഹാ
 DESCRIPTION:ഹൂദോശ് ഈത്തോ ഞായറിനുശ
  േഷമുള്ള ശനി · മാർ ഫീലിപ്പോസ
  ് ശ്ലീഹാ\n1 കോറിന്തോസ് 4:1–5 · യ
@@ -355,15 +335,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹൂദോശ് ഈത
- ്തോ ഞായറിനുശേഷമുള്ള ശനി · മ
- ാർ ഫീലിപ്പോസ് ശ്ലീഹാ
+DESCRIPTION:നാളത്തെ വചനം: മാർ ഫീലിപ
+ ്പോസ് ശ്ലീഹാ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:സഖറിയായ്ക്കുള്ള മംഗളവാ
@@ -389,12 +368,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:സഖറിയായ്ക്കുള്ള മംഗളവാ
- ർത്തയുടെ ഞായറിനുശേഷമുള്ള 
- തിങ്കൾ · മാർ മത്തായി ശ്ലീഹാ
+SUMMARY:മാർ മത്തായി ശ്ലീഹാ
 DESCRIPTION:സഖറിയായ്ക്കുള്ള മംഗളവ
  ാർത്തയുടെ ഞായറിനുശേഷമുള്
  ള തിങ്കൾ · മാർ മത്തായി ശ്ലീ
@@ -407,21 +384,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സഖറിയായ്
- ക്കുള്ള മംഗളവാർത്തയുടെ ഞാ
- യറിനുശേഷമുള്ള തിങ്കൾ · മാർ 
- മത്തായി ശ്ലീഹാ
+DESCRIPTION:നാളത്തെ വചനം: മാർ മത്താ
+ യി ശ്ലീഹാ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:സഖറിയായ്ക്കുള്ള മംഗളവാ
- ർത്തയുടെ ഞായറിനുശേഷമുള്ള 
- ചൊവ്വ
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:സഖറിയായ്ക്കുള്ള മംഗളവ
  ാർത്തയുടെ ഞായറിനുശേഷമുള്
  ള ചൊവ്വ\nറോമാ 11:17–24 · മത്തായി 9:
@@ -434,20 +408,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സഖറിയായ്
- ക്കുള്ള മംഗളവാർത്തയുടെ ഞാ
- യറിനുശേഷമുള്ള ചൊവ്വ
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:സഖറിയായ്ക്കുള്ള മംഗളവാ
- ർത്തയുടെ ഞായറിനുശേഷമുള്ള 
- ബുധൻ
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:സഖറിയായ്ക്കുള്ള മംഗളവ
  ാർത്തയുടെ ഞായറിനുശേഷമുള്
  ള ബുധൻ\n2 തിമോത്തേയോസ് 4:19–22 · 
@@ -460,20 +432,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സഖറിയായ്
- ക്കുള്ള മംഗളവാർത്തയുടെ ഞാ
- യറിനുശേഷമുള്ള ബുധൻ
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:സഖറിയായ്ക്കുള്ള മംഗളവാ
- ർത്തയുടെ ഞായറിനുശേഷമുള്ള 
- വ്യാഴം
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:സഖറിയായ്ക്കുള്ള മംഗളവ
  ാർത്തയുടെ ഞായറിനുശേഷമുള്
  ള വ്യാഴം\nഎഫേസോസ് 6:1–4 · മത്താ
@@ -485,20 +455,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സഖറിയായ്
- ക്കുള്ള മംഗളവാർത്തയുടെ ഞാ
- യറിനുശേഷമുള്ള വ്യാഴം
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:സഖറിയായ്ക്കുള്ള മംഗളവാ
- ർത്തയുടെ ഞായറിനുശേഷമുള്ള 
- വെള്ളി
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:സഖറിയായ്ക്കുള്ള മംഗളവ
  ാർത്തയുടെ ഞായറിനുശേഷമുള്
  ള വെള്ളി\nറോമാ 10:5–13 · മത്തായി 
@@ -510,15 +478,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സഖറിയായ്
- ക്കുള്ള മംഗളവാർത്തയുടെ ഞാ
- യറിനുശേഷമുള്ള വെള്ളി
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:വിശുദ്ധ ദൈവമാതാവിന്റെ ദ
@@ -542,7 +509,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:ദൈവമാതാവായ മറിയത്തിനുള
@@ -569,13 +536,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:മറിയത്തിനുള്ള മംഗളവാർത
- ്തയുടെ ഞായറിനുശേഷമുള്ള തി
- ങ്കൾ · വിശുദ്ധ ക്ലെമന്റ് മാ
- ർപാപ്പ\; വിശുദ്ധ ഫെലിസിറ്റ
+SUMMARY:വിശുദ്ധ ക്ലെമന്റ് മാർപാ
+ പ്പ\; വിശുദ്ധ ഫെലിസിറ്റ
 DESCRIPTION:മറിയത്തിനുള്ള മംഗളവാർ
  ത്തയുടെ ഞായറിനുശേഷമുള്ള ത
  ിങ്കൾ · വിശുദ്ധ ക്ലെമന്റ് മ
@@ -589,22 +554,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: മറിയത്തി
- നുള്ള മംഗളവാർത്തയുടെ ഞായറ
- ിനുശേഷമുള്ള തിങ്കൾ · വിശുദ
- ്ധ ക്ലെമന്റ് മാർപാപ്പ\; വിശ
- ുദ്ധ ഫെലിസിറ്റ
+DESCRIPTION:നാളത്തെ വചനം: വിശുദ്ധ ക
+ ്ലെമന്റ് മാർപാപ്പ\; വിശുദ്
+ ധ ഫെലിസിറ്റ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:മറിയത്തിനുള്ള മംഗളവാർത
- ്തയുടെ ഞായറിനുശേഷമുള്ള ചൊ
- വ്വ
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:മറിയത്തിനുള്ള മംഗളവാർ
  ത്തയുടെ ഞായറിനുശേഷമുള്ള ച
  ൊവ്വ\nതീത്തോസ് 2:11–15 · മത്തായ
@@ -616,20 +578,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: മറിയത്തി
- നുള്ള മംഗളവാർത്തയുടെ ഞായറ
- ിനുശേഷമുള്ള ചൊവ്വ
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:മറിയത്തിനുള്ള മംഗളവാർത
- ്തയുടെ ഞായറിനുശേഷമുള്ള ബു
- ധൻ
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:മറിയത്തിനുള്ള മംഗളവാർ
  ത്തയുടെ ഞായറിനുശേഷമുള്ള ബ
  ുധൻ\nഫിലിപ്പി 1:15–20 · മത്തായി 1
@@ -642,20 +602,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: മറിയത്തി
- നുള്ള മംഗളവാർത്തയുടെ ഞായറ
- ിനുശേഷമുള്ള ബുധൻ
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:മറിയത്തിനുള്ള മംഗളവാർത
- ്തയുടെ ഞായറിനുശേഷമുള്ള വ്
- യാഴം
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:മറിയത്തിനുള്ള മംഗളവാർ
  ത്തയുടെ ഞായറിനുശേഷമുള്ള വ
  ്യാഴം\n1 കോറിന്തോസ് 10:14–22 · ലൂ
@@ -668,20 +626,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: മറിയത്തി
- നുള്ള മംഗളവാർത്തയുടെ ഞായറ
- ിനുശേഷമുള്ള വ്യാഴം
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:മറിയത്തിനുള്ള മംഗളവാർത
- ്തയുടെ ഞായറിനുശേഷമുള്ള വെ
- ള്ളി
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:മറിയത്തിനുള്ള മംഗളവാർ
  ത്തയുടെ ഞായറിനുശേഷമുള്ള വ
  െള്ളി\n2 തെസലോനിക്കാ 3:6–15 · മർ
@@ -694,20 +650,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: മറിയത്തി
- നുള്ള മംഗളവാർത്തയുടെ ഞായറ
- ിനുശേഷമുള്ള വെള്ളി
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:മറിയത്തിനുള്ള മംഗളവാർത
- ്തയുടെ ഞായറിനുശേഷമുള്ള ശന
- ി · വിശുദ്ധ കത്രീന
+SUMMARY:വിശുദ്ധ കത്രീന
 DESCRIPTION:മറിയത്തിനുള്ള മംഗളവാർ
  ത്തയുടെ ഞായറിനുശേഷമുള്ള ശ
  നി · വിശുദ്ധ കത്രീന\n1 കോറിന്
@@ -720,16 +673,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: മറിയത്തി
- നുള്ള മംഗളവാർത്തയുടെ ഞായറ
- ിനുശേഷമുള്ള ശനി · വിശുദ്ധ ക
+DESCRIPTION:നാളത്തെ വചനം: വിശുദ്ധ ക
  ത്രീന
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:ദൈവമാതാവായ മറിയം എലിസബത
@@ -758,12 +709,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:സന്ദർശനത്തിന്റെ ഞായറിന
- ുശേഷമുള്ള തിങ്കൾ · മാർ അന്ത
- ്രയോസ് ശ്ലീഹാ
+SUMMARY:മാർ അന്ത്രയോസ് ശ്ലീഹാ
 DESCRIPTION:സന്ദർശനത്തിന്റെ ഞായറി
  നുശേഷമുള്ള തിങ്കൾ · മാർ അന്
  ത്രയോസ് ശ്ലീഹാ\nഗലാത്തിയാ 4:
@@ -777,21 +726,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സന്ദർശനത
- ്തിന്റെ ഞായറിനുശേഷമുള്ള ത
- ിങ്കൾ · മാർ അന്ത്രയോസ് ശ്ലീ
- ഹാ
+DESCRIPTION:നാളത്തെ വചനം: മാർ അന്ത്
+ രയോസ് ശ്ലീഹാ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:സന്ദർശനത്തിന്റെ ഞായറിന
- ുശേഷമുള്ള ചൊവ്വ · ഇരുപത്തി
- യഞ്ചു നോമ്പാരംഭം
+SUMMARY:ഇരുപത്തിയഞ്ചു നോമ്പാരം
+ ഭം
 DESCRIPTION:സന്ദർശനത്തിന്റെ ഞായറി
  നുശേഷമുള്ള ചൊവ്വ · ഇരുപത്ത
  ിയഞ്ചു നോമ്പാരംഭം\nറോമാ 13:8–1
@@ -803,20 +749,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സന്ദർശനത
- ്തിന്റെ ഞായറിനുശേഷമുള്ള ച
- ൊവ്വ · ഇരുപത്തിയഞ്ചു നോമ്പ
- ാരംഭം
+DESCRIPTION:നാളത്തെ വചനം: ഇരുപത്തി
+ യഞ്ചു നോമ്പാരംഭം
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:സന്ദർശനത്തിന്റെ ഞായറിന
- ുശേഷമുള്ള ബുധൻ
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:സന്ദർശനത്തിന്റെ ഞായറി
  നുശേഷമുള്ള ബുധൻ\nറോമാ 10:14–15 · 
  മത്തായി 5:33–37\nഅയയ്ക്കപ്പെട്
@@ -828,20 +772,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സന്ദർശനത
- ്തിന്റെ ഞായറിനുശേഷമുള്ള ബ
- ുധൻ
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:സന്ദർശനത്തിന്റെ ഞായറിന
- ുശേഷമുള്ള വ്യാഴം · വിശുദ്ധ 
- ഫ്രാൻസിസ് സേവ്യർ
+SUMMARY:വിശുദ്ധ ഫ്രാൻസിസ് സേവ്യ
+ ർ
 DESCRIPTION:സന്ദർശനത്തിന്റെ ഞായറി
  നുശേഷമുള്ള വ്യാഴം · വിശുദ്
  ധ ഫ്രാൻസിസ് സേവ്യർ\n1 കോറിന്
@@ -853,21 +795,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സന്ദർശനത
- ്തിന്റെ ഞായറിനുശേഷമുള്ള വ
- ്യാഴം · വിശുദ്ധ ഫ്രാൻസിസ് സ
- േവ്യർ
+DESCRIPTION:നാളത്തെ വചനം: വിശുദ്ധ ഫ
+ ്രാൻസിസ് സേവ്യർ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:സന്ദർശനത്തിന്റെ ഞായറിന
- ുശേഷമുള്ള വെള്ളി · ഡമാസ്കസ
- ിലെ മാർ യോഹന്നാൻ
+SUMMARY:ഡമാസ്കസിലെ മാർ യോഹന്നാൻ
 DESCRIPTION:സന്ദർശനത്തിന്റെ ഞായറി
  നുശേഷമുള്ള വെള്ളി · ഡമാസ്ക
  സിലെ മാർ യോഹന്നാൻ\nറോമാ 10:17–20
@@ -879,22 +817,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സന്ദർശനത
- ്തിന്റെ ഞായറിനുശേഷമുള്ള വ
- െള്ളി · ഡമാസ്കസിലെ മാർ യോഹന
- ്നാൻ
+DESCRIPTION:നാളത്തെ വചനം: ഡമാസ്കസി
+ ലെ മാർ യോഹന്നാൻ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:സന്ദർശനത്തിന്റെ ഞായറിന
- ുശേഷമുള്ള ശനി · മാർ സാബാസ്\; 
- അലക്സാണ്ഡ്രിയായിലെ മാർ ക്
- ലീമിസ്
+SUMMARY:മാർ സാബാസ്\; അലക്സാണ്ഡ്ര
+ ിയായിലെ മാർ ക്ലീമിസ്
 DESCRIPTION:സന്ദർശനത്തിന്റെ ഞായറി
  നുശേഷമുള്ള ശനി · മാർ സാബാസ്
  \; അലക്സാണ്ഡ്രിയായിലെ മാർ ക
@@ -907,16 +841,15 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സന്ദർശനത
- ്തിന്റെ ഞായറിനുശേഷമുള്ള ശ
- നി · മാർ സാബാസ്\; അലക്സാണ്ഡ്
- രിയായിലെ മാർ ക്ലീമിസ്
+DESCRIPTION:നാളത്തെ വചനം: മാർ സാബാസ
+ ്\; അലക്സാണ്ഡ്രിയായിലെ മാർ 
+ ക്ലീമിസ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:സ്നാപകയോഹന്നാന്റെ ജനനത
@@ -943,12 +876,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:സ്നാപകയോഹന്നാന്റെ ജനനത
- ്തിന്റെ ഞായറിനുശേഷമുള്ള ത
- ിങ്കൾ · വിശുദ്ധ അംബ്രോസ്
+SUMMARY:വിശുദ്ധ അംബ്രോസ്
 DESCRIPTION:സ്നാപകയോഹന്നാന്റെ ജനന
  ത്തിന്റെ ഞായറിനുശേഷമുള്ള 
  തിങ്കൾ · വിശുദ്ധ അംബ്രോസ്\n2 
@@ -961,16 +892,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സ്നാപകയോ
- ഹന്നാന്റെ ജനനത്തിന്റെ ഞായ
- റിനുശേഷമുള്ള തിങ്കൾ · വിശു
- ദ്ധ അംബ്രോസ്
+DESCRIPTION:നാളത്തെ വചനം: വിശുദ്ധ അ
+ ംബ്രോസ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:വിശുദ്ധ ദൈവമാതാവിന്റെ അ
@@ -995,12 +924,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:സ്നാപകയോഹന്നാന്റെ ജനനത
- ്തിന്റെ ഞായറിനുശേഷമുള്ള ബ
- ുധൻ
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:സ്നാപകയോഹന്നാന്റെ ജനന
  ത്തിന്റെ ഞായറിനുശേഷമുള്ള 
  ബുധൻ\nഹെബ്രായർ 1:1–4 · ലൂക്കാ 7:1
@@ -1012,22 +940,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സ്നാപകയോ
- ഹന്നാന്റെ ജനനത്തിന്റെ ഞായ
- റിനുശേഷമുള്ള ബുധൻ
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:സ്നാപകയോഹന്നാന്റെ ജനനത
- ്തിന്റെ ഞായറിനുശേഷമുള്ള വ
- ്യാഴം · മാർ ബഹനാൻ സഹദായും സ
- ഹോദരി സാറായും നാല്പതു സഹദേ
- ന്മാരും
+SUMMARY:മാർ ബഹനാൻ സഹദായും സഹോദര
+ ി സാറായും നാല്പതു സഹദേന്മാ
+ രും
 DESCRIPTION:സ്നാപകയോഹന്നാന്റെ ജനന
  ത്തിന്റെ ഞായറിനുശേഷമുള്ള 
  വ്യാഴം · മാർ ബഹനാൻ സഹദായും 
@@ -1042,22 +967,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സ്നാപകയോ
- ഹന്നാന്റെ ജനനത്തിന്റെ ഞായ
- റിനുശേഷമുള്ള വ്യാഴം · മാർ ബ
- ഹനാൻ സഹദായും സഹോദരി സാറായു
- ം നാല്പതു സഹദേന്മാരും
+DESCRIPTION:നാളത്തെ വചനം: മാർ ബഹനാൻ
+  സഹദായും സഹോദരി സാറായും നാ
+ ല്പതു സഹദേന്മാരും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:സ്നാപകയോഹന്നാന്റെ ജനനത
- ്തിന്റെ ഞായറിനുശേഷമുള്ള വ
- െള്ളി
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:സ്നാപകയോഹന്നാന്റെ ജനന
  ത്തിന്റെ ഞായറിനുശേഷമുള്ള 
  വെള്ളി\n1 കോറിന്തോസ് 16:1–4 · മത
@@ -1070,20 +992,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സ്നാപകയോ
- ഹന്നാന്റെ ജനനത്തിന്റെ ഞായ
- റിനുശേഷമുള്ള വെള്ളി
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:സ്നാപകയോഹന്നാന്റെ ജനനത
- ്തിന്റെ ഞായറിനുശേഷമുള്ള ശ
- നി
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:സ്നാപകയോഹന്നാന്റെ ജനന
  ത്തിന്റെ ഞായറിനുശേഷമുള്ള 
  ശനി\n1 തെസലോനിക്കാ 5:12–22 · മർക്
@@ -1096,15 +1016,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: സ്നാപകയോ
- ഹന്നാന്റെ ജനനത്തിന്റെ ഞായ
- റിനുശേഷമുള്ള ശനി
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:വിശുദ്ധ യൗസേപ്പിനു ദൂതൻ
@@ -1132,13 +1051,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:യൗസേപ്പിനുണ്ടായ ദർശനത്
- തിന്റെ ഞായറിനുശേഷമുള്ള തി
- ങ്കൾ · കുരിശിന്റെ വിശുദ്ധ യ
- ോഹന്നാൻ
+SUMMARY:കുരിശിന്റെ വിശുദ്ധ യോഹന
+ ്നാൻ
 DESCRIPTION:യൗസേപ്പിനുണ്ടായ ദർശനത
  ്തിന്റെ ഞായറിനുശേഷമുള്ള ത
  ിങ്കൾ · കുരിശിന്റെ വിശുദ്ധ 
@@ -1153,21 +1070,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൗസേപ്പി
- നുണ്ടായ ദർശനത്തിന്റെ ഞായറ
- ിനുശേഷമുള്ള തിങ്കൾ · കുരിശ
- ിന്റെ വിശുദ്ധ യോഹന്നാൻ
+DESCRIPTION:നാളത്തെ വചനം: കുരിശിന്
+ റെ വിശുദ്ധ യോഹന്നാൻ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:യൗസേപ്പിനുണ്ടായ ദർശനത്
- തിന്റെ ഞായറിനുശേഷമുള്ള ചൊ
- വ്വ
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:യൗസേപ്പിനുണ്ടായ ദർശനത
  ്തിന്റെ ഞായറിനുശേഷമുള്ള ച
  ൊവ്വ\n1 കോറിന്തോസ് 2:1–5 · യോഹന
@@ -1180,20 +1094,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൗസേപ്പി
- നുണ്ടായ ദർശനത്തിന്റെ ഞായറ
- ിനുശേഷമുള്ള ചൊവ്വ
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:യൗസേപ്പിനുണ്ടായ ദർശനത്
- തിന്റെ ഞായറിനുശേഷമുള്ള ബു
- ധൻ
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:യൗസേപ്പിനുണ്ടായ ദർശനത
  ്തിന്റെ ഞായറിനുശേഷമുള്ള ബ
  ുധൻ\n2 കോറിന്തോസ് 12:7–10 · ലൂക്ക
@@ -1206,20 +1118,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൗസേപ്പി
- നുണ്ടായ ദർശനത്തിന്റെ ഞായറ
- ിനുശേഷമുള്ള ബുധൻ
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:യൗസേപ്പിനുണ്ടായ ദർശനത്
- തിന്റെ ഞായറിനുശേഷമുള്ള വ്
- യാഴം · മാർ റാബുള
+SUMMARY:മാർ റാബുള
 DESCRIPTION:യൗസേപ്പിനുണ്ടായ ദർശനത
  ്തിന്റെ ഞായറിനുശേഷമുള്ള വ
  ്യാഴം · മാർ റാബുള\nറോമാ 16:17–20 ·
@@ -1232,22 +1141,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൗസേപ്പി
- നുണ്ടായ ദർശനത്തിന്റെ ഞായറ
- ിനുശേഷമുള്ള വ്യാഴം · മാർ റാ
- ബുള
+DESCRIPTION:നാളത്തെ വചനം: മാർ റാബുള
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:യൗസേപ്പിനുണ്ടായ ദർശനത്
- തിന്റെ ഞായറിനുശേഷമുള്ള വെ
- ള്ളി · മൈലാപ്പൂരിലെ അദ്ഭുത
- കുരിശ്
+SUMMARY:മൈലാപ്പൂരിലെ അദ്ഭുതകുര
+ ിശ്
 DESCRIPTION:യൗസേപ്പിനുണ്ടായ ദർശനത
  ്തിന്റെ ഞായറിനുശേഷമുള്ള വ
  െള്ളി · മൈലാപ്പൂരിലെ അദ്ഭു
@@ -1261,21 +1165,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൗസേപ്പി
- നുണ്ടായ ദർശനത്തിന്റെ ഞായറ
- ിനുശേഷമുള്ള വെള്ളി · മൈലാപ
- ്പൂരിലെ അദ്ഭുതകുരിശ്
+DESCRIPTION:നാളത്തെ വചനം: മൈലാപ്പൂ
+ രിലെ അദ്ഭുതകുരിശ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:യൗസേപ്പിനുണ്ടായ ദർശനത്
- തിന്റെ ഞായറിനുശേഷമുള്ള ശന
- ി
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:യൗസേപ്പിനുണ്ടായ ദർശനത
  ്തിന്റെ ഞായറിനുശേഷമുള്ള ശ
  നി\nഎഫേസോസ് 2:14–22 · മത്തായി 11:1–
@@ -1287,15 +1188,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൗസേപ്പി
- നുണ്ടായ ദർശനത്തിന്റെ ഞായറ
- ിനുശേഷമുള്ള ശനി
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:യൽദോയ്ക്കു മുമ്പുള്ള ഞാ
@@ -1322,11 +1222,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-SUMMARY:യൽദോയ്ക്കു മുമ്പുള്ള ഞാ
- യറിനുശേഷമുള്ള തിങ്കൾ
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:യൽദോയ്ക്കു മുമ്പുള്ള 
  ഞായറിനുശേഷമുള്ള തിങ്കൾ\nറോ
  മാ 1:8–15 · യോഹന്നാൻ 1:1–5\nവിശ്വാ
@@ -1338,19 +1238,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൽദോയ്ക്
- കു മുമ്പുള്ള ഞായറിനുശേഷമു
- ള്ള തിങ്കൾ
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:യൽദോയ്ക്കു മുമ്പുള്ള ഞാ
- യറിനുശേഷമുള്ള ചൊവ്വ
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:യൽദോയ്ക്കു മുമ്പുള്ള 
  ഞായറിനുശേഷമുള്ള ചൊവ്വ\nഗലാ
  ത്തിയാ 4:8–11 · യോഹന്നാൻ 1:6–9\nവെ
@@ -1362,19 +1261,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൽദോയ്ക്
- കു മുമ്പുള്ള ഞായറിനുശേഷമു
- ള്ള ചൊവ്വ
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-SUMMARY:യൽദോയ്ക്കു മുമ്പുള്ള ഞാ
- യറിനുശേഷമുള്ള ബുധൻ
+SUMMARY:മംഗളവാർത്താ ഞായറാഴ്ചകൾ 
+ (സൂബോറോ)
 DESCRIPTION:യൽദോയ്ക്കു മുമ്പുള്ള 
  ഞായറിനുശേഷമുള്ള ബുധൻ\nകൊളോ
  സോസ് 2:1–5 · യോഹന്നാൻ 1:10–13\nലോകം
@@ -1386,21 +1284,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൽദോയ്ക്
- കു മുമ്പുള്ള ഞായറിനുശേഷമു
- ള്ള ബുധൻ
+DESCRIPTION:നാളത്തെ വചനം: മംഗളവാർത
+ ്താ ഞായറാഴ്ചകൾ (സൂബോറോ)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-SUMMARY:യൽദോയ്ക്കു മുമ്പുള്ള ഞാ
- യറിനുശേഷമുള്ള വ്യാഴം · യൽദ
- ോപ്പെരുന്നാളിന്റെ തലേന്ന
- ്
+SUMMARY:യൽദോപ്പെരുന്നാളിന്റെ ത
+ ലേന്ന്
 DESCRIPTION:യൽദോയ്ക്കു മുമ്പുള്ള 
  ഞായറിനുശേഷമുള്ള വ്യാഴം · യ
  ൽദോപ്പെരുന്നാളിന്റെ തലേന
@@ -1413,16 +1308,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൽദോയ്ക്
- കു മുമ്പുള്ള ഞായറിനുശേഷമു
- ള്ള വ്യാഴം · യൽദോപ്പെരുന്ന
- ാളിന്റെ തലേന്ന്
+DESCRIPTION:നാളത്തെ വചനം: യൽദോപ്പെ
+ രുന്നാളിന്റെ തലേന്ന്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:യൽദോ · നമ്മുടെ കർത്താവിന
@@ -1448,7 +1341,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:വിശുദ്ധ ദൈവമാതാവിന്റെ പ
@@ -1471,7 +1364,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:യൽദോയ്ക്കുശേഷമുള്ള ഒന്
@@ -1497,12 +1390,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-SUMMARY:യൽദോയ്ക്കുശേഷമുള്ള ഒന്
- നാം ഞായറിനുശേഷമുള്ള തിങ്ക
- ൾ · രാജാവും പ്രവാചകനുമായ ദാ
+SUMMARY:രാജാവും പ്രവാചകനുമായ ദാ
  വീദ്
 DESCRIPTION:യൽദോയ്ക്കുശേഷമുള്ള ഒന
  ്നാം ഞായറിനുശേഷമുള്ള തിങ്
@@ -1517,20 +1408,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൽദോയ്ക്
- കുശേഷമുള്ള ഒന്നാം ഞായറിനു
- ശേഷമുള്ള തിങ്കൾ · രാജാവും പ
+DESCRIPTION:നാളത്തെ വചനം: രാജാവും പ
  ്രവാചകനുമായ ദാവീദ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:യൽദോയ്ക്കുശേഷമുള്ള ഒന്
- നാം ഞായറിനുശേഷമുള്ള ചൊവ്വ
+SUMMARY:യൽദോ
 DESCRIPTION:യൽദോയ്ക്കുശേഷമുള്ള ഒന
  ്നാം ഞായറിനുശേഷമുള്ള ചൊവ്
  വ\nറോമാ 11:25–32 · മത്തായി 15:1–9\nദൈ
@@ -1543,19 +1431,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-29&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൽദോയ്ക്
- കുശേഷമുള്ള ഒന്നാം ഞായറിനു
- ശേഷമുള്ള ചൊവ്വ
+DESCRIPTION:നാളത്തെ വചനം: യൽദോ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:യൽദോയ്ക്കുശേഷമുള്ള ഒന്
- നാം ഞായറിനുശേഷമുള്ള ബുധൻ
+SUMMARY:യൽദോ
 DESCRIPTION:യൽദോയ്ക്കുശേഷമുള്ള ഒന
  ്നാം ഞായറിനുശേഷമുള്ള ബുധൻ\
  nറോമാ 15:7–13 · മത്തായി 2:19–23\nജോസഫ
@@ -1567,20 +1452,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-30&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൽദോയ്ക്
- കുശേഷമുള്ള ഒന്നാം ഞായറിനു
- ശേഷമുള്ള ബുധൻ
+DESCRIPTION:നാളത്തെ വചനം: യൽദോ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:യൽദോയ്ക്കുശേഷമുള്ള ഒന്
- നാം ഞായറിനുശേഷമുള്ള വ്യാഴ
- ം · വർഷത്തിന്റെ അവസാനദിവസം
+SUMMARY:വർഷത്തിന്റെ അവസാനദിവസം
 DESCRIPTION:യൽദോയ്ക്കുശേഷമുള്ള ഒന
  ്നാം ഞായറിനുശേഷമുള്ള വ്യാ
  ഴം · വർഷത്തിന്റെ അവസാനദിവസ
@@ -1593,16 +1474,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൽദോയ്ക്
- കുശേഷമുള്ള ഒന്നാം ഞായറിനു
- ശേഷമുള്ള വ്യാഴം · വർഷത്തിന
+DESCRIPTION:നാളത്തെ വചനം: വർഷത്തിന
  ്റെ അവസാനദിവസം
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:നമ്മുടെ കർത്താവിന്റെ നാ
@@ -1626,12 +1505,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-SUMMARY:പുതുവത്സരത്തിനുശേഷമുള
- ്ള ശനി · മാർ ബസേലിയോസ്\, മാർ 
- ഗ്രിഗോറിയോസ്
+SUMMARY:മാർ ബസേലിയോസ്\, മാർ ഗ്രിഗ
+ ോറിയോസ്
 DESCRIPTION:പുതുവത്സരത്തിനുശേഷമു
  ള്ള ശനി · മാർ ബസേലിയോസ്\, മാർ
   ഗ്രിഗോറിയോസ്\n2 തിമോത്തേയോ
@@ -1645,16 +1523,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: പുതുവത്സ
- രത്തിനുശേഷമുള്ള ശനി · മാർ ബ
- സേലിയോസ്\, മാർ ഗ്രിഗോറിയോസ
- ്
+DESCRIPTION:നാളത്തെ വചനം: മാർ ബസേലി
+ യോസ്\, മാർ ഗ്രിഗോറിയോസ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:യൽദോയ്ക്കുശേഷമുള്ള രണ്
@@ -1680,12 +1556,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-SUMMARY:യൽദോയ്ക്കുശേഷമുള്ള രണ്
- ടാം ഞായറിനുശേഷമുള്ള തിങ്ക
- ൾ · മലാക്കി പ്രവാചകൻ\; വിശുദ
+SUMMARY:മലാക്കി പ്രവാചകൻ\; വിശുദ
  ്ധ ചാവറ കുര്യാക്കോസ് ഏലിയാ
  സ്
 DESCRIPTION:യൽദോയ്ക്കുശേഷമുള്ള രണ
@@ -1702,9 +1576,7 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൽദോയ്ക്
- കുശേഷമുള്ള രണ്ടാം ഞായറിനു
- ശേഷമുള്ള തിങ്കൾ · മലാക്കി പ
+DESCRIPTION:നാളത്തെ വചനം: മലാക്കി പ
  ്രവാചകൻ\; വിശുദ്ധ ചാവറ കുര്
  യാക്കോസ് ഏലിയാസ്
 TRIGGER:-PT4H
@@ -1712,13 +1584,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-SUMMARY:യൽദോയ്ക്കുശേഷമുള്ള രണ്
- ടാം ഞായറിനുശേഷമുള്ള ചൊവ്വ 
- · ദനഹാപ്പെരുന്നാളിന്റെ തല
- േന്ന്
+SUMMARY:ദനഹാപ്പെരുന്നാളിന്റെ ത
+ ലേന്ന്
 DESCRIPTION:യൽദോയ്ക്കുശേഷമുള്ള രണ
  ്ടാം ഞായറിനുശേഷമുള്ള ചൊവ്
  വ · ദനഹാപ്പെരുന്നാളിന്റെ ത
@@ -1732,16 +1602,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: യൽദോയ്ക്
- കുശേഷമുള്ള രണ്ടാം ഞായറിനു
- ശേഷമുള്ള ചൊവ്വ · ദനഹാപ്പെര
- ുന്നാളിന്റെ തലേന്ന്
+DESCRIPTION:നാളത്തെ വചനം: ദനഹാപ്പെ
+ രുന്നാളിന്റെ തലേന്ന്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:ദനഹാ · നമ്മുടെ കർത്താവിന
@@ -1768,12 +1636,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള വ്യ
- ാഴം · സ്നാപകയോഹന്നാന്റെ പു
- കഴ്ച
+SUMMARY:സ്നാപകയോഹന്നാന്റെ പുകഴ
+ ്ച
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള വ്
  യാഴം · സ്നാപകയോഹന്നാന്റെ പ
  ുകഴ്ച\nഎഫേസോസ് 3:1–7 · ലൂക്കാ 7:2
@@ -1785,19 +1652,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള വ്യാഴം · സ്നാപക
- യോഹന്നാന്റെ പുകഴ്ച
+DESCRIPTION:നാളത്തെ വചനം: സ്നാപകയോ
+ ഹന്നാന്റെ പുകഴ്ച
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള വെള
- ്ളി · മാർ സ്തേഫാനോസ് സഹദാ
+SUMMARY:മാർ സ്തേഫാനോസ് സഹദാ
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള വെ
  ള്ളി · മാർ സ്തേഫാനോസ് സഹദാ\n
  അപ്പ. പ്രവ. 7:54–60 · 1 കോറിന്തോസ
@@ -1811,18 +1676,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള വെള്ളി · മാർ സ്ത
- േഫാനോസ് സഹദാ
+DESCRIPTION:നാളത്തെ വചനം: മാർ സ്തേഫ
+ ാനോസ് സഹദാ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള ശനി
+SUMMARY:ദനഹായും ദനഹായ്ക്കുശേഷമ
+ ുള്ള ഞായറാഴ്ചകളും
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള ശന
  ി\nറോമാ 3:1–8 · മർക്കോസ് 7:1–8\nനമ്
  മുടെ അവിശ്വസ്തത ദൈവത്തിന്
@@ -1834,14 +1699,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള ശനി
+DESCRIPTION:നാളത്തെ വചനം: ദനഹായും ദ
+ നഹായ്ക്കുശേഷമുള്ള ഞായറാഴ
+ ്ചകളും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള ഒന്
@@ -1867,12 +1733,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള ഒന്
- നാം ഞായറിനുശേഷമുള്ള തിങ്ക
- ൾ · നിസ്സായിലെ മാർ ഗ്രിഗോറി
+SUMMARY:നിസ്സായിലെ മാർ ഗ്രിഗോറി
  യോസ്
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള ഒന
  ്നാം ഞായറിനുശേഷമുള്ള തിങ്
@@ -1887,22 +1751,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള ഒന്നാം ഞായറിനു
- ശേഷമുള്ള തിങ്കൾ · നിസ്സായി
+DESCRIPTION:നാളത്തെ വചനം: നിസ്സായി
  ലെ മാർ ഗ്രിഗോറിയോസ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള ഒന്
- നാം ഞായറിനുശേഷമുള്ള ചൊവ്വ 
- · ആശ്രമശ്രേഷ്ഠനായ മാർ തേവോ
- ദോസിയോസ്
+SUMMARY:ആശ്രമശ്രേഷ്ഠനായ മാർ തേവ
+ ോദോസിയോസ്
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള ഒന
  ്നാം ഞായറിനുശേഷമുള്ള ചൊവ്
  വ · ആശ്രമശ്രേഷ്ഠനായ മാർ തേവ
@@ -1916,20 +1776,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള ഒന്നാം ഞായറിനു
- ശേഷമുള്ള ചൊവ്വ · ആശ്രമശ്രേ
- ഷ്ഠനായ മാർ തേവോദോസിയോസ്
+DESCRIPTION:നാളത്തെ വചനം: ആശ്രമശ്ര
+ േഷ്ഠനായ മാർ തേവോദോസിയോസ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള ഒന്
- നാം ഞായറിനുശേഷമുള്ള ബുധൻ
+SUMMARY:ദനഹായും ദനഹായ്ക്കുശേഷമ
+ ുള്ള ഞായറാഴ്ചകളും
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള ഒന
  ്നാം ഞായറിനുശേഷമുള്ള ബുധൻ\
  n1 തിമോത്തേയോസ് 2:1–7 · മത്തായി
@@ -1942,20 +1800,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള ഒന്നാം ഞായറിനു
- ശേഷമുള്ള ബുധൻ
+DESCRIPTION:നാളത്തെ വചനം: ദനഹായും ദ
+ നഹായ്ക്കുശേഷമുള്ള ഞായറാഴ
+ ്ചകളും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള ഒന്
- നാം ഞായറിനുശേഷമുള്ള വ്യാഴ
- ം · സീനായ്മലയിലെ നാൽപതു രക്
+SUMMARY:സീനായ്മലയിലെ നാൽപതു രക്
  തസാക്ഷികൾ\; വിശുദ്ധ ദേവസഹാ
  യം
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള ഒന
@@ -1972,9 +1828,7 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള ഒന്നാം ഞായറിനു
- ശേഷമുള്ള വ്യാഴം · സീനായ്മല
+DESCRIPTION:നാളത്തെ വചനം: സീനായ്മല
  യിലെ നാൽപതു രക്തസാക്ഷികൾ\; 
  വിശുദ്ധ ദേവസഹായം
 TRIGGER:-PT4H
@@ -1982,12 +1836,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള ഒന്
- നാം ഞായറിനുശേഷമുള്ള വെള്ള
- ി · വിത്തുകളെപ്രതി ദൈവമാതാ
+SUMMARY:വിത്തുകളെപ്രതി ദൈവമാതാ
  വിന്റെ ഓർമ
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള ഒന
  ്നാം ഞായറിനുശേഷമുള്ള വെള്
@@ -2001,22 +1853,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള ഒന്നാം ഞായറിനു
- ശേഷമുള്ള വെള്ളി · വിത്തുകള
+DESCRIPTION:നാളത്തെ വചനം: വിത്തുകള
  െപ്രതി ദൈവമാതാവിന്റെ ഓർമ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള ഒന്
- നാം ഞായറിനുശേഷമുള്ള ശനി · വ
- ിശുദ്ധ പത്രോസ് ശ്ലീഹായുടെ 
- ബന്ധനം
+SUMMARY:വിശുദ്ധ പത്രോസ് ശ്ലീഹായ
+ ുടെ ബന്ധനം
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള ഒന
  ്നാം ഞായറിനുശേഷമുള്ള ശനി · 
  വിശുദ്ധ പത്രോസ് ശ്ലീഹായുട
@@ -2030,16 +1878,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള ഒന്നാം ഞായറിനു
- ശേഷമുള്ള ശനി · വിശുദ്ധ പത്ര
- ോസ് ശ്ലീഹായുടെ ബന്ധനം
+DESCRIPTION:നാളത്തെ വചനം: വിശുദ്ധ പ
+ ത്രോസ് ശ്ലീഹായുടെ ബന്ധനം
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള രണ്
@@ -2065,12 +1911,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള രണ്
- ടാം ഞായറിനുശേഷമുള്ള തിങ്ക
- ൾ · നിനിവേ നോമ്പ് ഒന്നാം ദി
+SUMMARY:നിനിവേ നോമ്പ് ഒന്നാം ദി
  വസം
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള രണ
  ്ടാം ഞായറിനുശേഷമുള്ള തിങ്
@@ -2085,22 +1929,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള രണ്ടാം ഞായറിനു
- ശേഷമുള്ള തിങ്കൾ · നിനിവേ നോ
+DESCRIPTION:നാളത്തെ വചനം: നിനിവേ നോ
  മ്പ് ഒന്നാം ദിവസം
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള രണ്
- ടാം ഞായറിനുശേഷമുള്ള ചൊവ്വ 
- · നിനിവേ നോമ്പ് രണ്ടാം ദിവസ
- ം · മാർ മക്കാറിയോസ്
+SUMMARY:നിനിവേ നോമ്പ് രണ്ടാം ദി
+ വസം · മാർ മക്കാറിയോസ്
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള രണ
  ്ടാം ഞായറിനുശേഷമുള്ള ചൊവ്
  വ · നിനിവേ നോമ്പ് രണ്ടാം ദി
@@ -2115,23 +1955,20 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള രണ്ടാം ഞായറിനു
- ശേഷമുള്ള ചൊവ്വ · നിനിവേ നോമ
- ്പ് രണ്ടാം ദിവസം · മാർ മക്ക
- ാറിയോസ്
+DESCRIPTION:നാളത്തെ വചനം: നിനിവേ നോ
+ മ്പ് രണ്ടാം ദിവസം · മാർ മക്
+ കാറിയോസ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള രണ്
- ടാം ഞായറിനുശേഷമുള്ള ബുധൻ · 
- നിനിവേ നോമ്പ് മൂന്നാം ദിവസ
- ം · വിശുദ്ധ സെബസ്ത്യാനോസ്
+SUMMARY:നിനിവേ നോമ്പ് മൂന്നാം ദ
+ ിവസം · വിശുദ്ധ സെബസ്ത്യാനോ
+ സ്
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള രണ
  ്ടാം ഞായറിനുശേഷമുള്ള ബുധൻ 
  · നിനിവേ നോമ്പ് മൂന്നാം ദിവ
@@ -2146,22 +1983,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള രണ്ടാം ഞായറിനു
- ശേഷമുള്ള ബുധൻ · നിനിവേ നോമ്
- പ് മൂന്നാം ദിവസം · വിശുദ്ധ 
- സെബസ്ത്യാനോസ്
+DESCRIPTION:നാളത്തെ വചനം: നിനിവേ നോ
+ മ്പ് മൂന്നാം ദിവസം · വിശുദ്
+ ധ സെബസ്ത്യാനോസ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള രണ്
- ടാം ഞായറിനുശേഷമുള്ള വ്യാഴ
- ം · നിനിവേ നോമ്പിന്റെ സമാപന
+SUMMARY:നിനിവേ നോമ്പിന്റെ സമാപന
  ം · വിശുദ്ധ ആഗ്നസ്
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള രണ
  ്ടാം ഞായറിനുശേഷമുള്ള വ്യാ
@@ -2179,9 +2012,7 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള രണ്ടാം ഞായറിനു
- ശേഷമുള്ള വ്യാഴം · നിനിവേ നോ
+DESCRIPTION:നാളത്തെ വചനം: നിനിവേ നോ
  മ്പിന്റെ സമാപനം · വിശുദ്ധ ആ
  ഗ്നസ്
 TRIGGER:-PT4H
@@ -2189,12 +2020,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള രണ്
- ടാം ഞായറിനുശേഷമുള്ള വെള്ള
- ി · ശ്ലീഹായായ മാർ തിമോത്തിയ
+SUMMARY:ശ്ലീഹായായ മാർ തിമോത്തിയ
  ോസ്
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള രണ
  ്ടാം ഞായറിനുശേഷമുള്ള വെള്
@@ -2208,20 +2037,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള രണ്ടാം ഞായറിനു
- ശേഷമുള്ള വെള്ളി · ശ്ലീഹായാ
+DESCRIPTION:നാളത്തെ വചനം: ശ്ലീഹായാ
  യ മാർ തിമോത്തിയോസ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:ദനഹായ്ക്കുശേഷമുള്ള രണ്
- ടാം ഞായറിനുശേഷമുള്ള ശനി
+SUMMARY:ദനഹായും ദനഹായ്ക്കുശേഷമ
+ ുള്ള ഞായറാഴ്ചകളും
 DESCRIPTION:ദനഹായ്ക്കുശേഷമുള്ള രണ
  ്ടാം ഞായറിനുശേഷമുള്ള ശനി\n
  ഹെബ്രായർ 8:1–6 · മത്തായി 9:32–34\nദ
@@ -2234,15 +2061,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദനഹായ്ക്
- കുശേഷമുള്ള രണ്ടാം ഞായറിനു
- ശേഷമുള്ള ശനി
+DESCRIPTION:നാളത്തെ വചനം: ദനഹായും ദ
+ നഹായ്ക്കുശേഷമുള്ള ഞായറാഴ
+ ്ചകളും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:കോഹ്നേ ഞായർ · മരിച്ച വൈദ
@@ -2267,12 +2094,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-SUMMARY:കോഹ്നേ ഞായറിനുശേഷമുള്ള 
- തിങ്കൾ · വിശുദ്ധ പൗലോസിന്റ
- െ മാനസാന്തരം
+SUMMARY:വിശുദ്ധ പൗലോസിന്റെ മാനസ
+ ാന്തരം
 DESCRIPTION:കോഹ്നേ ഞായറിനുശേഷമുള്
  ള തിങ്കൾ · വിശുദ്ധ പൗലോസിന്
  റെ മാനസാന്തരം\nഅപ്പ. പ്രവ. 9:1
@@ -2285,21 +2111,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: കോഹ്നേ ഞാ
- യറിനുശേഷമുള്ള തിങ്കൾ · വിശ
- ുദ്ധ പൗലോസിന്റെ മാനസാന്തര
- ം
+DESCRIPTION:നാളത്തെ വചനം: വിശുദ്ധ പ
+ ൗലോസിന്റെ മാനസാന്തരം
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-SUMMARY:കോഹ്നേ ഞായറിനുശേഷമുള്ള 
- ചൊവ്വ · ഇന്ത്യയുടെ റിപ്പബ്
- ലിക് ദിനം
+SUMMARY:ഇന്ത്യയുടെ റിപ്പബ്ലിക് 
+ ദിനം
 DESCRIPTION:കോഹ്നേ ഞായറിനുശേഷമുള്
  ള ചൊവ്വ · ഇന്ത്യയുടെ റിപ്പബ
  ്ലിക് ദിനം\n2 കോറിന്തോസ് 3:1–5 
@@ -2312,19 +2135,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: കോഹ്നേ ഞാ
- യറിനുശേഷമുള്ള ചൊവ്വ · ഇന്ത
- ്യയുടെ റിപ്പബ്ലിക് ദിനം
+DESCRIPTION:നാളത്തെ വചനം: ഇന്ത്യയു
+ ടെ റിപ്പബ്ലിക് ദിനം
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:കോഹ്നേ ഞായറിനുശേഷമുള്ള 
- ബുധൻ
+SUMMARY:ദനഹായും ദനഹായ്ക്കുശേഷമ
+ ുള്ള ഞായറാഴ്ചകളും
 DESCRIPTION:കോഹ്നേ ഞായറിനുശേഷമുള്
  ള ബുധൻ\nഎഫേസോസ് 5:22–33 · മത്തായ
  ി 5:31–32\nമിശിഹായോടുള്ള ബഹുമാ
@@ -2336,19 +2158,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: കോഹ്നേ ഞാ
- യറിനുശേഷമുള്ള ബുധൻ
+DESCRIPTION:നാളത്തെ വചനം: ദനഹായും ദ
+ നഹായ്ക്കുശേഷമുള്ള ഞായറാഴ
+ ്ചകളും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-SUMMARY:കോഹ്നേ ഞായറിനുശേഷമുള്ള 
- വ്യാഴം · വിശുദ്ധ തോമസ് അക്വ
- ീനാസ്
+SUMMARY:വിശുദ്ധ തോമസ് അക്വീനാസ്
 DESCRIPTION:കോഹ്നേ ഞായറിനുശേഷമുള്
  ള വ്യാഴം · വിശുദ്ധ തോമസ് അക
  ്വീനാസ്\nഹെബ്രായർ 13:7–16 · യോഹ
@@ -2361,20 +2182,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: കോഹ്നേ ഞാ
- യറിനുശേഷമുള്ള വ്യാഴം · വിശ
- ുദ്ധ തോമസ് അക്വീനാസ്
+DESCRIPTION:നാളത്തെ വചനം: വിശുദ്ധ ത
+ ോമസ് അക്വീനാസ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:കോഹ്നേ ഞായറിനുശേഷമുള്ള 
- വെള്ളി · അന്ത്യോക്യായിലെ മ
- ാർ ഇഗ്നാത്തിയോസ് നൂറോനോ
+SUMMARY:അന്ത്യോക്യായിലെ മാർ ഇഗ്
+ നാത്തിയോസ് നൂറോനോ
 DESCRIPTION:കോഹ്നേ ഞായറിനുശേഷമുള്
  ള വെള്ളി · അന്ത്യോക്യായിലെ 
  മാർ ഇഗ്നാത്തിയോസ് നൂറോനോ\n
@@ -2388,21 +2207,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: കോഹ്നേ ഞാ
- യറിനുശേഷമുള്ള വെള്ളി · അന്
- ത്യോക്യായിലെ മാർ ഇഗ്നാത്ത
- ിയോസ് നൂറോനോ
+DESCRIPTION:നാളത്തെ വചനം: അന്ത്യോക
+ ്യായിലെ മാർ ഇഗ്നാത്തിയോസ് 
+ നൂറോനോ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:കോഹ്നേ ഞായറിനുശേഷമുള്ള 
- ശനി · പേർഷ്യൻ ജ്ഞാനിയായ മാർ
-  യാക്കോബ് അഫ്രഹാത്ത്
+SUMMARY:പേർഷ്യൻ ജ്ഞാനിയായ മാർ യ
+ ാക്കോബ് അഫ്രഹാത്ത്
 DESCRIPTION:കോഹ്നേ ഞായറിനുശേഷമുള്
  ള ശനി · പേർഷ്യൻ ജ്ഞാനിയായ മ
  ാർ യാക്കോബ് അഫ്രഹാത്ത്\n2 കോ
@@ -2415,16 +2232,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: കോഹ്നേ ഞാ
- യറിനുശേഷമുള്ള ശനി · പേർഷ്യ
- ൻ ജ്ഞാനിയായ മാർ യാക്കോബ് അ
- ഫ്രഹാത്ത്
+DESCRIPTION:നാളത്തെ വചനം: പേർഷ്യൻ ജ
+ ്ഞാനിയായ മാർ യാക്കോബ് അഫ്ര
+ ഹാത്ത്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:അനീദേ ഞായർ · മരിച്ച വിശ്
@@ -2451,11 +2267,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:അനീദേ ഞായറിനുശേഷമുള്ള ത
- ിങ്കൾ
+SUMMARY:ദനഹായും ദനഹായ്ക്കുശേഷമ
+ ുള്ള ഞായറാഴ്ചകളും
 DESCRIPTION:അനീദേ ഞായറിനുശേഷമുള്ള
   തിങ്കൾ\nകൊളോസോസ് 1:9–14 · മത്ത
  ായി 6:9–15\nദൈവഹിതം അറിഞ്ഞ് കർ
@@ -2468,14 +2284,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: അനീദേ ഞായ
- റിനുശേഷമുള്ള തിങ്കൾ
+DESCRIPTION:നാളത്തെ വചനം: ദനഹായും ദ
+ നഹായ്ക്കുശേഷമുള്ള ഞായറാഴ
+ ്ചകളും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:മായൽത്തോ · നമ്മുടെ കർത്ത
@@ -2502,12 +2319,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:അനീദേ ഞായറിനുശേഷമുള്ള ബ
- ുധൻ · മാർ ശെമഓനും മോർത്ത് ഹ
- ന്നായും
+SUMMARY:മാർ ശെമഓനും മോർത്ത് ഹന്
+ നായും
 DESCRIPTION:അനീദേ ഞായറിനുശേഷമുള്ള
   ബുധൻ · മാർ ശെമഓനും മോർത്ത് 
  ഹന്നായും\nഎഫേസോസ് 3:14–21 · ലൂക
@@ -2520,19 +2336,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: അനീദേ ഞായ
- റിനുശേഷമുള്ള ബുധൻ · മാർ ശെമ
- ഓനും മോർത്ത് ഹന്നായും
+DESCRIPTION:നാളത്തെ വചനം: മാർ ശെമഓന
+ ും മോർത്ത് ഹന്നായും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:അനീദേ ഞായറിനുശേഷമുള്ള വ
- ്യാഴം · വി. ജോൺ ഡി ബ്രിട്ടോ
+SUMMARY:വി. ജോൺ ഡി ബ്രിട്ടോ
 DESCRIPTION:അനീദേ ഞായറിനുശേഷമുള്ള
   വ്യാഴം · വി. ജോൺ ഡി ബ്രിട്ടോ
  \nറോമാ 1:13–17 · മത്തായി 7:13–14\nജ്ഞ
@@ -2545,19 +2359,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: അനീദേ ഞായ
- റിനുശേഷമുള്ള വ്യാഴം · വി. ജ
- ോൺ ഡി ബ്രിട്ടോ
+DESCRIPTION:നാളത്തെ വചനം: വി. ജോൺ ഡി 
+ ബ്രിട്ടോ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-SUMMARY:അനീദേ ഞായറിനുശേഷമുള്ള വ
- െള്ളി
+SUMMARY:ദനഹായും ദനഹായ്ക്കുശേഷമ
+ ുള്ള ഞായറാഴ്ചകളും
 DESCRIPTION:അനീദേ ഞായറിനുശേഷമുള്ള
   വെള്ളി\n1 കോറിന്തോസ് 10:1–13 · യ
  ോഹന്നാൻ 15:18–25\nദൈവത്തിന്റെ എ
@@ -2570,18 +2383,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: അനീദേ ഞായ
- റിനുശേഷമുള്ള വെള്ളി
+DESCRIPTION:നാളത്തെ വചനം: ദനഹായും ദ
+ നഹായ്ക്കുശേഷമുള്ള ഞായറാഴ
+ ്ചകളും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:അനീദേ ഞായറിനുശേഷമുള്ള ശ
- നി
+SUMMARY:ദനഹായും ദനഹായ്ക്കുശേഷമ
+ ുള്ള ഞായറാഴ്ചകളും
 DESCRIPTION:അനീദേ ഞായറിനുശേഷമുള്ള
   ശനി\n1 തിമോത്തേയോസ് 6:17–21 · ലൂ
  ക്കാ 12:16–21\nഭോഷനായ ധനികൻ തനിക
@@ -2593,14 +2407,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: അനീദേ ഞായ
- റിനുശേഷമുള്ള ശനി
+DESCRIPTION:നാളത്തെ വചനം: ദനഹായും ദ
+ നഹായ്ക്കുശേഷമുള്ള ഞായറാഴ
+ ്ചകളും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:കോത്തിനേ ഞായർ · വലിയ നോമ
@@ -2628,11 +2443,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-SUMMARY:വലിയ നോമ്പിലെ ഒന്നാം ആഴ
- ്ചയിലെ തിങ്കൾ · ശുബ്കോനോ
+SUMMARY:ശുബ്കോനോ
 DESCRIPTION:വലിയ നോമ്പിലെ ഒന്നാം ആ
  ഴ്ചയിലെ തിങ്കൾ · ശുബ്കോനോ\n
  ഉൽപത്തി 15:1–6 · എഫേസോസ് 4:25–32 · മ
@@ -2646,19 +2460,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ ഒന്നാം ആഴ്ചയിലെ തിങ്ക
- ൾ · ശുബ്കോനോ
+DESCRIPTION:നാളത്തെ വചനം: ശുബ്കോനോ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:വലിയ നോമ്പിലെ ഒന്നാം ആഴ
- ്ചയിലെ ചൊവ്വ
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ ഒന്നാം ആ
  ഴ്ചയിലെ ചൊവ്വ\nഉൽപത്തി 15:7–16 
  · റോമാ 8:1–11 · യോഹന്നാൻ 10:11–16\nഅബ
@@ -2671,19 +2482,18 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ ഒന്നാം ആഴ്ചയിലെ ചൊവ്വ
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:വലിയ നോമ്പിലെ ഒന്നാം ആഴ
- ്ചയിലെ ബുധൻ · സീറോ മലങ്കര മ
- േജർ ആർക്കിഎപ്പിസ്കോപ്പൽ സ
- ഭയുടെ സ്ഥാപനവാർഷികം
+SUMMARY:സീറോ മലങ്കര മേജർ ആർക്കി
+ എപ്പിസ്കോപ്പൽ സഭയുടെ സ്ഥാ
+ പനവാർഷികം
 DESCRIPTION:വലിയ നോമ്പിലെ ഒന്നാം ആ
  ഴ്ചയിലെ ബുധൻ · സീറോ മലങ്കര 
  മേജർ ആർക്കിഎപ്പിസ്കോപ്പൽ 
@@ -2700,22 +2510,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ ഒന്നാം ആഴ്ചയിലെ ബുധൻ ·
-  സീറോ മലങ്കര മേജർ ആർക്കിഎപ
- ്പിസ്കോപ്പൽ സഭയുടെ സ്ഥാപന
- വാർഷികം
+DESCRIPTION:നാളത്തെ വചനം: സീറോ മലങ്
+ കര മേജർ ആർക്കിഎപ്പിസ്കോപ്
+ പൽ സഭയുടെ സ്ഥാപനവാർഷികം
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:വലിയ നോമ്പിലെ ഒന്നാം ആഴ
- ്ചയിലെ വ്യാഴം · ലൂർദ് മാതാവ
- ്
+SUMMARY:ലൂർദ് മാതാവ്
 DESCRIPTION:വലിയ നോമ്പിലെ ഒന്നാം ആ
  ഴ്ചയിലെ വ്യാഴം · ലൂർദ് മാതാ
  വ്\nഉൽപത്തി 16:1–6 · കൊളോസോസ് 3:1
@@ -2730,19 +2536,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ ഒന്നാം ആഴ്ചയിലെ വ്യാഴ
- ം · ലൂർദ് മാതാവ്
+DESCRIPTION:നാളത്തെ വചനം: ലൂർദ് മാത
+ ാവ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:വലിയ നോമ്പിലെ ഒന്നാം ആഴ
- ്ചയിലെ വെള്ളി
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ ഒന്നാം ആ
  ഴ്ചയിലെ വെള്ളി\nഉൽപത്തി 16:7–1
  6 · റോമാ 2:12–16 · ലൂക്കാ 12:8–12\nകർത
@@ -2757,20 +2561,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ ഒന്നാം ആഴ്ചയിലെ വെള്ള
- ി
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:വലിയ നോമ്പിലെ ഒന്നാം ആഴ
- ്ചയിലെ ശനി · മാർ അപ്രേമും മ
- ാർ തിയഡോറും\; ഹഗ്ഗായി നിബിയ
- ാ
+SUMMARY:മാർ അപ്രേമും മാർ തിയഡോറ
+ ും\; ഹഗ്ഗായി നിബിയാ
 DESCRIPTION:വലിയ നോമ്പിലെ ഒന്നാം ആ
  ഴ്ചയിലെ ശനി · മാർ അപ്രേമും 
  മാർ തിയഡോറും\; ഹഗ്ഗായി നിബി
@@ -2785,16 +2586,15 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ ഒന്നാം ആഴ്ചയിലെ ശനി · 
- മാർ അപ്രേമും മാർ തിയഡോറും\; 
- ഹഗ്ഗായി നിബിയാ
+DESCRIPTION:നാളത്തെ വചനം: മാർ അപ്രേ
+ മും മാർ തിയഡോറും\; ഹഗ്ഗായി ന
+ ിബിയാ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:ഗർബോ ഞായർ · കുഷ്ഠരോഗിയുട
@@ -2820,11 +2620,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-SUMMARY:വലിയ നോമ്പിലെ രണ്ടാം ആഴ
- ്ചയിലെ തിങ്കൾ
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ രണ്ടാം ആ
  ഴ്ചയിലെ തിങ്കൾ\nഉൽപത്തി 17:9–1
  4 · കൊളോസോസ് 4:1–6 · മത്തായി 6:25–34
@@ -2838,18 +2637,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ രണ്ടാം ആഴ്ചയിലെ തിങ്ക
- ൾ
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:വലിയ നോമ്പിലെ രണ്ടാം ആഴ
- ്ചയിലെ ചൊവ്വ
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ രണ്ടാം ആ
  ഴ്ചയിലെ ചൊവ്വ\nഉൽപത്തി 17:15–22 
  · എഫേസോസ് 2:1–10 · മത്തായി 7:15–20\n
@@ -2864,17 +2661,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ രണ്ടാം ആഴ്ചയിലെ ചൊവ്വ
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:വലിയ നോമ്പിലെ രണ്ടാം ആഴ
- ്ചയിലെ ബുധൻ
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ രണ്ടാം ആ
  ഴ്ചയിലെ ബുധൻ\nഉൽപത്തി 17:23–27 · 
  കൊളോസോസ് 2:1–5 · മത്തായി 8:18–22\nഅ
@@ -2887,17 +2683,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ രണ്ടാം ആഴ്ചയിലെ ബുധൻ
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:വലിയ നോമ്പിലെ രണ്ടാം ആഴ
- ്ചയിലെ വ്യാഴം
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ രണ്ടാം ആ
  ഴ്ചയിലെ വ്യാഴം\nഉൽപത്തി 18:1–8
   · 2 കോറിന്തോസ് 6:14–18 · മത്തായി 
@@ -2912,19 +2707,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ രണ്ടാം ആഴ്ചയിലെ വ്യാഴ
- ം
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:വലിയ നോമ്പിലെ രണ്ടാം ആഴ
- ്ചയിലെ വെള്ളി · മാർ ഇസഹാക്ക
- ്
+SUMMARY:മാർ ഇസഹാക്ക്
 DESCRIPTION:വലിയ നോമ്പിലെ രണ്ടാം ആ
  ഴ്ചയിലെ വെള്ളി · മാർ ഇസഹാക്
  ക്\nഉൽപത്തി 18:9–15 · ഫിലിപ്പി 3:8
@@ -2939,19 +2731,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ രണ്ടാം ആഴ്ചയിലെ വെള്ള
- ി · മാർ ഇസഹാക്ക്
+DESCRIPTION:നാളത്തെ വചനം: മാർ ഇസഹാക
+ ്ക്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:വലിയ നോമ്പിലെ രണ്ടാം ആഴ
- ്ചയിലെ ശനി
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ രണ്ടാം ആ
  ഴ്ചയിലെ ശനി\nഉൽപത്തി 18:16–21 · ത
  ീത്തോസ് 3:1–7 · ലൂക്കാ 12:32–34\nനീ
@@ -2966,13 +2756,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ രണ്ടാം ആഴ്ചയിലെ ശനി
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:മ്ശർയോ ഞായർ · തളർവാതരോഗി
@@ -3000,13 +2790,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
-SUMMARY:വലിയ നോമ്പിലെ മൂന്നാം ആ
- ഴ്ചയിലെ തിങ്കൾ · മാർ പത്രോസ
- ് ശ്ലീഹായുടെ അന്ത്യോക്യൻ സ
- ിംഹാസനം
+SUMMARY:മാർ പത്രോസ് ശ്ലീഹായുടെ 
+ അന്ത്യോക്യൻ സിംഹാസനം
 DESCRIPTION:വലിയ നോമ്പിലെ മൂന്നാം 
  ആഴ്ചയിലെ തിങ്കൾ · മാർ പത്രോ
  സ് ശ്ലീഹായുടെ അന്ത്യോക്യൻ 
@@ -3021,21 +2809,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-22&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ മൂന്നാം ആഴ്ചയിലെ തിങ്
- കൾ · മാർ പത്രോസ് ശ്ലീഹായുടെ
-  അന്ത്യോക്യൻ സിംഹാസനം
+DESCRIPTION:നാളത്തെ വചനം: മാർ പത്രോ
+ സ് ശ്ലീഹായുടെ അന്ത്യോക്യൻ 
+ സിംഹാസനം
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:വലിയ നോമ്പിലെ മൂന്നാം ആ
- ഴ്ചയിലെ ചൊവ്വ · സ്മിർണായില
- െ മാർ പോളിക്കാർപ്പ്
+SUMMARY:സ്മിർണായിലെ മാർ പോളിക്ക
+ ാർപ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ മൂന്നാം 
  ആഴ്ചയിലെ ചൊവ്വ · സ്മിർണായി
  ലെ മാർ പോളിക്കാർപ്പ്\nഉൽപത
@@ -3050,22 +2836,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ മൂന്നാം ആഴ്ചയിലെ ചൊവ്
- വ · സ്മിർണായിലെ മാർ പോളിക്ക
- ാർപ്പ്
+DESCRIPTION:നാളത്തെ വചനം: സ്മിർണായ
+ ിലെ മാർ പോളിക്കാർപ്പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:വലിയ നോമ്പിലെ മൂന്നാം ആ
- ഴ്ചയിലെ ബുധൻ · യോഹന്നാൻ മാം
- ദാനായുടെ ശിരസ്സ് കണ്ടെത്ത
- ൽ
+SUMMARY:യോഹന്നാൻ മാംദാനായുടെ ശി
+ രസ്സ് കണ്ടെത്തൽ
 DESCRIPTION:വലിയ നോമ്പിലെ മൂന്നാം 
  ആഴ്ചയിലെ ബുധൻ · യോഹന്നാൻ മാ
  ംദാനായുടെ ശിരസ്സ് കണ്ടെത്
@@ -3080,21 +2862,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ മൂന്നാം ആഴ്ചയിലെ ബുധൻ
-  · യോഹന്നാൻ മാംദാനായുടെ ശിര
- സ്സ് കണ്ടെത്തൽ
+DESCRIPTION:നാളത്തെ വചനം: യോഹന്നാൻ 
+ മാംദാനായുടെ ശിരസ്സ് കണ്ടെ
+ ത്തൽ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:വലിയ നോമ്പിലെ മൂന്നാം ആ
- ഴ്ചയിലെ വ്യാഴം · വാഴ്ത്തപ്
- പെട്ട റാണി മരിയ
+SUMMARY:വാഴ്ത്തപ്പെട്ട റാണി മരി
+ യ
 DESCRIPTION:വലിയ നോമ്പിലെ മൂന്നാം 
  ആഴ്ചയിലെ വ്യാഴം · വാഴ്ത്തപ
  ്പെട്ട റാണി മരിയ\nഉൽപത്തി 19:2
@@ -3109,20 +2889,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ മൂന്നാം ആഴ്ചയിലെ വ്യാ
- ഴം · വാഴ്ത്തപ്പെട്ട റാണി മര
- ിയ
+DESCRIPTION:നാളത്തെ വചനം: വാഴ്ത്തപ
+ ്പെട്ട റാണി മരിയ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:വലിയ നോമ്പിലെ മൂന്നാം ആ
- ഴ്ചയിലെ വെള്ളി
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ മൂന്നാം 
  ആഴ്ചയിലെ വെള്ളി\nഉൽപത്തി 19:30
  –38 · റോമാ 2:1–11 · മത്തായി 6:5–8\nഭയ
@@ -3138,18 +2915,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ മൂന്നാം ആഴ്ചയിലെ വെള്
- ളി
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:വലിയ നോമ്പിലെ മൂന്നാം ആ
- ഴ്ചയിലെ ശനി
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ മൂന്നാം 
  ആഴ്ചയിലെ ശനി\nഉൽപത്തി 20:1–7 · 
  റോമാ 2:12–16 · ലൂക്കാ 12:8–12\nഭയംമൂ
@@ -3164,13 +2939,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ മൂന്നാം ആഴ്ചയിലെ ശനി
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:കനാനായിത്തോ ഞായർ · കാനാൻ
@@ -3198,11 +2973,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-01-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:വലിയ നോമ്പിലെ നാലാം ആഴ്
- ചയിലെ തിങ്കൾ
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ നാലാം ആഴ
  ്ചയിലെ തിങ്കൾ\nഉൽപത്തി 20:8–18 
  · 2 തെസലോനിക്കാ 3:16–18 · മത്തായ
@@ -3218,17 +2992,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ നാലാം ആഴ്ചയിലെ തിങ്കൾ
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:വലിയ നോമ്പിലെ നാലാം ആഴ്
- ചയിലെ ചൊവ്വ
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ നാലാം ആഴ
  ്ചയിലെ ചൊവ്വ\nഉൽപത്തി 21:1–8 · 
  ഗലാത്തിയാ 3:26–29 · മത്തായി 11:20–2
@@ -3243,13 +3016,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ നാലാം ആഴ്ചയിലെ ചൊവ്വ
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:പകുതി നോമ്പ് · വലിയ നോമ്
@@ -3282,11 +3055,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:വലിയ നോമ്പിലെ നാലാം ആഴ്
- ചയിലെ വ്യാഴം
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ നാലാം ആഴ
  ്ചയിലെ വ്യാഴം\nഉൽപത്തി 21:9–14 
  · 1 കോറിന്തോസ് 8:1–6 · മത്തായി 5:4
@@ -3302,18 +3074,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ നാലാം ആഴ്ചയിലെ വ്യാഴം
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-SUMMARY:വലിയ നോമ്പിലെ നാലാം ആഴ്
- ചയിലെ വെള്ളി · കാതോലിക്കാ സ
- ്ഥാനാരോഹണ വാർഷികം
+SUMMARY:കാതോലിക്കാ സ്ഥാനാരോഹണ വ
+ ാർഷികം
 DESCRIPTION:വലിയ നോമ്പിലെ നാലാം ആഴ
  ്ചയിലെ വെള്ളി · കാതോലിക്കാ 
  സ്ഥാനാരോഹണ വാർഷികം\nഉൽപത്ത
@@ -3329,20 +3100,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ നാലാം ആഴ്ചയിലെ വെള്ളി
-  · കാതോലിക്കാ സ്ഥാനാരോഹണ വാ
- ർഷികം
+DESCRIPTION:നാളത്തെ വചനം: കാതോലിക്
+ കാ സ്ഥാനാരോഹണ വാർഷികം
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:വലിയ നോമ്പിലെ നാലാം ആഴ്
- ചയിലെ ശനി
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ നാലാം ആഴ
  ്ചയിലെ ശനി\nഉൽപത്തി 21:22–34 · 1 ത
  ിമോത്തേയോസ് 4:1–5 · ലൂക്കാ 4:42–4
@@ -3358,13 +3126,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ നാലാം ആഴ്ചയിലെ ശനി
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:ക്ഫീഫ്തോ ഞായർ · കൂനുള്ള 
@@ -3391,11 +3159,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:വലിയ നോമ്പിലെ അഞ്ചാം ആഴ
- ്ചയിലെ തിങ്കൾ
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ അഞ്ചാം ആ
  ഴ്ചയിലെ തിങ്കൾ\nഉൽപത്തി 22:1–8
   · 1 കോറിന്തോസ് 11:1–10 · ലൂക്കാ 5:3
@@ -3411,19 +3178,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ അഞ്ചാം ആഴ്ചയിലെ തിങ്ക
- ൾ
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:വലിയ നോമ്പിലെ അഞ്ചാം ആഴ
- ്ചയിലെ ചൊവ്വ · സെബസ്തിയിലെ 
- നാല്പതു സഹദേന്മാർ
+SUMMARY:സെബസ്തിയിലെ നാല്പതു സഹദ
+ േന്മാർ
 DESCRIPTION:വലിയ നോമ്പിലെ അഞ്ചാം ആ
  ഴ്ചയിലെ ചൊവ്വ · സെബസ്തിയില
  െ നാല്പതു സഹദേന്മാർ\nഉൽപത്
@@ -3440,20 +3205,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ അഞ്ചാം ആഴ്ചയിലെ ചൊവ്വ
-  · സെബസ്തിയിലെ നാല്പതു സഹദേ
- ന്മാർ
+DESCRIPTION:നാളത്തെ വചനം: സെബസ്തിയ
+ ിലെ നാല്പതു സഹദേന്മാർ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-10-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:വലിയ നോമ്പിലെ അഞ്ചാം ആഴ
- ്ചയിലെ ബുധൻ
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ അഞ്ചാം ആ
  ഴ്ചയിലെ ബുധൻ\nഉൽപത്തി 22:20–24 · 
  1 തിമോത്തേയോസ് 5:17–22 · മത്തായ
@@ -3469,17 +3231,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ അഞ്ചാം ആഴ്ചയിലെ ബുധൻ
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:വലിയ നോമ്പിലെ അഞ്ചാം ആഴ
- ്ചയിലെ വ്യാഴം
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ അഞ്ചാം ആ
  ഴ്ചയിലെ വ്യാഴം\nഉൽപത്തി 23:1–9
   · കൊളോസോസ് 1:3–6 · മത്തായി 16:1–4\n
@@ -3494,18 +3255,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ അഞ്ചാം ആഴ്ചയിലെ വ്യാഴ
- ം
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-SUMMARY:വലിയ നോമ്പിലെ അഞ്ചാം ആഴ
- ്ചയിലെ വെള്ളി
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ അഞ്ചാം ആ
  ഴ്ചയിലെ വെള്ളി\nഉൽപത്തി 23:10–
  16 · എഫേസോസ് 2:11–22 · മർക്കോസ് 8:14
@@ -3520,18 +3279,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ അഞ്ചാം ആഴ്ചയിലെ വെള്ള
- ി
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-SUMMARY:വലിയ നോമ്പിലെ അഞ്ചാം ആഴ
- ്ചയിലെ ശനി
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ അഞ്ചാം ആ
  ഴ്ചയിലെ ശനി\nഉൽപത്തി 23:17–20 · റ
  ോമാ 3:27–31 · യോഹന്നാൻ 15:11–17\nമക്പ
@@ -3546,13 +3303,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ അഞ്ചാം ആഴ്ചയിലെ ശനി
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:സമിയോ ഞായർ · അന്ധന്റെ സൗ
@@ -3579,11 +3336,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-SUMMARY:വലിയ നോമ്പിലെ ആറാം ആഴ്ച
- യിലെ തിങ്കൾ
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ ആറാം ആഴ്
  ചയിലെ തിങ്കൾ\nഉൽപത്തി 24:1–9 · 
  എഫേസോസ് 6:18–20 · മർക്കോസ് 11:27–33\n
@@ -3599,17 +3355,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ ആറാം ആഴ്ചയിലെ തിങ്കൾ
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:വലിയ നോമ്പിലെ ആറാം ആഴ്ച
- യിലെ ചൊവ്വ
+SUMMARY:വലിയ നോമ്പ്
 DESCRIPTION:വലിയ നോമ്പിലെ ആറാം ആഴ്
  ചയിലെ ചൊവ്വ\nഉൽപത്തി 24:10–14 · ക
  ൊളോസോസ് 1:24–29 · മർക്കോസ് 9:30–32\n
@@ -3625,17 +3380,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ ആറാം ആഴ്ചയിലെ ചൊവ്വ
+ പ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:വലിയ നോമ്പിലെ ആറാം ആഴ്ച
- യിലെ ബുധൻ · വി. പാട്രിക്
+SUMMARY:വി. പാട്രിക്
 DESCRIPTION:വലിയ നോമ്പിലെ ആറാം ആഴ്
  ചയിലെ ബുധൻ · വി. പാട്രിക്\nഉൽ
  പത്തി 24:15–27 · എഫേസോസ് 5:1–4 · ലൂക
@@ -3650,20 +3404,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ ആറാം ആഴ്ചയിലെ ബുധൻ · വ
- ി. പാട്രിക്
+DESCRIPTION:നാളത്തെ വചനം: വി. പാട്ര
+ ിക്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:വലിയ നോമ്പിലെ ആറാം ആഴ്ച
- യിലെ വ്യാഴം · ജറുസലേമിലെ മാ
- ർ കൂറിലോസ്
+SUMMARY:ജറുസലേമിലെ മാർ കൂറിലോസ്
 DESCRIPTION:വലിയ നോമ്പിലെ ആറാം ആഴ്
  ചയിലെ വ്യാഴം · ജറുസലേമിലെ മ
  ാർ കൂറിലോസ്\nഉൽപത്തി 24:28–41 · ക
@@ -3679,19 +3430,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: വലിയ നോമ്
- പിലെ ആറാം ആഴ്ചയിലെ വ്യാഴം ·
-  ജറുസലേമിലെ മാർ കൂറിലോസ്
+DESCRIPTION:നാളത്തെ വചനം: ജറുസലേമി
+ ലെ മാർ കൂറിലോസ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-SUMMARY:നാൽപതാം വെള്ളി · മാർ യൗസ
- േഫ്
+SUMMARY:മാർ യൗസേഫ്
 DESCRIPTION:നാൽപതാം വെള്ളി · മാർ യൗ
  സേഫ്\nമത്തായി 4:1–11 · ഉൽപത്തി 3:
  1–7 · 2 സാമുവൽ 24:18–25 · ജറെമിയാ 7:1–
@@ -3707,18 +3456,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: നാൽപതാം വ
- െള്ളി · മാർ യൗസേഫ്
+DESCRIPTION:നാളത്തെ വചനം: മാർ യൗസേഫ
+ ്
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:ലാസറിന്റെ ശനി · ലാസറിനെ 
- ഉയിർപ്പിച്ച ശനിയാഴ്ച
+SUMMARY:ലാസറിനെ ഉയിർപ്പിച്ച ശനി
+ യാഴ്ച
 DESCRIPTION:ലാസറിന്റെ ശനി · ലാസറിന
  െ ഉയിർപ്പിച്ച ശനിയാഴ്ച\nഉൽ
  പത്തി 24:50–61 · 1 കോറിന്തോസ് 15:20–2
@@ -3733,15 +3482,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ലാസറിന്റ
- െ ശനി · ലാസറിനെ ഉയിർപ്പിച്ച
-  ശനിയാഴ്ച
+DESCRIPTION:നാളത്തെ വചനം: ലാസറിനെ ഉ
+ യിർപ്പിച്ച ശനിയാഴ്ച
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:ഓശാന ഞായർ · കർത്താവിന്റെ
@@ -3769,11 +3517,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-SUMMARY:ഹാശാ തിങ്കൾ · കഷ്ടാനുഭവ 
- ആഴ്ചയിലെ തിങ്കൾ
+SUMMARY:കഷ്ടാനുഭവ ആഴ്ചയിലെ തിങ്
+ കൾ
 DESCRIPTION:ഹാശാ തിങ്കൾ · കഷ്ടാനുഭ
  വ ആഴ്ചയിലെ തിങ്കൾ\nഏശയ്യാ 28:5
  –13 · ഹെബ്രായർ 1:10–14 · മത്തായി 21:
@@ -3787,19 +3535,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹാശാ തിങ്
- കൾ · കഷ്ടാനുഭവ ആഴ്ചയിലെ തിങ
- ്കൾ
+DESCRIPTION:നാളത്തെ വചനം: കഷ്ടാനുഭ
+ വ ആഴ്ചയിലെ തിങ്കൾ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-23-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:ഹാശാ ചൊവ്വ · കഷ്ടാനുഭവ ആ
- ഴ്ചയിലെ ചൊവ്വ
+SUMMARY:കഷ്ടാനുഭവ ആഴ്ചയിലെ ചൊവ്
+ വ
 DESCRIPTION:ഹാശാ ചൊവ്വ · കഷ്ടാനുഭവ 
  ആഴ്ചയിലെ ചൊവ്വ\nനിയമാവർത്ത
  നം 31:14–30 · ഹെബ്രായർ 4:1–5 · യോഹന്
@@ -3814,19 +3561,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹാശാ ചൊവ്
- വ · കഷ്ടാനുഭവ ആഴ്ചയിലെ ചൊവ്
- വ
+DESCRIPTION:നാളത്തെ വചനം: കഷ്ടാനുഭ
+ വ ആഴ്ചയിലെ ചൊവ്വ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:ഹാശാ ബുധൻ · കഷ്ടാനുഭവ ആഴ
- ്ചയിലെ ബുധൻ
+SUMMARY:കഷ്ടാനുഭവ ആഴ്ചയിലെ ബുധൻ
 DESCRIPTION:ഹാശാ ബുധൻ · കഷ്ടാനുഭവ ആ
  ഴ്ചയിലെ ബുധൻ\nഎസെക്കിയേൽ 21:28
  –32 · ഹെബ്രായർ 9:23–28 · മത്തായി 26:
@@ -3839,14 +3584,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹാശാ ബുധൻ
-  · കഷ്ടാനുഭവ ആഴ്ചയിലെ ബുധൻ
+DESCRIPTION:നാളത്തെ വചനം: കഷ്ടാനുഭ
+ വ ആഴ്ചയിലെ ബുധൻ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:പെസഹാ · കർത്താവിന്റെ അത്
@@ -3872,12 +3617,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-SUMMARY:ദുഃഖവെള്ളി · നമ്മുടെ കർത
- ്താവിന്റെ പീഡാസഹനവും മരണവ
- ും
+SUMMARY:നമ്മുടെ കർത്താവിന്റെ പീ
+ ഡാസഹനവും മരണവും
 DESCRIPTION:ദുഃഖവെള്ളി · നമ്മുടെ ക
  ർത്താവിന്റെ പീഡാസഹനവും മര
  ണവും\nദുഃഖവെള്ളിയിലെ യാമങ്
@@ -3892,19 +3636,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദുഃഖവെള്
- ളി · നമ്മുടെ കർത്താവിന്റെ പ
- ീഡാസഹനവും മരണവും
+DESCRIPTION:നാളത്തെ വചനം: നമ്മുടെ ക
+ ർത്താവിന്റെ പീഡാസഹനവും മര
+ ണവും
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-SUMMARY:ദുഃഖശനി · കർത്താവു കല്ലറ
- യിൽ വിശ്രമിക്കുന്നു
+SUMMARY:കർത്താവു കല്ലറയിൽ വിശ്ര
+ മിക്കുന്നു
 DESCRIPTION:ദുഃഖശനി · കർത്താവു കല്
  ലറയിൽ വിശ്രമിക്കുന്നു\nആമോ
  സ് 6:10–14 (അച്ചടിച്ചിരിക്കുന്
@@ -3918,15 +3662,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ദുഃഖശനി · 
- കർത്താവു കല്ലറയിൽ വിശ്രമി
- ക്കുന്നു
+DESCRIPTION:നാളത്തെ വചനം: കർത്താവു 
+ കല്ലറയിൽ വിശ്രമിക്കുന്നു
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:ക്യംതോ · നമ്മുടെ കർത്താവ
@@ -3955,11 +3698,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:ഹേവോറോ ആഴ്ചയിലെ തിങ്കൾ ·
-  ഉയിർപ്പുതിങ്കൾ
+SUMMARY:ഉയിർപ്പുതിങ്കൾ
 DESCRIPTION:ഹേവോറോ ആഴ്ചയിലെ തിങ്ക
  ൾ · ഉയിർപ്പുതിങ്കൾ\nറോമാ 7:1–6 
  · മത്തായി 28:11–15\nശരീരം മോഷ്ടി
@@ -3974,19 +3716,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹേവോറോ ആഴ
- ്ചയിലെ തിങ്കൾ · ഉയിർപ്പുതി
- ങ്കൾ
+DESCRIPTION:നാളത്തെ വചനം: ഉയിർപ്പു
+ തിങ്കൾ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:ഹേവോറോ ആഴ്ചയിലെ ചൊവ്വ · 
- ഉയിർപ്പുചൊവ്വ
+SUMMARY:ഉയിർപ്പുചൊവ്വ
 DESCRIPTION:ഹേവോറോ ആഴ്ചയിലെ ചൊവ്വ 
  · ഉയിർപ്പുചൊവ്വ\n1 കോറിന്തോ
  സ് 5:6–8 · മർക്കോസ് 4:21–25\nനമ്മുട
@@ -4001,19 +3741,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹേവോറോ ആഴ
- ്ചയിലെ ചൊവ്വ · ഉയിർപ്പുചൊവ
- ്വ
+DESCRIPTION:നാളത്തെ വചനം: ഉയിർപ്പു
+ ചൊവ്വ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-SUMMARY:ഹേവോറോ ആഴ്ചയിലെ ബുധൻ · ഉ
- യിർപ്പുബുധൻ
+SUMMARY:ഉയിർപ്പുബുധൻ
 DESCRIPTION:ഹേവോറോ ആഴ്ചയിലെ ബുധൻ · 
  ഉയിർപ്പുബുധൻ\n1 തിമോത്തേയോ
  സ് 1:18–20 · മർക്കോസ് 10:17–27\nവിശ്വ
@@ -4027,14 +3765,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=smk&l=ml
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:നാളത്തെ വചനം: ഹേവോറോ ആഴ
- ്ചയിലെ ബുധൻ · ഉയിർപ്പുബുധൻ
+DESCRIPTION:നാളത്തെ വചനം: ഉയിർപ്പു
+ ബുധൻ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-04-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:പുതുഞായർ · കർത്താവു തോമാ
@@ -4064,7 +3802,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-11-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:ക്യംതോയ്ക്കുശേഷമുള്ള ര
@@ -4091,7 +3829,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-18-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:ക്യംതോയ്ക്കുശേഷമുള്ള മ
@@ -4120,7 +3858,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-25-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:ക്യംതോയ്ക്കുശേഷമുള്ള ന
@@ -4147,7 +3885,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-02-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:ക്യംതോയ്ക്കുശേഷമുള്ള അ
@@ -4174,7 +3912,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-06-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:സുലൂക്കോ · നമ്മുടെ കർത്ത
@@ -4202,7 +3940,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-09-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:ക്യംതോയ്ക്കുശേഷമുള്ള ആ
@@ -4230,7 +3968,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-16-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:പന്തക്കുസ്താ ഞായർ
@@ -4256,7 +3994,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-23-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:പന്തക്കുസ്തായ്ക്കുശേഷ
@@ -4284,7 +4022,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-30-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:പന്തക്കുസ്തായ്ക്കുശേഷ
@@ -4312,7 +4050,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-06-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:പന്തക്കുസ്തായ്ക്കുശേഷ
@@ -4341,7 +4079,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-13-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
 SUMMARY:പന്തക്കുസ്തായ്ക്കുശേഷ
@@ -4370,7 +4108,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-20-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 SUMMARY:പന്തക്കുസ്തായ്ക്കുശേഷ
@@ -4399,7 +4137,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-27-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:പന്തക്കുസ്തായ്ക്കുശേഷ
@@ -4428,7 +4166,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-29-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:വിശുദ്ധ പത്രോസും പൗലോസു
@@ -4455,7 +4193,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-03-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
 SUMMARY:മാർ തോമാശ്ലീഹായുടെ ദുക്
@@ -4482,7 +4220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-04-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
 SUMMARY:പന്തക്കുസ്തായ്ക്കുശേഷ
@@ -4511,7 +4249,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-11-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
 SUMMARY:പന്തക്കുസ്തായ്ക്കുശേഷ
@@ -4540,7 +4278,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-15-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
 SUMMARY:മാർ ഈവാനിയോസ് മെത്രാപ്പ
@@ -4568,7 +4306,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-18-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
 SUMMARY:പന്തക്കുസ്തായ്ക്കുശേഷ
@@ -4597,7 +4335,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-25-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
 SUMMARY:പന്തക്കുസ്തായ്ക്കുശേഷ
@@ -4626,7 +4364,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-01-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:പന്തക്കുസ്തായ്ക്കുശേഷ
@@ -4656,7 +4394,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-06-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
 SUMMARY:നമ്മുടെ കർത്താവിന്റെ രൂ
@@ -4685,7 +4423,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-08-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
 SUMMARY:രൂപാന്തരീകരണത്തിനുശേഷ
@@ -4713,7 +4451,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-15-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:ശൂനോയോ: ദൈവമാതാവായ മറിയ
@@ -4742,7 +4480,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-22-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:രൂപാന്തരീകരണത്തിനുശേഷ
@@ -4771,7 +4509,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-29-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 SUMMARY:രൂപാന്തരീകരണത്തിനുശേഷ
@@ -4801,7 +4539,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-05-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:രൂപാന്തരീകരണത്തിനുശേഷ
@@ -4830,7 +4568,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-08-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
 SUMMARY:ദൈവമാതാവായ മറിയത്തിന്റ
@@ -4858,7 +4596,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-14-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
 SUMMARY:വിശുദ്ധ കുരിശിന്റെ പുകഴ
@@ -4885,7 +4623,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-19-smk-ml@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:സ്ലീബായ്ക്കുശേഷമുള്ള ഒ

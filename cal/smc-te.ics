@@ -5,11 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:అనుదిన వాక్యం · Syro-Malabar
 X-WR-TIMEZONE:Asia/Kolkata
+X-APPLE-CALENDAR-COLOR:#7E2635
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:2026-11-01-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు (ఖ
@@ -35,12 +36,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
- ొదటి సోమవారం · మృతులైన విశ్
- వాసులందరి స్మరణ
+SUMMARY:మృతులైన విశ్వాసులందరి స
+ ్మరణ
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  మొదటి సోమవారం · మృతులైన విశ
  ్వాసులందరి స్మరణ\nయెహెజ్కే
@@ -55,20 +55,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-02&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు మొదటి సోమవారం
-  · మృతులైన విశ్వాసులందరి స్
- మరణ
+DESCRIPTION:రేపటి వాక్యం: మృతులైన వ
+ ిశ్వాసులందరి స్మరణ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
- ొదటి మంగళవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  మొదటి మంగళవారం\n2 కొరింథీయు
  లకు 5:1–5 · లూకా 15:11–24\nమన శరీరం ఒ
@@ -79,19 +77,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు మొదటి మంగళవార
- ం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
- ొదటి బుధవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  మొదటి బుధవారం\n1 పేతురు 5:1–4 · 
  యోహాను 21:15–19\nశ్రీసభలో అధికా
@@ -102,19 +99,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు మొదటి బుధవారం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
- ొదటి గురువారం · పునీత జెకర్
- యా\, ఎలీసబెతు
+SUMMARY:పునీత జెకర్యా\, ఎలీసబెతు
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  మొదటి గురువారం · పునీత జెకర
  ్యా\, ఎలీసబెతు\nఎఫెసీయులకు 3:1
@@ -127,20 +122,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు మొదటి గురువార
- ం · పునీత జెకర్యా\, ఎలీసబెతు
+DESCRIPTION:రేపటి వాక్యం: పునీత జెక
+ ర్యా\, ఎలీసబెతు
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
- ొదటి శుక్రవారం · మొదటి శుక్
- రవారం
+SUMMARY:మొదటి శుక్రవారం
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  మొదటి శుక్రవారం · మొదటి శుక
  ్రవారం\nఎఫెసీయులకు 6:1–9 · మత్
@@ -153,19 +145,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు మొదటి శుక్రవా
- రం · మొదటి శుక్రవారం
+DESCRIPTION:రేపటి వాక్యం: మొదటి శుక
+ ్రవారం
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
- ొదటి శనివారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  మొదటి శనివారం\nరోమీయులకు 12:9
  –18 · లూకా 10:25–37\nప్రశ్న నా పొరు
@@ -177,14 +168,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు మొదటి శనివారం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు ర
@@ -208,11 +199,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు ర
- ెండవ సోమవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  రెండవ సోమవారం\nకొలొస్సయులక
  ు 1:12–20 · మత్తయి 16:13–20\nక్రీస్తు
@@ -224,18 +215,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు రెండవ సోమవారం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు ర
- ెండవ మంగళవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  రెండవ మంగళవారం\n2 పేతురు 1:12–21
   · లూకా 9:28–36\nమన విశ్వాసం అపోస
@@ -247,19 +238,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు రెండవ మంగళవార
- ం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు ర
- ెండవ బుధవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  రెండవ బుధవారం\nదర్శన గ్రంథ
  ం 19:1–10 · మత్తయి 22:1–14\nరక్షణ చరి
@@ -271,18 +261,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు రెండవ బుధవారం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు ర
- ెండవ గురువారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  రెండవ గురువారం\n2 కొరింథీయు
  లకు 11:1–4 · యోహాను 3:22–30\nశ్రీసభ 
@@ -294,19 +284,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు రెండవ గురువార
- ం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు ర
- ెండవ శుక్రవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  రెండవ శుక్రవారం\n2 కొరింథీయ
  ులకు 12:1–5 · యోహాను 3:31–36\nపరలోక 
@@ -317,19 +306,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు రెండవ శుక్రవా
- రం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు ర
- ెండవ శనివారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  రెండవ శనివారం\nదర్శన గ్రంథ
  ం 22:1–5 · మత్తయి 19:13–14\nపరలోకం పు
@@ -341,14 +329,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు రెండవ శనివారం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
@@ -371,11 +359,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
- ూడవ సోమవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  మూడవ సోమవారం\n1 కొరింథీయులక
  ు 13:1–10 · మార్కు 12:28–34\nదేవుని ప
@@ -387,18 +375,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు మూడవ సోమవారం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
- ూడవ మంగళవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  మూడవ మంగళవారం\n1 కొరింథీయుల
  కు 4:1–5 · లూకా 16:1–13\nమనం యజమాను
@@ -409,18 +397,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు మూడవ మంగళవారం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
- ూడవ బుధవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  మూడవ బుధవారం\n1 కొరింథీయులక
  ు 6:1–11 · లూకా 16:13–17\nజ్ఞానస్నాన
@@ -434,18 +422,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు మూడవ బుధవారం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
- ూడవ గురువారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  మూడవ గురువారం\nకొలొస్సయులక
  ు 1:3–11 · మత్తయి 13:10–23\nసువార్త స
@@ -456,18 +444,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు మూడవ గురువారం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు మ
- ూడవ శుక్రవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  మూడవ శుక్రవారం\nహెబ్రీయులక
  ు 12:4–13 · యోహాను 15:1–8\nప్రభువు త
@@ -479,15 +467,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు మూడవ శుక్రవార
- ం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:అపోస్తలుడైన పునీత తోమాస
@@ -516,7 +503,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు న
@@ -543,11 +530,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు న
- ాలుగవ సోమవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  నాలుగవ సోమవారం\nఎఫెసీయులకు
   2:14–22 · యోహాను 14:1–14\nతండ్రి ఇంట
@@ -558,19 +545,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు నాలుగవ సోమవార
- ం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు న
- ాలుగవ మంగళవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  నాలుగవ మంగళవారం\n1 పేతురు 2:1–
  10 · యోహాను 10:7–16\nజ్ఞానస్నానం 
@@ -582,19 +568,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు నాలుగవ మంగళవా
- రం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు న
- ాలుగవ బుధవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  నాలుగవ బుధవారం\nఎఫెసీయులకు
   1:3–12 · లూకా 1:46–55\nజగత్తు పునాద
@@ -606,19 +591,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు నాలుగవ బుధవార
- ం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు న
- ాలుగవ గురువారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  నాలుగవ గురువారం\nహెబ్రీయుల
  కు 13:9–16 · లూకా 10:17–21\nఇక్కడ మనక
@@ -629,19 +613,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు నాలుగవ గురువా
- రం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు న
- ాలుగవ శుక్రవారం
+SUMMARY:సంఘ ప్రతిష్ఠా కాలం (ఖుదా
+ ష్ ఏత్తా)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  నాలుగవ శుక్రవారం\nదర్శన గ్
  రంథం 7:9–12 · మార్కు 12:18–27\nదేవుడ
@@ -652,21 +635,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు నాలుగవ శుక్రవ
- ారం
+DESCRIPTION:రేపటి వాక్యం: సంఘ ప్రతి
+ ష్ఠా కాలం (ఖుదాష్ ఏత్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:శ్రీసభ ప్రతిష్ఠ కాలపు న
- ాలుగవ శనివారం · అపోస్తలుడై
- న పునీత అంద్రెయ (ముందుగా జర
- ుపుకునేది)
+SUMMARY:అపోస్తలుడైన పునీత అంద్ర
+ ెయ (ముందుగా జరుపుకునేది)
 DESCRIPTION:శ్రీసభ ప్రతిష్ఠ కాలపు 
  నాలుగవ శనివారం · అపోస్తలుడ
  ైన పునీత అంద్రెయ (ముందుగా జ
@@ -680,16 +660,15 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: శ్రీసభ ప్
- రతిష్ఠ కాలపు నాలుగవ శనివార
- ం · అపోస్తలుడైన పునీత అంద్ర
- ెయ (ముందుగా జరుపుకునేది)
+DESCRIPTION:రేపటి వాక్యం: అపోస్తలు
+ డైన పునీత అంద్రెయ (ముందుగా 
+ జరుపుకునేది)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:మంగళవార్త (సుబారా) మొదటి 
@@ -717,11 +696,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:మంగళవార్త కాలపు మొదటి స
- ోమవారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు మొదటి 
  సోమవారం\nగలతీయులకు 3:9–14 · లూక
  ా 9:37–43a\nవిశ్వసించేవారు అబ్ర
@@ -733,18 +711,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మొదటి సోమవారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:మంగళవార్త కాలపు మొదటి మ
- ంగళవారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు మొదటి 
  మంగళవారం\nరోమీయులు 13:8–14 · లూ
  కా 1:18–20\nనిద్ర నుండి మేల్కొన
@@ -755,18 +732,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మొదటి మంగళవారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:మంగళవార్త కాలపు మొదటి బ
- ుధవారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు మొదటి 
  బుధవారం\n1 కొరింథీయులు 1:4–9 · 
  యోహాను 8:26–30\nదేవుడు నమ్మదగి
@@ -776,19 +752,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మొదటి బుధవారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:మంగళవార్త కాలపు మొదటి గ
- ురువారం · పునీత ఫ్రాన్సిస్ 
- జేవియర్
+SUMMARY:పునీత ఫ్రాన్సిస్ జేవియర
+ ్
 DESCRIPTION:మంగళవార్త కాలపు మొదటి 
  గురువారం · పునీత ఫ్రాన్సిస
  ్ జేవియర్\nద్వితీయోపదేశకాం
@@ -803,19 +778,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మొదటి గురువారం · పు
- నీత ఫ్రాన్సిస్ జేవియర్
+DESCRIPTION:రేపటి వాక్యం: పునీత ఫ్ర
+ ాన్సిస్ జేవియర్
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:మంగళవార్త కాలపు మొదటి శ
- ుక్రవారం · మొదటి శుక్రవారం
+SUMMARY:మొదటి శుక్రవారం
 DESCRIPTION:మంగళవార్త కాలపు మొదటి 
  శుక్రవారం · మొదటి శుక్రవార
  ం\nకొలొస్సయులు 3:1–10 · మత్తయి 13
@@ -826,19 +799,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మొదటి శుక్రవారం · మ
- ొదటి శుక్రవారం
+DESCRIPTION:రేపటి వాక్యం: మొదటి శుక
+ ్రవారం
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:మంగళవార్త కాలపు మొదటి శ
- నివారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు మొదటి 
  శనివారం\nగలతీయులు 3:1–9 · లూకా 
  9:57–62\nవిశ్వాసం ద్వారా ఆత్మన
@@ -849,14 +820,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మొదటి శనివారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:మంగళవార్త కాలపు రెండవ ఆ
@@ -879,11 +850,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:మంగళవార్త కాలపు రెండవ స
- ోమవారం · పునీత అంబ్రోస్
+SUMMARY:పునీత అంబ్రోస్
 DESCRIPTION:మంగళవార్త కాలపు రెండవ 
  సోమవారం · పునీత అంబ్రోస్\nఎ
  ఫెసీయులు 4:13–16 · యోహాను 14:11–14\nవ
@@ -895,20 +865,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు రెండవ సోమవారం · పున
- ీత అంబ్రోస్
+DESCRIPTION:రేపటి వాక్యం: పునీత అంబ
+ ్రోస్
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:మంగళవార్త కాలపు రెండవ మ
- ంగళవారం · పరిశుద్ధ కన్య మరి
- యమ్మ అమలోద్భవం
+SUMMARY:పరిశుద్ధ కన్య మరియమ్మ అ
+ మలోద్భవం
 DESCRIPTION:మంగళవార్త కాలపు రెండవ 
  మంగళవారం · పరిశుద్ధ కన్య మర
  ియమ్మ అమలోద్భవం\nసీరాకు 24:1–1
@@ -923,20 +891,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-08&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు రెండవ మంగళవారం · పర
- ిశుద్ధ కన్య మరియమ్మ అమలోద్
- భవం
+DESCRIPTION:రేపటి వాక్యం: పరిశుద్ధ 
+ కన్య మరియమ్మ అమలోద్భవం
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:మంగళవార్త కాలపు రెండవ బ
- ుధవారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు రెండవ 
  బుధవారం\nఎఫెసీయులు 1:3–12 · లూక
  ా 1:34–38\nలోకం మొదలుకాక ముందే ద
@@ -948,18 +913,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు రెండవ బుధవారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:మంగళవార్త కాలపు రెండవ గ
- ురువారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు రెండవ 
  గురువారం\nరోమీయులు 12:9–18 · లూ
  కా 1:39–45\nమరియమ్మ సేవ చేయడాని
@@ -970,18 +934,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు రెండవ గురువారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:మంగళవార్త కాలపు రెండవ శ
- ుక్రవారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు రెండవ 
  శుక్రవారం\n2 కొరింథీయులు 8:11–
  15 · లూకా 1:46–56\nమరియమ్మ గీతం లో
@@ -993,18 +956,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు రెండవ శుక్రవారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:మంగళవార్త కాలపు రెండవ శ
- నివారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు రెండవ 
  శనివారం\nహెబ్రీయులు 3:12–19 · ల
  ూకా 11:33–36\nఈరోజు ఆయన స్వరం వి
@@ -1016,14 +978,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు రెండవ శనివారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:మంగళవార్త కాలపు మూడవ ఆద
@@ -1046,11 +1008,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:మంగళవార్త కాలపు మూడవ సో
- మవారం · సిలువ పునీత యోహాను
+SUMMARY:సిలువ పునీత యోహాను
 DESCRIPTION:మంగళవార్త కాలపు మూడవ స
  ోమవారం · సిలువ పునీత యోహాను
  \n1 కొరింథీయులు 5:1–8 · లూకా 6:43–45\
@@ -1061,19 +1022,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మూడవ సోమవారం · సిలు
- వ పునీత యోహాను
+DESCRIPTION:రేపటి వాక్యం: సిలువ పున
+ ీత యోహాను
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:మంగళవార్త కాలపు మూడవ మం
- గళవారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు మూడవ మ
  ంగళవారం\nఎఫెసీయులు 2:1–10 · మత్
  తయి 3:1–6\nకృప చేత విశ్వాసం ద్
@@ -1084,18 +1043,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మూడవ మంగళవారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:మంగళవార్త కాలపు మూడవ బు
- ధవారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు మూడవ బ
  ుధవారం\n1 థెస్సలొనీకయులు 2:13–
  17 · లూకా 16:10–13\nవిశ్వసించేవార
@@ -1106,18 +1064,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మూడవ బుధవారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:మంగళవార్త కాలపు మూడవ గు
- రువారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు మూడవ గ
  ురువారం\nగలతీయులు 3:26–29 · లూక
  ా 1:67–79\nదేవుడు తన ప్రజలను దర్
@@ -1128,19 +1085,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మూడవ గురువారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:మంగళవార్త కాలపు మూడవ శు
- క్రవారం · మైలాపూరు అద్భుత స
- ిలువ
+SUMMARY:మైలాపూరు అద్భుత సిలువ
 DESCRIPTION:మంగళవార్త కాలపు మూడవ శ
  ుక్రవారం · మైలాపూరు అద్భుత 
  సిలువ\nనిర్గమకాండము 17:4–6 · అప
@@ -1154,19 +1109,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మూడవ శుక్రవారం · మై
- లాపూరు అద్భుత సిలువ
+DESCRIPTION:రేపటి వాక్యం: మైలాపూరు 
+ అద్భుత సిలువ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:మంగళవార్త కాలపు మూడవ శన
- ివారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు మూడవ శ
  నివారం\nగలతీయులు 1:11–17 · యోహా
  ను 3:31–36\nమనం పుట్టకముందే దేవ
@@ -1177,14 +1130,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు మూడవ శనివారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:మంగళవార్త కాలపు నాలుగవ 
@@ -1207,11 +1160,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-SUMMARY:మంగళవార్త కాలపు నాలుగవ 
- సోమవారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు నాలుగ
  వ సోమవారం\nఎఫెసీయులు 6:18–20 · య
  ోహాను 1:1–5\nబేత్లెహేము శిశువ
@@ -1222,18 +1174,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు నాలుగవ సోమవారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:మంగళవార్త కాలపు నాలుగవ 
- మంగళవారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు నాలుగ
  వ మంగళవారం\nగలతీయులు 4:1–7 · యో
  హాను 1:6–13\nకాలం పరిపూర్ణమైనప
@@ -1245,18 +1196,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు నాలుగవ మంగళవారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-SUMMARY:మంగళవార్త కాలపు నాలుగవ 
- బుధవారం
+SUMMARY:శుభవార్తా కాలం (సువారా)
 DESCRIPTION:మంగళవార్త కాలపు నాలుగ
  వ బుధవారం\n\nశిశువుకు యెషయా 
  ఇచ్చిన పేర్లు మన లోతైన అవస
@@ -1267,19 +1217,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు నాలుగవ బుధవారం
+DESCRIPTION:రేపటి వాక్యం: శుభవార్త
+ ా కాలం (సువారా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-SUMMARY:మంగళవార్త కాలపు నాలుగవ 
- గురువారం · క్రీస్తు జయంతి మ
- ుందురోజు
+SUMMARY:క్రీస్తు జయంతి ముందురోజ
+ ు
 DESCRIPTION:మంగళవార్త కాలపు నాలుగ
  వ గురువారం · క్రీస్తు జయంతి
   ముందురోజు\n\nదేవుడు చిన్నదా
@@ -1291,15 +1240,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మంగళవార్
- త కాలపు నాలుగవ గురువారం · క
- ్రీస్తు జయంతి ముందురోజు
+DESCRIPTION:రేపటి వాక్యం: క్రీస్తు 
+ జయంతి ముందురోజు
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:క్రీస్తు జయంతి: మన ప్రభు
@@ -1324,12 +1272,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-SUMMARY:జనన కాలపు మొదటి శనివారం 
- · ప్రథమ హతసాక్షి పునీత స్తె
- ఫను
+SUMMARY:ప్రథమ హతసాక్షి పునీత స్
+ తెఫను
 DESCRIPTION:జనన కాలపు మొదటి శనివార
  ం · ప్రథమ హతసాక్షి పునీత స్
  తెఫను\nఅపొస్తలుల కార్యములు
@@ -1342,15 +1289,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-26&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: జనన కాలపు
-  మొదటి శనివారం · ప్రథమ హతసా
- క్షి పునీత స్తెఫను
+DESCRIPTION:రేపటి వాక్యం: ప్రథమ హతస
+ ాక్షి పునీత స్తెఫను
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:జనన కాలపు మొదటి ఆదివారం 
@@ -1376,12 +1322,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-SUMMARY:జనన కాలపు మొదటి సోమవారం 
- · పవిత్ర బాల్య దినం (నిర్దో
- ష బాలలు)
+SUMMARY:పవిత్ర బాల్య దినం (నిర్ద
+ ోష బాలలు)
 DESCRIPTION:జనన కాలపు మొదటి సోమవార
  ం · పవిత్ర బాల్య దినం (నిర్ద
  ోష బాలలు)\nఆదికాండము 4:3–8 · యి
@@ -1395,19 +1340,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: జనన కాలపు
-  మొదటి సోమవారం · పవిత్ర బాల
- ్య దినం (నిర్దోష బాలలు)
+DESCRIPTION:రేపటి వాక్యం: పవిత్ర బా
+ ల్య దినం (నిర్దోష బాలలు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:జనన కాలపు మొదటి మంగళవార
- ం
+SUMMARY:జనన కాలం (యల్దా)
 DESCRIPTION:జనన కాలపు మొదటి మంగళవా
  రం\nగలతీయులు 6:1–10 · లూకా 2:41–52\nబ
  ాల్యం నుండే యేసుకు తన తండ్
@@ -1418,17 +1361,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-29&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: జనన కాలపు
-  మొదటి మంగళవారం
+DESCRIPTION:రేపటి వాక్యం: జనన కాలం (
+ యల్దా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:జనన కాలపు మొదటి బుధవారం
+SUMMARY:జనన కాలం (యల్దా)
 DESCRIPTION:జనన కాలపు మొదటి బుధవార
  ం\n2 కొరింథీయులు 12:6–10 · యోహాను
   6:16–24\nబలహీనతలోనే దేవుని శక్
@@ -1439,18 +1382,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-30&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: జనన కాలపు
-  మొదటి బుధవారం
+DESCRIPTION:రేపటి వాక్యం: జనన కాలం (
+ యల్దా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:జనన కాలపు మొదటి గురువార
- ం · సంవత్సరపు చివరి రోజు
+SUMMARY:సంవత్సరపు చివరి రోజు
 DESCRIPTION:జనన కాలపు మొదటి గురువా
  రం · సంవత్సరపు చివరి రోజు\nల
  ేవీయకాండము 6:1–7 · జ్ఞానగ్రంథ
@@ -1464,15 +1406,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: జనన కాలపు
-  మొదటి గురువారం · సంవత్సరపు
-  చివరి రోజు
+DESCRIPTION:రేపటి వాక్యం: సంవత్సరప
+ ు చివరి రోజు
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:యేసు తిరునామం (మన ప్రభువ
@@ -1499,10 +1440,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-SUMMARY:జనన కాలపు మొదటి శనివారం
+SUMMARY:జనన కాలం (యల్దా)
 DESCRIPTION:జనన కాలపు మొదటి శనివార
  ం\n1 కొరింథీయులు 2:11–15 · లూకా 12:35
  –40\nదేవుని లోతులను దేవుని ఆ
@@ -1514,14 +1455,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: జనన కాలపు
-  మొదటి శనివారం
+DESCRIPTION:రేపటి వాక్యం: జనన కాలం (
+ యల్దా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:దెన్హా కాలపు మొదటి ఆదివ
@@ -1548,11 +1489,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-SUMMARY:దెన్హా కాలపు మొదటి సోమవ
- ారం
+SUMMARY:జనన కాలం (యల్దా)
 DESCRIPTION:దెన్హా కాలపు మొదటి సోమ
  వారం\n1 యోహాను 5:1–5 · యోహాను 5:19–
  23\nయేసే క్రీస్తు అని విశ్వస
@@ -1564,18 +1504,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు మొదటి సోమవారం
+DESCRIPTION:రేపటి వాక్యం: జనన కాలం (
+ యల్దా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-SUMMARY:దెన్హా కాలపు మొదటి మంగళ
- వారం · దెన్హా ముందురోజు
+SUMMARY:దెన్హా ముందురోజు
 DESCRIPTION:దెన్హా కాలపు మొదటి మంగ
  ళవారం · దెన్హా ముందురోజు\nత
  ీతు 3:8–11 · లూకా 13:23–30\nవిశ్వసిం
@@ -1587,15 +1526,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు మొదటి మంగళవారం · దెన్హా
-  ముందురోజు
+DESCRIPTION:రేపటి వాక్యం: దెన్హా ము
+ ందురోజు
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:దెన్హా · మన ప్రభువు ప్రత
@@ -1620,11 +1558,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:దెన్హా కాలపు మొదటి గురు
- వారం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు మొదటి గుర
  ువారం\n1 కొరింథీయులు 2:6–10 · లూ
  కా 7:11–17\nదేవుని జ్ఞానం గర్వి
@@ -1636,19 +1573,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు మొదటి గురువారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-SUMMARY:దెన్హా కాలపు మొదటి శుక్
- రవారం · స్నాపకుడైన పునీత యో
- హాను స్మరణ
+SUMMARY:స్నాపకుడైన పునీత యోహాను
+  స్మరణ
 DESCRIPTION:దెన్హా కాలపు మొదటి శుక
  ్రవారం · స్నాపకుడైన పునీత య
  ోహాను స్మరణ\nయెషయా 40:1–8 · అపొ
@@ -1662,19 +1598,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు మొదటి శుక్రవారం · స్నాప
- కుడైన పునీత యోహాను స్మరణ
+DESCRIPTION:రేపటి వాక్యం: స్నాపకుడ
+ ైన పునీత యోహాను స్మరణ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:దెన్హా కాలపు మొదటి శనివ
- ారం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు మొదటి శని
  వారం\nరోమీయులు 9:30–33 · యోహాను 1
  0:31–39\nనీతి మన క్రియలకు జీతంగ
@@ -1685,14 +1619,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు మొదటి శనివారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:దెన్హా కాలపు రెండవ ఆదివ
@@ -1716,11 +1650,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:దెన్హా కాలపు రెండవ సోమవ
- ారం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు రెండవ సోమ
  వారం\n1 కొరింథీయులు 11:17–22 · యో
  హాను 17:20–26\nవిశ్వసించే వారంద
@@ -1732,18 +1665,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు రెండవ సోమవారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:దెన్హా కాలపు రెండవ మంగళ
- వారం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు రెండవ మంగ
  ళవారం\n1 కొరింథీయులు 12:12–18 · య
  ోహాను 15:1–10\nక్రీస్తులో మనం ఒ
@@ -1754,18 +1686,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు రెండవ మంగళవారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:దెన్హా కాలపు రెండవ బుధవ
- ారం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు రెండవ బుధ
  వారం\nఎఫెసీయులు 2:11–19 · యోహాన
  ు 21:15–19\nఒకప్పుడు దూరంగా ఉన్న
@@ -1777,18 +1708,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు రెండవ బుధవారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:దెన్హా కాలపు రెండవ గురు
- వారం · పునీత దేవసహాయం
+SUMMARY:పునీత దేవసహాయం
 DESCRIPTION:దెన్హా కాలపు రెండవ గుర
  ువారం · పునీత దేవసహాయం\n1 పేత
  ురు 5:5–9 · మార్కు 4:35–41\nయేసు తు
@@ -1800,20 +1730,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు రెండవ గురువారం · పునీత 
- దేవసహాయం
+DESCRIPTION:రేపటి వాక్యం: పునీత దేవ
+ సహాయం
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:దెన్హా కాలపు రెండవ శుక్
- రవారం · అపొస్తలులైన పునీత ప
- ేతురు\, పౌలుల స్మరణ
+SUMMARY:అపొస్తలులైన పునీత పేతుర
+ ు\, పౌలుల స్మరణ
 DESCRIPTION:దెన్హా కాలపు రెండవ శుక
  ్రవారం · అపొస్తలులైన పునీత 
  పేతురు\, పౌలుల స్మరణ\n2 రాజుల
@@ -1828,20 +1756,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు రెండవ శుక్రవారం · అపొస్
- తలులైన పునీత పేతురు\, పౌలుల 
- స్మరణ
+DESCRIPTION:రేపటి వాక్యం: అపొస్తలు
+ లైన పునీత పేతురు\, పౌలుల స్మ
+ రణ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:దెన్హా కాలపు రెండవ శనివ
- ారం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు రెండవ శని
  వారం\nరోమీయులు 10:10–20 · మార్కు 
  1:21–28\nయేసు అధికారంతో బోధిస్
@@ -1853,14 +1779,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు రెండవ శనివారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:దెన్హా కాలపు మూడవ ఆదివా
@@ -1884,12 +1810,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-SUMMARY:దెన్హా కాలపు మూడవ సోమవా
- రం · మూడు రోజుల ఉపవాసపు మొద
- టి దినం
+SUMMARY:మూడు రోజుల ఉపవాసపు మొదట
+ ి దినం
 DESCRIPTION:దెన్హా కాలపు మూడవ సోమవ
  ారం · మూడు రోజుల ఉపవాసపు మొ
  దటి దినం\nయెషయా 64:1–9 · హబక్కూ
@@ -1902,20 +1827,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు మూడవ సోమవారం · మూడు రోజ
- ుల ఉపవాసపు మొదటి దినం
+DESCRIPTION:రేపటి వాక్యం: మూడు రోజు
+ ల ఉపవాసపు మొదటి దినం
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:దెన్హా కాలపు మూడవ మంగళవ
- ారం · మూడు రోజుల ఉపవాసపు రె
- ండవ దినం
+SUMMARY:మూడు రోజుల ఉపవాసపు రెండ
+ వ దినం
 DESCRIPTION:దెన్హా కాలపు మూడవ మంగళ
  వారం · మూడు రోజుల ఉపవాసపు ర
  ెండవ దినం\n1 సమూయేలు 7:3–9 · యెష
@@ -1929,20 +1852,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు మూడవ మంగళవారం · మూడు రో
- జుల ఉపవాసపు రెండవ దినం
+DESCRIPTION:రేపటి వాక్యం: మూడు రోజు
+ ల ఉపవాసపు రెండవ దినం
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:దెన్హా కాలపు మూడవ బుధవా
- రం · మూడు రోజుల ఉపవాసపు మూడ
- వ దినం · పునీత సెబాస్టియన్
+SUMMARY:మూడు రోజుల ఉపవాసపు మూడవ 
+ దినం · పునీత సెబాస్టియన్
 DESCRIPTION:దెన్హా కాలపు మూడవ బుధవ
  ారం · మూడు రోజుల ఉపవాసపు మూ
  డవ దినం · పునీత సెబాస్టియన్
@@ -1957,21 +1878,19 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు మూడవ బుధవారం · మూడు రోజ
- ుల ఉపవాసపు మూడవ దినం · పునీ
- త సెబాస్టియన్
+DESCRIPTION:రేపటి వాక్యం: మూడు రోజు
+ ల ఉపవాసపు మూడవ దినం · పునీత 
+ సెబాస్టియన్
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-SUMMARY:దెన్హా కాలపు మూడవ గురువ
- ారం · మూడు రోజుల ఉపవాసం తరు
- వాతి గురువారం
+SUMMARY:మూడు రోజుల ఉపవాసం తరువా
+ తి గురువారం
 DESCRIPTION:దెన్హా కాలపు మూడవ గురు
  వారం · మూడు రోజుల ఉపవాసం తర
  ువాతి గురువారం\nయెహెజ్కేలు
@@ -1984,20 +1903,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు మూడవ గురువారం · మూడు రో
- జుల ఉపవాసం తరువాతి గురువార
- ం
+DESCRIPTION:రేపటి వాక్యం: మూడు రోజు
+ ల ఉపవాసం తరువాతి గురువారం
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:దెన్హా కాలపు మూడవ శుక్ర
- వారం · సువార్తికుల స్మరణ
+SUMMARY:సువార్తికుల స్మరణ
 DESCRIPTION:దెన్హా కాలపు మూడవ శుక్
  రవారం · సువార్తికుల స్మరణ\n1 
  రాజులు 18:30–39 · అపొస్తలుల కార
@@ -2011,19 +1927,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు మూడవ శుక్రవారం · సువార్
- తికుల స్మరణ
+DESCRIPTION:రేపటి వాక్యం: సువార్తి
+ కుల స్మరణ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:దెన్హా కాలపు మూడవ శనివా
- రం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు మూడవ శనివ
  ారం\nఫిలిప్పీయులు 1:27–30 · మత్
  తయి 15:21–28\nక్రీస్తు సువార్తక
@@ -2034,14 +1948,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు మూడవ శనివారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:దెన్హా కాలపు నాలుగవ ఆది
@@ -2066,12 +1980,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-SUMMARY:దెన్హా కాలపు నాలుగవ సోమ
- వారం · పునీత పౌలు మనఃపరివర్
- తన
+SUMMARY:పునీత పౌలు మనఃపరివర్తన
 DESCRIPTION:దెన్హా కాలపు నాలుగవ సో
  మవారం · పునీత పౌలు మనఃపరివర
  ్తన\nనిర్గమకాండము 3:1–14 · అపొస
@@ -2085,20 +1997,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు నాలుగవ సోమవారం · పునీత 
- పౌలు మనఃపరివర్తన
+DESCRIPTION:రేపటి వాక్యం: పునీత పౌల
+ ు మనఃపరివర్తన
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-SUMMARY:దెన్హా కాలపు నాలుగవ మంగ
- ళవారం · భారత గణతంత్ర దినోత్
- సవం
+SUMMARY:భారత గణతంత్ర దినోత్సవం
 DESCRIPTION:దెన్హా కాలపు నాలుగవ మం
  గళవారం · భారత గణతంత్ర దినోత
  ్సవం\nహెబ్రీయులు 4:1–7 · లూకా 4:2
@@ -2111,19 +2020,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు నాలుగవ మంగళవారం · భారత 
- గణతంత్ర దినోత్సవం
+DESCRIPTION:రేపటి వాక్యం: భారత గణతం
+ త్ర దినోత్సవం
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:దెన్హా కాలపు నాలుగవ బుధ
- వారం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు నాలుగవ బు
  ధవారం\nగలతీయులు 1:6–10 · యోహాను
   10:1–6\nక్రీస్తు సువార్త తప్ప 
@@ -2134,19 +2041,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు నాలుగవ బుధవారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-SUMMARY:దెన్హా కాలపు నాలుగవ గుర
- ువారం · పునీత థామస్ అక్వినా
- స్
+SUMMARY:పునీత థామస్ అక్వినాస్
 DESCRIPTION:దెన్హా కాలపు నాలుగవ గు
  రువారం · పునీత థామస్ అక్విన
  ాస్\n2 కొరింథీయులు 5:11–14 · యోహా
@@ -2159,20 +2064,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు నాలుగవ గురువారం · పునీత
-  థామస్ అక్వినాస్
+DESCRIPTION:రేపటి వాక్యం: పునీత థామ
+ స్ అక్వినాస్
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:దెన్హా కాలపు నాలుగవ శుక
- ్రవారం · ప్రథమ హతసాక్షి పున
- ీత స్తెఫను స్మరణ
+SUMMARY:ప్రథమ హతసాక్షి పునీత స్
+ తెఫను స్మరణ
 DESCRIPTION:దెన్హా కాలపు నాలుగవ శు
  క్రవారం · ప్రథమ హతసాక్షి పు
  నీత స్తెఫను స్మరణ\n1 రాజులు 21
@@ -2188,20 +2091,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు నాలుగవ శుక్రవారం · ప్రథ
- మ హతసాక్షి పునీత స్తెఫను స
- ్మరణ
+DESCRIPTION:రేపటి వాక్యం: ప్రథమ హతస
+ ాక్షి పునీత స్తెఫను స్మరణ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:దెన్హా కాలపు నాలుగవ శని
- వారం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు నాలుగవ శన
  ివారం\n1 యోహాను 5:13–21 · యోహాను 8:
  39–47\nమనకు నిత్యజీవం ఉందని మన
@@ -2213,14 +2113,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు నాలుగవ శనివారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:దెన్హా కాలపు ఐదవ ఆదివార
@@ -2244,11 +2144,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:దెన్హా కాలపు ఐదవ సోమవార
- ం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు ఐదవ సోమవా
  రం\n2 థెస్సలొనీకయులు 3:1–5 · మత
  ్తయి 9:18–26\nఅందరికీ విశ్వాసం 
@@ -2259,19 +2158,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు ఐదవ సోమవారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-SUMMARY:దెన్హా కాలపు ఐదవ మంగళవా
- రం · మయాల్తో: ప్రభువును దేవ
- ాలయంలో సమర్పించుట
+SUMMARY:మయాల్తో: ప్రభువును దేవా
+ లయంలో సమర్పించుట
 DESCRIPTION:దెన్హా కాలపు ఐదవ మంగళవ
  ారం · మయాల్తో: ప్రభువును దే
  వాలయంలో సమర్పించుట\nలేవీయక
@@ -2286,8 +2184,7 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-02&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు ఐదవ మంగళవారం · మయాల్తో: 
+DESCRIPTION:రేపటి వాక్యం: మయాల్తో: 
  ప్రభువును దేవాలయంలో సమర్ప
  ించుట
 TRIGGER:-PT4H
@@ -2295,11 +2192,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:దెన్హా కాలపు ఐదవ బుధవార
- ం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు ఐదవ బుధవా
  రం\n2 తిమోతి 4:1–6 · యోహాను 4:27–38\n
  పౌలు: అనుకూల సమయంలోను\, ప్రత
@@ -2311,18 +2207,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు ఐదవ బుధవారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:దెన్హా కాలపు ఐదవ గురువా
- రం · పునీత జాన్ డి బ్రిట్టో
+SUMMARY:పునీత జాన్ డి బ్రిట్టో
 DESCRIPTION:దెన్హా కాలపు ఐదవ గురువ
  ారం · పునీత జాన్ డి బ్రిట్ట
  ో\n2 పేతురు 3:14–18 · లూకా 6:37–42\nపేత
@@ -2334,20 +2229,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు ఐదవ గురువారం · పునీత జా
- న్ డి బ్రిట్టో
+DESCRIPTION:రేపటి వాక్యం: పునీత జాన
+ ్ డి బ్రిట్టో
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-SUMMARY:దెన్హా కాలపు ఐదవ శుక్రవ
- ారం · మరణించిన విశ్వాసులంద
- రి స్మరణ
+SUMMARY:మరణించిన విశ్వాసులందరి 
+ స్మరణ
 DESCRIPTION:దెన్హా కాలపు ఐదవ శుక్ర
  వారం · మరణించిన విశ్వాసులం
  దరి స్మరణ\nయెహెజ్కేలు 37:1–14 · 
@@ -2362,19 +2255,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు ఐదవ శుక్రవారం · మరణించి
- న విశ్వాసులందరి స్మరణ
+DESCRIPTION:రేపటి వాక్యం: మరణించిన 
+ విశ్వాసులందరి స్మరణ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:దెన్హా కాలపు ఐదవ శనివార
- ం
+SUMMARY:ప్రత్యక్షత కాలం (దెన్హా)
 DESCRIPTION:దెన్హా కాలపు ఐదవ శనివా
  రం\nప్రకటన 3:14–22 · మత్తయి 15:29–31\n
  లవొదికయవారు గోరువెచ్చగా ఉ
@@ -2386,14 +2277,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: దెన్హా కా
- లపు ఐదవ శనివారం
+DESCRIPTION:రేపటి వాక్యం: ప్రత్యక్
+ షత కాలం (దెన్హా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:మహా ఉపవాసపు మొదటి ఆదివా
@@ -2417,11 +2308,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-SUMMARY:మహా ఉపవాసపు మొదటి సోమవా
- రం · విభూతి (విభూతి సోమవారం)
+SUMMARY:విభూతి (విభూతి సోమవారం)
 DESCRIPTION:మహా ఉపవాసపు మొదటి సోమవ
  ారం · విభూతి (విభూతి సోమవార
  ం)\nఆదికాండము 1:1–19 · యెహోషువ 1:1
@@ -2434,19 +2324,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మొదటి సోమవారం · విభూతి (వ
+DESCRIPTION:రేపటి వాక్యం: విభూతి (వ
  ిభూతి సోమవారం)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:మహా ఉపవాసపు మొదటి మంగళవ
- ారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు మొదటి మంగళ
  వారం\nఆదికాండము 1:20–2:7 · యెహోష
  ువ 1:16–18 · రోమీయులు 2:1–6 · మత్తయ
@@ -2459,17 +2348,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మొదటి మంగళవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:మహా ఉపవాసపు మొదటి బుధవా
- రం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు మొదటి బుధవ
  ారం\nఆదికాండము 2:18–25 · యెహోషు
  వ 2:8–24 · రోమీయులు 2:12–24 · మత్తయి
@@ -2483,17 +2372,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మొదటి బుధవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:మహా ఉపవాసపు మొదటి గురువ
- ారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు మొదటి గురు
  వారం\nఆదికాండము 3:1–13 · యెహోషు
  వ 3:1–13 · రోమీయులు 3:9–20 · మత్తయి 
@@ -2507,17 +2396,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మొదటి గురువారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:మహా ఉపవాసపు మొదటి శుక్ర
- వారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు మొదటి శుక్
  రవారం\nఆదికాండము 4:1–16 · యెహోష
  ువ 3:14–4:9 · రోమీయులు 4:13–25 · మత్త
@@ -2531,17 +2420,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మొదటి శుక్రవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:మహా ఉపవాసపు మొదటి శనివా
- రం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు మొదటి శనివ
  ారం\nరోమీయులు 3:21–26 · మత్తయి 6:9
  –15\nఅందరూ పాపం చేశారు\; మనం క
@@ -2554,13 +2443,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మొదటి శనివారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:మహా ఉపవాసపు రెండవ ఆదివా
@@ -2584,11 +2473,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-SUMMARY:మహా ఉపవాసపు రెండవ సోమవా
- రం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు రెండవ సోమవ
  ారం\nతీతు 3:1–7 · మార్కు 7:14–23\nహృ
  దయం పవిత్రం కావడానికి మనం 
@@ -2601,17 +2490,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు రెండవ సోమవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:మహా ఉపవాసపు రెండవ మంగళవ
- ారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు రెండవ మంగళ
  వారం\nరోమీయులు 8:18–25 · మత్తయి 7
  :7–12\nప్రసవవేదనలో ఉన్న తల్లి 
@@ -2624,17 +2513,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు రెండవ మంగళవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:మహా ఉపవాసపు రెండవ బుధవా
- రం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు రెండవ బుధవ
  ారం\nరోమీయులు 6:15–23 · మత్తయి 9:1
  –8\nపక్షవాతరోగిని మోసుకువచ
@@ -2647,17 +2536,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు రెండవ బుధవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:మహా ఉపవాసపు రెండవ గురువ
- ారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు రెండవ గురు
  వారం\nరోమీయులు 3:1–8 · మత్తయి 5:3
  3–37\nమన అవిశ్వాసం దేవుని విశ
@@ -2669,17 +2558,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు రెండవ గురువారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:మహా ఉపవాసపు రెండవ శుక్ర
- వారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు రెండవ శుక్
  రవారం\nఆదికాండము 6:5–12 · యెహోష
  ువ 5:1–12 · రోమీయులు 7:7–12 · మార్క
@@ -2693,17 +2582,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు రెండవ శుక్రవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:మహా ఉపవాసపు రెండవ శనివా
- రం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు రెండవ శనివ
  ారం\n1 కొరింథీయులు 5:9–13 · మత్త
  యి 11:16–19\nకొందరు నాట్యమూ చేయల
@@ -2716,13 +2605,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు రెండవ శనివారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:మహా ఉపవాసపు మూడవ ఆదివార
@@ -2746,11 +2635,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
-SUMMARY:మహా ఉపవాసపు మూడవ సోమవార
- ం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు మూడవ సోమవా
  రం\nరోమీయులు 7:1–6 · మార్కు 12:28–3
  4\nపౌలు: పాత లిఖిత నియమం క్రి
@@ -2763,17 +2652,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మూడవ సోమవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:మహా ఉపవాసపు మూడవ మంగళవా
- రం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు మూడవ మంగళవ
  ారం\n1 కొరింథీయులు 10:1–13 · లూకా
   21:29–36\nఎడారిలోని ఇశ్రాయేలు క
@@ -2785,17 +2674,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మూడవ మంగళవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:మహా ఉపవాసపు మూడవ బుధవార
- ం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు మూడవ బుధవా
  రం\n1 పేతురు 3:8–12 · మత్తయి 5:43–48\n
  పేతురు: కీడుకు ప్రతిగా కీడ
@@ -2808,17 +2697,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మూడవ బుధవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:మహా ఉపవాసపు మూడవ గురువా
- రం · ధన్య రాణి మరియ
+SUMMARY:ధన్య రాణి మరియ
 DESCRIPTION:మహా ఉపవాసపు మూడవ గురువ
  ారం · ధన్య రాణి మరియ\nఎఫెసీయ
  ులు 6:1–9 · మార్కు 12:35–40\nపౌలు: ప్
@@ -2831,19 +2719,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మూడవ గురువారం · ధన్య రాణ
- ి మరియ
+DESCRIPTION:రేపటి వాక్యం: ధన్య రాణి
+  మరియ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:మహా ఉపవాసపు మూడవ శుక్రవ
- ారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు మూడవ శుక్ర
  వారం\nఆదికాండము 9:8–17 · యెహోషు
  వ 6:8–27 · రోమీయులు 8:1–6 · మార్కు 1
@@ -2858,17 +2745,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మూడవ శుక్రవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:మహా ఉపవాసపు మూడవ శనివార
- ం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు మూడవ శనివా
  రం\nఎఫెసీయులు 4:25–32 · మత్తయి 21:2
  8–32\nపౌలు: సూర్యుడు అస్తమించ
@@ -2880,13 +2767,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు మూడవ శనివారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:మహా ఉపవాసపు నాలుగవ ఆదివ
@@ -2911,11 +2798,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-01-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:మహా ఉపవాసపు నాలుగవ సోమవ
- ారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు నాలుగవ సోమ
  వారం\nఆదికాండము 12:1–9 · యెహోషు
  వ 7:16–26 · రోమీయులు 9:1–13 · యోహాను
@@ -2930,17 +2817,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు నాలుగవ సోమవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:మహా ఉపవాసపు నాలుగవ మంగళ
- వారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు నాలుగవ మంగ
  ళవారం\nఆదికాండము 12:9–20 · యెహో
  షువ 8:1–9 · రోమీయులు 9:14–18 · యోహా
@@ -2956,17 +2843,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు నాలుగవ మంగళవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
-SUMMARY:మహా ఉపవాసపు నాలుగవ బుధవ
- ారం · మహా ఉపవాసపు మధ్యదినం
+SUMMARY:మహా ఉపవాసపు మధ్యదినం
 DESCRIPTION:మహా ఉపవాసపు నాలుగవ బుధ
  వారం · మహా ఉపవాసపు మధ్యదినం
  \nఆదికాండము 13:8–18 · యెహోషువ 8:18–
@@ -2982,18 +2868,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు నాలుగవ బుధవారం · మహా ఉపవ
- ాసపు మధ్యదినం
+ పు మధ్యదినం
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:మహా ఉపవాసపు నాలుగవ గురు
- వారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు నాలుగవ గుర
  ువారం\nఆదికాండము 14:8–16 · యెహో
  షువ 8:30–35 · రోమీయులు 11:1–10 · యోహ
@@ -3007,17 +2892,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు నాలుగవ గురువారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-SUMMARY:మహా ఉపవాసపు నాలుగవ శుక్
- రవారం · మొదటి శుక్రవారం
+SUMMARY:మొదటి శుక్రవారం
 DESCRIPTION:మహా ఉపవాసపు నాలుగవ శుక
  ్రవారం · మొదటి శుక్రవారం\nఆ
  దికాండము 15:1–15 · యెహోషువ 9:1–15 · 
@@ -3032,19 +2916,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు నాలుగవ శుక్రవారం · మొదటి
-  శుక్రవారం
+DESCRIPTION:రేపటి వాక్యం: మొదటి శుక
+ ్రవారం
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:మహా ఉపవాసపు నాలుగవ శనివ
- ారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు నాలుగవ శని
  వారం\nరోమీయులు 13:1–7 · యోహాను 7:
  45–53\nపౌలు: అధికారం దేవుని ను
@@ -3059,13 +2942,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు నాలుగవ శనివారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:మహా ఉపవాసపు ఐదవ ఆదివారం
@@ -3089,10 +2972,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:మహా ఉపవాసపు ఐదవ సోమవారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు ఐదవ సోమవార
  ం\nకొలొస్సయులు 2:16–19 · లూకా 18:18
  –25\nపౌలు: ఆహార నియమాలు\, పండు
@@ -3104,17 +2988,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు ఐదవ సోమవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:మహా ఉపవాసపు ఐదవ మంగళవార
- ం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు ఐదవ మంగళవా
  రం\n2 కొరింథీయులు 9:10–15 · లూకా 10
  :33–37\nపౌలు: విత్తేవానికి దేవ
@@ -3128,16 +3012,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు ఐదవ మంగళవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-10-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:మహా ఉపవాసపు ఐదవ బుధవారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు ఐదవ బుధవార
  ం\nయూదా 8–13 · యోహాను 8:1–11\nయూదా: 
  మిఖాయేలు కూడా తీర్పును దేవ
@@ -3150,17 +3035,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు ఐదవ బుధవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:మహా ఉపవాసపు ఐదవ గురువార
- ం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు ఐదవ గురువా
  రం\n1 తిమోతి 4:6–10 · లూకా 18:31–34\nపౌ
  లు: భక్తిలో నిన్ను నీవే సాధ
@@ -3174,17 +3059,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు ఐదవ గురువారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-SUMMARY:మహా ఉపవాసపు ఐదవ శుక్రవా
- రం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు ఐదవ శుక్రవ
  ారం\nఆదికాండము 18:1–14 · యెహోషు
  వ 14:5–12 · రోమీయులు 13:8–14 · యోహాన
@@ -3200,16 +3085,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు ఐదవ శుక్రవారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-SUMMARY:మహా ఉపవాసపు ఐదవ శనివారం
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:మహా ఉపవాసపు ఐదవ శనివార
  ం\n1 కొరింథీయులు 13:1–13 · మార్కు
   10:1–12\nపౌలు: ప్రేమ లేకుండా ప్
@@ -3222,13 +3108,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
- పు ఐదవ శనివారం
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:మహా ఉపవాసపు ఆరవ ఆదివారం
@@ -3252,10 +3138,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-SUMMARY:Sixth Monday of the Great Fast
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:Sixth Monday of the Great Fast\n1 Thessalonians 3:6–13 · J
  ohn 12:44–50\nPaul lives because his people stand firm in the Lord.\n\
  nచదివి ప్రార్థించండి: https://daily-
@@ -3264,17 +3151,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Sixth Monday of the Great
-  Fast
+DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:Sixth Tuesday of the Great Fast
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:Sixth Tuesday of the Great Fast\n2 Peter 2:4–10 · Luke 13:
  31–35\nThe Lord knows how to rescue the godly\, as he rescued Noah and
   Lot.\n\nచదివి ప్రార్థించండి: https:
@@ -3283,17 +3171,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Sixth Tuesday of the Grea
- t Fast
+DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:Sixth Wednesday of the Great Fast
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:Sixth Wednesday of the Great Fast\n1 John 2:7–11 · Matthew
   18:15–20\nThe commandment of love is old as creation and new in Chris
  t.\n\nచదివి ప్రార్థించండి: https://d
@@ -3302,17 +3191,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Sixth Wednesday of the Gr
- eat Fast
+DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:Sixth Thursday of the Great Fast
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:Sixth Thursday of the Great Fast\n2 Peter 2:11–17 · Luke 3
  :8–11\nFalse teachers are waterless springs: they promise and do not g
  ive.\n\nచదివి ప్రార్థించండి: https:/
@@ -3321,18 +3211,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Sixth Thursday of the Gre
- at Fast
+DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-SUMMARY:Fortieth Friday of the Great Fast · St Joseph\, Spouse of the Bl
- essed Virgin Mary
+SUMMARY:St Joseph\, Spouse of the Blessed Virgin Mary
 DESCRIPTION:Fortieth Friday of the Great Fast · St Joseph\, Spouse of th
  e Blessed Virgin Mary\nGenesis 19:27–30 · Joshua 22:10–20 · Romans
   15:7–13 · John 11:38–45\nForty days complete: God remembered Abrah
@@ -3343,17 +3232,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Fortieth Friday of the Gr
- eat Fast · St Joseph\, Spouse of the Blessed Virgin Mary
+DESCRIPTION:రేపటి వాక్యం: St Joseph\, Spouse of the
+  Blessed Virgin Mary
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:Sixth Saturday of the Great Fast
+SUMMARY:మహా ఉపవాసం (సౌమా రంబా\, వల
+ ియ నోంబు)
 DESCRIPTION:Sixth Saturday of the Great Fast\nActs 20:22–38 · John 12:
  1–8\nPaul goes to Jerusalem as a captive to the Spirit\, counting his 
  life of no value.\n\nచదివి ప్రార్థించం
@@ -3363,14 +3253,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Sixth Saturday of the Gre
- at Fast
+DESCRIPTION:రేపటి వాక్యం: మహా ఉపవాస
+ ం (సౌమా రంబా\, వలియ నోంబు)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Hosanna Sunday · Seventh Sunday of the Great Fast
@@ -3391,10 +3281,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-SUMMARY:Seventh Monday of the Great Fast · Monday of Hasha Week
+SUMMARY:Monday of Hasha Week
 DESCRIPTION:Seventh Monday of the Great Fast · Monday of Hasha Week\nGen
  esis 37:5–13\, 18–22 · Joshua 22:21–29 · Hebrews 1:5–14 · Joh
  n 11:47–57\nJoseph\, the beloved son\, is sent by his father to his br
@@ -3405,17 +3295,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Seventh Monday of the Gre
- at Fast · Monday of Hasha Week
+DESCRIPTION:రేపటి వాక్యం: Monday of Hasha Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-23-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:Seventh Tuesday of the Great Fast · Tuesday of Hasha Week
+SUMMARY:Tuesday of Hasha Week
 DESCRIPTION:Seventh Tuesday of the Great Fast · Tuesday of Hasha Week\nG
  enesis 37:23–36 · Joshua 22:30–23:1 · Hebrews 5:1–10 · John 12:
  20–26\nJoseph is stripped\, thrown into a dry pit and sold for twenty 
@@ -3426,17 +3315,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Seventh Tuesday of the Gr
- eat Fast · Tuesday of Hasha Week
+DESCRIPTION:రేపటి వాక్యం: Tuesday of Hasha Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:Seventh Wednesday of the Great Fast · Wednesday of Hasha Week
+SUMMARY:Wednesday of Hasha Week
 DESCRIPTION:Seventh Wednesday of the Great Fast · Wednesday of Hasha Wee
  k\nGenesis 40:1–23 · Joshua 23:1–11 · Hebrews 9:15–28 · John 12
  :27–33\nIn prison Joseph interprets the dreams of the cupbearer and th
@@ -3447,17 +3335,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Seventh Wednesday of the 
- Great Fast · Wednesday of Hasha Week
+DESCRIPTION:రేపటి వాక్యం: Wednesday of Hasha Week
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-SUMMARY:Pesaha Thursday · Holy Qurbana of the Lord's Supper
+SUMMARY:Holy Qurbana of the Lord's Supper
 DESCRIPTION:Pesaha Thursday · Holy Qurbana of the Lord's Supper\nExodus 
  12:1–20 · Malachi 1:10–14 · 1 Corinthians 11:23–29 · John 13:1
  –14\; Matthew 26:26–30\nThe Passover lamb\, whose blood saved Israel
@@ -3468,17 +3355,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Pesaha Thursday · Holy Q
- urbana of the Lord's Supper
+DESCRIPTION:రేపటి వాక్యం: Holy Qurbana of the Lord'
+ s Supper
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-SUMMARY:Passion Friday (Good Friday)
+SUMMARY:హాషా
 DESCRIPTION:Passion Friday (Good Friday)\nGenesis 22:1–19 · Isaiah 52:
  13–53:9 · Romans 5:6–16 · Luke 22:63–23:12\; Matthew 27:19\; Luk
  e 23:13–23\; Matthew 27:24–25\; Luke 23:24–45\; Matthew 27:51–54
@@ -3490,17 +3377,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Passion Friday (Good Frid
- ay)
+DESCRIPTION:రేపటి వాక్యం: హాషా
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-SUMMARY:Great Saturday
+SUMMARY:హాషా
 DESCRIPTION:Great Saturday\nGenesis 22:1–19 · Jonah 2:1–10 · Romans
   6:3–11 · Matthew 28:1–20\nThe Lord rests in the tomb and goes down
   among the dead to set them free.\n\nచదివి ప్రార్
@@ -3510,13 +3396,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: Great Saturday
+DESCRIPTION:రేపటి వాక్యం: హాషా
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Easter Sunday: the Resurrection of our Lord (Uyirppu)
@@ -3537,10 +3423,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:First Monday of Resurrection
+SUMMARY:పునరుత్థాన కాలం (క్యామ్
+ తా)
 DESCRIPTION:First Monday of Resurrection\nIsaiah 60:15–22 · Acts 2:29
  –36 · Romans 4:1–8 · John 14:18–28\nIsaiah: the LORD will be you
  r everlasting light\; your days of mourning are ended.\n\nచదివ
@@ -3550,17 +3437,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: First Monday of Resurrect
- ion
+DESCRIPTION:రేపటి వాక్యం: పునరుత్థ
+ ాన కాలం (క్యామ్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:First Tuesday of Resurrection
+SUMMARY:పునరుత్థాన కాలం (క్యామ్
+ తా)
 DESCRIPTION:First Tuesday of Resurrection\nIsaiah 61:1–9 · Acts 2:37
  –47 · 1 Corinthians 15:12–19 · Luke 24:13–27\nIsaiah: a garland 
  instead of ashes\, the oil of gladness instead of mourning.\n\nచది
@@ -3570,17 +3458,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: First Tuesday of Resurrec
- tion
+DESCRIPTION:రేపటి వాక్యం: పునరుత్థ
+ ాన కాలం (క్యామ్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-smc-te@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-SUMMARY:First Wednesday of Resurrection
+SUMMARY:పునరుత్థాన కాలం (క్యామ్
+ తా)
 DESCRIPTION:First Wednesday of Resurrection\nIsaiah 61:10–62:5 · Acts 
  4:23–31 · Ephesians 4:1–6 · John 15:1–10\nIsaiah: you shall no m
  ore be called Forsaken but My Delight\; as a bridegroom rejoices\, so Go
@@ -3591,8 +3480,8 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=smc&l=te
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:రేపటి వాక్యం: First Wednesday of Resurr
- ection
+DESCRIPTION:రేపటి వాక్యం: పునరుత్థ
+ ాన కాలం (క్యామ్తా)
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT

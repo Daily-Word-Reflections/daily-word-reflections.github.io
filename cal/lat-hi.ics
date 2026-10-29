@@ -5,11 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:दैनिक वचन · Latin
 X-WR-TIMEZONE:Asia/Kolkata
+X-APPLE-CALENDAR-COLOR:#2D6A4E
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:2026-11-01-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:सब संतों का महापर्व
@@ -32,7 +33,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:सब मृत विश्वासियों का स्
@@ -55,11 +56,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:सामान्य काल के 31वें सप्त
- ाह का मंगलवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 31वें सप्
  ताह का मंगलवार\nफ़िलिप्पिय
  ों 2:5–11 · स्तोत्र 22:26ख–27\, 28–30क\, 30
@@ -72,19 +72,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 31वें सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:सामान्य काल के 31वें सप्त
- ाह का बुधवार · संत चार्ल्स ब
- ोरोमियो\, धर्माध्यक्ष
+SUMMARY:संत चार्ल्स बोरोमियो\, धर
+ ्माध्यक्ष
 DESCRIPTION:सामान्य काल के 31वें सप्
  ताह का बुधवार · संत चार्ल्स 
  बोरोमियो\, धर्माध्यक्ष\nफ़ि
@@ -98,20 +96,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 31वें सप्ताह का बुधवार · सं
- त चार्ल्स बोरोमियो\, धर्माध
- ्यक्ष
+DESCRIPTION:कल का वचन: संत चार्ल्स ब
+ ोरोमियो\, धर्माध्यक्ष
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:सामान्य काल के 31वें सप्त
- ाह का गुरुवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 31वें सप्
  ताह का गुरुवार\nफ़िलिप्पिय
  ों 3:3–8क · स्तोत्र 105:2–3\, 4–5\, 6–7 · 
@@ -124,18 +119,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 31वें सप्ताह का गुरुवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:सामान्य काल के 31वें सप्त
- ाह का शुक्रवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 31वें सप्
  ताह का शुक्रवार\nफ़िलिप्पि
  यों 3:17–4:1 · स्तोत्र 122:1–2\, 3–4ख\, 4
@@ -147,18 +140,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 31वें सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:सामान्य काल के 31वें सप्त
- ाह का शनिवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 31वें सप्
  ताह का शनिवार\nफ़िलिप्पियो
  ं 4:10–19 · स्तोत्र 112:1ख–2\, 5–6\, 8क औ
@@ -171,14 +162,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 31वें सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:सामान्य काल का 32वाँ रविव
@@ -202,7 +192,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:लातेरन महागिरजाघर का सम
@@ -227,12 +217,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:सामान्य काल के 32वें सप्त
- ाह का मंगलवार · संत लियो महा
- न\, संत पापा और आचार्य
+SUMMARY:संत लियो महान\, संत पापा औ
+ र आचार्य
 DESCRIPTION:सामान्य काल के 32वें सप्
  ताह का मंगलवार · संत लियो मह
  ान\, संत पापा और आचार्य\nतीतु
@@ -245,21 +234,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 32वें सप्ताह का मंगलवार · स
- ंत लियो महान\, संत पापा और आच
- ार्य
+DESCRIPTION:कल का वचन: संत लियो महान\
+ , संत पापा और आचार्य
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:सामान्य काल के 32वें सप्त
- ाह का बुधवार · तूर्स के संत म
- ार्टिन\, धर्माध्यक्ष
+SUMMARY:तूर्स के संत मार्टिन\, धर
+ ्माध्यक्ष
 DESCRIPTION:सामान्य काल के 32वें सप्
  ताह का बुधवार · तूर्स के संत 
  मार्टिन\, धर्माध्यक्ष\nतीतु
@@ -272,21 +258,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 32वें सप्ताह का बुधवार · तू
- र्स के संत मार्टिन\, धर्माध्
- यक्ष
+DESCRIPTION:कल का वचन: तूर्स के संत म
+ ार्टिन\, धर्माध्यक्ष
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:सामान्य काल के 32वें सप्त
- ाह का गुरुवार · संत योसफ़त\, 
- धर्माध्यक्ष और शहीद
+SUMMARY:संत योसफ़त\, धर्माध्यक्ष 
+ और शहीद
 DESCRIPTION:सामान्य काल के 32वें सप्
  ताह का गुरुवार · संत योसफ़त\,
   धर्माध्यक्ष और शहीद\nफ़िले
@@ -299,20 +282,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 32वें सप्ताह का गुरुवार · स
- ंत योसफ़त\, धर्माध्यक्ष और श
- हीद
+DESCRIPTION:कल का वचन: संत योसफ़त\, ध
+ र्माध्यक्ष और शहीद
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:सामान्य काल के 32वें सप्त
- ाह का शुक्रवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 32वें सप्
  ताह का शुक्रवार\n2 योहन 4–9 · स
  ्तोत्र 119:1\, 2\, 10\, 11\, 17\, 18 · लूकस 17:26
@@ -324,18 +304,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 32वें सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:सामान्य काल के 32वें सप्त
- ाह का शनिवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 32वें सप्
  ताह का शनिवार\n3 योहन 5–8 · स्त
  ोत्र 112:1–2\, 3–4\, 5–6 · लूकस 18:1–8\nनि
@@ -347,14 +325,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 32वें सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:सामान्य काल का 33वाँ रविव
@@ -380,11 +357,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:सामान्य काल के 33वें सप्त
- ाह का सोमवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 33वें सप्
  ताह का सोमवार\nप्रकाशना-ग्र
  न्थ 1:1–4\; 2:1–5 · स्तोत्र 1:1–2\, 3\, 4 औ
@@ -397,19 +373,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 33वें सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:सामान्य काल के 33वें सप्त
- ाह का मंगलवार · हंगरी की संत 
- एलिज़ाबेथ\, धर्मसंघी
+SUMMARY:हंगरी की संत एलिज़ाबेथ\, 
+ धर्मसंघी
 DESCRIPTION:सामान्य काल के 33वें सप्
  ताह का मंगलवार · हंगरी की सं
  त एलिज़ाबेथ\, धर्मसंघी\nप्रक
@@ -423,20 +397,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 33वें सप्ताह का मंगलवार · ह
- ंगरी की संत एलिज़ाबेथ\, धर्म
- संघी
+DESCRIPTION:कल का वचन: हंगरी की संत ए
+ लिज़ाबेथ\, धर्मसंघी
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:सामान्य काल के 33वें सप्त
- ाह का बुधवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 33वें सप्
  ताह का बुधवार\nप्रकाशना-ग्र
  न्थ 4:1–11 · स्तोत्र 150:1ख–2\, 3–4\, 5–6
@@ -449,18 +420,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 33वें सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:सामान्य काल के 33वें सप्त
- ाह का गुरुवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 33वें सप्
  ताह का गुरुवार\nप्रकाशना-ग्
  रन्थ 5:1–10 · स्तोत्र 149:1ख–2\, 3–4\, 5
@@ -472,18 +441,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 33वें सप्ताह का गुरुवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:सामान्य काल के 33वें सप्त
- ाह का शुक्रवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 33वें सप्
  ताह का शुक्रवार\nप्रकाशना-ग
  ्रन्थ 10:8–11 · स्तोत्र 119:14\, 24\, 72\, 10
@@ -496,19 +463,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 33वें सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:सामान्य काल के 33वें सप्त
- ाह का शनिवार · धन्य कुँवारी 
- मरियम का मंदिर में समर्पण
+SUMMARY:धन्य कुँवारी मरियम का मं
+ दिर में समर्पण
 DESCRIPTION:सामान्य काल के 33वें सप्
  ताह का शनिवार · धन्य कुँवार
  ी मरियम का मंदिर में समर्पण\
@@ -522,16 +487,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 33वें सप्ताह का शनिवार · धन
- ्य कुँवारी मरियम का मंदिर म
- ें समर्पण
+DESCRIPTION:कल का वचन: धन्य कुँवारी 
+ मरियम का मंदिर में समर्पण
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:विश्व के राजा ख्रीस्त का 
@@ -555,11 +518,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:सामान्य काल के 34वें सप्त
- ाह का सोमवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 34वें सप्
  ताह का सोमवार\nप्रकाशना-ग्र
  न्थ 14:1–3\, 4ख–5 · स्तोत्र 24:1ख–2\, 3
@@ -572,19 +534,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 34वें सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:सामान्य काल के 34वें सप्त
- ाह का मंगलवार · संत अंद्रेय
- ास दुंग-लाक और साथी\, शहीद
+SUMMARY:संत अंद्रेयास दुंग-लाक औ
+ र साथी\, शहीद
 DESCRIPTION:सामान्य काल के 34वें सप्
  ताह का मंगलवार · संत अंद्रे
  यास दुंग-लाक और साथी\, शहीद\nप
@@ -598,20 +558,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 34वें सप्ताह का मंगलवार · स
- ंत अंद्रेयास दुंग-लाक और सा
- थी\, शहीद
+DESCRIPTION:कल का वचन: संत अंद्रेया
+ स दुंग-लाक और साथी\, शहीद
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:सामान्य काल के 34वें सप्त
- ाह का बुधवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 34वें सप्
  ताह का बुधवार\nप्रकाशना-ग्र
  न्थ 15:1–4 · स्तोत्र 98:1\, 2–3कख\, 7–8\,
@@ -623,18 +580,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 34वें सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:सामान्य काल के 34वें सप्त
- ाह का गुरुवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 34वें सप्
  ताह का गुरुवार\nप्रकाशना-ग्
  रन्थ 18:1–2\, 21–23\; 19:1–3\, 9क · स्तोत्
@@ -648,18 +603,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 34वें सप्ताह का गुरुवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:सामान्य काल के 34वें सप्त
- ाह का शुक्रवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 34वें सप्
  ताह का शुक्रवार\nप्रकाशना-ग
  ्रन्थ 20:1–4\, 11–21:2 · स्तोत्र 84:3\, 4\,
@@ -672,18 +625,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 34वें सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:सामान्य काल के 34वें सप्त
- ाह का शनिवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के 34वें सप्
  ताह का शनिवार\nप्रकाशना-ग्र
  न्थ 22:1–7 · स्तोत्र 95:1–2\, 3–5\, 6–7क
@@ -696,14 +647,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े 34वें सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:आगमन काल का पहला रविवार
@@ -726,7 +676,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:प्रेरित संत अंद्रेयास · 
@@ -748,11 +698,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:आगमन काल के पहले सप्ताह क
- ा मंगलवार
+SUMMARY:आगमन काल
 DESCRIPTION:आगमन काल के पहले सप्ताह
   का मंगलवार\nइसायाह 11:1–10 · स्त
  ोत्र 72:1–2\, 7–8\, 12–13\, 17 · लूकस 10:21–24\
@@ -764,18 +713,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के पह
- ले सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: आगमन काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:आगमन काल के पहले सप्ताह क
- ा बुधवार
+SUMMARY:आगमन काल
 DESCRIPTION:आगमन काल के पहले सप्ताह
   का बुधवार\nइसायाह 25:6–10क · स्त
  ोत्र 23:1–3क\, 3ख–4\, 5\, 6 · मत्ती 15:29–3
@@ -787,19 +734,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के पह
- ले सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: आगमन काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:आगमन काल के पहले सप्ताह क
- ा बृहस्पतिवार · पुरोहित संत
-  फ्रांसिस ज़ेवियर
+SUMMARY:पुरोहित संत फ्रांसिस ज़
+ ेवियर
 DESCRIPTION:आगमन काल के पहले सप्ताह
   का बृहस्पतिवार · पुरोहित स
  ंत फ्रांसिस ज़ेवियर\nइसाया
@@ -813,20 +758,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के पह
- ले सप्ताह का बृहस्पतिवार · 
- पुरोहित संत फ्रांसिस ज़ेवि
- यर
+DESCRIPTION:कल का वचन: पुरोहित संत फ
+ ्रांसिस ज़ेवियर
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:आगमन काल के पहले सप्ताह क
- ा शुक्रवार
+SUMMARY:आगमन काल
 DESCRIPTION:आगमन काल के पहले सप्ताह
   का शुक्रवार\nइसायाह 29:17–24 · स
  ्तोत्र 27:1\, 4\, 13–14 · मत्ती 9:27–31\nई
@@ -838,18 +780,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के पह
- ले सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: आगमन काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:आगमन काल के पहले सप्ताह क
- ा शनिवार
+SUMMARY:आगमन काल
 DESCRIPTION:आगमन काल के पहले सप्ताह
   का शनिवार\nइसायाह 30:19–21\, 23–26 · 
  स्तोत्र 147:1–2\, 3–4\, 5–6 · मत्ती 9:35
@@ -862,14 +802,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के पह
- ले सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: आगमन काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:आगमन काल का दूसरा रविवार
@@ -891,12 +830,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:आगमन काल के दूसरे सप्ताह 
- का सोमवार · धर्माध्यक्ष और 
- धर्माचार्य संत अम्ब्रोस
+SUMMARY:धर्माध्यक्ष और धर्माचार
+ ्य संत अम्ब्रोस
 DESCRIPTION:आगमन काल के दूसरे सप्ता
  ह का सोमवार · धर्माध्यक्ष औ
  र धर्माचार्य संत अम्ब्रोस\n
@@ -909,16 +847,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के दू
- सरे सप्ताह का सोमवार · धर्म
- ाध्यक्ष और धर्माचार्य संत 
- अम्ब्रोस
+DESCRIPTION:कल का वचन: धर्माध्यक्ष 
+ और धर्माचार्य संत अम्ब्रोस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:धन्य कुँवारी मरियम का नि
@@ -944,11 +880,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:आगमन काल के दूसरे सप्ताह 
- का बुधवार
+SUMMARY:आगमन काल
 DESCRIPTION:आगमन काल के दूसरे सप्ता
  ह का बुधवार\nइसायाह 40:25–31 · स्
  तोत्र 103:1–2\, 3–4\, 8\, 10 · मत्ती 11:28–30
@@ -959,18 +894,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के दू
- सरे सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: आगमन काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:आगमन काल के दूसरे सप्ताह 
- का बृहस्पतिवार
+SUMMARY:आगमन काल
 DESCRIPTION:आगमन काल के दूसरे सप्ता
  ह का बृहस्पतिवार\nइसायाह 41:13
  –20 · स्तोत्र 145:1\, 9\, 10–11\, 12–13क · म
@@ -982,18 +915,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के दू
- सरे सप्ताह का बृहस्पतिवार
+DESCRIPTION:कल का वचन: आगमन काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:आगमन काल के दूसरे सप्ताह 
- का शुक्रवार
+SUMMARY:आगमन काल
 DESCRIPTION:आगमन काल के दूसरे सप्ता
  ह का शुक्रवार\nइसायाह 48:17–19 · 
  स्तोत्र 1:1–2\, 3\, 4\, 6 · मत्ती 11:16–19\
@@ -1005,19 +936,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के दू
- सरे सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: आगमन काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:आगमन काल के दूसरे सप्ताह 
- का शनिवार · ग्वादालूपे की म
- ाता मरियम
+SUMMARY:ग्वादालूपे की माता मरिय
+ म
 DESCRIPTION:आगमन काल के दूसरे सप्ता
  ह का शनिवार · ग्वादालूपे की 
  माता मरियम\nप्रवक्ता-ग्रन्
@@ -1030,15 +959,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के दू
- सरे सप्ताह का शनिवार · ग्वा
- दालूपे की माता मरियम
+DESCRIPTION:कल का वचन: ग्वादालूपे क
+ ी माता मरियम
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:आगमन काल का तीसरा रविवार 
@@ -1062,12 +990,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:आगमन काल के तीसरे सप्ताह 
- का सोमवार · पुरोहित और धर्म
- ाचार्य क्रूस के संत योहन
+SUMMARY:पुरोहित और धर्माचार्य क
+ ्रूस के संत योहन
 DESCRIPTION:आगमन काल के तीसरे सप्ता
  ह का सोमवार · पुरोहित और धर्
  माचार्य क्रूस के संत योहन\nग
@@ -1081,20 +1008,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के ती
- सरे सप्ताह का सोमवार · पुरो
- हित और धर्माचार्य क्रूस के 
- संत योहन
+DESCRIPTION:कल का वचन: पुरोहित और धर
+ ्माचार्य क्रूस के संत योहन
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:आगमन काल के तीसरे सप्ताह 
- का मंगलवार
+SUMMARY:आगमन काल
 DESCRIPTION:आगमन काल के तीसरे सप्ता
  ह का मंगलवार\nसफ़न्याह 3:1–2\, 9
  –13 · स्तोत्र 34:2–3\, 6–7\, 17–18\, 19\, 23 · 
@@ -1106,18 +1030,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के ती
- सरे सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: आगमन काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:आगमन काल के तीसरे सप्ताह 
- का बुधवार
+SUMMARY:आगमन काल
 DESCRIPTION:आगमन काल के तीसरे सप्ता
  ह का बुधवार\nइसायाह 45:6ख–8\, 18\, 21
  ख–25 · स्तोत्र 85:9कख\, 10\, 11–12\, 13–14 ·
@@ -1130,14 +1052,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: आगमन काल के ती
- सरे सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: आगमन काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:17 दिसंबर · आगमन काल का साम
@@ -1161,7 +1082,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:18 दिसंबर · आगमन काल का साम
@@ -1186,7 +1107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:19 दिसंबर · आगमन काल का साम
@@ -1211,7 +1132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:आगमन काल का चौथा रविवार
@@ -1234,7 +1155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:21 दिसंबर · आगमन काल का साम
@@ -1259,7 +1180,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:22 दिसंबर · आगमन काल का साम
@@ -1285,7 +1206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:23 दिसंबर · आगमन काल का साम
@@ -1309,7 +1230,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:24 दिसंबर · आगमन काल का साम
@@ -1336,7 +1257,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:प्रभु का जन्मोत्सव (ख्री
@@ -1362,7 +1283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:संत स्तेफ़नुस\, प्रथम शही
@@ -1386,7 +1307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:येसु\, मरियम और यूसुफ़ का 
@@ -1412,7 +1333,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:पवित्र निर्दोष बालक\, शही
@@ -1436,7 +1357,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:29 दिसंबर · ख्रीस्त-जयंती 
@@ -1461,7 +1382,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:30 दिसंबर · ख्रीस्त-जयंती 
@@ -1486,7 +1407,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:31 दिसंबर · ख्रीस्त-जयंती 
@@ -1510,7 +1431,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:ईश्वर की माता धन्य मरियम 
@@ -1538,7 +1459,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:2 जनवरी · संत बसील महान और 
@@ -1569,7 +1490,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:प्रभु का प्रकटीकरण · महा
@@ -1592,7 +1513,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:4 जनवरी · प्रकटीकरण के बाद
@@ -1616,7 +1537,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:5 जनवरी · प्रकटीकरण के बाद
@@ -1639,7 +1560,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:6 जनवरी · प्रकटीकरण के बाद
@@ -1663,7 +1584,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:7 जनवरी · प्रकटीकरण के बाद
@@ -1687,7 +1608,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:8 जनवरी · प्रकटीकरण के बाद
@@ -1711,7 +1632,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:9 जनवरी · प्रकटीकरण के बाद
@@ -1734,7 +1655,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:प्रभु का बपतिस्मा · पर्व
@@ -1757,11 +1678,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:सामान्य काल के पहले सप्त
- ाह का सोमवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के पहले सप्
  ताह का सोमवार\nइब्रानियों 1:1
  –6 · स्तोत्र 97:1 और 2ख\, 6 और 7ग\, 9 · 
@@ -1773,18 +1693,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े पहले सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:सामान्य काल के पहले सप्त
- ाह का मंगलवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के पहले सप्
  ताह का मंगलवार\nइब्रानियों 2
  :5–12 · स्तोत्र 8:2\, 5\, 6–7\, 8–9 · मरकु
@@ -1796,18 +1714,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े पहले सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:सामान्य काल के पहले सप्त
- ाह का बुधवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के पहले सप्
  ताह का बुधवार\nइब्रानियों 2:14
  –18 · स्तोत्र 105:1–2\, 3–4\, 6–7\, 8–9 · म
@@ -1820,18 +1736,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े पहले सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:सामान्य काल के पहले सप्त
- ाह का बृहस्पतिवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के पहले सप्
  ताह का बृहस्पतिवार\nइब्रान
  ियों 3:7–14 · स्तोत्र 95:6–7ग\, 8–9\, 10
@@ -1843,19 +1757,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े पहले सप्ताह का बृहस्पतिव
- ार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:सामान्य काल के पहले सप्त
- ाह का शुक्रवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के पहले सप्
  ताह का शुक्रवार\nइब्रानियो
  ं 4:1–5\, 11 · स्तोत्र 78:3 और 4खग\, 6ग–7
@@ -1868,18 +1779,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े पहले सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:सामान्य काल के पहले सप्त
- ाह का शनिवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के पहले सप्
  ताह का शनिवार\nइब्रानियों 4:12
  –16 · स्तोत्र 19:8\, 9\, 10\, 15 · मरकुस 2:1
@@ -1891,14 +1800,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े पहले सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:सामान्य काल का दूसरा रवि
@@ -1921,11 +1829,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-SUMMARY:सामान्य काल के दूसरे सप्
- ताह का सोमवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के दूसरे सप
  ्ताह का सोमवार\nइब्रानियों 5
  :1–10 · स्तोत्र 110:1\, 2\, 3\, 4 · मरकुस 2:
@@ -1938,18 +1845,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े दूसरे सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:सामान्य काल के दूसरे सप्
- ताह का मंगलवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के दूसरे सप
  ्ताह का मंगलवार\nइब्रानियो
  ं 6:10–20 · स्तोत्र 111:1–2\, 4–5\, 9 और 10
@@ -1962,19 +1867,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े दूसरे सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:सामान्य काल के दूसरे सप्
- ताह का बुधवार · संत फ़ेबियन 
- और संत सेबस्तियन
+SUMMARY:संत फ़ेबियन और संत सेबस्
+ तियन
 DESCRIPTION:सामान्य काल के दूसरे सप
  ्ताह का बुधवार · संत फ़ेबिय
  न और संत सेबस्तियन\nइब्रानि
@@ -1988,16 +1891,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े दूसरे सप्ताह का बुधवार · स
- ंत फ़ेबियन और संत सेबस्तिय
- न
+DESCRIPTION:कल का वचन: संत फ़ेबियन औ
+ र संत सेबस्तियन
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:कुँवारी और शहीद संत आग्न
@@ -2020,11 +1921,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:सामान्य काल के दूसरे सप्
- ताह का शुक्रवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के दूसरे सप
  ्ताह का शुक्रवार\nइब्रानिय
  ों 8:6–13 · स्तोत्र 85:8 और 10\, 11–12\, 13
@@ -2037,18 +1937,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े दूसरे सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:सामान्य काल के दूसरे सप्
- ताह का शनिवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के दूसरे सप
  ्ताह का शनिवार\nइब्रानियों 9
  :2–3\, 11–14 · स्तोत्र 47:2–3\, 6–7\, 8–9 · 
@@ -2061,14 +1959,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े दूसरे सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:सामान्य काल का तीसरा रवि
@@ -2093,7 +1990,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:प्रेरित संत पौलुस का मन-प
@@ -2118,7 +2015,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:धर्माध्यक्ष संत तिमथी औ
@@ -2143,11 +2040,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:सामान्य काल के तीसरे सप्
- ताह का बुधवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के तीसरे सप
  ्ताह का बुधवार\nइब्रानियों 1
  0:11–18 · स्तोत्र 110:1\, 2\, 3\, 4 · मरकुस 
@@ -2160,14 +2056,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े तीसरे सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:पुरोहित और कलीसिया के धर
@@ -2193,11 +2088,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:सामान्य काल के तीसरे सप्
- ताह का शुक्रवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के तीसरे सप
  ्ताह का शुक्रवार\nइब्रानिय
  ों 10:32–39 · स्तोत्र 37:3–4\, 5–6\, 23–24\, 
@@ -2210,18 +2104,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े तीसरे सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:सामान्य काल के तीसरे सप्
- ताह का शनिवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के तीसरे सप
  ्ताह का शनिवार\nइब्रानियों 1
  1:1–2\, 8–19 · लूकस 1:69–70\, 71–72\, 73–75 · मर
@@ -2233,14 +2125,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े तीसरे सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:सामान्य काल का चौथा रविव
@@ -2264,11 +2155,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:सामान्य काल के चौथे सप्त
- ाह का सोमवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के चौथे सप्
  ताह का सोमवार\nइब्रानियों 11:3
  2–40 · स्तोत्र 31:20\, 21\, 22\, 23\, 24 · मरक
@@ -2281,14 +2171,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े चौथे सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:प्रभु का मंदिर में समर्प
@@ -2312,12 +2201,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:सामान्य काल के चौथे सप्त
- ाह का बुधवार · संत ब्लेज़\; स
- ंत अंसगार
+SUMMARY:संत ब्लेज़\; संत अंसगार
 DESCRIPTION:सामान्य काल के चौथे सप्
  ताह का बुधवार · संत ब्लेज़\; 
  संत अंसगार\nइब्रानियों 12:4–7\, 
@@ -2331,19 +2218,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े चौथे सप्ताह का बुधवार · सं
- त ब्लेज़\; संत अंसगार
+DESCRIPTION:कल का वचन: संत ब्लेज़\; स
+ ंत अंसगार
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:सामान्य काल के चौथे सप्त
- ाह का बृहस्पतिवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के चौथे सप्
  ताह का बृहस्पतिवार\nइब्रान
  ियों 12:18–19\, 21–24 · स्तोत्र 48:2–3a\, 3
@@ -2356,15 +2241,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े चौथे सप्ताह का बृहस्पतिव
- ार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:कुँवारी और शहीद संत अगाथ
@@ -2387,7 +2270,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:शहीद संत पौलुस मिकी और सा
@@ -2410,7 +2293,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:सामान्य काल का पाँचवाँ र
@@ -2434,11 +2317,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-SUMMARY:सामान्य काल के पाँचवें स
- प्ताह का सोमवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के पाँचवें 
  सप्ताह का सोमवार\nउत्पत्ति 1
  :1–19 · स्तोत्र 104:1–2a\, 5–6\, 10 और 12\, 24 
@@ -2451,18 +2333,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े पाँचवें सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:सामान्य काल के पाँचवें स
- प्ताह का मंगलवार
+SUMMARY:सामान्य काल
 DESCRIPTION:सामान्य काल के पाँचवें 
  सप्ताह का मंगलवार\nउत्पत्त
  ि 1:20–2:4a · स्तोत्र 8:4–5\, 6–7\, 8–9 · म
@@ -2475,18 +2355,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: सामान्य काल क
- े पाँचवें सप्ताह का मंगलवा
- र
+DESCRIPTION:कल का वचन: सामान्य काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:राख बुधवार
+SUMMARY:चालीसा काल
 DESCRIPTION:राख बुधवार\nयोएल 2:12–18 · स
  ्तोत्र 51:3–4\, 5–6a\, 12–13\, 14 और 17 · 2 क
  ुरिन्थियों 5:20–6:2 · मत्ती 6:1–6\, 1
@@ -2499,17 +2377,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: राख बुधवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:राख बुधवार के बाद का बृहस
- ्पतिवार
+SUMMARY:चालीसा काल
 DESCRIPTION:राख बुधवार के बाद का बृ
  हस्पतिवार\nविधि-विवरण 30:15–20 · 
  स्तोत्र 1:1–2\, 3\, 4 और 6 · लूकस 9:22–25
@@ -2521,18 +2398,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: राख बुधवार के 
- बाद का बृहस्पतिवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:राख बुधवार के बाद का शुक्
- रवार
+SUMMARY:चालीसा काल
 DESCRIPTION:राख बुधवार के बाद का शु
  क्रवार\nइसायाह 58:1–9a · स्तोत्
  र 51:3–4\, 5–6a\, 18–19 · मत्ती 9:14–15\nईश्
@@ -2546,18 +2421,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: राख बुधवार के 
- बाद का शुक्रवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:राख बुधवार के बाद का शनिव
- ार
+SUMMARY:चालीसा काल
 DESCRIPTION:राख बुधवार के बाद का शन
  िवार\nइसायाह 58:9b–14 · स्तोत्र 86:
  1–2\, 3–4\, 5–6 · लूकस 5:27–32\nउठी हुई उ
@@ -2569,14 +2442,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: राख बुधवार के 
- बाद का शनिवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:चालीसा काल का पहला रविवा
@@ -2601,11 +2473,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-SUMMARY:चालीसा काल के पहले सप्ता
- ह का सोमवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के पहले सप्त
  ाह का सोमवार\nलेवी ग्रंथ 19:1–2\
  , 11–18 · स्तोत्र 19:8\, 9\, 10\, 15 · मत्ती
@@ -2619,18 +2490,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- पहले सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:चालीसा काल के पहले सप्ता
- ह का मंगलवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के पहले सप्त
  ाह का मंगलवार\nइसायाह 55:10–11 · 
  स्तोत्र 34:4–5\, 6–7\, 16–17\, 18–19 · मत्
@@ -2642,18 +2511,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- पहले सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:चालीसा काल के पहले सप्ता
- ह का बुधवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के पहले सप्त
  ाह का बुधवार\nयोना 3:1–10 · स्तो
  त्र 51:3–4\, 12–13\, 18–19 · लूकस 11:29–32\nई
@@ -2666,18 +2533,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- पहले सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:चालीसा काल के पहले सप्ता
- ह का बृहस्पतिवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के पहले सप्त
  ाह का बृहस्पतिवार\nएस्तेर C:12
  \, 14–16\, 23–25 (यूनानी अंश\; कई बाइब
@@ -2692,18 +2557,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- पहले सप्ताह का बृहस्पतिवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:चालीसा काल के पहले सप्ता
- ह का शुक्रवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के पहले सप्त
  ाह का शुक्रवार\nएज़ेकिएल 18:21
  –28 · स्तोत्र 130:1–2\, 3–4\, 5–6\, 7–8 · म
@@ -2716,18 +2579,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- पहले सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:चालीसा काल के पहले सप्ता
- ह का शनिवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के पहले सप्त
  ाह का शनिवार\nविधि-विवरण 26:16–1
  9 · स्तोत्र 119:1–2\, 4–5\, 7–8 · मत्ती 
@@ -2740,14 +2601,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- पहले सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:चालीसा काल का दूसरा रविव
@@ -2773,7 +2633,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
 SUMMARY:प्रेरित संत पेत्रुस का स
@@ -2797,11 +2657,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:चालीसा काल के दूसरे सप्त
- ाह का मंगलवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के दूसरे सप्
  ताह का मंगलवार\nइसायाह 1:10\, 16–2
  0 · स्तोत्र 50:8–9\, 16–17\, 21\, 23 · मत्त
@@ -2815,18 +2674,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- दूसरे सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:चालीसा काल के दूसरे सप्त
- ाह का बुधवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के दूसरे सप्
  ताह का बुधवार\nयिरमियाह 18:18–20
   · स्तोत्र 31:5–6\, 14\, 15–16 · मत्ती 20:
@@ -2839,18 +2696,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- दूसरे सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:चालीसा काल के दूसरे सप्त
- ाह का बृहस्पतिवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के दूसरे सप्
  ताह का बृहस्पतिवार\nयिरमिय
  ाह 17:5–10 · स्तोत्र 1:1–2\, 3\, 4\, 6 · लू
@@ -2863,19 +2718,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- दूसरे सप्ताह का बृहस्पतिवा
- र
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:चालीसा काल के दूसरे सप्त
- ाह का शुक्रवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के दूसरे सप्
  ताह का शुक्रवार\nउत्पत्ति 37:3
  –4\, 12–13a\, 17b–28 · स्तोत्र 105:16–17\, 18–1
@@ -2889,18 +2741,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- दूसरे सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:चालीसा काल के दूसरे सप्त
- ाह का शनिवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के दूसरे सप्
  ताह का शनिवार\nमीकाह 7:14–15\, 18–20
   · स्तोत्र 103:1–2\, 3–4\, 9–10\, 11–12 · लू
@@ -2914,14 +2764,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- दूसरे सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:चालीसा काल का तीसरा रविव
@@ -2946,11 +2795,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-01-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:चालीसा काल के तीसरे सप्त
- ाह का सोमवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के तीसरे सप्
  ताह का सोमवार\n2 राजा 5:1–15ab · स्
  तोत्र 42:2–3\; 43:3–4 · लूकस 4:24–30\nघमं
@@ -2963,18 +2811,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- तीसरे सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:चालीसा काल के तीसरे सप्त
- ाह का मंगलवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के तीसरे सप्
  ताह का मंगलवार\nदानिएल 3:25\, 34–4
  3 · स्तोत्र 25:4–5ab\, 6\, 7bc\, 8–9 · मत्त
@@ -2987,18 +2833,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- तीसरे सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
-SUMMARY:चालीसा काल के तीसरे सप्त
- ाह का बुधवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के तीसरे सप्
  ताह का बुधवार\nविधि-विवरण 4:1\, 
  5–9 · स्तोत्र 147:12–13\, 15–16\, 19–20 · मत
@@ -3012,18 +2856,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- तीसरे सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:चालीसा काल के तीसरे सप्त
- ाह का बृहस्पतिवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के तीसरे सप्
  ताह का बृहस्पतिवार\nयिरमिय
  ाह 7:23–28 · स्तोत्र 95:1–2\, 6–7\, 8–9 · 
@@ -3036,19 +2878,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- तीसरे सप्ताह का बृहस्पतिवा
- र
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-SUMMARY:चालीसा काल के तीसरे सप्त
- ाह का शुक्रवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के तीसरे सप्
  ताह का शुक्रवार\nहोशेआ 14:2–10 · 
  स्तोत्र 81:6c–8a\, 8bc–9\, 10–11ab\, 14\, 17 · म
@@ -3063,18 +2902,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- तीसरे सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:चालीसा काल के तीसरे सप्त
- ाह का शनिवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के तीसरे सप्
  ताह का शनिवार\nहोशेआ 6:1–6 · स्
  तोत्र 51:3–4\, 18–19\, 20–21 · लूकस 18:9–14\n
@@ -3088,14 +2925,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- तीसरे सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:चालीसा काल का चौथा रविवा
@@ -3119,11 +2955,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:चालीसा काल के चौथे सप्ता
- ह का सोमवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के चौथे सप्त
  ाह का सोमवार\nइसायाह 65:17–21 · स
  ्तोत्र 30:2\, 4\, 5–6\, 11–13 · योहन 4:43–54\
@@ -3136,18 +2971,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- चौथे सप्ताह का सोमवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:चालीसा काल के चौथे सप्ता
- ह का मंगलवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के चौथे सप्त
  ाह का मंगलवार\nएज़ेकिएल 47:1–9\,
   12 · स्तोत्र 46:2–3\, 5–6\, 8–9 · योहन 5:
@@ -3160,18 +2993,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- चौथे सप्ताह का मंगलवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-10-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:चालीसा काल के चौथे सप्ता
- ह का बुधवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के चौथे सप्त
  ाह का बुधवार\nइसायाह 49:8–15 · स्
  तोत्र 145:8–9\, 13c–14\, 17–18 · योहन 5:17–30
@@ -3184,18 +3015,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- चौथे सप्ताह का बुधवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:चालीसा काल के चौथे सप्ता
- ह का बृहस्पतिवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के चौथे सप्त
  ाह का बृहस्पतिवार\nनिर्गमन 3
  2:7–14 · स्तोत्र 106:19–20\, 21–22\, 23 · यो
@@ -3209,18 +3038,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- चौथे सप्ताह का बृहस्पतिवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-SUMMARY:चालीसा काल के चौथे सप्ता
- ह का शुक्रवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के चौथे सप्त
  ाह का शुक्रवार\nप्रज्ञा-ग्र
  ंथ 2:1a\, 12–22 · स्तोत्र 34:17–21\, 23 · यो
@@ -3234,18 +3061,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- चौथे सप्ताह का शुक्रवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-SUMMARY:चालीसा काल के चौथे सप्ता
- ह का शनिवार
+SUMMARY:चालीसा काल
 DESCRIPTION:चालीसा काल के चौथे सप्त
  ाह का शनिवार\nयिरमियाह 11:18–20 ·
   स्तोत्र 7:2–3\, 9b–12 · योहन 7:40–53\nष
@@ -3259,14 +3084,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: चालीसा काल के 
- चौथे सप्ताह का शनिवार
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:चालीसा काल का पाँचवाँ रव
@@ -3292,10 +3116,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-SUMMARY:Monday of the Fifth Week of Lent
+SUMMARY:चालीसा काल
 DESCRIPTION:Monday of the Fifth Week of Lent\nDaniel 13:1–9\, 15–17\,
   19–30\, 33–62 (or 13:41c–62) · Psalm 23:1–3a\, 3b–4\, 5\, 6 
  · John 8:1–11\nSusanna chose to fall into the hands of the wicked rat
@@ -3306,16 +3130,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Monday of the Fifth Week of Lent
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:Tuesday of the Fifth Week of Lent
+SUMMARY:चालीसा काल
 DESCRIPTION:Tuesday of the Fifth Week of Lent\nNumbers 21:4–9 · Psalm 
  102:1–2\, 15–17\, 18–20 · John 8:21–30\nIsrael grew impatient a
  nd complained against God and the manna.\n\nपढ़ें और प
@@ -3325,16 +3149,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Tuesday of the Fifth Week of Lent
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:Wednesday of the Fifth Week of Lent
+SUMMARY:चालीसा काल
 DESCRIPTION:Wednesday of the Fifth Week of Lent\nDaniel 3:14–20\, 91–
  92\, 95 · Daniel 3:52\, 53\, 54\, 55\, 56 · John 8:31–42\nThree youn
  g men refused to worship the golden statue\, even if God did not rescue 
@@ -3344,16 +3168,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Wednesday of the Fifth Week of Lent
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:Thursday of the Fifth Week of Lent
+SUMMARY:चालीसा काल
 DESCRIPTION:Thursday of the Fifth Week of Lent\nGenesis 17:3–9 · Psalm
   105:4–5\, 6–7\, 8–9 · John 8:51–59\nGod made an everlasting co
  venant with Abraham and gave him a new name.\n\nपढ़ें और 
@@ -3363,13 +3187,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Thursday of the Fifth Week of Lent
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:St Joseph\, Spouse of the Blessed Virgin Mary
@@ -3391,10 +3215,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:Saturday of the Fifth Week of Lent
+SUMMARY:चालीसा काल
 DESCRIPTION:Saturday of the Fifth Week of Lent\nEzekiel 37:21–28 · Jer
  emiah 31:10\, 11–12ab\, 13 · John 11:45–56\nEzekiel promises that G
  od will make his scattered people one nation with one shepherd.\n\nप
@@ -3404,13 +3228,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Saturday of the Fifth Week of Lent
+DESCRIPTION:कल का वचन: चालीसा काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Palm Sunday of the Passion of the Lord
@@ -3432,10 +3256,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-SUMMARY:Monday of Holy Week
+SUMMARY:पवित्र सप्ताह और पास्का 
+ त्रिदिवस
 DESCRIPTION:Monday of Holy Week\nIsaiah 42:1–7 · Psalm 27:1\, 2\, 3\, 
  13–14 · John 12:1–11\nThe Servant of the Lord is gentle: he does no
  t break the bruised reed.\n\nपढ़ें और प्रार्
@@ -3445,16 +3270,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Monday of Holy Week
+DESCRIPTION:कल का वचन: पवित्र सप्ता
+ ह और पास्का त्रिदिवस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-23-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:Tuesday of Holy Week
+SUMMARY:पवित्र सप्ताह और पास्का 
+ त्रिदिवस
 DESCRIPTION:Tuesday of Holy Week\nIsaiah 49:1–6 · Psalm 71:1–2\, 3
  –4a\, 5–6ab\, 15 and 17 · John 13:21–33\, 36–38\nThe Servant is
   called from the womb and made a light to the nations.\n\nपढ़े
@@ -3464,16 +3291,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Tuesday of Holy Week
+DESCRIPTION:कल का वचन: पवित्र सप्ता
+ ह और पास्का त्रिदिवस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:Wednesday of Holy Week
+SUMMARY:पवित्र सप्ताह और पास्का 
+ त्रिदिवस
 DESCRIPTION:Wednesday of Holy Week\nIsaiah 50:4–9a · Psalm 69:7–9\, 
  20–21\, 30 and 32–33 · Matthew 26:14–25\nThe Servant listens to G
  od every morning and does not turn back from suffering.\n\nपढ़े
@@ -3483,16 +3312,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Wednesday of Holy Week
+DESCRIPTION:कल का वचन: पवित्र सप्ता
+ ह और पास्का त्रिदिवस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-SUMMARY:Holy Thursday: Evening Mass of the Lord's Supper
+SUMMARY:पवित्र सप्ताह और पास्का 
+ त्रिदिवस
 DESCRIPTION:Holy Thursday: Evening Mass of the Lord's Supper\nExodus 12:1
  –8\, 11–14 · Psalm 116:12–13\, 15–16bc\, 17–18 · 1 Corinthia
  ns 11:23–26 · John 13:1–15\nJesus\, our Passover Lamb\, gives his B
@@ -3503,17 +3334,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Holy Thursday: Evening Mass of the L
- ord's Supper
+DESCRIPTION:कल का वचन: पवित्र सप्ता
+ ह और पास्का त्रिदिवस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-SUMMARY:Friday of the Passion of the Lord (Good Friday)
+SUMMARY:पवित्र सप्ताह और पास्का 
+ त्रिदिवस
 DESCRIPTION:Friday of the Passion of the Lord (Good Friday)\nIsaiah 52:13
  –53:12 · Psalm 31:1\, 5\, 11–12\, 14–15\, 16\, 24 · Hebrews 4:14
  –16\; 5:7–9 · John 18:1–19:42\nThe Suffering Servant was wounded 
@@ -3524,17 +3356,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Friday of the Passion of the Lord (G
- ood Friday)
+DESCRIPTION:कल का वचन: पवित्र सप्ता
+ ह और पास्का त्रिदिवस
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-SUMMARY:Holy Saturday · The Easter Vigil in the Holy Night
+SUMMARY:The Easter Vigil in the Holy Night
 DESCRIPTION:Holy Saturday · The Easter Vigil in the Holy Night\nGenesis 
  1:1–2:2 (or 1:1\, 26–31a)\; Psalm 104 (or Psalm 33) · Genesis 22:1
  –18 (or 22:1–2\, 9a\, 10–13\, 15–18)\; Psalm 16 · Exodus 14:15
@@ -3550,14 +3382,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Holy Saturday · The Easter Vigil in
-  the Holy Night
+DESCRIPTION:कल का वचन: The Easter Vigil in the Holy Night
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Easter Sunday of the Resurrection of the Lord
@@ -3578,10 +3409,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:Monday within the Octave of Easter
+SUMMARY:पास्का काल
 DESCRIPTION:Monday within the Octave of Easter\nActs 2:14\, 22–33 · Ps
  alm 16:1–2a\, 5\, 7–8\, 9–10\, 11 · Matthew 28:8–15\nPeter: God
   raised Jesus up\; death could not hold him\; we are all witnesses.\n\n
@@ -3591,16 +3422,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Monday within the Octave of Easter
+DESCRIPTION:कल का वचन: पास्का काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:Tuesday within the Octave of Easter
+SUMMARY:पास्का काल
 DESCRIPTION:Tuesday within the Octave of Easter\nActs 2:36–41 · Psalm 
  33:4–5\, 18–19\, 20 and 22 · John 20:11–18\nCut to the heart\, th
  e crowd asked: What should we do? Peter: repent and be baptized.\n\nप
@@ -3610,16 +3441,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Tuesday within the Octave of Easter
+DESCRIPTION:कल का वचन: पास्का काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-lat-hi@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-SUMMARY:Wednesday within the Octave of Easter
+SUMMARY:पास्का काल
 DESCRIPTION:Wednesday within the Octave of Easter\nActs 3:1–10 · Psalm
   105:1–2\, 3–4\, 6–7\, 8–9 · Luke 24:13–35\nPeter healed the 
  lame man: what I have I give you\; in the name of Jesus\, walk.\n\nप
@@ -3629,8 +3460,7 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=lat&l=hi
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:कल का वचन: Wednesday within the Octave of Easte
- r
+DESCRIPTION:कल का वचन: पास्का काल
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT

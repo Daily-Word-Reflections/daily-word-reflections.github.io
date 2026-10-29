@@ -5,11 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:ಅನುದಿನ ವಾಕ್ಯ · Latin
 X-WR-TIMEZONE:Asia/Kolkata
+X-APPLE-CALENDAR-COLOR:#2D6A4E
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:2026-11-01-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:ಸಕಲ ಸಂತರ ಮಹೋತ್ಸವ
@@ -31,7 +32,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:ಮೃತ ವಿಶ್ವಾಸಿಗಳೆಲ್ಲರ ಸ್ಮ
@@ -54,11 +55,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಮಂ
- ಗಳವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಮ
  ಂಗಳವಾರ\nಫಿಲಿಪ್ಪಿಯರಿಗೆ 2:5–11 · 
  ಕೀರ್ತನೆ 22:26ಬಿ–27\, 28–30ಎಬಿ\, 30ಇ–32 
@@ -72,18 +72,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 31ನೇ ವಾರದ ಮಂಗಳವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಬು
- ಧವಾರ · ಸಂತ ಚಾರ್ಲ್ಸ್ ಬೊರೊಮಿಯ
- ೊ\, ಧರ್ಮಾಧ್ಯಕ್ಷರು
+SUMMARY:ಸಂತ ಚಾರ್ಲ್ಸ್ ಬೊರೊಮಿಯೊ\, ಧ
+ ರ್ಮಾಧ್ಯಕ್ಷರು
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಬ
  ುಧವಾರ · ಸಂತ ಚಾರ್ಲ್ಸ್ ಬೊರೊಮಿ
  ಯೊ\, ಧರ್ಮಾಧ್ಯಕ್ಷರು\nಫಿಲಿಪ್ಪ
@@ -96,20 +95,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 31ನೇ ವಾರದ ಬುಧವಾರ · ಸಂತ ಚಾರ
- ್ಲ್ಸ್ ಬೊರೊಮಿಯೊ\, ಧರ್ಮಾಧ್ಯಕ
- ್ಷರು
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಂತ ಚಾರ್ಲ್
+ ಸ್ ಬೊರೊಮಿಯೊ\, ಧರ್ಮಾಧ್ಯಕ್ಷರ
+ ು
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಗು
- ರುವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಗ
  ುರುವಾರ\nಫಿಲಿಪ್ಪಿಯರಿಗೆ 3:3–8ಎ 
  · ಕೀರ್ತನೆ 105:2–3\, 4–5\, 6–7 · ಲೂಕ 15:1–1
@@ -122,17 +119,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 31ನೇ ವಾರದ ಗುರುವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಶು
- ಕ್ರವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಶ
  ುಕ್ರವಾರ\nಫಿಲಿಪ್ಪಿಯರಿಗೆ 3:17–4:
  1 · ಕೀರ್ತನೆ 122:1–2\, 3–4ಬಿ\, 4ಸಿಡಿ–5 
@@ -145,17 +141,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 31ನೇ ವಾರದ ಶುಕ್ರವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಶನ
- ಿವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಶ
  ನಿವಾರ\nಫಿಲಿಪ್ಪಿಯರಿಗೆ 4:10–19 · 
  ಕೀರ್ತನೆ 112:1ಬಿ–2\, 5–6\, 8ಎ ಮತ್ತು 9 
@@ -168,13 +163,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 31ನೇ ವಾರದ ಶನಿವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ಭಾನುವಾರ
@@ -197,7 +192,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:ಲ್ಯಾಟರನ್ ಮಹಾದೇವಾಲಯದ ಪ್ರ
@@ -223,12 +218,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಮಂ
- ಗಳವಾರ · ಸಂತ ಮಹಾ ಲಿಯೋ\, ಜಗದ್ಗು
- ರು ಮತ್ತು ಧರ್ಮಸಭೆಯ ಪಂಡಿತರು
+SUMMARY:ಸಂತ ಮಹಾ ಲಿಯೋ\, ಜಗದ್ಗುರು ಮ
+ ತ್ತು ಧರ್ಮಸಭೆಯ ಪಂಡಿತರು
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಮ
  ಂಗಳವಾರ · ಸಂತ ಮಹಾ ಲಿಯೋ\, ಜಗದ್ಗ
  ುರು ಮತ್ತು ಧರ್ಮಸಭೆಯ ಪಂಡಿತರು
@@ -242,21 +236,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 32ನೇ ವಾರದ ಮಂಗಳವಾರ · ಸಂತ ಮಹ
- ಾ ಲಿಯೋ\, ಜಗದ್ಗುರು ಮತ್ತು ಧರ್ಮ
- ಸಭೆಯ ಪಂಡಿತರು
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಂತ ಮಹಾ ಲಿ
+ ಯೋ\, ಜಗದ್ಗುರು ಮತ್ತು ಧರ್ಮಸಭೆ
+ ಯ ಪಂಡಿತರು
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಬು
- ಧವಾರ · ಟೂರ್ಸ್‌ನ ಸಂತ ಮಾರ್ಟಿನ
- ್\, ಧರ್ಮಾಧ್ಯಕ್ಷರು
+SUMMARY:ಟೂರ್ಸ್‌ನ ಸಂತ ಮಾರ್ಟಿನ್\, ಧ
+ ರ್ಮಾಧ್ಯಕ್ಷರು
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಬ
  ುಧವಾರ · ಟೂರ್ಸ್‌ನ ಸಂತ ಮಾರ್ಟಿ
  ನ್\, ಧರ್ಮಾಧ್ಯಕ್ಷರು\nತೀತನಿಗೆ 
@@ -270,21 +262,19 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 32ನೇ ವಾರದ ಬುಧವಾರ · ಟೂರ್ಸ್‌
- ನ ಸಂತ ಮಾರ್ಟಿನ್\, ಧರ್ಮಾಧ್ಯಕ್
- ಷರು
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಟೂರ್ಸ್‌ನ ಸ
+ ಂತ ಮಾರ್ಟಿನ್\, ಧರ್ಮಾಧ್ಯಕ್ಷರ
+ ು
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಗು
- ರುವಾರ · ಸಂತ ಜೊಸಫಾತ್\, ಧರ್ಮಾಧ
- ್ಯಕ್ಷರು ಮತ್ತು ಹುತಾತ್ಮರು
+SUMMARY:ಸಂತ ಜೊಸಫಾತ್\, ಧರ್ಮಾಧ್ಯಕ್
+ ಷರು ಮತ್ತು ಹುತಾತ್ಮರು
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಗ
  ುರುವಾರ · ಸಂತ ಜೊಸಫಾತ್\, ಧರ್ಮಾ
  ಧ್ಯಕ್ಷರು ಮತ್ತು ಹುತಾತ್ಮರು\n
@@ -297,20 +287,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 32ನೇ ವಾರದ ಗುರುವಾರ · ಸಂತ ಜೊ
- ಸಫಾತ್\, ಧರ್ಮಾಧ್ಯಕ್ಷರು ಮತ್ತ
- ು ಹುತಾತ್ಮರು
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಂತ ಜೊಸಫಾತ
+ ್\, ಧರ್ಮಾಧ್ಯಕ್ಷರು ಮತ್ತು ಹುತ
+ ಾತ್ಮರು
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಶು
- ಕ್ರವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಶ
  ುಕ್ರವಾರ\n2 ಯೊವಾನ್ನ 4–9 · ಕೀರ್ತ
  ನೆ 119:1\, 2\, 10\, 11\, 17\, 18 · ಲೂಕ 17:26–37\nದೇವ
@@ -322,17 +310,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 32ನೇ ವಾರದ ಶುಕ್ರವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಶನ
- ಿವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಶ
  ನಿವಾರ\n3 ಯೊವಾನ್ನ 5–8 · ಕೀರ್ತನೆ 
  112:1–2\, 3–4\, 5–6 · ಲೂಕ 18:1–8\nಎಡೆಬಿಡದ
@@ -344,13 +331,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 32ನೇ ವಾರದ ಶನಿವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ಭಾನುವಾರ
@@ -376,11 +363,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಸೋ
- ಮವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಸ
  ೋಮವಾರ\nಪ್ರಕಟನೆ 1:1–4\; 2:1–5 · ಕೀರ್
  ತನೆ 1:1–2\, 3\, 4 ಮತ್ತು 6 · ಲೂಕ 18:35–43\nಚ
@@ -393,18 +379,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 33ನೇ ವಾರದ ಸೋಮವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಮಂ
- ಗಳವಾರ · ಹಂಗೇರಿಯ ಸಂತ ಎಲಿಜಬೆತ
- ್\, ಸನ್ಯಾಸಿನಿ
+SUMMARY:ಹಂಗೇರಿಯ ಸಂತ ಎಲಿಜಬೆತ್\, ಸನ
+ ್ಯಾಸಿನಿ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಮ
  ಂಗಳವಾರ · ಹಂಗೇರಿಯ ಸಂತ ಎಲಿಜಬೆ
  ತ್\, ಸನ್ಯಾಸಿನಿ\nಪ್ರಕಟನೆ 3:1–6\, 14
@@ -417,19 +402,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 33ನೇ ವಾರದ ಮಂಗಳವಾರ · ಹಂಗೇರಿ
- ಯ ಸಂತ ಎಲಿಜಬೆತ್\, ಸನ್ಯಾಸಿನಿ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಹಂಗೇರಿಯ ಸಂ
+ ತ ಎಲಿಜಬೆತ್\, ಸನ್ಯಾಸಿನಿ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಬು
- ಧವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಬ
  ುಧವಾರ\nಪ್ರಕಟನೆ 4:1–11 · ಕೀರ್ತನೆ
   150:1ಬಿ–2\, 3–4\, 5–6 · ಲೂಕ 19:11–28\nಸ್ವರ
@@ -443,17 +426,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 33ನೇ ವಾರದ ಬುಧವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಗು
- ರುವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಗ
  ುರುವಾರ\nಪ್ರಕಟನೆ 5:1–10 · ಕೀರ್ತನ
  ೆ 149:1ಬಿ–2\, 3–4\, 5–6ಎ ಮತ್ತು 9ಬಿ · ಲೂ
@@ -465,17 +447,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 33ನೇ ವಾರದ ಗುರುವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಶು
- ಕ್ರವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಶ
  ುಕ್ರವಾರ\nಪ್ರಕಟನೆ 10:8–11 · ಕೀರ್
  ತನೆ 119:14\, 24\, 72\, 103\, 111\, 131 · ಲೂಕ 19:45–48\n
@@ -488,18 +469,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 33ನೇ ವಾರದ ಶುಕ್ರವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಶನ
- ಿವಾರ · ದೇವಾಲಯದಲ್ಲಿ ಧನ್ಯ ಕನ್
- ಯಾಮರಿಯಳ ಸಮರ್ಪಣೆ
+SUMMARY:ದೇವಾಲಯದಲ್ಲಿ ಧನ್ಯ ಕನ್ಯಾಮ
+ ರಿಯಳ ಸಮರ್ಪಣೆ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಶ
  ನಿವಾರ · ದೇವಾಲಯದಲ್ಲಿ ಧನ್ಯ ಕನ
  ್ಯಾಮರಿಯಳ ಸಮರ್ಪಣೆ\nಪ್ರಕಟನೆ 11
@@ -512,16 +492,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 33ನೇ ವಾರದ ಶನಿವಾರ · ದೇವಾಲಯದ
- ಲ್ಲಿ ಧನ್ಯ ಕನ್ಯಾಮರಿಯಳ ಸಮರ್ಪ
- ಣೆ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ದೇವಾಲಯದಲ್
+ ಲಿ ಧನ್ಯ ಕನ್ಯಾಮರಿಯಳ ಸಮರ್ಪಣೆ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:ನಮ್ಮ ಪ್ರಭು ಯೇಸು ಕ್ರಿಸ್ತ
@@ -546,11 +524,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಸೋ
- ಮವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಸ
  ೋಮವಾರ\nಪ್ರಕಟನೆ 14:1–3\, 4ಬಿ–5 · ಕೀ
  ರ್ತನೆ 24:1ಬಿ–2\, 3–4ಎಬಿ\, 5–6 · ಲೂಕ 21:
@@ -563,19 +540,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 34ನೇ ವಾರದ ಸೋಮವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಮಂ
- ಗಳವಾರ · ಸಂತ ಅಂದ್ರೆಯ ಡುಂಗ್-ಲ
- ಾಕ್ ಮತ್ತು ಸಂಗಡಿಗರು\, ಹುತಾತ್
- ಮರು
+SUMMARY:ಸಂತ ಅಂದ್ರೆಯ ಡುಂಗ್-ಲಾಕ್ ಮ
+ ತ್ತು ಸಂಗಡಿಗರು\, ಹುತಾತ್ಮರು
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಮ
  ಂಗಳವಾರ · ಸಂತ ಅಂದ್ರೆಯ ಡುಂಗ್-
  ಲಾಕ್ ಮತ್ತು ಸಂಗಡಿಗರು\, ಹುತಾತ
@@ -589,20 +564,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 34ನೇ ವಾರದ ಮಂಗಳವಾರ · ಸಂತ ಅಂ
- ದ್ರೆಯ ಡುಂಗ್-ಲಾಕ್ ಮತ್ತು ಸಂಗ
- ಡಿಗರು\, ಹುತಾತ್ಮರು
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಂತ ಅಂದ್ರೆ
+ ಯ ಡುಂಗ್-ಲಾಕ್ ಮತ್ತು ಸಂಗಡಿಗರ
+ ು\, ಹುತಾತ್ಮರು
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಬು
- ಧವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಬ
  ುಧವಾರ\nಪ್ರಕಟನೆ 15:1–4 · ಕೀರ್ತನೆ
   98:1\, 2–3ಎಬಿ\, 7–8\, 9 · ಲೂಕ 21:12–19\nಹಿಂಸ
@@ -614,17 +587,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 34ನೇ ವಾರದ ಬುಧವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಗು
- ರುವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಗ
  ುರುವಾರ\nಪ್ರಕಟನೆ 18:1–2\, 21–23\; 19:1–3\
  , 9ಎ · ಕೀರ್ತನೆ 100:1ಬಿ–2\, 3\, 4\, 5 · ಲೂಕ
@@ -638,17 +610,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 34ನೇ ವಾರದ ಗುರುವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಶು
- ಕ್ರವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಶ
  ುಕ್ರವಾರ\nಪ್ರಕಟನೆ 20:1–4\, 11–21:2 · ಕ
  ೀರ್ತನೆ 84:3\, 4\, 5–6ಎ ಮತ್ತು 8ಎ · ಲೂಕ
@@ -661,17 +632,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 34ನೇ ವಾರದ ಶುಕ್ರವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಶನ
- ಿವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಶ
  ನಿವಾರ\nಪ್ರಕಟನೆ 22:1–7 · ಕೀರ್ತನೆ
   95:1–2\, 3–5\, 6–7ಎಬಿ · ಲೂಕ 21:34–36\nಬೈಬಲ
@@ -684,13 +654,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 34ನೇ ವಾರದ ಶನಿವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ಭಾನುವಾರ
@@ -713,7 +683,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:ಪ್ರೇಷಿತ ಸಂತ ಅಂದ್ರೆಯ · ಹಬ
@@ -735,11 +705,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಮಂಗಳ
- ವಾರ
+SUMMARY:ಆಗಮನ ಕಾಲ
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಮಂಗ
  ಳವಾರ\nಯೆಶಾಯ 11:1–10 · ಕೀರ್ತನೆ 72:1–
  2\, 7–8\, 12–13\, 17 · ಲೂಕ 10:21–24\nಕಡಿದ ಬುಡ
@@ -750,18 +719,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಮೊದಲ ವಾರದ ಮಂಗಳವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಬುಧವ
- ಾರ
+SUMMARY:ಆಗಮನ ಕಾಲ
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಬುಧ
  ವಾರ\nಯೆಶಾಯ 25:6–10ಎ · ಕೀರ್ತನೆ 23:1–
  3ಎ\, 3ಬಿ–4\, 5\, 6 · ಮತ್ತಾಯ 15:29–37\nದೇವ
@@ -773,19 +740,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಮೊದಲ ವಾರದ ಬುಧವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಗುರು
- ವಾರ · ಯಾಜಕ ಸಂತ ಫ್ರಾನ್ಸಿಸ್ ಕ
- ್ಸೇವಿಯರ್
+SUMMARY:ಯಾಜಕ ಸಂತ ಫ್ರಾನ್ಸಿಸ್ ಕ್ಸ
+ ೇವಿಯರ್
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಗುರ
  ುವಾರ · ಯಾಜಕ ಸಂತ ಫ್ರಾನ್ಸಿಸ್ 
  ಕ್ಸೇವಿಯರ್\nಯೆಶಾಯ 26:1–6 · ಕೀರ್ತ
@@ -799,19 +764,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಮೊದಲ ವಾರದ ಗುರುವಾರ · ಯಾಜಕ ಸಂ
- ತ ಫ್ರಾನ್ಸಿಸ್ ಕ್ಸೇವಿಯರ್
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಯಾಜಕ ಸಂತ ಫ
+ ್ರಾನ್ಸಿಸ್ ಕ್ಸೇವಿಯರ್
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಶುಕ್
- ರವಾರ
+SUMMARY:ಆಗಮನ ಕಾಲ
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಶುಕ
  ್ರವಾರ\nಯೆಶಾಯ 29:17–24 · ಕೀರ್ತನೆ 27:
  1\, 4\, 13–14 · ಮತ್ತಾಯ 9:27–31\nಕುರುಡರು 
@@ -823,18 +786,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಮೊದಲ ವಾರದ ಶುಕ್ರವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಶನಿವ
- ಾರ
+SUMMARY:ಆಗಮನ ಕಾಲ
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಶನಿ
  ವಾರ\nಯೆಶಾಯ 30:19–21\, 23–26 · ಕೀರ್ತನೆ
   147:1–2\, 3–4\, 5–6 · ಮತ್ತಾಯ 9:35–10:1\, 5ಎ\, 6
@@ -846,14 +807,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಮೊದಲ ವಾರದ ಶನಿವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೇ ಭಾನುವಾರ
@@ -874,12 +834,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಸೋ
- ಮವಾರ · ಧರ್ಮಾಧ್ಯಕ್ಷ ಮತ್ತು ಧರ
- ್ಮಪಂಡಿತ ಸಂತ ಅಂಬ್ರೋಸ್
+SUMMARY:ಧರ್ಮಾಧ್ಯಕ್ಷ ಮತ್ತು ಧರ್ಮಪ
+ ಂಡಿತ ಸಂತ ಅಂಬ್ರೋಸ್
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಸ
  ೋಮವಾರ · ಧರ್ಮಾಧ್ಯಕ್ಷ ಮತ್ತು ಧ
  ರ್ಮಪಂಡಿತ ಸಂತ ಅಂಬ್ರೋಸ್\nಯೆಶ
@@ -892,16 +851,15 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಎರಡನೆಯ ವಾರದ ಸೋಮವಾರ · ಧರ್ಮಾಧ
- ್ಯಕ್ಷ ಮತ್ತು ಧರ್ಮಪಂಡಿತ ಸಂತ 
- ಅಂಬ್ರೋಸ್
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಧರ್ಮಾಧ್ಯಕ
+ ್ಷ ಮತ್ತು ಧರ್ಮಪಂಡಿತ ಸಂತ ಅಂಬ
+ ್ರೋಸ್
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:ಪೂಜ್ಯ ಕನ್ಯಾಮರಿಯಳ ನಿಷ್ಕಳ
@@ -926,11 +884,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಬು
- ಧವಾರ
+SUMMARY:ಆಗಮನ ಕಾಲ
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಬ
  ುಧವಾರ\nಯೆಶಾಯ 40:25–31 · ಕೀರ್ತನೆ 103
  :1–2\, 3–4\, 8\, 10 · ಮತ್ತಾಯ 11:28–30\nದೇವರ
@@ -941,18 +898,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಎರಡನೆಯ ವಾರದ ಬುಧವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಗು
- ರುವಾರ
+SUMMARY:ಆಗಮನ ಕಾಲ
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಗ
  ುರುವಾರ\nಯೆಶಾಯ 41:13–20 · ಕೀರ್ತನೆ 
  145:1\, 9\, 10–11\, 12–13ಎ · ಮತ್ತಾಯ 11:11–15\nದ
@@ -963,18 +918,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಎರಡನೆಯ ವಾರದ ಗುರುವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಶು
- ಕ್ರವಾರ
+SUMMARY:ಆಗಮನ ಕಾಲ
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಶ
  ುಕ್ರವಾರ\nಯೆಶಾಯ 48:17–19 · ಕೀರ್ತನ
  ೆ 1:1–2\, 3\, 4\, 6 · ಮತ್ತಾಯ 11:16–19\nದೇವರ 
@@ -985,18 +938,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಎರಡನೆಯ ವಾರದ ಶುಕ್ರವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಶನ
- ಿವಾರ · ಗ್ವಾದಲೂಪೆಯ ಮಾತೆ
+SUMMARY:ಗ್ವಾದಲೂಪೆಯ ಮಾತೆ
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಶ
  ನಿವಾರ · ಗ್ವಾದಲೂಪೆಯ ಮಾತೆ\nಸಿ
  ರಾಕನ ಗ್ರಂಥ 48:1–4\, 9–11 · ಕೀರ್ತನೆ 
@@ -1008,15 +959,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಎರಡನೆಯ ವಾರದ ಶನಿವಾರ · ಗ್ವಾದಲ
- ೂಪೆಯ ಮಾತೆ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಗ್ವಾದಲೂಪೆ
+ ಯ ಮಾತೆ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ಭಾನುವಾ
@@ -1041,12 +991,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಸೋ
- ಮವಾರ · ಯಾಜಕ ಮತ್ತು ಧರ್ಮಪಂಡಿತ
-  ಶಿಲುಬೆಯ ಸಂತ ಯೊವಾನ್ನ
+SUMMARY:ಯಾಜಕ ಮತ್ತು ಧರ್ಮಪಂಡಿತ ಶಿ
+ ಲುಬೆಯ ಸಂತ ಯೊವಾನ್ನ
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಸ
  ೋಮವಾರ · ಯಾಜಕ ಮತ್ತು ಧರ್ಮಪಂಡಿ
  ತ ಶಿಲುಬೆಯ ಸಂತ ಯೊವಾನ್ನ\nಸಂಖ್
@@ -1060,20 +1009,18 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಮೂರನೆಯ ವಾರದ ಸೋಮವಾರ · ಯಾಜಕ ಮ
- ತ್ತು ಧರ್ಮಪಂಡಿತ ಶಿಲುಬೆಯ ಸಂತ
-  ಯೊವಾನ್ನ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಯಾಜಕ ಮತ್ತು
+  ಧರ್ಮಪಂಡಿತ ಶಿಲುಬೆಯ ಸಂತ ಯೊವ
+ ಾನ್ನ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಮಂ
- ಗಳವಾರ
+SUMMARY:ಆಗಮನ ಕಾಲ
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಮ
  ಂಗಳವಾರ\nಜೆಫನ್ಯ 3:1–2\, 9–13 · ಕೀರ್
  ತನೆ 34:2–3\, 6–7\, 17–18\, 19\, 23 · ಮತ್ತಾಯ 21:
@@ -1084,18 +1031,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಮೂರನೆಯ ವಾರದ ಮಂಗಳವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಬು
- ಧವಾರ
+SUMMARY:ಆಗಮನ ಕಾಲ
 DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಬ
  ುಧವಾರ\nಯೆಶಾಯ 45:6ಬಿ–8\, 18\, 21ಬಿ–25 · 
  ಕೀರ್ತನೆ 85:9ಎಬಿ\, 10\, 11–12\, 13–14 · ಲೂ
@@ -1108,14 +1053,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
- ಮೂರನೆಯ ವಾರದ ಬುಧವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:ಡಿಸೆಂಬರ್ 17 · ಆಗಮನ ಕಾಲದ ವಾ
@@ -1139,7 +1083,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:ಡಿಸೆಂಬರ್ 18 · ಆಗಮನ ಕಾಲದ ವಾ
@@ -1163,7 +1107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:ಡಿಸೆಂಬರ್ 19 · ಆಗಮನ ಕಾಲದ ವಾ
@@ -1188,7 +1132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:ಆಗಮನ ಕಾಲದ ನಾಲ್ಕನೆಯ ಭಾನು
@@ -1212,7 +1156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:ಡಿಸೆಂಬರ್ 21 · ಆಗಮನ ಕಾಲದ ವಾ
@@ -1237,7 +1181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:ಡಿಸೆಂಬರ್ 22 · ಆಗಮನ ಕಾಲದ ವಾ
@@ -1262,7 +1206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:ಡಿಸೆಂಬರ್ 23 · ಆಗಮನ ಕಾಲದ ವಾ
@@ -1286,7 +1230,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:ಡಿಸೆಂಬರ್ 24 · ಆಗಮನ ಕಾಲದ ವಾ
@@ -1312,7 +1256,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:ಪ್ರಭುವಿನ ಜನನ (ಕ್ರಿಸ್ತಜಯ
@@ -1336,7 +1280,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:ಸಂತ ಸ್ತೇಫನ\, ಪ್ರಥಮ ಹುತಾತ್
@@ -1361,7 +1305,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:ಯೇಸು\, ಮರಿಯ ಮತ್ತು ಜೋಸೆಫರ 
@@ -1386,7 +1330,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:ಪವಿತ್ರ ಮುಗ್ಧ ಶಿಶುಗಳು\, ಹು
@@ -1411,7 +1355,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:ಡಿಸೆಂಬರ್ 29 · ಕ್ರಿಸ್ತ ಜಯಂತ
@@ -1436,7 +1380,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:ಡಿಸೆಂಬರ್ 30 · ಕ್ರಿಸ್ತ ಜಯಂತ
@@ -1461,7 +1405,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:ಡಿಸೆಂಬರ್ 31 · ಕ್ರಿಸ್ತ ಜಯಂತ
@@ -1485,7 +1429,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:ದೇವಮಾತೆ ಪೂಜ್ಯ ಮರಿಯ · ಮಹೋ
@@ -1513,7 +1457,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:ಜನವರಿ 2 · ಸಂತ ಮಹಾ ಬೆಸಿಲ್ ಮ
@@ -1544,7 +1488,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:ಪ್ರಭುವಿನ ಪ್ರತ್ಯಕ್ಷತೆ · ಮ
@@ -1568,7 +1512,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:ಜನವರಿ 4 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
@@ -1593,7 +1537,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:ಜನವರಿ 5 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
@@ -1618,7 +1562,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:ಜನವರಿ 6 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
@@ -1643,7 +1587,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:ಜನವರಿ 7 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
@@ -1668,7 +1612,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:ಜನವರಿ 8 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
@@ -1693,7 +1637,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:ಜನವರಿ 9 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
@@ -1717,7 +1661,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:ಪ್ರಭುವಿನ ದೀಕ್ಷಾಸ್ನಾನ · ಹ
@@ -1742,11 +1686,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಸೋಮ
- ವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಸ
  ೋಮವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 1:1–6 · ಕೀರ
  ್ತನೆ 97:1 ಮತ್ತು 2ಬಿ\, 6 ಮತ್ತು 7ಸಿ\, 
@@ -1760,17 +1703,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 1ನೇ ವಾರದ ಸೋಮವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಮಂಗ
- ಳವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಮ
  ಂಗಳವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 2:5–12 · ಕೀ
  ರ್ತನೆ 8:1\, 4\, 5–6\, 7–8 · ಮಾರ್ಕ 1:21–28\n
@@ -1783,17 +1725,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 1ನೇ ವಾರದ ಮಂಗಳವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಬುಧ
- ವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಬ
  ುಧವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 2:14–18 · ಕೀ
  ರ್ತನೆ 105:1–2\, 3–4\, 6–7\, 8–9 · ಮಾರ್ಕ 1:2
@@ -1807,17 +1748,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 1ನೇ ವಾರದ ಬುಧವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಗುರ
- ುವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಗ
  ುರುವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 3:7–14 · ಕೀ
  ರ್ತನೆ 95:6–7ಸಿ\, 8–9\, 10–11 · ಮಾರ್ಕ 1:40
@@ -1830,17 +1770,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 1ನೇ ವಾರದ ಗುರುವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಶುಕ
- ್ರವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಶ
  ುಕ್ರವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 4:1–5\, 11 ·
   ಕೀರ್ತನೆ 78:3 ಮತ್ತು 4ಬಿಸಿ\, 6ಸಿ–7\
@@ -1854,17 +1793,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 1ನೇ ವಾರದ ಶುಕ್ರವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಶನಿ
- ವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಶ
  ನಿವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 4:12–16 · ಕೀ
  ರ್ತನೆ 19:7\, 8\, 9\, 14 · ಮಾರ್ಕ 2:13–17\nದೇ
@@ -1877,13 +1815,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 1ನೇ ವಾರದ ಶನಿವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ಭಾನುವಾರ
@@ -1906,11 +1844,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಸೋಮ
- ವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಸ
  ೋಮವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 5:1–10 · ಕೀರ
  ್ತನೆ 110:1\, 2\, 3\, 4 · ಮಾರ್ಕ 2:18–22\nಪ್ರ
@@ -1923,17 +1860,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 2ನೇ ವಾರದ ಸೋಮವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಮಂಗ
- ಳವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಮ
  ಂಗಳವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 6:10–20 · ಕ
  ೀರ್ತನೆ 111:1–2\, 4–5\, 9 ಮತ್ತು 10ಸಿ · ಮ
@@ -1946,18 +1882,17 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 2ನೇ ವಾರದ ಮಂಗಳವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಬುಧ
- ವಾರ · ಸಂತ ಫೇಬಿಯನ್ ಮತ್ತು ಸಂತ 
- ಸೆಬಾಸ್ಟಿಯನ್
+SUMMARY:ಸಂತ ಫೇಬಿಯನ್ ಮತ್ತು ಸಂತ ಸೆ
+ ಬಾಸ್ಟಿಯನ್
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಬ
  ುಧವಾರ · ಸಂತ ಫೇಬಿಯನ್ ಮತ್ತು ಸ
  ಂತ ಸೆಬಾಸ್ಟಿಯನ್\nಹಿಬ್ರಿಯರಿಗ
@@ -1970,15 +1905,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 2ನೇ ವಾರದ ಬುಧವಾರ · ಸಂತ ಫೇಬಿ
- ಯನ್ ಮತ್ತು ಸಂತ ಸೆಬಾಸ್ಟಿಯನ್
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಂತ ಫೇಬಿಯನ
+ ್ ಮತ್ತು ಸಂತ ಸೆಬಾಸ್ಟಿಯನ್
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:ಕನ್ಯೆ ಮತ್ತು ಹುತಾತ್ಮರಾದ 
@@ -2001,11 +1935,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಶುಕ
- ್ರವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಶ
  ುಕ್ರವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 8:6–13 · ಕ
  ೀರ್ತನೆ 85:7 ಮತ್ತು 9\, 10–11\, 12–13 · ಮಾ
@@ -2019,17 +1952,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 2ನೇ ವಾರದ ಶುಕ್ರವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಶನಿ
- ವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಶ
  ನಿವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 9:2–3\, 11–14 · 
  ಕೀರ್ತನೆ 47:1–2\, 5–6\, 7–8 · ಮಾರ್ಕ 3:20
@@ -2043,13 +1975,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 2ನೇ ವಾರದ ಶನಿವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ಭಾನುವಾರ 
@@ -2073,7 +2005,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:ಪ್ರೇಷಿತ ಸಂತ ಪೌಲರ ಮನಃಪರಿ
@@ -2098,7 +2030,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:ಧರ್ಮಾಧ್ಯಕ್ಷರಾದ ಸಂತ ತಿಮೊ
@@ -2124,11 +2056,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಬುಧ
- ವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಬ
  ುಧವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 10:11–18 · ಕೀ
  ರ್ತನೆ 110:1\, 2\, 3\, 4 · ಮಾರ್ಕ 4:1–20\nಕ್ರ
@@ -2141,13 +2072,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 3ನೇ ವಾರದ ಬುಧವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:ಗುರುಗಳೂ ಧರ್ಮಸಭೆಯ ಪಂಡಿತರ
@@ -2172,11 +2103,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಶುಕ
- ್ರವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಶ
  ುಕ್ರವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 10:32–39 · 
  ಕೀರ್ತನೆ 37:3–4\, 5–6\, 23–24\, 39–40 · ಮಾರ
@@ -2189,17 +2119,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 3ನೇ ವಾರದ ಶುಕ್ರವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಶನಿ
- ವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಶ
  ನಿವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 11:1–2\, 8–19 · 
  ಲೂಕ 1:69–70\, 71–72\, 73–75 · ಮಾರ್ಕ 4:35–41\n
@@ -2212,13 +2141,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 3ನೇ ವಾರದ ಶನಿವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ಭಾನುವಾರ
@@ -2241,11 +2170,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಸೋಮ
- ವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಸ
  ೋಮವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 11:32–40 · ಕೀ
  ರ್ತನೆ 31:19\, 20\, 21\, 22\, 23 · ಮಾರ್ಕ 5:1–20\n
@@ -2257,13 +2185,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 4ನೇ ವಾರದ ಸೋಮವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:ಪ್ರಭುವನ್ನು ದೇವಾಲಯದಲ್ಲಿ 
@@ -2288,12 +2216,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಬುಧ
- ವಾರ · ಸಂತ ಬ್ಲೇಸ್ ಮತ್ತು ಸಂತ ಆ
- ನ್ಸ್‌ಗಾರ್
+SUMMARY:ಸಂತ ಬ್ಲೇಸ್ ಮತ್ತು ಸಂತ ಆನ್
+ ಸ್‌ಗಾರ್
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಬ
  ುಧವಾರ · ಸಂತ ಬ್ಲೇಸ್ ಮತ್ತು ಸಂ
  ತ ಆನ್ಸ್‌ಗಾರ್\nಹಿಬ್ರಿಯರಿಗೆ 12
@@ -2307,19 +2234,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 4ನೇ ವಾರದ ಬುಧವಾರ · ಸಂತ ಬ್ಲೇ
- ಸ್ ಮತ್ತು ಸಂತ ಆನ್ಸ್‌ಗಾರ್
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಂತ ಬ್ಲೇಸ್
+  ಮತ್ತು ಸಂತ ಆನ್ಸ್‌ಗಾರ್
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಗುರ
- ುವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಗ
  ುರುವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 12:18–19\, 21–
  24 · ಕೀರ್ತನೆ 48:1–2ಎ\, 2ಬಿ–3\, 8\, 9–10 · 
@@ -2333,13 +2258,13 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 4ನೇ ವಾರದ ಗುರುವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:ಕನ್ಯೆ ಮತ್ತು ಹುತಾತ್ಮರಾದ 
@@ -2362,7 +2287,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:ಹುತಾತ್ಮರಾದ ಸಂತ ಪೌಲ್ ಮಿಕ
@@ -2387,7 +2312,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 5ನೇ ಭಾನುವಾರ
@@ -2409,11 +2334,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 5ನೇ ವಾರದ ಸೋಮ
- ವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 5ನೇ ವಾರದ ಸ
  ೋಮವಾರ\nಆದಿಕಾಂಡ 1:1–19 · ಕೀರ್ತನೆ
   104:1–2ಎ\, 5–6\, 10\, 12\, 24\, 35ಸಿ · ಮಾರ್ಕ 6:53
@@ -2426,17 +2350,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 5ನೇ ವಾರದ ಸೋಮವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 5ನೇ ವಾರದ ಮಂಗ
- ಳವಾರ
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲ
 DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 5ನೇ ವಾರದ ಮ
  ಂಗಳವಾರ\nಆದಿಕಾಂಡ 1:20–2:4ಎ · ಕೀರ್
  ತನೆ 8:3–4\, 5–6\, 7–8 · ಮಾರ್ಕ 7:1–13\nದೇವ
@@ -2449,16 +2372,16 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
- ಲದ 5ನೇ ವಾರದ ಮಂಗಳವಾರ
+ ಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:ವಿಭೂತಿ ಬುಧವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ವಿಭೂತಿ ಬುಧವಾರ\nಯೋವೇಲ 2:12
  –18 · ಕೀರ್ತನೆ 51:1–2\, 3–4ಎ\, 10–11\, 12\, 15 
  · 2 ಕೊರಿಂಥಿಯರಿಗೆ 5:20–6:2 · ಮತ್ತಾ
@@ -2472,18 +2395,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ವಿಭೂತಿ ಬುಧ
- ವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಗು
- ರುವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಗ
  ುರುವಾರ\nಧರ್ಮೋಪದೇಶಕಾಂಡ 30:15–20 
  · ಕೀರ್ತನೆ 1:1–2\, 3\, 4\, 6 · ಲೂಕ 9:22–25\nದ
@@ -2496,18 +2417,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ವಿಭೂತಿ ಬುಧ
- ವಾರದ ನಂತರದ ಗುರುವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಶು
- ಕ್ರವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಶ
  ುಕ್ರವಾರ\nಯೆಶಾಯ 58:1–9ಎ · ಕೀರ್ತನ
  ೆ 51:1–2\, 3–4ಎ\, 16–17 · ಮತ್ತಾಯ 9:14–15\nಬ
@@ -2520,18 +2439,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ವಿಭೂತಿ ಬುಧ
- ವಾರದ ನಂತರದ ಶುಕ್ರವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಶನ
- ಿವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಶ
  ನಿವಾರ\nಯೆಶಾಯ 58:9ಬಿ–14 · ಕೀರ್ತನ
  ೆ 86:1–2\, 3–4\, 5–6 · ಲೂಕ 5:27–32\nಬೆರಳು ತ
@@ -2543,14 +2460,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ವಿಭೂತಿ ಬುಧ
- ವಾರದ ನಂತರದ ಶನಿವಾರ
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ಭಾನ
@@ -2575,11 +2491,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
- ದ ಸೋಮವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
  ರದ ಸೋಮವಾರ\nಯಾಜಕಕಾಂಡ 19:1–2\, 11–18 
  · ಕೀರ್ತನೆ 19:7\, 8\, 9\, 14 · ಮತ್ತಾಯ 25:31
@@ -2595,17 +2510,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೊದಲನೆಯ ವಾರದ ಸೋಮವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
- ದ ಮಂಗಳವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
  ರದ ಮಂಗಳವಾರ\nಯೆಶಾಯ 55:10–11 · ಕೀರ್
  ತನೆ 34:3–4\, 5–6\, 15–16\, 17–18 · ಮತ್ತಾಯ 6:7
@@ -2618,17 +2531,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೊದಲನೆಯ ವಾರದ ಮಂಗಳವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
- ದ ಬುಧವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
  ರದ ಬುಧವಾರ\nಯೋನ 3:1–10 · ಕೀರ್ತನೆ 5
  1:1–2\, 10–11\, 16–17 · ಲೂಕ 11:29–32\nದೇವರು ಯ
@@ -2641,17 +2552,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೊದಲನೆಯ ವಾರದ ಬುಧವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
- ದ ಗುರುವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
  ರದ ಗುರುವಾರ\nಎಸ್ತೇರ್ C:12\, 14–16\, 23
  –25 (ಗ್ರೀಕ್ ಸೇರ್ಪಡೆಗಳು\; ಅನೇಕ 
@@ -2668,17 +2577,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೊದಲನೆಯ ವಾರದ ಗುರುವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
- ದ ಶುಕ್ರವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
  ರದ ಶುಕ್ರವಾರ\nಯೆಹೆಜ್ಕೇಲ 18:21–28 
  · ಕೀರ್ತನೆ 130:1–2\, 3–4\, 5–6\, 7–8 · ಮತ್
@@ -2692,17 +2599,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೊದಲನೆಯ ವಾರದ ಶುಕ್ರವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
- ದ ಶನಿವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
  ರದ ಶನಿವಾರ\nಧರ್ಮೋಪದೇಶಕಾಂಡ 26:16
  –19 · ಕೀರ್ತನೆ 119:1–2\, 4–5\, 7–8 · ಮತ್ತ
@@ -2716,13 +2621,12 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೊದಲನೆಯ ವಾರದ ಶನಿವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ಭಾನು
@@ -2748,7 +2652,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
 SUMMARY:ಸಂತ ಪೇತ್ರರ ಪೀಠ\, ಪ್ರೇಷಿತರ
@@ -2771,11 +2675,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರದ 
- ಮಂಗಳವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರ
  ದ ಮಂಗಳವಾರ\nಯೆಶಾಯ 1:10\, 16–20 · ಕೀರ
  ್ತನೆ 50:8–9\, 16–17\, 21\, 23 · ಮತ್ತಾಯ 23:1–1
@@ -2789,17 +2692,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಎರಡನೆಯ ವಾರದ ಮಂಗಳವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರದ 
- ಬುಧವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರ
  ದ ಬುಧವಾರ\nಯೆರೆಮೀಯ 18:18–20 · ಕೀರ್
  ತನೆ 31:4–5\, 13\, 14–15 · ಮತ್ತಾಯ 20:17–28\nಯ
@@ -2813,17 +2714,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಎರಡನೆಯ ವಾರದ ಬುಧವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರದ 
- ಗುರುವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರ
  ದ ಗುರುವಾರ\nಯೆರೆಮೀಯ 17:5–10 · ಕೀರ
  ್ತನೆ 1:1–2\, 3\, 4\, 6 · ಲೂಕ 16:19–31\nಪ್ರಭ
@@ -2836,17 +2735,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಎರಡನೆಯ ವಾರದ ಗುರುವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರದ 
- ಶುಕ್ರವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರ
  ದ ಶುಕ್ರವಾರ\nಆದಿಕಾಂಡ 37:3–4\, 12–13a\
  , 17b–28 · ಕೀರ್ತನೆ 105:16–17\, 18–19\, 20–21 · 
@@ -2861,17 +2758,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಎರಡನೆಯ ವಾರದ ಶುಕ್ರವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರದ 
- ಶನಿವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರ
  ದ ಶನಿವಾರ\nಮೀಕ 7:14–15\, 18–20 · ಕೀರ್ತ
  ನೆ 103:1–2\, 3–4\, 9–10\, 11–12 · ಲೂಕ 15:1–3\, 11
@@ -2885,13 +2780,12 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಎರಡನೆಯ ವಾರದ ಶನಿವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ಭಾನು
@@ -2916,11 +2810,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-01-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
- ಸೋಮವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
  ದ ಸೋಮವಾರ\n2 ಅರಸುಗಳು 5:1–15ab · ಕೀರ
  ್ತನೆ 42:1–2\; 43:3–4 · ಲೂಕ 4:24–30\nಗರ್ವಿ
@@ -2934,17 +2827,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೂರನೆಯ ವಾರದ ಸೋಮವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
- ಮಂಗಳವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
  ದ ಮಂಗಳವಾರ\nದಾನಿಯೇಲ 3:25\, 34–43 · ಕ
  ೀರ್ತನೆ 25:4–5ab\, 6\, 7bc\, 8–9 · ಮತ್ತಾಯ 18
@@ -2958,17 +2849,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೂರನೆಯ ವಾರದ ಮಂಗಳವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
- ಬುಧವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
  ದ ಬುಧವಾರ\nಧರ್ಮೋಪದೇಶಕಾಂಡ 4:1\, 5
  –9 · ಕೀರ್ತನೆ 147:12–13\, 15–16\, 19–20 · ಮತ
@@ -2983,17 +2872,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೂರನೆಯ ವಾರದ ಬುಧವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
- ಗುರುವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
  ದ ಗುರುವಾರ\nಯೆರೆಮೀಯ 7:23–28 · ಕೀರ
  ್ತನೆ 95:1–2\, 6–7\, 8–9 · ಲೂಕ 11:14–23\nದೇವ
@@ -3006,17 +2893,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೂರನೆಯ ವಾರದ ಗುರುವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
- ಶುಕ್ರವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
  ದ ಶುಕ್ರವಾರ\nಹೊಶೇಯ 14:1–9 · ಕೀರ್
  ತನೆ 81:5c–7a\, 7bc–8\, 9–10ab\, 13\, 16 · ಮಾರ್ಕ 1
@@ -3031,17 +2916,15 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೂರನೆಯ ವಾರದ ಶುಕ್ರವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
- ಶನಿವಾರ
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
  ದ ಶನಿವಾರ\nಹೊಶೇಯ 6:1–6 · ಕೀರ್ತನೆ
   51:1–2\, 16–17\, 18–19 · ಲೂಕ 18:9–14\nನಮ್ಮ ಪ
@@ -3057,13 +2940,12 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
- ದ ಮೂರನೆಯ ವಾರದ ಶನಿವಾರ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:ತಪಸ್ಸು ಕಾಲದ ನಾಲ್ಕನೆಯ ಭಾ
@@ -3088,10 +2970,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:Monday of the Fourth Week of Lent
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:Monday of the Fourth Week of Lent\nIsaiah 65:17–21 · Psalm
   30:1\, 3\, 4–5\, 10–12 · John 4:43–54\nGod promises new heavens 
  and a new earth\, a world without weeping.\n\nಓದಿ\, ಪ್ರಾ
@@ -3101,17 +2983,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Monday of the Fourth Week of
-  Lent
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:Tuesday of the Fourth Week of Lent
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:Tuesday of the Fourth Week of Lent\nEzekiel 47:1–9\, 12 · 
  Psalm 46:1–2\, 4–5\, 7–8 · John 5:1–16\nEzekiel sees a river fl
  owing from the Temple that brings life wherever it goes.\n\nಓದಿ\, 
@@ -3121,17 +3002,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Tuesday of the Fourth Week o
- f Lent
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-10-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:Wednesday of the Fourth Week of Lent
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:Wednesday of the Fourth Week of Lent\nIsaiah 49:8–15 · Psa
  lm 145:8–9\, 13c–14\, 17–18 · John 5:17–30\nGod says: even if a
   mother forgets her child\, I will not forget you.\n\nಓದಿ\, ಪ್
@@ -3141,17 +3021,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Wednesday of the Fourth Week
-  of Lent
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:Thursday of the Fourth Week of Lent
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:Thursday of the Fourth Week of Lent\nExodus 32:7–14 · Psal
  m 106:19–20\, 21–22\, 23 · John 5:31–47\nIsrael made a golden cal
  f\; Moses interceded and God spared them.\n\nಓದಿ\, ಪ್ರಾರ
@@ -3161,17 +3040,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Thursday of the Fourth Week 
- of Lent
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-SUMMARY:Friday of the Fourth Week of Lent
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:Friday of the Fourth Week of Lent\nWisdom 2:1a\, 12–22 · P
  salm 34:16–20\, 22 · John 7:1–2\, 10\, 25–30\nThe Book of Wisdom 
  foretells the plot against the righteous man who calls God his Father.\n
@@ -3181,17 +3059,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Friday of the Fourth Week of
-  Lent
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-SUMMARY:Saturday of the Fourth Week of Lent
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:Saturday of the Fourth Week of Lent\nJeremiah 11:18–20 · P
  salm 7:1–2\, 8b–11 · John 7:40–53\nJeremiah\, plotted against\, i
  s like a gentle lamb led to the slaughter\, a figure of Christ.\n\nಓ
@@ -3201,14 +3078,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Saturday of the Fourth Week 
- of Lent
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Fifth Sunday of Lent
@@ -3227,10 +3103,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-SUMMARY:Monday of the Fifth Week of Lent
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:Monday of the Fifth Week of Lent\nDaniel 13:1–9\, 15–17\,
   19–30\, 33–62 (or 13:41c–62) · Psalm 23:1–3a\, 3b–4\, 5\, 6 
  · John 8:1–11\nSusanna chose to fall into the hands of the wicked rat
@@ -3240,17 +3116,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Monday of the Fifth Week of 
- Lent
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:Tuesday of the Fifth Week of Lent
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:Tuesday of the Fifth Week of Lent\nNumbers 21:4–9 · Psalm 
  102:1–2\, 15–17\, 18–20 · John 8:21–30\nIsrael grew impatient a
  nd complained against God and the manna.\n\nಓದಿ\, ಪ್ರಾರ
@@ -3260,17 +3135,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Tuesday of the Fifth Week of
-  Lent
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:Wednesday of the Fifth Week of Lent
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:Wednesday of the Fifth Week of Lent\nDaniel 3:14–20\, 91–
  92\, 95 · Daniel 3:52\, 53\, 54\, 55\, 56 · John 8:31–42\nThree youn
  g men refused to worship the golden statue\, even if God did not rescue 
@@ -3280,17 +3154,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Wednesday of the Fifth Week 
- of Lent
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:Thursday of the Fifth Week of Lent
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:Thursday of the Fifth Week of Lent\nGenesis 17:3–9 · Psalm
   105:4–5\, 6–7\, 8–9 · John 8:51–59\nGod made an everlasting co
  venant with Abraham and gave him a new name.\n\nಓದಿ\, ಪ್ರಾ
@@ -3300,14 +3173,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Thursday of the Fifth Week o
- f Lent
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:St Joseph\, Spouse of the Blessed Virgin Mary
@@ -3329,10 +3201,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:Saturday of the Fifth Week of Lent
+SUMMARY:ತಪಸ್ಸು ಕಾಲ
 DESCRIPTION:Saturday of the Fifth Week of Lent\nEzekiel 37:21–28 · Jer
  emiah 31:10\, 11–12ab\, 13 · John 11:45–56\nEzekiel promises that G
  od will make his scattered people one nation with one shepherd.\n\nಓ
@@ -3342,14 +3214,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Saturday of the Fifth Week o
- f Lent
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Palm Sunday of the Passion of the Lord
@@ -3370,10 +3241,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-SUMMARY:Monday of Holy Week
+SUMMARY:ಪವಿತ್ರ ವಾರ ಮತ್ತು ಪಾಸ್ಕ ತ
+ ್ರಿದಿನಗಳು
 DESCRIPTION:Monday of Holy Week\nIsaiah 42:1–7 · Psalm 27:1\, 2\, 3\, 
  13–14 · John 12:1–11\nThe Servant of the Lord is gentle: he does no
  t break the bruised reed.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ:
@@ -3382,16 +3254,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Monday of Holy Week
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪವಿತ್ರ ವಾರ
+  ಮತ್ತು ಪಾಸ್ಕ ತ್ರಿದಿನಗಳು
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-23-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:Tuesday of Holy Week
+SUMMARY:ಪವಿತ್ರ ವಾರ ಮತ್ತು ಪಾಸ್ಕ ತ
+ ್ರಿದಿನಗಳು
 DESCRIPTION:Tuesday of Holy Week\nIsaiah 49:1–6 · Psalm 71:1–2\, 3
  –4a\, 5–6ab\, 15 and 17 · John 13:21–33\, 36–38\nThe Servant is
   called from the womb and made a light to the nations.\n\nಓದಿ\, 
@@ -3401,16 +3275,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Tuesday of Holy Week
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪವಿತ್ರ ವಾರ
+  ಮತ್ತು ಪಾಸ್ಕ ತ್ರಿದಿನಗಳು
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:Wednesday of Holy Week
+SUMMARY:ಪವಿತ್ರ ವಾರ ಮತ್ತು ಪಾಸ್ಕ ತ
+ ್ರಿದಿನಗಳು
 DESCRIPTION:Wednesday of Holy Week\nIsaiah 50:4–9a · Psalm 69:7–9\, 
  20–21\, 30 and 32–33 · Matthew 26:14–25\nThe Servant listens to G
  od every morning and does not turn back from suffering.\n\nಓದಿ\, 
@@ -3420,16 +3296,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Wednesday of Holy Week
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪವಿತ್ರ ವಾರ
+  ಮತ್ತು ಪಾಸ್ಕ ತ್ರಿದಿನಗಳು
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-SUMMARY:Holy Thursday: Evening Mass of the Lord's Supper
+SUMMARY:ಪವಿತ್ರ ವಾರ ಮತ್ತು ಪಾಸ್ಕ ತ
+ ್ರಿದಿನಗಳು
 DESCRIPTION:Holy Thursday: Evening Mass of the Lord's Supper\nExodus 12:1
  –8\, 11–14 · Psalm 116:12–13\, 15–16bc\, 17–18 · 1 Corinthia
  ns 11:23–26 · John 13:1–15\nJesus\, our Passover Lamb\, gives his B
@@ -3440,17 +3318,18 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Holy Thursday: Evening Mass 
- of the Lord's Supper
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪವಿತ್ರ ವಾರ
+  ಮತ್ತು ಪಾಸ್ಕ ತ್ರಿದಿನಗಳು
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-SUMMARY:Friday of the Passion of the Lord (Good Friday)
+SUMMARY:ಪವಿತ್ರ ವಾರ ಮತ್ತು ಪಾಸ್ಕ ತ
+ ್ರಿದಿನಗಳು
 DESCRIPTION:Friday of the Passion of the Lord (Good Friday)\nIsaiah 52:13
  –53:12 · Psalm 31:1\, 5\, 11–12\, 14–15\, 16\, 24 · Hebrews 4:14
  –16\; 5:7–9 · John 18:1–19:42\nThe Suffering Servant was wounded 
@@ -3461,17 +3340,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Friday of the Passion of the
-  Lord (Good Friday)
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪವಿತ್ರ ವಾರ
+  ಮತ್ತು ಪಾಸ್ಕ ತ್ರಿದಿನಗಳು
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-SUMMARY:Holy Saturday · The Easter Vigil in the Holy Night
+SUMMARY:The Easter Vigil in the Holy Night
 DESCRIPTION:Holy Saturday · The Easter Vigil in the Holy Night\nGenesis 
  1:1–2:2 (or 1:1\, 26–31a)\; Psalm 104 (or Psalm 33) · Genesis 22:1
  –18 (or 22:1–2\, 9a\, 10–13\, 15–18)\; Psalm 16 · Exodus 14:15
@@ -3487,14 +3366,14 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Holy Saturday · The Easter 
- Vigil in the Holy Night
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: The Easter Vigil in the Holy
+  Night
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Easter Sunday of the Resurrection of the Lord
@@ -3515,10 +3394,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:Monday within the Octave of Easter
+SUMMARY:ಪಾಸ್ಕ ಕಾಲ
 DESCRIPTION:Monday within the Octave of Easter\nActs 2:14\, 22–33 · Ps
  alm 16:1–2a\, 5\, 7–8\, 9–10\, 11 · Matthew 28:8–15\nPeter: God
   raised Jesus up\; death could not hold him\; we are all witnesses.\n\n
@@ -3528,17 +3407,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Monday within the Octave of 
- Easter
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪಾಸ್ಕ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:Tuesday within the Octave of Easter
+SUMMARY:ಪಾಸ್ಕ ಕಾಲ
 DESCRIPTION:Tuesday within the Octave of Easter\nActs 2:36–41 · Psalm 
  33:4–5\, 18–19\, 20 and 22 · John 20:11–18\nCut to the heart\, th
  e crowd asked: What should we do? Peter: repent and be baptized.\n\nಓ
@@ -3548,17 +3426,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Tuesday within the Octave of
-  Easter
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪಾಸ್ಕ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-lat-kn@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-SUMMARY:Wednesday within the Octave of Easter
+SUMMARY:ಪಾಸ್ಕ ಕಾಲ
 DESCRIPTION:Wednesday within the Octave of Easter\nActs 3:1–10 · Psalm
   105:1–2\, 3–4\, 6–7\, 8–9 · Luke 24:13–35\nPeter healed the 
  lame man: what I have I give you\; in the name of Jesus\, walk.\n\nಓ
@@ -3568,8 +3445,7 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=lat&l=kn
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Wednesday within the Octave 
- of Easter
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪಾಸ್ಕ ಕಾಲ
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT

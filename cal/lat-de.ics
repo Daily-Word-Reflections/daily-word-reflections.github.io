@@ -5,11 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Das Wort des Tages · Latin
 X-WR-TIMEZONE:Asia/Kolkata
+X-APPLE-CALENDAR-COLOR:#2D6A4E
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:2026-11-01-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Allerheiligen · Hochfest
@@ -28,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Allerseelen · Gedächtnis aller verstorbenen Gläubigen
@@ -47,10 +48,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:Dienstag der 31. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Dienstag der 31. Woche im Jahreskreis\nPhilipper 2\,5–11 ·
   Psalm 22\,26b–27.28–30ab.30e–32 · Lukas 14\,15–24\nChristus en
  täußerte sich\; Gott hat ihn erhöht.\n\nLesen und beten: https://dail
@@ -59,17 +60,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 31. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:Mittwoch der 31. Woche im Jahreskreis · Hl. Karl Borromäus\, Bi
- schof
+SUMMARY:Hl. Karl Borromäus\, Bischof
 DESCRIPTION:Mittwoch der 31. Woche im Jahreskreis · Hl. Karl Borromäus\
  , Bischof\nPhilipper 2\,12–18 · Psalm 27\,1.4.13–14 · Lukas 14\,25
  –33\nJüngerschaft kostet alles und schenkt alles.\n\nLesen und beten:
@@ -78,17 +78,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 31. Woche im Jahreskreis 
- · Hl. Karl Borromäus\, Bischof
+DESCRIPTION:Das Wort für morgen: Hl. Karl Borromäus\, Bischof
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Donnerstag der 31. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Donnerstag der 31. Woche im Jahreskreis\nPhilipper 3\,3–8a 
  · Psalm 105\,2–3.4–5.6–7 · Lukas 15\,1–10\nGott sucht die Verl
  orenen\, bis er sie findet.\n\nLesen und beten: https://daily-word-refle
@@ -97,16 +96,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 31. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Freitag der 31. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Freitag der 31. Woche im Jahreskreis\nPhilipper 3\,17–4\,1 
  · Psalm 122\,1–2.3–4b.4cd–5 · Lukas 16\,1–8\nWir sind Verwalte
  r\, die Rechenschaft geben werden.\n\nLesen und beten: https://daily-wor
@@ -115,16 +114,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 31. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:Samstag der 31. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Samstag der 31. Woche im Jahreskreis\nPhilipper 4\,10–19 ·
   Psalm 112\,1b–2.5–6.8a.9 · Lukas 16\,9–15\nTreue im Kleinen offe
  nbart das Herz.\n\nLesen und beten: https://daily-word-reflections.githu
@@ -133,13 +132,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 31. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:32. Sonntag im Jahreskreis
@@ -158,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Weihetag der Lateranbasilika · Fest
@@ -177,11 +176,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:Dienstag der 32. Woche im Jahreskreis · Hl. Leo der Große\, Pap
- st und Kirchenlehrer
+SUMMARY:Hl. Leo der Große\, Papst und Kirchenlehrer
 DESCRIPTION:Dienstag der 32. Woche im Jahreskreis · Hl. Leo der Große\,
   Papst und Kirchenlehrer\nTitus 2\,1–8.11–14 · Psalm 37\,3–4.18 u
  . 23.27 u. 29 · Lukas 17\,7–10\nWir können Gott nicht zu unserem Sch
@@ -191,18 +189,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 32. Woche im Jahreskreis 
- · Hl. Leo der Große\, Papst und Kirchenlehrer
+DESCRIPTION:Das Wort für morgen: Hl. Leo der Große\, Papst und Kirchenl
+ ehrer
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:Mittwoch der 32. Woche im Jahreskreis · Hl. Martin von Tours\, B
- ischof
+SUMMARY:Hl. Martin von Tours\, Bischof
 DESCRIPTION:Mittwoch der 32. Woche im Jahreskreis · Hl. Martin von Tours
  \, Bischof\nTitus 3\,1–7 · Psalm 23\,1b–3a.3bc–4.5.6 · Lukas 17\
  ,11–19\nZehn wurden geheilt\; einer kehrte um und wurde gerettet.\n\nL
@@ -212,18 +209,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 32. Woche im Jahreskreis 
- · Hl. Martin von Tours\, Bischof
+DESCRIPTION:Das Wort für morgen: Hl. Martin von Tours\, Bischof
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Donnerstag der 32. Woche im Jahreskreis · Hl. Josaphat\, Bischof
-  und Märtyrer
+SUMMARY:Hl. Josaphat\, Bischof und Märtyrer
 DESCRIPTION:Donnerstag der 32. Woche im Jahreskreis · Hl. Josaphat\, Bis
  chof und Märtyrer\nPhilemon 7–20 · Psalm 146\,7.8–9a.9bc–10 · L
  ukas 17\,20–25\nDas Reich ist in Christus schon mitten unter uns.\n\nL
@@ -233,17 +228,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 32. Woche im Jahreskreis
-  · Hl. Josaphat\, Bischof und Märtyrer
+DESCRIPTION:Das Wort für morgen: Hl. Josaphat\, Bischof und Märtyrer
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:Freitag der 32. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Freitag der 32. Woche im Jahreskreis\n2 Johannes 4–9 · Psa
  lm 119\,1.2.10.11.17.18 · Lukas 17\,26–37\nDas gewöhnliche Leben ohn
  e Gott ist die eigentliche Gefahr.\n\nLesen und beten: https://daily-wor
@@ -252,16 +246,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 32. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Samstag der 32. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Samstag der 32. Woche im Jahreskreis\n3 Johannes 5–8 · Psa
  lm 112\,1–2.3–4.5–6 · Lukas 18\,1–8\nAllzeit beten und darin ni
  cht nachlassen.\n\nLesen und beten: https://daily-word-reflections.githu
@@ -270,13 +264,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 32. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:33. Sonntag im Jahreskreis · Welttag der Armen
@@ -296,10 +290,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:Montag der 33. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Montag der 33. Woche im Jahreskreis\nOffenbarung 1\,1–4\; 2
  \,1–5 · Psalm 1\,1–2.3.4 u. 6 · Lukas 18\,35–43\nEine geschäfti
  ge Gemeinde kann ihre erste Liebe verlieren.\n\nLesen und beten: https:/
@@ -308,17 +302,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Montag der 33. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Dienstag der 33. Woche im Jahreskreis · Hl. Elisabeth von Thüri
- ngen
+SUMMARY:Hl. Elisabeth von Thüringen
 DESCRIPTION:Dienstag der 33. Woche im Jahreskreis · Hl. Elisabeth von Th
  üringen\nOffenbarung 3\,1–6.14–22 · Psalm 15\,2–3a.3bc–4ab.5 
  · Lukas 19\,1–10\nChristus klopft\; er bricht die Tür nicht auf.\n\n
@@ -328,17 +321,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 33. Woche im Jahreskreis 
- · Hl. Elisabeth von Thüringen
+DESCRIPTION:Das Wort für morgen: Hl. Elisabeth von Thüringen
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:Mittwoch der 33. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Mittwoch der 33. Woche im Jahreskreis\nOffenbarung 4\,1–11 
  · Psalm 150\,1b–2.3–4.5–6 · Lukas 19\,11–28\nDer Gottesdienst 
  des Himmels hört nie auf\; jede Messe stimmt in ihn ein.\n\nLesen und b
@@ -347,16 +339,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 33. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Donnerstag der 33. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Donnerstag der 33. Woche im Jahreskreis\nOffenbarung 5\,1–1
  0 · Psalm 149\,1b–2.3–4.5–6a u. 9b · Lukas 19\,41–44\nDer Löw
  e aus Juda ist ein geschlachtetes Lamm.\n\nLesen und beten: https://dail
@@ -365,16 +357,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 33. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Freitag der 33. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Freitag der 33. Woche im Jahreskreis\nOffenbarung 10\,8–11 
  · Psalm 119\,14.24.72.103.111.131 · Lukas 19\,45–48\nGottes Wort mus
  s verdaut werden\, bevor es verkündet wird.\n\nLesen und beten: https:/
@@ -383,17 +375,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 33. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Samstag der 33. Woche im Jahreskreis · Gedenktag Unserer Lieben 
- Frau in Jerusalem
+SUMMARY:Gedenktag Unserer Lieben Frau in Jerusalem
 DESCRIPTION:Samstag der 33. Woche im Jahreskreis · Gedenktag Unserer Lie
  ben Frau in Jerusalem\nOffenbarung 11\,4–12 · Psalm 144\,1.2.9–10 
  · Lukas 20\,27–40\nGott ist ein Gott der Lebenden\; für ihn leben al
@@ -403,14 +394,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 33. Woche im Jahreskreis ·
-  Gedenktag Unserer Lieben Frau in Jerusalem
+DESCRIPTION:Das Wort für morgen: Gedenktag Unserer Lieben Frau in Jerusa
+ lem
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Christkönigssonntag · Hochfest unseres Herrn Jesus Christus\, d
@@ -431,10 +422,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:Montag der 34. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Montag der 34. Woche im Jahreskreis\nOffenbarung 14\,1–3.4b
  –5 · Psalm 24\,1b–2.3–4ab.5–6 · Lukas 21\,1–4\nGott misst Ga
  ben an der Liebe\, nicht am Betrag.\n\nLesen und beten: https://daily-wo
@@ -443,17 +434,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Montag der 34. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:Dienstag der 34. Woche im Jahreskreis · Hl. Andreas Dũng-Lạc 
- und Gefährten\, Märtyrer
+SUMMARY:Hl. Andreas Dũng-Lạc und Gefährten\, Märtyrer
 DESCRIPTION:Dienstag der 34. Woche im Jahreskreis · Hl. Andreas Dũng-L
  ạc und Gefährten\, Märtyrer\nOffenbarung 14\,14–19 · Psalm 96\,10
  .11–12.13 · Lukas 21\,5–11\nSelbst die Steine des Tempels fallen\; 
@@ -463,17 +453,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 34. Woche im Jahreskreis 
- · Hl. Andreas Dũng-Lạc und Gefährten\, Märtyrer
+DESCRIPTION:Das Wort für morgen: Hl. Andreas Dũng-Lạc und Gefährten\
+ , Märtyrer
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:Mittwoch der 34. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Mittwoch der 34. Woche im Jahreskreis\nOffenbarung 15\,1–4 
  · Psalm 98\,1.2–3ab.7–8.9 · Lukas 21\,12–19\nVerfolgung wird zur
   Gelegenheit\, Zeugnis zu geben.\n\nLesen und beten: https://daily-word-
@@ -482,16 +472,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 34. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Donnerstag der 34. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Donnerstag der 34. Woche im Jahreskreis\nOffenbarung 18\,1–
  2.21–23\; 19\,1–3.9a · Psalm 100\,1b–2.3.4.5 · Lukas 21\,20–28
  \nWas andere vergehen lässt\, lässt Jünger aufschauen.\n\nLesen und b
@@ -500,16 +490,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 34. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:Freitag der 34. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Freitag der 34. Woche im Jahreskreis\nOffenbarung 20\,1–4.1
  1–21\,2 · Psalm 84\,3.4.5–6a u. 8a · Lukas 21\,29–33\nChristi Wo
  rte überdauern Himmel und Erde.\n\nLesen und beten: https://daily-word-
@@ -518,16 +508,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 34. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:Samstag der 34. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Samstag der 34. Woche im Jahreskreis\nOffenbarung 22\,1–7 
  · Psalm 95\,1–2.3–5.6–7ab · Lukas 21\,34–36\nDie Bibel endet\,
   wo sie begann: mit dem Baum des Lebens.\n\nLesen und beten: https://dai
@@ -536,13 +526,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 34. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Erster Adventssonntag
@@ -561,7 +551,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Hl. Andreas\, Apostel · Fest
@@ -579,10 +569,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:Dienstag der 1. Adventswoche
+SUMMARY:Die Adventszeit
 DESCRIPTION:Dienstag der 1. Adventswoche\nJesaja 11\,1–10 · Psalm 72\,
  1–2.7–8.12–13.17 · Lukas 10\,21–24\nGott schenkt neues Leben au
  s einem gefällten Stumpf.\n\nLesen und beten: https://daily-word-reflec
@@ -591,16 +581,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 1. Adventswoche
+DESCRIPTION:Das Wort für morgen: Die Adventszeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:Mittwoch der 1. Adventswoche
+SUMMARY:Die Adventszeit
 DESCRIPTION:Mittwoch der 1. Adventswoche\nJesaja 25\,6–10a · Psalm 23\
  ,1–3a.3b–4.5.6 · Matthäus 15\,29–37\nGott verheißt ein Festmahl
   und das Ende des Todes.\n\nLesen und beten: https://daily-word-reflecti
@@ -609,16 +599,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 1. Adventswoche
+DESCRIPTION:Das Wort für morgen: Die Adventszeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:Donnerstag der 1. Adventswoche · Hl. Franz Xaver\, Priester
+SUMMARY:Hl. Franz Xaver\, Priester
 DESCRIPTION:Donnerstag der 1. Adventswoche · Hl. Franz Xaver\, Priester\
  nJesaja 26\,1–6 · Psalm 118\,1.8–9.19–21.25–27a · Matthäus 7\
  ,21.24–27\nHerr\, Herr zu sagen genügt nicht\; wir müssen seinen Wil
@@ -628,17 +618,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 1. Adventswoche · Hl. F
- ranz Xaver\, Priester
+DESCRIPTION:Das Wort für morgen: Hl. Franz Xaver\, Priester
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:Freitag der 1. Adventswoche
+SUMMARY:Die Adventszeit
 DESCRIPTION:Freitag der 1. Adventswoche\nJesaja 29\,17–24 · Psalm 27\,
  1.4.13–14 · Matthäus 9\,27–31\nGott verheißt\, dass die Blinden s
  ehen werden.\n\nLesen und beten: https://daily-word-reflections.github.i
@@ -647,16 +636,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 1. Adventswoche
+DESCRIPTION:Das Wort für morgen: Die Adventszeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:Samstag der 1. Adventswoche
+SUMMARY:Die Adventszeit
 DESCRIPTION:Samstag der 1. Adventswoche\nJesaja 30\,19–21.23–26 · Ps
  alm 147\,1–2.3–4.5–6 · Matthäus 9\,35–10\,1.5a.6–8\nGott war
  tet darauf\, gnädig zu sein\, und hört unseren Schrei.\n\nLesen und be
@@ -665,13 +654,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 1. Adventswoche
+DESCRIPTION:Das Wort für morgen: Die Adventszeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Zweiter Adventssonntag
@@ -689,11 +678,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:Montag der 2. Adventswoche · Hl. Ambrosius\, Bischof und Kirchen
- lehrer
+SUMMARY:Hl. Ambrosius\, Bischof und Kirchenlehrer
 DESCRIPTION:Montag der 2. Adventswoche · Hl. Ambrosius\, Bischof und Kir
  chenlehrer\nJesaja 35\,1–10 · Psalm 85\,9ab.10.11–12.13–14 · Luk
  as 5\,17–26\nGott lässt die Wüste blühen.\n\nLesen und beten: https
@@ -702,14 +690,14 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Montag der 2. Adventswoche · Hl. Ambro
- sius\, Bischof und Kirchenlehrer
+DESCRIPTION:Das Wort für morgen: Hl. Ambrosius\, Bischof und Kirchenlehr
+ er
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Hochfest der ohne Erbsünde empfangenen Jungfrau und Gottesmutter
@@ -730,10 +718,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Mittwoch der 2. Adventswoche
+SUMMARY:Die Adventszeit
 DESCRIPTION:Mittwoch der 2. Adventswoche\nJesaja 40\,25–31 · Psalm 103
  \,1–2.3–4.8.10 · Matthäus 11\,28–30\nGott wird nie müde.\n\nLes
  en und beten: https://daily-word-reflections.github.io/?d=2026-12-09&r=l
@@ -742,16 +730,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 2. Adventswoche
+DESCRIPTION:Das Wort für morgen: Die Adventszeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:Donnerstag der 2. Adventswoche
+SUMMARY:Die Adventszeit
 DESCRIPTION:Donnerstag der 2. Adventswoche\nJesaja 41\,13–20 · Psalm 1
  45\,1.9.10–11.12–13ab · Matthäus 11\,11–15\nGott hält unsere re
  chte Hand.\n\nLesen und beten: https://daily-word-reflections.github.io/
@@ -760,16 +748,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 2. Adventswoche
+DESCRIPTION:Das Wort für morgen: Die Adventszeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:Freitag der 2. Adventswoche
+SUMMARY:Die Adventszeit
 DESCRIPTION:Freitag der 2. Adventswoche\nJesaja 48\,17–19 · Psalm 1\,1
  –2.3.4.6 · Matthäus 11\,16–19\nGottes Gebote führen zu einem Frie
  den wie ein Strom.\n\nLesen und beten: https://daily-word-reflections.gi
@@ -778,16 +766,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 2. Adventswoche
+DESCRIPTION:Das Wort für morgen: Die Adventszeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:Samstag der 2. Adventswoche · Unsere Liebe Frau von Guadalupe
+SUMMARY:Unsere Liebe Frau von Guadalupe
 DESCRIPTION:Samstag der 2. Adventswoche · Unsere Liebe Frau von Guadalup
  e\nJesus Sirach 48\,1–4.9–11 · Psalm 80\,2ac.3b.15–16.18–19 · 
  Matthäus 17\,9a.10–13\nElija war ein Prophet wie Feuer.\n\nLesen und 
@@ -796,14 +784,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 2. Adventswoche · Unsere L
- iebe Frau von Guadalupe
+DESCRIPTION:Das Wort für morgen: Unsere Liebe Frau von Guadalupe
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Dritter Adventssonntag (Gaudete)
@@ -822,11 +809,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:Montag der 3. Adventswoche · Hl. Johannes vom Kreuz\, Priester u
- nd Kirchenlehrer
+SUMMARY:Hl. Johannes vom Kreuz\, Priester und Kirchenlehrer
 DESCRIPTION:Montag der 3. Adventswoche · Hl. Johannes vom Kreuz\, Priest
  er und Kirchenlehrer\nNumeri 24\,2–7.15–17a · Psalm 25\,4–5ab.6.7
  bc.8–9 · Matthäus 21\,23–27\nGottes Stern geht sogar durch einen u
@@ -836,17 +822,17 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Montag der 3. Adventswoche · Hl. Johan
- nes vom Kreuz\, Priester und Kirchenlehrer
+DESCRIPTION:Das Wort für morgen: Hl. Johannes vom Kreuz\, Priester und K
+ irchenlehrer
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Dienstag der 3. Adventswoche
+SUMMARY:Die Adventszeit
 DESCRIPTION:Dienstag der 3. Adventswoche\nZefanja 3\,1–2.9–13 · Psal
  m 34\,2–3.6–7.17–18.19.23 · Matthäus 21\,28–32\nGottes Zukunft
   gehört dem demütigen Rest.\n\nLesen und beten: https://daily-word-ref
@@ -855,16 +841,16 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 3. Adventswoche
+DESCRIPTION:Das Wort für morgen: Die Adventszeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Mittwoch der 3. Adventswoche
+SUMMARY:Die Adventszeit
 DESCRIPTION:Mittwoch der 3. Adventswoche\nJesaja 45\,6b–8.18.21b–25 
  · Psalm 85\,9ab.10.11–12.13–14 · Lukas 7\,18b–23\nDer Himmel tau
  t den Gerechten\; die Erde bringt den Retter hervor.\n\nLesen und beten:
@@ -873,13 +859,13 @@ URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 3. Adventswoche
+DESCRIPTION:Das Wort für morgen: Die Adventszeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:17. Dezember · Wochentag im Advent (O Weisheit)
@@ -898,7 +884,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:18. Dezember · Wochentag im Advent (O Adonai)
@@ -917,7 +903,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:19. Dezember · Wochentag im Advent (O Spross aus Isais Wurzel)
@@ -936,7 +922,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Vierter Adventssonntag
@@ -955,7 +941,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:21. Dezember · Wochentag im Advent (O Morgenstern)
@@ -975,7 +961,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:22. Dezember · Wochentag im Advent (O König der Völker)
@@ -995,7 +981,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:23. Dezember · Wochentag im Advent (O Immanuel)
@@ -1014,7 +1000,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-24-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:24. Dezember · Wochentag im Advent (Messe am Morgen)
@@ -1034,7 +1020,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-25-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Hochfest der Geburt des Herrn (Weihnachten)
@@ -1054,7 +1040,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-26-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:Hl. Stephanus\, erster Märtyrer · Fest
@@ -1074,7 +1060,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Fest der Heiligen Familie Jesus\, Maria und Josef
@@ -1094,7 +1080,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-28-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Unschuldige Kinder\, Märtyrer · Fest
@@ -1113,7 +1099,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-29-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:29. Dezember · 5. Tag der Weihnachtsoktav
@@ -1132,7 +1118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-30-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:30. Dezember · 6. Tag der Weihnachtsoktav
@@ -1152,7 +1138,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:31. Dezember · 7. Tag der Weihnachtsoktav
@@ -1171,7 +1157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Maria\, die heilige Gottesmutter · Hochfest · Oktavtag von Weih
@@ -1192,7 +1178,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-02-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:2. Januar · Hl. Basilius der Große und hl. Gregor von Nazianz\,
@@ -1213,7 +1199,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-03-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Erscheinung des Herrn (Epiphanie) · Hochfest
@@ -1233,7 +1219,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-04-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:4. Januar · Montag nach Erscheinung des Herrn
@@ -1253,7 +1239,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-05-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:5. Januar · Dienstag nach Erscheinung des Herrn
@@ -1272,7 +1258,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-06-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:6. Januar · Mittwoch nach Erscheinung des Herrn
@@ -1291,7 +1277,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-07-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:7. Januar · Donnerstag nach Erscheinung des Herrn
@@ -1311,7 +1297,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-08-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:8. Januar · Freitag nach Erscheinung des Herrn
@@ -1331,7 +1317,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:9. Januar · Samstag nach Erscheinung des Herrn
@@ -1350,7 +1336,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-10-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Taufe des Herrn · Fest
@@ -1369,10 +1355,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-11-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:Montag der 1. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Montag der 1. Woche im Jahreskreis\nHebräer 1\,1–6 · Psal
  m 97\,1 u. 2b.6 u. 7c.9 · Markus 1\,14–20\nGott hat sein endgültiges
   Wort in seinem Sohn gesprochen.\n\nLesen und beten: https://daily-word-
@@ -1381,16 +1367,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Montag der 1. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-12-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:Dienstag der 1. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Dienstag der 1. Woche im Jahreskreis\nHebräer 2\,5–12 · P
  salm 8\,2.5.6–7.8–9 · Markus 1\,21–28\nJesus lehrt in eigener Vol
  lmacht.\n\nLesen und beten: https://daily-word-reflections.github.io/?d=
@@ -1399,16 +1385,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 1. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-13-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:Mittwoch der 1. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Mittwoch der 1. Woche im Jahreskreis\nHebräer 2\,14–18 · 
  Psalm 105\,1–2.3–4.6–7.8–9 · Markus 1\,29–39\nJesus richtet d
  ie kranke Frau auf\, und sie dient.\n\nLesen und beten: https://daily-wo
@@ -1417,16 +1403,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 1. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:Donnerstag der 1. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Donnerstag der 1. Woche im Jahreskreis\nHebräer 3\,7–14 ·
   Psalm 95\,6–7c.8–9.10–11 · Markus 1\,40–45\nHeute: Verhärtet 
  eure Herzen nicht.\n\nLesen und beten: https://daily-word-reflections.gi
@@ -1435,16 +1421,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 1. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-SUMMARY:Freitag der 1. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Freitag der 1. Woche im Jahreskreis\nHebräer 4\,1–5.11 · 
  Psalm 78\,3 u. 4bc.6c–7.8 · Markus 2\,1–12\nVier Freunde tragen den
   Gelähmten zu Jesus.\n\nLesen und beten: https://daily-word-reflections
@@ -1453,16 +1439,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 1. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:Samstag der 1. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Samstag der 1. Woche im Jahreskreis\nHebräer 4\,12–16 · P
  salm 19\,8.9.10.15 · Markus 2\,13–17\nGottes Wort ist lebendig und si
  eht das Herz.\n\nLesen und beten: https://daily-word-reflections.github.
@@ -1471,13 +1457,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 1. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:2. Sonntag im Jahreskreis
@@ -1495,10 +1481,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-SUMMARY:Montag der 2. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Montag der 2. Woche im Jahreskreis\nHebräer 5\,1–10 · Psa
  lm 110\,1.2.3.4 · Markus 2\,18–22\nChristus\, der Hohepriester\, hat 
  durch Leiden den Gehorsam gelernt.\n\nLesen und beten: https://daily-wor
@@ -1507,16 +1493,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Montag der 2. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:Dienstag der 2. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Dienstag der 2. Woche im Jahreskreis\nHebräer 6\,10–20 · 
  Psalm 111\,1–2.4–5.9 u. 10c · Markus 2\,23–28\nGott vergisst die 
  Liebe nicht\, die wir erweisen.\n\nLesen und beten: https://daily-word-r
@@ -1525,17 +1511,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 2. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:Mittwoch der 2. Woche im Jahreskreis · Hl. Fabian und hl. Sebast
- ian
+SUMMARY:Hl. Fabian und hl. Sebastian
 DESCRIPTION:Mittwoch der 2. Woche im Jahreskreis · Hl. Fabian und hl. Se
  bastian\nHebräer 7\,1–3.15–17 · Psalm 110\,1.2.3.4 · Markus 3\,1
  –6\nChristus ist Priester auf ewig\, wie Melchisedek.\n\nLesen und bet
@@ -1544,14 +1529,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 2. Woche im Jahreskreis ·
-  Hl. Fabian und hl. Sebastian
+DESCRIPTION:Das Wort für morgen: Hl. Fabian und hl. Sebastian
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Hl. Agnes\, Jungfrau und Märtyrin
@@ -1569,10 +1553,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-SUMMARY:Freitag der 2. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Freitag der 2. Woche im Jahreskreis\nHebräer 8\,6–13 · Ps
  alm 85\,8 u. 10.11–12.13–14 · Markus 3\,13–19\nIm neuen Bund schr
  eibt Gott sein Gesetz in unsere Herzen.\n\nLesen und beten: https://dail
@@ -1581,16 +1565,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 2. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:Samstag der 2. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Samstag der 2. Woche im Jahreskreis\nHebräer 9\,2–3.11–1
  4 · Psalm 47\,2–3.6–7.8–9 · Markus 3\,20–21\nChristus ist ein 
  für alle Mal mit seinem eigenen Blut hineingegangen.\n\nLesen und beten
@@ -1599,13 +1583,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 2. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:3. Sonntag im Jahreskreis · Sonntag des Wortes Gottes
@@ -1625,7 +1609,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Bekehrung des hl. Apostels Paulus · Fest
@@ -1645,7 +1629,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:Hl. Timotheus und hl. Titus\, Bischöfe
@@ -1664,10 +1648,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:Mittwoch der 3. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Mittwoch der 3. Woche im Jahreskreis\nHebräer 10\,11–18 ·
   Psalm 110\,1.2.3.4 · Markus 4\,1–20\nDas einzige Opfer Christi volle
  ndet uns für immer.\n\nLesen und beten: https://daily-word-reflections.
@@ -1676,13 +1660,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 3. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Hl. Thomas von Aquin\, Priester und Kirchenlehrer
@@ -1701,10 +1685,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-SUMMARY:Freitag der 3. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Freitag der 3. Woche im Jahreskreis\nHebräer 10\,32–39 · 
  Psalm 37\,3–4.5–6.23–24.39–40 · Markus 4\,26–34\nWerft eure Z
  uversicht nicht weg\; ihr braucht Ausdauer.\n\nLesen und beten: https://
@@ -1713,16 +1697,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 3. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:Samstag der 3. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Samstag der 3. Woche im Jahreskreis\nHebräer 11\,1–2.8–1
  9 · Lukas 1\,69–70.71–72.73–75 · Markus 4\,35–41\nGlaube ist G
  rundlage dessen\, was man erhofft.\n\nLesen und beten: https://daily-wor
@@ -1731,13 +1715,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 3. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:4. Sonntag im Jahreskreis
@@ -1756,10 +1740,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-01-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-SUMMARY:Montag der 4. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Montag der 4. Woche im Jahreskreis\nHebräer 11\,32–40 · P
  salm 31\,20.21.22.23.24 · Markus 5\,1–20\nDie Helden des Glaubens lit
  ten\, und doch glaubten sie.\n\nLesen und beten: https://daily-word-refl
@@ -1768,13 +1752,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Montag der 4. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-02-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:Darstellung des Herrn
@@ -1793,10 +1777,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-03-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-SUMMARY:Mittwoch der 4. Woche im Jahreskreis · Hl. Blasius\; hl. Ansgar
+SUMMARY:Hl. Blasius\; hl. Ansgar
 DESCRIPTION:Mittwoch der 4. Woche im Jahreskreis · Hl. Blasius\; hl. Ans
  gar\nHebräer 12\,4–7.11–15 · Psalm 103\,1–2.13–14.17–18a · 
  Markus 6\,1–6\nGott erzieht uns wie ein Vater\, zu unserer Heiligkeit.
@@ -1806,17 +1790,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 4. Woche im Jahreskreis ·
-  Hl. Blasius\; hl. Ansgar
+DESCRIPTION:Das Wort für morgen: Hl. Blasius\; hl. Ansgar
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-04-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:Donnerstag der 4. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Donnerstag der 4. Woche im Jahreskreis\nHebräer 12\,18–19.
  21–24 · Psalm 48\,2–3a.3b–4.9.10–11 · Markus 6\,7–13\nWir si
  nd nicht zum furchterregenden Sinai\, sondern zum freudigen Zion gekomme
@@ -1826,13 +1809,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 4. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-05-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Hl. Agatha\, Jungfrau und Märtyrin
@@ -1850,7 +1833,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Hl. Paul Miki und Gefährten\, Märtyrer
@@ -1869,7 +1852,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:5. Sonntag im Jahreskreis
@@ -1887,10 +1870,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-08-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-SUMMARY:Montag der 5. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Montag der 5. Woche im Jahreskreis\nGenesis 1\,1–19 · Psal
  m 104\,1–2a.5–6.10.12.24.35c · Markus 6\,53–56\nIm Anfang schuf G
  ott Himmel und Erde.\n\nLesen und beten: https://daily-word-reflections.
@@ -1899,16 +1882,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Montag der 5. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-09-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:Dienstag der 5. Woche im Jahreskreis
+SUMMARY:Die Zeit im Jahreskreis
 DESCRIPTION:Dienstag der 5. Woche im Jahreskreis\nGenesis 1\,20–2\,4a 
  · Psalm 8\,4–5.6–7.8–9 · Markus 7\,1–13\nGott schuf den Mensch
  en als sein Bild\, männlich und weiblich.\n\nLesen und beten: https://d
@@ -1917,16 +1900,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 5. Woche im Jahreskreis
+DESCRIPTION:Das Wort für morgen: Die Zeit im Jahreskreis
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-10-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:Aschermittwoch
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Aschermittwoch\nJoel 2\,12–18 · Psalm 51\,3–4.5–6a.12
  –13.14.17 · 2 Korinther 5\,20–6\,2 · Matthäus 6\,1–6.16–18\nK
  ehrt um zum Herrn von ganzem Herzen\; zerreißt eure Herzen\, nicht eure
@@ -1936,16 +1919,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Aschermittwoch
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-11-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:Donnerstag nach Aschermittwoch
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Donnerstag nach Aschermittwoch\nDeuteronomium 30\,15–20 · 
  Psalm 1\,1–2.3.4.6 · Lukas 9\,22–25\nGott legt uns Leben und Tod vo
  r: Wähle das Leben.\n\nLesen und beten: https://daily-word-reflections.
@@ -1954,16 +1937,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag nach Aschermittwoch
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-12-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-SUMMARY:Freitag nach Aschermittwoch
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Freitag nach Aschermittwoch\nJesaja 58\,1–9a · Psalm 51\,3
  –4.5–6a.18–19 · Matthäus 9\,14–15\nGott verwirft ein Fasten\, 
  das die Armen übersieht und die Arbeiter unterdrückt.\n\nLesen und bet
@@ -1972,16 +1955,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag nach Aschermittwoch
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:Samstag nach Aschermittwoch
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Samstag nach Aschermittwoch\nJesaja 58\,9b–14 · Psalm 86\,
  1–2.3–4.5–6 · Lukas 5\,27–32\nEntferne den zeigenden Finger und
   das üble Reden.\n\nLesen und beten: https://daily-word-reflections.git
@@ -1990,13 +1973,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag nach Aschermittwoch
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-14-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Erster Fastensonntag
@@ -2015,10 +1998,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-15-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-SUMMARY:Montag der 1. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Montag der 1. Fastenwoche\nLevitikus 19\,1–2.11–18 · Psa
  lm 19\,8.9.10.15 · Matthäus 25\,31–46\nGott sagt: Seid heilig\, denn
   ich bin heilig\; betrügt nicht\, lügt nicht und tragt nichts nach.\n\
@@ -2028,16 +2011,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Montag der 1. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:Dienstag der 1. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Dienstag der 1. Fastenwoche\nJesaja 55\,10–11 · Psalm 34\,
  4–5.6–7.16–17.18–19 · Matthäus 6\,7–15\nGottes Wort ist wie 
  der Regen: Es bringt immer Frucht.\n\nLesen und beten: https://daily-wor
@@ -2046,16 +2029,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 1. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:Mittwoch der 1. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Mittwoch der 1. Fastenwoche\nJona 3\,1–10 · Psalm 51\,3–
  4.12–13.18–19 · Lukas 11\,29–32\nGott gibt Jona eine zweite Chanc
  e\, und Jona predigt in Ninive.\n\nLesen und beten: https://daily-word-r
@@ -2064,16 +2047,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 1. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:Donnerstag der 1. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Donnerstag der 1. Fastenwoche\nEster 4\,17k.17l–m.17r–t (
  griechische Zusätze\; in der Vulgata 14\,1.3–5.12–14) · Psalm 138\
  ,1–2a.2bc–3.7c–8 · Matthäus 7\,7–12\nKönigin Ester\, allein u
@@ -2083,16 +2066,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 1. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-19-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-SUMMARY:Freitag der 1. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Freitag der 1. Fastenwoche\nEzechiel 18\,21–28 · Psalm 130
  \,1–2.3–4.5–6.7–8 · Matthäus 5\,20–26\nGott will\, dass der 
  Sünder umkehrt und lebt\, nicht dass er stirbt.\n\nLesen und beten: htt
@@ -2101,16 +2084,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 1. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:Samstag der 1. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Samstag der 1. Fastenwoche\nDeuteronomium 26\,16–19 · Psal
  m 119\,1–2.4–5.7–8 · Matthäus 5\,43–48\nGott und Israel schlie
  ßen einen Bund: Du bist mein Volk\, mein Schatz.\n\nLesen und beten: ht
@@ -2119,13 +2102,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 1. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Zweiter Fastensonntag
@@ -2144,7 +2127,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-22-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
 SUMMARY:Kathedra Petri
@@ -2162,10 +2145,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-23-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:Dienstag der 2. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Dienstag der 2. Fastenwoche\nJesaja 1\,10.16–20 · Psalm 50
  \,8–9.16–17.21.23 · Matthäus 23\,1–12\nGott lädt die Sünder ei
  n: Wären eure Sünden rot wie Scharlach\, sie sollen weiß werden wie S
@@ -2175,16 +2158,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 2. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-24-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:Mittwoch der 2. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Mittwoch der 2. Fastenwoche\nJeremia 18\,18–20 · Psalm 31\
  ,5–6.14.15–16 · Matthäus 20\,17–28\nJeremia wurde das Gute\, das
   er tat\, mit Bösem vergolten\, und er betete trotzdem.\n\nLesen und be
@@ -2193,16 +2176,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 2. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-25-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:Donnerstag der 2. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Donnerstag der 2. Fastenwoche\nJeremia 17\,5–10 · Psalm 1\
  ,1–2.3.4.6 · Lukas 16\,19–31\nWer auf den Herrn vertraut\, ist wie 
  ein Baum\, am Wasser gepflanzt.\n\nLesen und beten: https://daily-word-r
@@ -2211,16 +2194,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 2. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-26-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:Freitag der 2. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Freitag der 2. Fastenwoche\nGenesis 37\,3–4.12–13a.17b–
  28 · Psalm 105\,16–17.18–19.20–21 · Matthäus 21\,33–43.45–4
  6\nJosef\, der geliebte Sohn\, wurde von seinen neidischen Brüdern verk
@@ -2230,16 +2213,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 2. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-27-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:Samstag der 2. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Samstag der 2. Fastenwoche\nMicha 7\,14–15.18–20 · Psalm
   103\,1–2.3–4.9–10.11–12 · Lukas 15\,1–3.11–32\nGott hat Ge
  fallen an Barmherzigkeit und wirft unsere Sünden in die Tiefen des Meer
@@ -2249,13 +2232,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 2. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Dritter Fastensonntag
@@ -2274,10 +2257,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-01-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-SUMMARY:Montag der 3. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Montag der 3. Fastenwoche\n2 Könige 5\,1–15ab · Psalm 42\
  ,2–3\; 43\,3–4 · Lukas 4\,24–30\nNaaman\, ein stolzer Feldherr\, 
  wurde vom Aussatz geheilt\, als er sich siebenmal im Jordan wusch.\n\nLe
@@ -2287,16 +2270,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Montag der 3. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-02-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:Dienstag der 3. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Dienstag der 3. Fastenwoche\nDaniel 3\,25.34–43 · Psalm 25
  \,4–5ab.6.7bc.8–9 · Matthäus 18\,21–35\nIm Feuerofen brachte Asa
  rja Gott ein zerknirschtes Herz und einen demütigen Geist dar.\n\nLesen
@@ -2306,16 +2289,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 3. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-03-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
-SUMMARY:Mittwoch der 3. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Mittwoch der 3. Fastenwoche\nDeuteronomium 4\,1.5–9 · Psal
  m 147\,12–13.15–16.19–20 · Matthäus 5\,17–19\nMose lehrte Isra
  el\, dass Gottes Gesetz dem Leben dient und dass kein Volk einen Gott ha
@@ -2325,16 +2308,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 3. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-04-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:Donnerstag der 3. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Donnerstag der 3. Fastenwoche\nJeremia 7\,23–28 · Psalm 95
  \,1–2.6–7.8–9 · Lukas 11\,14–23\nJeremia klagte über ein Volk\
  , das nicht auf Gottes Stimme hören wollte.\n\nLesen und beten: https:/
@@ -2343,16 +2326,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 3. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-05-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-SUMMARY:Freitag der 3. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Freitag der 3. Fastenwoche\nHosea 14\,2–10 · Psalm 81\,6c
  –8a.8bc–9.10–11ab.14 und 17 · Markus 12\,28–34\nDurch Hosea leh
  rt Gott Israel die Worte der Heimkehr und verheißt\, es aus freiem Ents
@@ -2362,16 +2345,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 3. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:Samstag der 3. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Samstag der 3. Fastenwoche\nHosea 6\,1–6 · Psalm 51\,3–4
  .18–19.20–21 · Lukas 18\,9–14\nHosea warnt\, dass unsere Liebe wi
  e der Morgentau vergehen kann\; Gott will beständige Liebe\, nicht Opfe
@@ -2381,13 +2364,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 3. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-07-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Vierter Fastensonntag (Laetare)
@@ -2406,10 +2389,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-08-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:Montag der 4. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Montag der 4. Fastenwoche\nJesaja 65\,17–21 · Psalm 30\,2.
  4.5–6.11–13 · Johannes 4\,43–54\nGott verheißt einen neuen Himme
  l und eine neue Erde\, eine Welt ohne Weinen.\n\nLesen und beten: https:
@@ -2418,16 +2401,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Montag der 4. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-09-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:Dienstag der 4. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Dienstag der 4. Fastenwoche\nEzechiel 47\,1–9.12 · Psalm 4
  6\,2–3.5–6.8–9 · Johannes 5\,1–16\nEzechiel sieht einen Strom a
  us dem Tempel fließen\, der Leben bringt\, wohin er kommt.\n\nLesen und
@@ -2437,16 +2420,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Dienstag der 4. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-10-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:Mittwoch der 4. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Mittwoch der 4. Fastenwoche\nJesaja 49\,8–15 · Psalm 145\,
  8–9.13c–14.17–18 · Johannes 5\,17–30\nGott sagt: Selbst wenn ei
  ne Mutter ihr Kind vergäße\, ich vergesse dich nicht.\n\nLesen und bet
@@ -2455,16 +2438,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Mittwoch der 4. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-11-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:Donnerstag der 4. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Donnerstag der 4. Fastenwoche\nExodus 32\,7–14 · Psalm 106
  \,19–20.21–22.23 · Johannes 5\,31–47\nIsrael machte ein goldenes 
  Kalb\; Mose trat für das Volk ein\, und Gott verschonte es.\n\nLesen un
@@ -2474,16 +2457,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Donnerstag der 4. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-SUMMARY:Freitag der 4. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Freitag der 4. Fastenwoche\nWeisheit 2\,1a.12–22 · Psalm 3
  4\,17–21.23 · Johannes 7\,1–2.10.25–30\nDas Buch der Weisheit sag
  t den Anschlag gegen den Gerechten voraus\, der Gott seinen Vater nennt.
@@ -2493,16 +2476,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Freitag der 4. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-SUMMARY:Samstag der 4. Fastenwoche
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Samstag der 4. Fastenwoche\nJeremia 11\,18–20 · Psalm 7\,2
  –3.9b–12 · Johannes 7\,40–53\nJeremia\, gegen den man Pläne schm
  iedet\, ist wie ein zahmes Lamm\, das zum Schlachten geführt wird\, ein
@@ -2512,13 +2495,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Samstag der 4. Fastenwoche
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-14-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Fünfter Fastensonntag
@@ -2537,10 +2520,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-15-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-SUMMARY:Monday of the Fifth Week of Lent
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Monday of the Fifth Week of Lent\nDaniel 13:1–9\, 15–17\,
   19–30\, 33–62 (or 13:41c–62) · Psalm 23:1–3a\, 3b–4\, 5\, 6 
  · John 8:1–11\nSusanna chose to fall into the hands of the wicked rat
@@ -2550,16 +2533,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Monday of the Fifth Week of Lent
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:Tuesday of the Fifth Week of Lent
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Tuesday of the Fifth Week of Lent\nNumbers 21:4–9 · Psalm 
  102:1–2\, 15–17\, 18–20 · John 8:21–30\nIsrael grew impatient a
  nd complained against God and the manna.\n\nLesen und beten: https://dai
@@ -2568,16 +2551,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Tuesday of the Fifth Week of Lent
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-17-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:Wednesday of the Fifth Week of Lent
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Wednesday of the Fifth Week of Lent\nDaniel 3:14–20\, 91–
  92\, 95 · Daniel 3:52\, 53\, 54\, 55\, 56 · John 8:31–42\nThree youn
  g men refused to worship the golden statue\, even if God did not rescue 
@@ -2587,16 +2570,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Wednesday of the Fifth Week of Lent
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-18-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:Thursday of the Fifth Week of Lent
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Thursday of the Fifth Week of Lent\nGenesis 17:3–9 · Psalm
   105:4–5\, 6–7\, 8–9 · John 8:51–59\nGod made an everlasting co
  venant with Abraham and gave him a new name.\n\nLesen und beten: https:/
@@ -2605,13 +2588,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Thursday of the Fifth Week of Lent
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:St Joseph\, Spouse of the Blessed Virgin Mary
@@ -2632,10 +2615,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-20-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:Saturday of the Fifth Week of Lent
+SUMMARY:Die Fastenzeit
 DESCRIPTION:Saturday of the Fifth Week of Lent\nEzekiel 37:21–28 · Jer
  emiah 31:10\, 11–12ab\, 13 · John 11:45–56\nEzekiel promises that G
  od will make his scattered people one nation with one shepherd.\n\nLesen
@@ -2645,13 +2628,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Saturday of the Fifth Week of Lent
+DESCRIPTION:Das Wort für morgen: Die Fastenzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Palm Sunday of the Passion of the Lord
@@ -2671,10 +2654,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-22-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-SUMMARY:Monday of Holy Week
+SUMMARY:Die Karwoche und die drei österlichen Tage
 DESCRIPTION:Monday of Holy Week\nIsaiah 42:1–7 · Psalm 27:1\, 2\, 3\, 
  13–14 · John 12:1–11\nThe Servant of the Lord is gentle: he does no
  t break the bruised reed.\n\nLesen und beten: https://daily-word-reflect
@@ -2683,16 +2666,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Monday of Holy Week
+DESCRIPTION:Das Wort für morgen: Die Karwoche und die drei österlichen 
+ Tage
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-23-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:Tuesday of Holy Week
+SUMMARY:Die Karwoche und die drei österlichen Tage
 DESCRIPTION:Tuesday of Holy Week\nIsaiah 49:1–6 · Psalm 71:1–2\, 3
  –4a\, 5–6ab\, 15 and 17 · John 13:21–33\, 36–38\nThe Servant is
   called from the womb and made a light to the nations.\n\nLesen und bete
@@ -2701,16 +2685,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Tuesday of Holy Week
+DESCRIPTION:Das Wort für morgen: Die Karwoche und die drei österlichen 
+ Tage
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-24-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:Wednesday of Holy Week
+SUMMARY:Die Karwoche und die drei österlichen Tage
 DESCRIPTION:Wednesday of Holy Week\nIsaiah 50:4–9a · Psalm 69:7–9\, 
  20–21\, 30 and 32–33 · Matthew 26:14–25\nThe Servant listens to G
  od every morning and does not turn back from suffering.\n\nLesen und bet
@@ -2719,16 +2704,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Wednesday of Holy Week
+DESCRIPTION:Das Wort für morgen: Die Karwoche und die drei österlichen 
+ Tage
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-25-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-SUMMARY:Holy Thursday: Evening Mass of the Lord's Supper
+SUMMARY:Die Karwoche und die drei österlichen Tage
 DESCRIPTION:Holy Thursday: Evening Mass of the Lord's Supper\nExodus 12:1
  –8\, 11–14 · Psalm 116:12–13\, 15–16bc\, 17–18 · 1 Corinthia
  ns 11:23–26 · John 13:1–15\nJesus\, our Passover Lamb\, gives his B
@@ -2738,17 +2724,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Holy Thursday: Evening Mass of the Lord
- 's Supper
+DESCRIPTION:Das Wort für morgen: Die Karwoche und die drei österlichen 
+ Tage
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-SUMMARY:Friday of the Passion of the Lord (Good Friday)
+SUMMARY:Die Karwoche und die drei österlichen Tage
 DESCRIPTION:Friday of the Passion of the Lord (Good Friday)\nIsaiah 52:13
  –53:12 · Psalm 31:1\, 5\, 11–12\, 14–15\, 16\, 24 · Hebrews 4:14
  –16\; 5:7–9 · John 18:1–19:42\nThe Suffering Servant was wounded 
@@ -2758,17 +2744,17 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Friday of the Passion of the Lord (Good
-  Friday)
+DESCRIPTION:Das Wort für morgen: Die Karwoche und die drei österlichen 
+ Tage
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-27-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-SUMMARY:Holy Saturday · The Easter Vigil in the Holy Night
+SUMMARY:The Easter Vigil in the Holy Night
 DESCRIPTION:Holy Saturday · The Easter Vigil in the Holy Night\nGenesis 
  1:1–2:2 (or 1:1\, 26–31a)\; Psalm 104 (or Psalm 33) · Genesis 22:1
  –18 (or 22:1–2\, 9a\, 10–13\, 15–18)\; Psalm 16 · Exodus 14:15
@@ -2784,14 +2770,13 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Holy Saturday · The Easter Vigil in th
- e Holy Night
+DESCRIPTION:Das Wort für morgen: The Easter Vigil in the Holy Night
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-28-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Easter Sunday of the Resurrection of the Lord
@@ -2812,10 +2797,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-29-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:Monday within the Octave of Easter
+SUMMARY:Die Osterzeit
 DESCRIPTION:Monday within the Octave of Easter\nActs 2:14\, 22–33 · Ps
  alm 16:1–2a\, 5\, 7–8\, 9–10\, 11 · Matthew 28:8–15\nPeter: God
   raised Jesus up\; death could not hold him\; we are all witnesses.\n\nL
@@ -2825,16 +2810,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Monday within the Octave of Easter
+DESCRIPTION:Das Wort für morgen: Die Osterzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-30-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:Tuesday within the Octave of Easter
+SUMMARY:Die Osterzeit
 DESCRIPTION:Tuesday within the Octave of Easter\nActs 2:36–41 · Psalm 
  33:4–5\, 18–19\, 20 and 22 · John 20:11–18\nCut to the heart\, th
  e crowd asked: What should we do? Peter: repent and be baptized.\n\nLese
@@ -2844,16 +2829,16 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Tuesday within the Octave of Easter
+DESCRIPTION:Das Wort für morgen: Die Osterzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-31-lat-de@daily-word-reflections.github.io
-DTSTAMP:20261029T130646Z
+DTSTAMP:20261029T131211Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-SUMMARY:Wednesday within the Octave of Easter
+SUMMARY:Die Osterzeit
 DESCRIPTION:Wednesday within the Octave of Easter\nActs 3:1–10 · Psalm
   105:1–2\, 3–4\, 6–7\, 8–9 · Luke 24:13–35\nPeter healed the 
  lame man: what I have I give you\; in the name of Jesus\, walk.\n\nLesen
@@ -2863,7 +2848,7 @@ URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=lat&l=de
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Das Wort für morgen: Wednesday within the Octave of Easter
+DESCRIPTION:Das Wort für morgen: Die Osterzeit
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
