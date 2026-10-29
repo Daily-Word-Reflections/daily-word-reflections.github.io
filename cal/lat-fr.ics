@@ -1,0 +1,2897 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daily Word//daily-word-reflections.github.io//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:La Parole du jour · Latin
+X-WR-TIMEZONE:Asia/Kolkata
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:2026-11-01-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Tous les Saints · Solennité
+DESCRIPTION:Tous les Saints · Solennité\nApocalypse 7\,2–4.9–14 · 
+ Psaume 24\,1–2.3–4.5–6 · 1 Jean 3\,1–3 · Matthieu 5\,1–12a\n
+ Les saints sont une foule que nul ne peut dénombrer\, de toute nation.\
+ n\nLire et prier: https://daily-word-reflections.github.io/?d=2026-11-01
+ &r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-01&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Tous les Saints · Solennité
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Commémoraison de tous les fidèles défunts
+DESCRIPTION:Commémoraison de tous les fidèles défunts\nSagesse 3\,1–
+ 9 · Psaume 23\,1–6 · Romains 5\,5–11 · Jean 6\,37–40\nNos défu
+ nts sont dans la main de Dieu.\n\nLire et prier: https://daily-word-refl
+ ections.github.io/?d=2026-11-02&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-02&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Commémoraison de tous les fidèles déf
+ unts
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Mardi de la 31e semaine du temps ordinaire
+DESCRIPTION:Mardi de la 31e semaine du temps ordinaire\nPhilippiens 2\,5
+ –11 · Psaume 22\,26b–27.28–30ab.30e–32 · Luc 14\,15–24\nLe C
+ hrist s'est anéanti \; Dieu l'a exalté.\n\nLire et prier: https://dail
+ y-word-reflections.github.io/?d=2026-11-03&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 31e semaine du temps ordinai
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Mercredi de la 31e semaine du temps ordinaire · Saint Charles Bo
+ rromée\, évêque
+DESCRIPTION:Mercredi de la 31e semaine du temps ordinaire · Saint Charle
+ s Borromée\, évêque\nPhilippiens 2\,12–18 · Psaume 27\,1.4.13–14
+  · Luc 14\,25–33\nÊtre disciple coûte tout et donne tout.\n\nLire e
+ t prier: https://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=
+ fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 31e semaine du temps ordi
+ naire · Saint Charles Borromée\, évêque
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Jeudi de la 31e semaine du temps ordinaire
+DESCRIPTION:Jeudi de la 31e semaine du temps ordinaire\nPhilippiens 3\,3
+ –8a · Psaume 105\,2–3.4–5.6–7 · Luc 15\,1–10\nDieu cherche c
+ eux qui sont perdus jusqu'à ce qu'il les trouve.\n\nLire et prier: http
+ s://daily-word-reflections.github.io/?d=2026-11-05&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 31e semaine du temps ordinai
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Vendredi de la 31e semaine du temps ordinaire
+DESCRIPTION:Vendredi de la 31e semaine du temps ordinaire\nPhilippiens 3\
+ ,17–4\,1 · Psaume 122\,1–2.3–4b.4cd–5 · Luc 16\,1–8\nNous so
+ mmes des gérants qui rendront des comptes.\n\nLire et prier: https://da
+ ily-word-reflections.github.io/?d=2026-11-06&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 31e semaine du temps ordi
+ naire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Samedi de la 31e semaine du temps ordinaire
+DESCRIPTION:Samedi de la 31e semaine du temps ordinaire\nPhilippiens 4\,1
+ 0–19 · Psaume 112\,1b–2.5–6.8a.9 · Luc 16\,9–15\nLa fidélité
+  dans les petites choses révèle le cœur.\n\nLire et prier: https://da
+ ily-word-reflections.github.io/?d=2026-11-07&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 31e semaine du temps ordina
+ ire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:32e dimanche du temps ordinaire
+DESCRIPTION:32e dimanche du temps ordinaire\nSagesse 6\,12–16 · Psaume
+  63\,2.3–4.5–6.7–8 · 1 Thessaloniciens 4\,13–18 · Matthieu 25\
+ ,1–13\nDieu se laisse trouver facilement par qui le cherche.\n\nLire e
+ t prier: https://daily-word-reflections.github.io/?d=2026-11-08&r=lat&l=
+ fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-08&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 32e dimanche du temps ordinaire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Dédicace de la basilique du Latran · Fête
+DESCRIPTION:Dédicace de la basilique du Latran · Fête\nÉzéchiel 47\,
+ 1–2.8–9.12 · Psaume 46\,2–3.5–6.8–9 · 1 Corinthiens 3\,9c–
+ 11.16–17 · Jean 2\,13–22\nLe Latran est la cathédrale du pape\, m
+ ère de toutes les églises.\n\nLire et prier: https://daily-word-reflec
+ tions.github.io/?d=2026-11-09&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Dédicace de la basilique du Latran · F
+ ête
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Mardi de la 32e semaine du temps ordinaire · Saint Léon le Gran
+ d\, pape et docteur de l'Église
+DESCRIPTION:Mardi de la 32e semaine du temps ordinaire · Saint Léon le 
+ Grand\, pape et docteur de l'Église\nTite 2\,1–8.11–14 · Psaume 37
+ \,3–4.18.23.27.29 · Luc 17\,7–10\nNous ne pouvons pas mettre Dieu e
+ n dette envers nous.\n\nLire et prier: https://daily-word-reflections.gi
+ thub.io/?d=2026-11-10&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 32e semaine du temps ordinai
+ re · Saint Léon le Grand\, pape et docteur de l'Église
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Mercredi de la 32e semaine du temps ordinaire · Saint Martin de 
+ Tours\, évêque
+DESCRIPTION:Mercredi de la 32e semaine du temps ordinaire · Saint Martin
+  de Tours\, évêque\nTite 3\,1–7 · Psaume 23\,1b–3a.3bc–4.5.6 ·
+  Luc 17\,11–19\nDix furent guéris \; un seul revint et fut sauvé.\n\
+ nLire et prier: https://daily-word-reflections.github.io/?d=2026-11-11&r
+ =lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 32e semaine du temps ordi
+ naire · Saint Martin de Tours\, évêque
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Jeudi de la 32e semaine du temps ordinaire · Saint Josaphat\, é
+ vêque et martyr
+DESCRIPTION:Jeudi de la 32e semaine du temps ordinaire · Saint Josaphat\
+ , évêque et martyr\nPhilémon 7–20 · Psaume 146\,7.8–9a.9bc–10 
+ · Luc 17\,20–25\nLe Royaume est déjà au milieu de nous dans le Chri
+ st.\n\nLire et prier: https://daily-word-reflections.github.io/?d=2026-1
+ 1-12&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 32e semaine du temps ordinai
+ re · Saint Josaphat\, évêque et martyr
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Vendredi de la 32e semaine du temps ordinaire
+DESCRIPTION:Vendredi de la 32e semaine du temps ordinaire\n2 Jean 4–9 
+ · Psaume 119\,1.2.10.11.17.18 · Luc 17\,26–37\nLe vrai danger\, c'es
+ t la vie ordinaire sans Dieu.\n\nLire et prier: https://daily-word-refle
+ ctions.github.io/?d=2026-11-13&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 32e semaine du temps ordi
+ naire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Samedi de la 32e semaine du temps ordinaire
+DESCRIPTION:Samedi de la 32e semaine du temps ordinaire\n3 Jean 5–8 · 
+ Psaume 112\,1–2.3–4.5–6 · Luc 18\,1–8\nPrier toujours sans se d
+ écourager.\n\nLire et prier: https://daily-word-reflections.github.io/?
+ d=2026-11-14&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 32e semaine du temps ordina
+ ire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:33e dimanche du temps ordinaire · Journée mondiale des pauvres
+DESCRIPTION:33e dimanche du temps ordinaire · Journée mondiale des pauv
+ res\nProverbes 31\,10–13.19–20.30–31 · Psaume 128\,1–2.3.4–5 
+ · 1 Thessaloniciens 5\,1–6 · Matthieu 25\,14–30\nDieu donne à cha
+ cun une fortune de dons.\n\nLire et prier: https://daily-word-reflection
+ s.github.io/?d=2026-11-15&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-15&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 33e dimanche du temps ordinaire · Journ
+ ée mondiale des pauvres
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Lundi de la 33e semaine du temps ordinaire
+DESCRIPTION:Lundi de la 33e semaine du temps ordinaire\nApocalypse 1\,1
+ –4 \; 2\,1–5 · Psaume 1\,1–2.3.4.6 · Luc 18\,35–43\nUne Églis
+ e très active peut perdre son premier amour.\n\nLire et prier: https://
+ daily-word-reflections.github.io/?d=2026-11-16&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Lundi de la 33e semaine du temps ordinai
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Mardi de la 33e semaine du temps ordinaire · Sainte Élisabeth d
+ e Hongrie\, religieuse
+DESCRIPTION:Mardi de la 33e semaine du temps ordinaire · Sainte Élisabe
+ th de Hongrie\, religieuse\nApocalypse 3\,1–6.14–22 · Psaume 15\,2
+ –3a.3bc–4ab.5 · Luc 19\,1–10\nLe Christ frappe \; il n'enfonce pa
+ s la porte.\n\nLire et prier: https://daily-word-reflections.github.io/?
+ d=2026-11-17&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 33e semaine du temps ordinai
+ re · Sainte Élisabeth de Hongrie\, religieuse
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Mercredi de la 33e semaine du temps ordinaire
+DESCRIPTION:Mercredi de la 33e semaine du temps ordinaire\nApocalypse 4\,
+ 1–11 · Psaume 150\,1b–2.3–4.5–6 · Luc 19\,11–28\nLe culte du
+  ciel ne cesse jamais \; chaque Messe s'y unit.\n\nLire et prier: https:
+ //daily-word-reflections.github.io/?d=2026-11-18&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 33e semaine du temps ordi
+ naire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Jeudi de la 33e semaine du temps ordinaire
+DESCRIPTION:Jeudi de la 33e semaine du temps ordinaire\nApocalypse 5\,1
+ –10 · Psaume 149\,1b–2.3–4.5–6a.9b · Luc 19\,41–44\nLe Lion 
+ de Juda est un Agneau immolé.\n\nLire et prier: https://daily-word-refl
+ ections.github.io/?d=2026-11-19&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 33e semaine du temps ordinai
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Vendredi de la 33e semaine du temps ordinaire
+DESCRIPTION:Vendredi de la 33e semaine du temps ordinaire\nApocalypse 10\
+ ,8–11 · Psaume 119\,14.24.72.103.111.131 · Luc 19\,45–48\nLa parol
+ e de Dieu s'assimile avant de s'annoncer.\n\nLire et prier: https://dail
+ y-word-reflections.github.io/?d=2026-11-20&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 33e semaine du temps ordi
+ naire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Samedi de la 33e semaine du temps ordinaire · Présentation de l
+ a Vierge Marie
+DESCRIPTION:Samedi de la 33e semaine du temps ordinaire · Présentation 
+ de la Vierge Marie\nApocalypse 11\,4–12 · Psaume 144\,1.2.9–10 · L
+ uc 20\,27–40\nDieu est le Dieu des vivants \; pour lui tous sont vivan
+ ts.\n\nLire et prier: https://daily-word-reflections.github.io/?d=2026-1
+ 1-21&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 33e semaine du temps ordina
+ ire · Présentation de la Vierge Marie
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Notre Seigneur Jésus Christ\, Roi de l'univers · Solennité
+DESCRIPTION:Notre Seigneur Jésus Christ\, Roi de l'univers · Solennité
+ \nÉzéchiel 34\,11–12.15–17 · Psaume 23\,1–2.2–3.5–6 · 1 Co
+ rinthiens 15\,20–26.28 · Matthieu 25\,31–46\nLe Christ Roi règne e
+ n berger.\n\nLire et prier: https://daily-word-reflections.github.io/?d=
+ 2026-11-22&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-22&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Notre Seigneur Jésus Christ\, Roi de l'
+ univers · Solennité
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Lundi de la 34e semaine du temps ordinaire
+DESCRIPTION:Lundi de la 34e semaine du temps ordinaire\nApocalypse 14\,1
+ –3.4b–5 · Psaume 24\,1b–2.3–4ab.5–6 · Luc 21\,1–4\nDieu me
+ sure les dons à l'amour\, non au montant.\n\nLire et prier: https://dai
+ ly-word-reflections.github.io/?d=2026-11-23&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Lundi de la 34e semaine du temps ordinai
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Mardi de la 34e semaine du temps ordinaire · Saint André Dung-L
+ ac et ses compagnons\, martyrs
+DESCRIPTION:Mardi de la 34e semaine du temps ordinaire · Saint André Du
+ ng-Lac et ses compagnons\, martyrs\nApocalypse 14\,14–19 · Psaume 96\
+ ,10.11–12.13 · Luc 21\,5–11\nMême les pierres du Temple tomberont 
+ \; la parole de Dieu demeure.\n\nLire et prier: https://daily-word-refle
+ ctions.github.io/?d=2026-11-24&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 34e semaine du temps ordinai
+ re · Saint André Dung-Lac et ses compagnons\, martyrs
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Mercredi de la 34e semaine du temps ordinaire
+DESCRIPTION:Mercredi de la 34e semaine du temps ordinaire\nApocalypse 15\
+ ,1–4 · Psaume 98\,1.2–3ab.7–8.9 · Luc 21\,12–19\nLa persécuti
+ on devient l'occasion de témoigner.\n\nLire et prier: https://daily-wor
+ d-reflections.github.io/?d=2026-11-25&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 34e semaine du temps ordi
+ naire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Jeudi de la 34e semaine du temps ordinaire
+DESCRIPTION:Jeudi de la 34e semaine du temps ordinaire\nApocalypse 18\,1
+ –2.21–23 \; 19\,1–3.9a · Psaume 100\,1b–2.3.4.5 · Luc 21\,20
+ –28\nCe qui fait défaillir les autres fait lever les yeux aux discipl
+ es.\n\nLire et prier: https://daily-word-reflections.github.io/?d=2026-1
+ 1-26&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 34e semaine du temps ordinai
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Vendredi de la 34e semaine du temps ordinaire
+DESCRIPTION:Vendredi de la 34e semaine du temps ordinaire\nApocalypse 20\
+ ,1–4.11–21\,2 · Psaume 84\,3.4.5–6a.8a · Luc 21\,29–33\nLes pa
+ roles du Christ dureront plus que le ciel et la terre.\n\nLire et prier:
+  https://daily-word-reflections.github.io/?d=2026-11-27&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 34e semaine du temps ordi
+ naire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Samedi de la 34e semaine du temps ordinaire
+DESCRIPTION:Samedi de la 34e semaine du temps ordinaire\nApocalypse 22\,1
+ –7 · Psaume 95\,1–2.3–5.6–7ab · Luc 21\,34–36\nLa Bible s'ac
+ hève là où elle a commencé : avec l'arbre de vie.\n\nLire et prier: 
+ https://daily-word-reflections.github.io/?d=2026-11-28&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 34e semaine du temps ordina
+ ire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:1er dimanche de l'Avent
+DESCRIPTION:1er dimanche de l'Avent\nIsaïe 63\,16b–17.19b \; 64\,2b–
+ 7 · Psaume 80\,2–3.15–16.18–19 · 1 Corinthiens 1\,3–9 · Marc 
+ 13\,33–37\nL'Avent commence par un désir : déchire les cieux et desc
+ ends.\n\nLire et prier: https://daily-word-reflections.github.io/?d=2026
+ -11-29&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-29&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 1er dimanche de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Saint André\, apôtre · Fête
+DESCRIPTION:Saint André\, apôtre · Fête\nRomains 10\,9–18 · Psaume
+  19\,8.9.10.11 · Matthieu 4\,18–22\nAndré fut le premier appelé.\n\
+ nLire et prier: https://daily-word-reflections.github.io/?d=2026-11-30&r
+ =lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Saint André\, apôtre · Fête
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Mardi de la 1re semaine de l'Avent
+DESCRIPTION:Mardi de la 1re semaine de l'Avent\nIsaïe 11\,1–10 · Psau
+ me 72\,1–2.7–8.12–13.17 · Luc 10\,21–24\nDieu fait naître une 
+ vie nouvelle d'une souche abattue.\n\nLire et prier: https://daily-word-
+ reflections.github.io/?d=2026-12-01&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 1re semaine de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Mercredi de la 1re semaine de l'Avent
+DESCRIPTION:Mercredi de la 1re semaine de l'Avent\nIsaïe 25\,6–10a · 
+ Psaume 23\,1–3a.3b–4.5.6 · Matthieu 15\,29–37\nDieu promet un fes
+ tin et la fin de la mort.\n\nLire et prier: https://daily-word-reflectio
+ ns.github.io/?d=2026-12-02&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 1re semaine de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Jeudi de la 1re semaine de l'Avent · Saint François Xavier\, pr
+ être
+DESCRIPTION:Jeudi de la 1re semaine de l'Avent · Saint François Xavier\
+ , prêtre\nIsaïe 26\,1–6 · Psaume 118\,1.8–9.19–21.25–27a · M
+ atthieu 7\,21.24–27\nDire Seigneur\, Seigneur ne suffit pas \; il faut
+  faire sa volonté.\n\nLire et prier: https://daily-word-reflections.git
+ hub.io/?d=2026-12-03&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 1re semaine de l'Avent · Sa
+ int François Xavier\, prêtre
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Vendredi de la 1re semaine de l'Avent
+DESCRIPTION:Vendredi de la 1re semaine de l'Avent\nIsaïe 29\,17–24 · 
+ Psaume 27\,1.4.13–14 · Matthieu 9\,27–31\nDieu promet que les aveug
+ les verront.\n\nLire et prier: https://daily-word-reflections.github.io/
+ ?d=2026-12-04&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 1re semaine de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Samedi de la 1re semaine de l'Avent
+DESCRIPTION:Samedi de la 1re semaine de l'Avent\nIsaïe 30\,19–21.23–
+ 26 · Psaume 147\,1–2.3–4.5–6 · Matthieu 9\,35–10\,1.5a.6–8\n
+ Dieu attend l'heure de faire grâce et entend notre cri.\n\nLire et prie
+ r: https://daily-word-reflections.github.io/?d=2026-12-05&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 1re semaine de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:2e dimanche de l'Avent
+DESCRIPTION:2e dimanche de l'Avent\nIsaïe 40\,1–5.9–11 · Psaume 85\
+ ,9–10.11–12.13–14 · 2 Pierre 3\,8–14 · Marc 1\,1–8\nLa premi
+ ère parole de Dieu est consolation.\n\nLire et prier: https://daily-wor
+ d-reflections.github.io/?d=2026-12-06&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-06&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 2e dimanche de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Lundi de la 2e semaine de l'Avent · Saint Ambroise\, évêque et
+  docteur de l'Église
+DESCRIPTION:Lundi de la 2e semaine de l'Avent · Saint Ambroise\, évêqu
+ e et docteur de l'Église\nIsaïe 35\,1–10 · Psaume 85\,9ab.10.11–1
+ 2.13–14 · Luc 5\,17–26\nDieu fait fleurir le désert.\n\nLire et pr
+ ier: https://daily-word-reflections.github.io/?d=2026-12-07&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Lundi de la 2e semaine de l'Avent · Sai
+ nt Ambroise\, évêque et docteur de l'Église
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Immaculée Conception de la Vierge Marie · Solennité
+DESCRIPTION:Immaculée Conception de la Vierge Marie · Solennité\nGenè
+ se 3\,9–15.20 · Psaume 98\,1.2–3ab.3cd–4 · Éphésiens 1\,3–6.
+ 11–12 · Luc 1\,26–38\nMarie a été préservée du péché originel
+  dès le premier instant.\n\nLire et prier: https://daily-word-reflectio
+ ns.github.io/?d=2026-12-08&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-08&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Immaculée Conception de la Vierge Marie
+  · Solennité
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Mercredi de la 2e semaine de l'Avent
+DESCRIPTION:Mercredi de la 2e semaine de l'Avent\nIsaïe 40\,25–31 · P
+ saume 103\,1–2.3–4.8.10 · Matthieu 11\,28–30\nDieu ne se fatigue 
+ jamais.\n\nLire et prier: https://daily-word-reflections.github.io/?d=20
+ 26-12-09&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 2e semaine de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Jeudi de la 2e semaine de l'Avent
+DESCRIPTION:Jeudi de la 2e semaine de l'Avent\nIsaïe 41\,13–20 · Psau
+ me 145\,1.9.10–11.12–13ab · Matthieu 11\,11–15\nDieu tient notre 
+ main droite.\n\nLire et prier: https://daily-word-reflections.github.io/
+ ?d=2026-12-10&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 2e semaine de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Vendredi de la 2e semaine de l'Avent
+DESCRIPTION:Vendredi de la 2e semaine de l'Avent\nIsaïe 48\,17–19 · P
+ saume 1\,1–2.3.4.6 · Matthieu 11\,16–19\nLes commandements de Dieu 
+ conduisent à une paix comme un fleuve.\n\nLire et prier: https://daily-
+ word-reflections.github.io/?d=2026-12-11&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 2e semaine de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Samedi de la 2e semaine de l'Avent · Notre-Dame de Guadalupe
+DESCRIPTION:Samedi de la 2e semaine de l'Avent · Notre-Dame de Guadalupe
+ \nSiracide 48\,1–4.9–11 · Psaume 80\,2ac.3b.15–16.18–19 · Matt
+ hieu 17\,9a.10–13\nÉlie était un prophète semblable au feu.\n\nLire
+  et prier: https://daily-word-reflections.github.io/?d=2026-12-12&r=lat&
+ l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 2e semaine de l'Avent · No
+ tre-Dame de Guadalupe
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:3e dimanche de l'Avent (Gaudete)
+DESCRIPTION:3e dimanche de l'Avent (Gaudete)\nIsaïe 61\,1–2a.10–11 
+ · Luc 1\,46–48.49–50.53–54 · 1 Thessaloniciens 5\,16–24 · Jea
+ n 1\,6–8.19–28\nLa joie est le cœur de l'Avent : le Seigneur est pr
+ oche.\n\nLire et prier: https://daily-word-reflections.github.io/?d=2026
+ -12-13&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-13&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 3e dimanche de l'Avent (Gaudete)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Lundi de la 3e semaine de l'Avent · Saint Jean de la Croix\, pr
+ être et docteur de l'Église
+DESCRIPTION:Lundi de la 3e semaine de l'Avent · Saint Jean de la Croix\,
+  prêtre et docteur de l'Église\nNombres 24\,2–7.15–17a · Psaume 2
+ 5\,4–5ab.6.7bc.8–9 · Matthieu 21\,23–27\nL'astre de Dieu se lève
+  même par un prophète inattendu.\n\nLire et prier: https://daily-word-
+ reflections.github.io/?d=2026-12-14&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Lundi de la 3e semaine de l'Avent · Sai
+ nt Jean de la Croix\, prêtre et docteur de l'Église
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Mardi de la 3e semaine de l'Avent
+DESCRIPTION:Mardi de la 3e semaine de l'Avent\nSophonie 3\,1–2.9–13 
+ · Psaume 34\,2–3.6–7.17–18.19.23 · Matthieu 21\,28–32\nL'aveni
+ r de Dieu appartient au petit reste humble.\n\nLire et prier: https://da
+ ily-word-reflections.github.io/?d=2026-12-15&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 3e semaine de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Mercredi de la 3e semaine de l'Avent
+DESCRIPTION:Mercredi de la 3e semaine de l'Avent\nIsaïe 45\,6b–8.18.21
+ b–25 · Psaume 85\,9ab.10.11–12.13–14 · Luc 7\,18b–23\nLe ciel 
+ fait pleuvoir le Juste \; la terre enfante le Sauveur.\n\nLire et prier:
+  https://daily-word-reflections.github.io/?d=2026-12-16&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 3e semaine de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:17 décembre · Férie de l'Avent (Ô Sagesse)
+DESCRIPTION:17 décembre · Férie de l'Avent (Ô Sagesse)\nGenèse 49\,2
+ .8–10 · Psaume 72\,1–2.3–4ab.7–8.17 · Matthieu 1\,1–17\nLes 
+ antiennes Ô commencent : Ô Sagesse\, viens !\n\nLire et prier: https:/
+ /daily-word-reflections.github.io/?d=2026-12-17&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 17 décembre · Férie de l'Avent (Ô Sa
+ gesse)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:18 décembre · Férie de l'Avent (Ô Adonaï)
+DESCRIPTION:18 décembre · Férie de l'Avent (Ô Adonaï)\nJérémie 23\
+ ,5–8 · Psaume 72\,1–2.12–13.18–19 · Matthieu 1\,18–25\nDieu 
+ suscite de David un germe juste.\n\nLire et prier: https://daily-word-re
+ flections.github.io/?d=2026-12-18&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 18 décembre · Férie de l'Avent (Ô Ad
+ onaï)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:19 décembre · Férie de l'Avent (Ô Rameau de Jessé)
+DESCRIPTION:19 décembre · Férie de l'Avent (Ô Rameau de Jessé)\nJuge
+ s 13\,2–7.24–25a · Psaume 71\,3–4a.5–6ab.16–17 · Luc 1\,5–
+ 25\nDieu change la stérilité en vie.\n\nLire et prier: https://daily-w
+ ord-reflections.github.io/?d=2026-12-19&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 19 décembre · Férie de l'Avent (Ô Ra
+ meau de Jessé)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Quatrième dimanche de l'Avent
+DESCRIPTION:Quatrième dimanche de l'Avent\n2 Samuel 7\,1–5.8b–12.14a
+ .16 · Psaume 89\,2–3.4–5.27.29 · Romains 16\,25–27 · Luc 1\,26
+ –38\nDavid voulait bâtir une maison à Dieu \; Dieu a bâti une maiso
+ n à David.\n\nLire et prier: https://daily-word-reflections.github.io/?
+ d=2026-12-20&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-20&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Quatrième dimanche de l'Avent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:21 décembre · Férie de l'Avent (Ô Soleil levant)
+DESCRIPTION:21 décembre · Férie de l'Avent (Ô Soleil levant)\nCantiqu
+ e des cantiques 2\,8–14 (ou Sophonie 3\,14–18a) · Psaume 33\,2–3.
+ 11–12.20–21 · Luc 1\,39–45\nLe bien-aimé vient en bondissant sur
+  les montagnes.\n\nLire et prier: https://daily-word-reflections.github.
+ io/?d=2026-12-21&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 21 décembre · Férie de l'Avent (Ô So
+ leil levant)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:22 décembre · Férie de l'Avent (Ô Roi des nations)
+DESCRIPTION:22 décembre · Férie de l'Avent (Ô Roi des nations)\n1 Sam
+ uel 1\,24–28 · 1 Samuel 2\,1.4–5.6–7.8abcd · Luc 1\,46–56\nAnn
+ e a rendu à Dieu le fils qu'il lui avait donné.\n\nLire et prier: http
+ s://daily-word-reflections.github.io/?d=2026-12-22&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 22 décembre · Férie de l'Avent (Ô Ro
+ i des nations)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:23 décembre · Férie de l'Avent (Ô Emmanuel)
+DESCRIPTION:23 décembre · Férie de l'Avent (Ô Emmanuel)\nMalachie 3\,
+ 1–4.23–24 · Psaume 25\,4–5ab.8–9.10.14 · Luc 1\,57–66\nLe me
+ ssager de Malachie naît : Jean.\n\nLire et prier: https://daily-word-re
+ flections.github.io/?d=2026-12-23&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 23 décembre · Férie de l'Avent (Ô Em
+ manuel)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:24 décembre · Férie de l'Avent (messe du matin)
+DESCRIPTION:24 décembre · Férie de l'Avent (messe du matin)\n2 Samuel 
+ 7\,1–5.8b–12.14a.16 · Psaume 89\,2–3.4–5.27.29 · Luc 1\,67–7
+ 9\nDieu a fait surgir la force qui nous sauve dans la maison de David.\n
+ \nLire et prier: https://daily-word-reflections.github.io/?d=2026-12-24&
+ r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 24 décembre · Férie de l'Avent (messe
+  du matin)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Nativité du Seigneur (Noël) · Solennité
+DESCRIPTION:Nativité du Seigneur (Noël) · Solennité\nIsaïe 52\,7–1
+ 0 · Psaume 98\,1.2–3ab.3cd–4.5–6 · Hébreux 1\,1–6 · Jean 1\,
+ 1–18 (ou 1\,1–5.9–14)\nLe Verbe éternel s'est fait chair\, il a h
+ abité parmi nous.\n\nLire et prier: https://daily-word-reflections.gith
+ ub.io/?d=2026-12-25&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-25&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Nativité du Seigneur (Noël) · Solenni
+ té
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Saint Étienne\, premier martyr · Fête
+DESCRIPTION:Saint Étienne\, premier martyr · Fête\nActes des Apôtres 
+ 6\,8–10 \; 7\,54–59 · Psaume 31\,3cd–4.6.8ab.16bc.17 · Matthieu 
+ 10\,17–22\nLe lendemain de Noël\, l'Église fête son premier martyr.
+ \n\nLire et prier: https://daily-word-reflections.github.io/?d=2026-12-2
+ 6&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-26&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Saint Étienne\, premier martyr · Fête
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Sainte Famille de Jésus\, Marie et Joseph · Fête
+DESCRIPTION:Sainte Famille de Jésus\, Marie et Joseph · Fête\nGenèse 
+ 15\,1–6 \; 21\,1–3 · Psaume 105\,1–2.3–4.5–6.8–9 · Hébreu
+ x 11\,8.11–12.17–19 · Luc 2\,22–40 (ou 2\,22.39–40)\nLe Fils de
+  Dieu a grandi dans une famille.\n\nLire et prier: https://daily-word-re
+ flections.github.io/?d=2026-12-27&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-27&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Sainte Famille de Jésus\, Marie et Jose
+ ph · Fête
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Saints Innocents\, martyrs · Fête
+DESCRIPTION:Saints Innocents\, martyrs · Fête\n1 Jean 1\,5 – 2\,2 · 
+ Psaume 124\,2–3.4–5.7b–8 · Matthieu 2\,13–18\nHérode a tué le
+ s enfants de Bethléem pour détruire le Roi nouveau-né.\n\nLire et pri
+ er: https://daily-word-reflections.github.io/?d=2026-12-28&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Saints Innocents\, martyrs · Fête
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:29 décembre · 5e jour dans l'octave de Noël
+DESCRIPTION:29 décembre · 5e jour dans l'octave de Noël\n1 Jean 2\,3
+ –11 · Psaume 96\,1–2a.2b–3.5b–6 · Luc 2\,22–35\nSyméon\, po
+ ussé par l'Esprit\, prend le Sauveur dans ses bras.\n\nLire et prier: h
+ ttps://daily-word-reflections.github.io/?d=2026-12-29&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-29&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 29 décembre · 5e jour dans l'octave de
+  Noël
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:30 décembre · 6e jour dans l'octave de Noël
+DESCRIPTION:30 décembre · 6e jour dans l'octave de Noël\n1 Jean 2\,12
+ –17 · Psaume 96\,7–8a.8b–9.10 · Luc 2\,36–40\nLa prière de to
+ ute une vie a préparé Anne à reconnaître le Christ.\n\nLire et prier
+ : https://daily-word-reflections.github.io/?d=2026-12-30&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-30&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 30 décembre · 6e jour dans l'octave de
+  Noël
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:31 décembre · 7e jour dans l'octave de Noël
+DESCRIPTION:31 décembre · 7e jour dans l'octave de Noël\n1 Jean 2\,18
+ –21 · Psaume 96\,1–2.11–12.13 · Jean 1\,1–18\nLe Verbe qui ét
+ ait au commencement est le Seigneur de tout le temps.\n\nLire et prier: 
+ https://daily-word-reflections.github.io/?d=2026-12-31&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 31 décembre · 7e jour dans l'octave de
+  Noël
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Sainte Marie\, Mère de Dieu · Solennité · Jour octave de Noë
+ l
+DESCRIPTION:Sainte Marie\, Mère de Dieu · Solennité · Jour octave de 
+ Noël\nNombres 6\,22–27 · Psaume 67\,2–3.5.6.8 · Galates 4\,4–7 
+ · Luc 2\,16–21\nMarie est vraiment la Mère de Dieu\, parce que son F
+ ils est Dieu.\n\nLire et prier: https://daily-word-reflections.github.io
+ /?d=2027-01-01&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-01&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Sainte Marie\, Mère de Dieu · Solennit
+ é · Jour octave de Noël
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:2 janvier · Saints Basile le Grand et Grégoire de Nazianze\, é
+ vêques et docteurs de l'Église · Mémoire
+DESCRIPTION:2 janvier · Saints Basile le Grand et Grégoire de Nazianze\
+ , évêques et docteurs de l'Église · Mémoire\n1 Jean 2\,22–28 · P
+ saume 98\,1.2–3ab.3cd–4 · Jean 1\,19–28\nJean le Baptiste est une
+  voix qui désigne le Christ.\n\nLire et prier: https://daily-word-refle
+ ctions.github.io/?d=2027-01-02&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 2 janvier · Saints Basile le Grand et G
+ régoire de Nazianze\, évêques et docteurs de l'Église · Mémoire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Épiphanie du Seigneur · Solennité
+DESCRIPTION:Épiphanie du Seigneur · Solennité\nIsaïe 60\,1–6 · Psa
+ ume 72\,1–2.7–8.10–11.12–13 · Éphésiens 3\,2–3a.5–6 · Ma
+ tthieu 2\,1–12\nLe Christ se révèle à toutes les nations.\n\nLire e
+ t prier: https://daily-word-reflections.github.io/?d=2027-01-03&r=lat&l=
+ fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-03&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Épiphanie du Seigneur · Solennité
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:4 janvier · Lundi après l'Épiphanie
+DESCRIPTION:4 janvier · Lundi après l'Épiphanie\n1 Jean 3\,22–4\,6 
+ · Psaume 2\,7–8.10–12a · Matthieu 4\,12–17.23–25\nJésus comme
+ nce sa prédication là où le peuple habite dans les ténèbres.\n\nLir
+ e et prier: https://daily-word-reflections.github.io/?d=2027-01-04&r=lat
+ &l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 4 janvier · Lundi après l'Épiphanie
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:5 janvier · Mardi après l'Épiphanie
+DESCRIPTION:5 janvier · Mardi après l'Épiphanie\n1 Jean 4\,7–10 · P
+ saume 72\,1–2.3–4.7–8 · Marc 6\,34–44\nDieu est amour\, et il n
+ ous a aimés le premier.\n\nLire et prier: https://daily-word-reflection
+ s.github.io/?d=2027-01-05&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 5 janvier · Mardi après l'Épiphanie
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:6 janvier · Mercredi après l'Épiphanie
+DESCRIPTION:6 janvier · Mercredi après l'Épiphanie\n1 Jean 4\,11–18 
+ · Psaume 72\,1–2.10.12–13 · Marc 6\,45–52\nJésus prie sur la mo
+ ntagne et nous voit peiner.\n\nLire et prier: https://daily-word-reflect
+ ions.github.io/?d=2027-01-06&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-06&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 6 janvier · Mercredi après l'Épiphani
+ e
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:7 janvier · Jeudi après l'Épiphanie
+DESCRIPTION:7 janvier · Jeudi après l'Épiphanie\n1 Jean 4\,19–5\,4 
+ · Psaume 72\,1–2.14.15bc.17 · Luc 4\,14–22a\nJésus est l'Oint\, e
+ nvoyé aux pauvres et aux captifs.\n\nLire et prier: https://daily-word-
+ reflections.github.io/?d=2027-01-07&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 7 janvier · Jeudi après l'Épiphanie
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:8 janvier · Vendredi après l'Épiphanie
+DESCRIPTION:8 janvier · Vendredi après l'Épiphanie\n1 Jean 5\,5–13 
+ · Psaume 147\,12–13.14–15.19–20 · Luc 5\,12–16\nLe lépreux a 
+ confiance en la puissance de Jésus et s'en remet à sa volonté.\n\nLir
+ e et prier: https://daily-word-reflections.github.io/?d=2027-01-08&r=lat
+ &l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 8 janvier · Vendredi après l'Épiphani
+ e
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:9 janvier · Samedi après l'Épiphanie
+DESCRIPTION:9 janvier · Samedi après l'Épiphanie\n1 Jean 5\,14–21 ·
+  Psaume 149\,1–2.3–4.5.6a.9b · Jean 3\,22–30\nJésus est l'Époux
+  \; Jean est son ami.\n\nLire et prier: https://daily-word-reflections.g
+ ithub.io/?d=2027-01-09&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 9 janvier · Samedi après l'Épiphanie
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Baptême du Seigneur · Fête
+DESCRIPTION:Baptême du Seigneur · Fête\nIsaïe 42\,1–4.6–7 · Psau
+ me 29\,1a.2.3ac–4.3b.9b–10 · Actes 10\,34–38 · Marc 1\,7–11\nA
+ u Jourdain\, les cieux s'ouvrent et la Trinité se révèle.\n\nLire et 
+ prier: https://daily-word-reflections.github.io/?d=2027-01-10&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-10&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Baptême du Seigneur · Fête
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Lundi de la 1re semaine du temps ordinaire
+DESCRIPTION:Lundi de la 1re semaine du temps ordinaire\nHébreux 1\,1–6
+  · Psaume 97\,1.2b.6.7c.9 · Marc 1\,14–20\nDieu a dit sa Parole déf
+ initive dans son Fils.\n\nLire et prier: https://daily-word-reflections.
+ github.io/?d=2027-01-11&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Lundi de la 1re semaine du temps ordinai
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Mardi de la 1re semaine du temps ordinaire
+DESCRIPTION:Mardi de la 1re semaine du temps ordinaire\nHébreux 2\,5–1
+ 2 · Psaume 8\,2.5.6–7.8–9 · Marc 1\,21–28\nJésus enseigne avec 
+ sa propre autorité.\n\nLire et prier: https://daily-word-reflections.gi
+ thub.io/?d=2027-01-12&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 1re semaine du temps ordinai
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Mercredi de la 1re semaine du temps ordinaire
+DESCRIPTION:Mercredi de la 1re semaine du temps ordinaire\nHébreux 2\,14
+ –18 · Psaume 105\,1–2.3–4.6–7.8–9 · Marc 1\,29–39\nJésus 
+ relève la femme malade\, et elle sert.\n\nLire et prier: https://daily-
+ word-reflections.github.io/?d=2027-01-13&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 1re semaine du temps ordi
+ naire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Jeudi de la 1re semaine du temps ordinaire
+DESCRIPTION:Jeudi de la 1re semaine du temps ordinaire\nHébreux 3\,7–1
+ 4 · Psaume 95\,6–7c.8–9.10–11 · Marc 1\,40–45\nAujourd'hui\, n
+ e fermez pas votre cœur.\n\nLire et prier: https://daily-word-reflectio
+ ns.github.io/?d=2027-01-14&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 1re semaine du temps ordinai
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Vendredi de la 1re semaine du temps ordinaire
+DESCRIPTION:Vendredi de la 1re semaine du temps ordinaire\nHébreux 4\,1
+ –5.11 · Psaume 78\,3.4bc.6c–7.8 · Marc 2\,1–12\nQuatre amis port
+ ent le paralysé jusqu'à Jésus.\n\nLire et prier: https://daily-word-r
+ eflections.github.io/?d=2027-01-15&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 1re semaine du temps ordi
+ naire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Samedi de la 1re semaine du temps ordinaire
+DESCRIPTION:Samedi de la 1re semaine du temps ordinaire\nHébreux 4\,12
+ –16 · Psaume 19\,8.9.10.15 · Marc 2\,13–17\nLa parole de Dieu est 
+ vivante et voit le cœur.\n\nLire et prier: https://daily-word-reflectio
+ ns.github.io/?d=2027-01-16&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 1re semaine du temps ordina
+ ire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:2e dimanche du temps ordinaire
+DESCRIPTION:2e dimanche du temps ordinaire\n1 Samuel 3\,3b–10.19 · Psa
+ ume 40\,2.4ab.7–8a.8b–9.10 · 1 Corinthiens 6\,13c–15a.17–20 · 
+ Jean 1\,35–42\nJésus demande : que cherchez-vous ?\n\nLire et prier: 
+ https://daily-word-reflections.github.io/?d=2027-01-17&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-17&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 2e dimanche du temps ordinaire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Lundi de la 2e semaine du temps ordinaire
+DESCRIPTION:Lundi de la 2e semaine du temps ordinaire\nHébreux 5\,1–10
+  · Psaume 110\,1.2.3.4 · Marc 2\,18–22\nLe Christ grand prêtre a ap
+ pris l'obéissance par la souffrance.\n\nLire et prier: https://daily-wo
+ rd-reflections.github.io/?d=2027-01-18&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Lundi de la 2e semaine du temps ordinair
+ e
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Mardi de la 2e semaine du temps ordinaire
+DESCRIPTION:Mardi de la 2e semaine du temps ordinaire\nHébreux 6\,10–2
+ 0 · Psaume 111\,1–2.4–5.9.10c · Marc 2\,23–28\nDieu n'oublie pas
+  l'amour que nous montrons.\n\nLire et prier: https://daily-word-reflect
+ ions.github.io/?d=2027-01-19&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 2e semaine du temps ordinair
+ e
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Mercredi de la 2e semaine du temps ordinaire · Saint Fabien et s
+ aint Sébastien
+DESCRIPTION:Mercredi de la 2e semaine du temps ordinaire · Saint Fabien 
+ et saint Sébastien\nHébreux 7\,1–3.15–17 · Psaume 110\,1.2.3.4 ·
+  Marc 3\,1–6\nLe Christ est prêtre pour toujours\, comme Melkisédek.
+ \n\nLire et prier: https://daily-word-reflections.github.io/?d=2027-01-2
+ 0&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 2e semaine du temps ordin
+ aire · Saint Fabien et saint Sébastien
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Sainte Agnès\, vierge et martyre
+DESCRIPTION:Sainte Agnès\, vierge et martyre\nHébreux 7\,25–8\,6 · P
+ saume 40\,7–8a.8b–9.10.17 · Marc 3\,7–12\nLe Christ est toujours 
+ vivant pour intercéder pour nous.\n\nLire et prier: https://daily-word-
+ reflections.github.io/?d=2027-01-21&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Sainte Agnès\, vierge et martyre
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Vendredi de la 2e semaine du temps ordinaire
+DESCRIPTION:Vendredi de la 2e semaine du temps ordinaire\nHébreux 8\,6
+ –13 · Psaume 85\,8.10.11–12.13–14 · Marc 3\,13–19\nDans l'Alli
+ ance nouvelle\, Dieu écrit sa loi sur nos cœurs.\n\nLire et prier: htt
+ ps://daily-word-reflections.github.io/?d=2027-01-22&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 2e semaine du temps ordin
+ aire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Samedi de la 2e semaine du temps ordinaire
+DESCRIPTION:Samedi de la 2e semaine du temps ordinaire\nHébreux 9\,2–3
+ .11–14 · Psaume 47\,2–3.6–7.8–9 · Marc 3\,20–21\nLe Christ e
+ st entré une fois pour toutes avec son propre sang.\n\nLire et prier: h
+ ttps://daily-word-reflections.github.io/?d=2027-01-23&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 2e semaine du temps ordinai
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:3e dimanche du temps ordinaire · Dimanche de la Parole de Dieu
+DESCRIPTION:3e dimanche du temps ordinaire · Dimanche de la Parole de Di
+ eu\nJonas 3\,1–5.10 · Psaume 25\,4–5.6–7.8–9 · 1 Corinthiens 7
+ \,29–31 · Marc 1\,14–20\nLes temps sont accomplis \; le Royaume s'e
+ st approché.\n\nLire et prier: https://daily-word-reflections.github.io
+ /?d=2027-01-24&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-24&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 3e dimanche du temps ordinaire · Dimanc
+ he de la Parole de Dieu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Conversion de saint Paul\, apôtre
+DESCRIPTION:Conversion de saint Paul\, apôtre\nActes 22\,3–16 (ou Acte
+ s 9\,1–22) · Psaume 117\,1.2 · Marc 16\,15–18\nSaül le persécute
+ ur a rencontré Jésus ressuscité sur la route de Damas.\n\nLire et pri
+ er: https://daily-word-reflections.github.io/?d=2027-01-25&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Conversion de saint Paul\, apôtre
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Saint Timothée et saint Tite\, évêques
+DESCRIPTION:Saint Timothée et saint Tite\, évêques\n2 Timothée 1\,1
+ –8 (ou Tite 1\,1–5) · Psaume 96\,1–2a.2b–3.7–8a.10 · Marc 3\
+ ,31–35\nLa foi se transmet dans les familles\, comme pour Timothée.\n
+ \nLire et prier: https://daily-word-reflections.github.io/?d=2027-01-26&
+ r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Saint Timothée et saint Tite\, évêque
+ s
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Mercredi de la 3e semaine du temps ordinaire
+DESCRIPTION:Mercredi de la 3e semaine du temps ordinaire\nHébreux 10\,11
+ –18 · Psaume 110\,1.2.3.4 · Marc 4\,1–20\nL'unique sacrifice du Ch
+ rist nous mène à la perfection pour toujours.\n\nLire et prier: https:
+ //daily-word-reflections.github.io/?d=2027-01-27&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 3e semaine du temps ordin
+ aire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Saint Thomas d'Aquin\, prêtre et docteur de l'Église
+DESCRIPTION:Saint Thomas d'Aquin\, prêtre et docteur de l'Église\nHébr
+ eux 10\,19–25 · Psaume 24\,1–2.3–4ab.5–6 · Marc 4\,21–25\nPa
+ r Jésus\, nous nous approchons de Dieu avec assurance.\n\nLire et prier
+ : https://daily-word-reflections.github.io/?d=2027-01-28&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Saint Thomas d'Aquin\, prêtre et docteu
+ r de l'Église
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Vendredi de la 3e semaine du temps ordinaire
+DESCRIPTION:Vendredi de la 3e semaine du temps ordinaire\nHébreux 10\,32
+ –39 · Psaume 37\,3–4.5–6.23–24.39–40 · Marc 4\,26–34\nNe p
+ erdez pas votre assurance \; vous avez besoin d'endurance.\n\nLire et pr
+ ier: https://daily-word-reflections.github.io/?d=2027-01-29&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 3e semaine du temps ordin
+ aire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Samedi de la 3e semaine du temps ordinaire
+DESCRIPTION:Samedi de la 3e semaine du temps ordinaire\nHébreux 11\,1–
+ 2.8–19 · Luc 1\,69–70.71–72.73–75 · Marc 4\,35–41\nLa foi es
+ t une manière de posséder déjà ce qu'on espère.\n\nLire et prier: h
+ ttps://daily-word-reflections.github.io/?d=2027-01-30&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 3e semaine du temps ordinai
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:4e dimanche du temps ordinaire
+DESCRIPTION:4e dimanche du temps ordinaire\nDeutéronome 18\,15–20 · P
+ saume 95\,1–2.6–7.7–9 · 1 Corinthiens 7\,32–35 · Marc 1\,21–
+ 28\nDieu a promis un prophète comme Moïse \; Jésus est ce prophète.\
+ n\nLire et prier: https://daily-word-reflections.github.io/?d=2027-01-31
+ &r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-01-31&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 4e dimanche du temps ordinaire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Lundi de la 4e semaine du temps ordinaire
+DESCRIPTION:Lundi de la 4e semaine du temps ordinaire\nHébreux 11\,32–
+ 40 · Psaume 31\,20.21.22.23.24 · Marc 5\,1–20\nLes héros de la foi 
+ ont souffert\, et pourtant ils ont cru.\n\nLire et prier: https://daily-
+ word-reflections.github.io/?d=2027-02-01&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Lundi de la 4e semaine du temps ordinair
+ e
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Présentation du Seigneur
+DESCRIPTION:Présentation du Seigneur\nMalachie 3\,1–4 (ou Hébreux 2\,
+ 14–18) · Psaume 24\,7.8.9.10 · Luc 2\,22–40 (ou 2\,22–32)\nQuara
+ nte jours après sa naissance\, Jésus est présenté au Temple.\n\nLire
+  et prier: https://daily-word-reflections.github.io/?d=2027-02-02&r=lat&
+ l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-02&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Présentation du Seigneur
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Mercredi de la 4e semaine du temps ordinaire · Saint Blaise \; s
+ aint Anschaire
+DESCRIPTION:Mercredi de la 4e semaine du temps ordinaire · Saint Blaise 
+ \; saint Anschaire\nHébreux 12\,4–7.11–15 · Psaume 103\,1–2.13
+ –14.17–18a · Marc 6\,1–6\nDieu nous corrige comme un Père\, pour
+  notre sainteté.\n\nLire et prier: https://daily-word-reflections.githu
+ b.io/?d=2027-02-03&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 4e semaine du temps ordin
+ aire · Saint Blaise \; saint Anschaire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Jeudi de la 4e semaine du temps ordinaire
+DESCRIPTION:Jeudi de la 4e semaine du temps ordinaire\nHébreux 12\,18–
+ 19.21–24 · Psaume 48\,2–3a.3b–4.9.10–11 · Marc 6\,7–13\nNous
+  ne sommes pas venus vers le Sinaï qui effraie\, mais vers Sion qui ré
+ jouit.\n\nLire et prier: https://daily-word-reflections.github.io/?d=202
+ 7-02-04&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 4e semaine du temps ordinair
+ e
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Sainte Agathe\, vierge et martyre
+DESCRIPTION:Sainte Agathe\, vierge et martyre\nHébreux 13\,1–8 · Psau
+ me 27\,1.3.5.8b–9abc · Marc 6\,14–29\nQue l'amour fraternel et l'ho
+ spitalité demeurent.\n\nLire et prier: https://daily-word-reflections.g
+ ithub.io/?d=2027-02-05&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Sainte Agathe\, vierge et martyre
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Saint Paul Miki et ses compagnons\, martyrs
+DESCRIPTION:Saint Paul Miki et ses compagnons\, martyrs\nHébreux 13\,15
+ –17.20–21 · Psaume 23\,1–3a.3b–4.5.6 · Marc 6\,30–34\nOffrez
+  à Dieu un sacrifice de louange et de partage.\n\nLire et prier: https:
+ //daily-word-reflections.github.io/?d=2027-02-06&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Saint Paul Miki et ses compagnons\, mart
+ yrs
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:5e dimanche du temps ordinaire
+DESCRIPTION:5e dimanche du temps ordinaire\nJob 7\,1–4.6–7 · Psaume 
+ 147\,1–2.3–4.5–6 · 1 Corinthiens 9\,16–19.22–23 · Marc 1\,29
+ –39\nJob crie dans sa longue nuit de souffrance.\n\nLire et prier: htt
+ ps://daily-word-reflections.github.io/?d=2027-02-07&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-07&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 5e dimanche du temps ordinaire
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Lundi de la 5e semaine du temps ordinaire
+DESCRIPTION:Lundi de la 5e semaine du temps ordinaire\nGenèse 1\,1–19 
+ · Psaume 104\,1–2a.5–6.10.12.24.35c · Marc 6\,53–56\nAu commence
+ ment\, Dieu créa le ciel et la terre.\n\nLire et prier: https://daily-w
+ ord-reflections.github.io/?d=2027-02-08&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Lundi de la 5e semaine du temps ordinair
+ e
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Mardi de la 5e semaine du temps ordinaire
+DESCRIPTION:Mardi de la 5e semaine du temps ordinaire\nGenèse 1\,20–2\
+ ,4a · Psaume 8\,4–5.6–7.8–9 · Marc 7\,1–13\nDieu créa l'homme
+  à son image\, homme et femme.\n\nLire et prier: https://daily-word-ref
+ lections.github.io/?d=2027-02-09&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 5e semaine du temps ordinair
+ e
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nJoël 2\,12–18 · Psaume 51\,3–4.5
+ –6a.12–13.14.17 · 2 Corinthiens 5\,20–6\,2 · Matthieu 6\,1–6.1
+ 6–18\nRevenez au Seigneur de tout votre cœur \; déchirez vos cœurs 
+ et non vos vêtements.\n\nLire et prier: https://daily-word-reflections.
+ github.io/?d=2027-02-10&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi des Cendres
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Jeudi après les Cendres
+DESCRIPTION:Jeudi après les Cendres\nDeutéronome 30\,15–20 · Psaume 
+ 1\,1–2.3.4.6 · Luc 9\,22–25\nDieu place devant nous la vie et la mo
+ rt : choisis la vie.\n\nLire et prier: https://daily-word-reflections.gi
+ thub.io/?d=2027-02-11&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi après les Cendres
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Vendredi après les Cendres
+DESCRIPTION:Vendredi après les Cendres\nIsaïe 58\,1–9a · Psaume 51\,
+ 3–4.5–6a.18–19 · Matthieu 9\,14–15\nDieu rejette un jeûne qui 
+ ignore les pauvres et opprime les travailleurs.\n\nLire et prier: https:
+ //daily-word-reflections.github.io/?d=2027-02-12&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi après les Cendres
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Samedi après les Cendres
+DESCRIPTION:Samedi après les Cendres\nIsaïe 58\,9b–14 · Psaume 86\,1
+ –2.3–4.5–6 · Luc 5\,27–32\nFaites disparaître le doigt accusat
+ eur et la parole malfaisante.\n\nLire et prier: https://daily-word-refle
+ ctions.github.io/?d=2027-02-13&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi après les Cendres
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:1er dimanche de Carême
+DESCRIPTION:1er dimanche de Carême\nGenèse 9\,8–15 · Psaume 25\,4–
+ 5.6–7.8–9 · 1 Pierre 3\,18–22 · Marc 1\,12–15\nDieu a posé so
+ n arc dans les nuées\, signe de son alliance avec toute la création.\n
+ \nLire et prier: https://daily-word-reflections.github.io/?d=2027-02-14&
+ r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-14&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 1er dimanche de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Lundi de la 1re semaine de Carême
+DESCRIPTION:Lundi de la 1re semaine de Carême\nLévitique 19\,1–2.11
+ –18 · Psaume 19\,8.9.10.15 · Matthieu 25\,31–46\nDieu dit : soyez 
+ saints\, car je suis saint \; ne trichez pas\, ne mentez pas\, ne gardez
+  pas de rancune.\n\nLire et prier: https://daily-word-reflections.github
+ .io/?d=2027-02-15&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Lundi de la 1re semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Mardi de la 1re semaine de Carême
+DESCRIPTION:Mardi de la 1re semaine de Carême\nIsaïe 55\,10–11 · Psa
+ ume 34\,4–5.6–7.16–17.18–19 · Matthieu 6\,7–15\nLa Parole de 
+ Dieu est comme la pluie : elle porte toujours du fruit.\n\nLire et prier
+ : https://daily-word-reflections.github.io/?d=2027-02-16&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 1re semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Mercredi de la 1re semaine de Carême
+DESCRIPTION:Mercredi de la 1re semaine de Carême\nJonas 3\,1–10 · Psa
+ ume 51\,3–4.12–13.18–19 · Luc 11\,29–32\nDieu donne à Jonas un
+ e seconde chance\, et Jonas prêche à Ninive.\n\nLire et prier: https:/
+ /daily-word-reflections.github.io/?d=2027-02-17&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 1re semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Jeudi de la 1re semaine de Carême
+DESCRIPTION:Jeudi de la 1re semaine de Carême\nEsther C\,12.14–16.23
+ –25 (additions grecques \; dans de nombreuses Bibles 14\,1.3–5.12–
+ 14) · Psaume 138\,1–2a.2bc–3.7c–8 · Matthieu 7\,7–12\nLa reine
+  Esther\, seule et en danger\, prie Dieu de lui donner courage et secour
+ s.\n\nLire et prier: https://daily-word-reflections.github.io/?d=2027-02
+ -18&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 1re semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Vendredi de la 1re semaine de Carême
+DESCRIPTION:Vendredi de la 1re semaine de Carême\nÉzéchiel 18\,21–28
+  · Psaume 130\,1–2.3–4.5–6.7–8 · Matthieu 5\,20–26\nDieu veu
+ t que le pécheur se détourne de ses chemins et qu'il vive\, et non qu'
+ il meure.\n\nLire et prier: https://daily-word-reflections.github.io/?d=
+ 2027-02-19&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 1re semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Samedi de la 1re semaine de Carême
+DESCRIPTION:Samedi de la 1re semaine de Carême\nDeutéronome 26\,16–19
+  · Psaume 119\,1–2.4–5.7–8 · Matthieu 5\,43–48\nDieu et Israë
+ l concluent une alliance : tu es mon peuple\, mon trésor.\n\nLire et pr
+ ier: https://daily-word-reflections.github.io/?d=2027-02-20&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 1re semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:2e dimanche de Carême
+DESCRIPTION:2e dimanche de Carême\nGenèse 22\,1–2.9a.10–13.15–18 
+ · Psaume 116\,10.15.16–17.18–19 · Romains 8\,31b–34 · Marc 9\,2
+ –10\nAbraham est prêt à donner à Dieu son fils unique\, et Dieu fou
+ rnit un bélier à sa place.\n\nLire et prier: https://daily-word-reflec
+ tions.github.io/?d=2027-02-21&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-21&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 2e dimanche de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Chaire de saint Pierre\, apôtre
+DESCRIPTION:Chaire de saint Pierre\, apôtre\n1 Pierre 5\,1–4 · Psaume
+  23\,1–3a.4.5.6 · Matthieu 16\,13–19\nPierre a confessé Jésus com
+ me le Christ\, le Fils du Dieu vivant.\n\nLire et prier: https://daily-w
+ ord-reflections.github.io/?d=2027-02-22&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-22&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Chaire de saint Pierre\, apôtre
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-23-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Mardi de la 2e semaine de Carême
+DESCRIPTION:Mardi de la 2e semaine de Carême\nIsaïe 1\,10.16–20 · Ps
+ aume 50\,8–9.16–17.21.23 · Matthieu 23\,1–12\nDieu invite les pé
+ cheurs : si vos péchés sont comme l'écarlate\, ils deviendront blancs
+  comme la neige.\n\nLire et prier: https://daily-word-reflections.github
+ .io/?d=2027-02-23&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 2e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Mercredi de la 2e semaine de Carême
+DESCRIPTION:Mercredi de la 2e semaine de Carême\nJérémie 18\,18–20 
+ · Psaume 31\,5–6.14.15–16 · Matthieu 20\,17–28\nJérémie a reç
+ u le mal en échange du bien qu'il avait fait\, et il a continué de pri
+ er.\n\nLire et prier: https://daily-word-reflections.github.io/?d=2027-0
+ 2-24&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 2e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Jeudi de la 2e semaine de Carême
+DESCRIPTION:Jeudi de la 2e semaine de Carême\nJérémie 17\,5–10 · Ps
+ aume 1\,1–2.3.4.6 · Luc 16\,19–31\nCeux qui mettent leur foi dans l
+ e Seigneur sont comme un arbre planté près des eaux.\n\nLire et prier:
+  https://daily-word-reflections.github.io/?d=2027-02-25&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 2e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Vendredi de la 2e semaine de Carême
+DESCRIPTION:Vendredi de la 2e semaine de Carême\nGenèse 37\,3–4.12–
+ 13a.17b–28 · Psaume 105\,16–17.18–19.20–21 · Matthieu 21\,33
+ –43.45–46\nJoseph\, le fils bien-aimé\, a été vendu par ses frèr
+ es envieux \; Dieu l'a changé en bien.\n\nLire et prier: https://daily-
+ word-reflections.github.io/?d=2027-02-26&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 2e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Samedi de la 2e semaine de Carême
+DESCRIPTION:Samedi de la 2e semaine de Carême\nMichée 7\,14–15.18–2
+ 0 · Psaume 103\,1–2.3–4.9–10.11–12 · Luc 15\,1–3.11–32\nDi
+ eu aime la miséricorde et jette nos péchés au fond de la mer.\n\nLire
+  et prier: https://daily-word-reflections.github.io/?d=2027-02-27&r=lat&
+ l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 2e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:3e dimanche de Carême
+DESCRIPTION:3e dimanche de Carême\nExode 20\,1–17 (ou 20\,1–3.7–8.
+ 12–17) · Psaume 19\,8.9.10.11 · 1 Corinthiens 1\,22–25 · Jean 2\,
+ 13–25\nDieu a donné les dix commandements à un peuple qu'il avait li
+ béré.\n\nLire et prier: https://daily-word-reflections.github.io/?d=20
+ 27-02-28&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-02-28&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 3e dimanche de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-01-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Lundi de la 3e semaine de Carême
+DESCRIPTION:Lundi de la 3e semaine de Carême\n2 Rois 5\,1–15ab · Psau
+ me 42\,2–3 \; 43\,3–4 · Luc 4\,24–30\nNaaman\, un chef d'armée o
+ rgueilleux\, fut guéri de la lèpre en se baignant sept fois dans le Jo
+ urdain.\n\nLire et prier: https://daily-word-reflections.github.io/?d=20
+ 27-03-01&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Lundi de la 3e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Mardi de la 3e semaine de Carême
+DESCRIPTION:Mardi de la 3e semaine de Carême\nDaniel 3\,25.34–43 · Ps
+ aume 25\,4–5ab.6.7bc.8–9 · Matthieu 18\,21–35\nDans la fournaise\
+ , Azarias a offert à Dieu un cœur brisé et un esprit humilié.\n\nLir
+ e et prier: https://daily-word-reflections.github.io/?d=2027-03-02&r=lat
+ &l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 3e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Mercredi de la 3e semaine de Carême
+DESCRIPTION:Mercredi de la 3e semaine de Carême\nDeutéronome 4\,1.5–9
+  · Psaume 147\,12–13.15–16.19–20 · Matthieu 5\,17–19\nMoïse a
+  enseigné à Israël que la loi de Dieu est pour la vie\, et qu'aucune 
+ nation n'a un Dieu aussi proche.\n\nLire et prier: https://daily-word-re
+ flections.github.io/?d=2027-03-03&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 3e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Jeudi de la 3e semaine de Carême
+DESCRIPTION:Jeudi de la 3e semaine de Carême\nJérémie 7\,23–28 · Ps
+ aume 95\,1–2.6–7.8–9 · Luc 11\,14–23\nJérémie a pleuré sur u
+ n peuple qui ne voulait pas écouter la voix de Dieu.\n\nLire et prier: 
+ https://daily-word-reflections.github.io/?d=2027-03-04&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 3e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Vendredi de la 3e semaine de Carême
+DESCRIPTION:Vendredi de la 3e semaine de Carême\nOsée 14\,2–10 · Psa
+ ume 81\,6c–8a.8bc–9.10–11ab.14.17 · Marc 12\,28–34\nPar Osée\,
+  Dieu enseigne à Israël les mots du retour et promet de l'aimer de gra
+ nd cœur.\n\nLire et prier: https://daily-word-reflections.github.io/?d=
+ 2027-03-05&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 3e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Samedi de la 3e semaine de Carême
+DESCRIPTION:Samedi de la 3e semaine de Carême\nOsée 6\,1–6 · Psaume 
+ 51\,3–4.18–19.20–21 · Luc 18\,9–14\nOsée avertit que notre amo
+ ur peut disparaître comme la rosée du matin \; Dieu veut la fidélité
+ \, non les sacrifices.\n\nLire et prier: https://daily-word-reflections.
+ github.io/?d=2027-03-06&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 3e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:4e dimanche de Carême (Laetare)
+DESCRIPTION:4e dimanche de Carême (Laetare)\n2 Chroniques 36\,14–16.19
+ –23 · Psaume 137\,1–2.3.4–5.6 · Éphésiens 2\,4–10 · Jean 3\
+ ,14–21\nDieu a ramené son peuple de l'exil parce qu'il avait pitié d
+ e lui.\n\nLire et prier: https://daily-word-reflections.github.io/?d=202
+ 7-03-07&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-07&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 4e dimanche de Carême (Laetare)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-08-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Lundi de la 4e semaine de Carême
+DESCRIPTION:Lundi de la 4e semaine de Carême\nIsaïe 65\,17–21 · Psau
+ me 30\,2.4.5–6.11–13 · Jean 4\,43–54\nDieu promet un ciel nouveau
+  et une terre nouvelle\, un monde sans pleurs.\n\nLire et prier: https:/
+ /daily-word-reflections.github.io/?d=2027-03-08&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Lundi de la 4e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Mardi de la 4e semaine de Carême
+DESCRIPTION:Mardi de la 4e semaine de Carême\nÉzéchiel 47\,1–9.12 ·
+  Psaume 46\,2–3.5–6.8–9 · Jean 5\,1–16\nÉzéchiel voit un fleu
+ ve sortir du Temple et porter la vie partout où il passe.\n\nLire et pr
+ ier: https://daily-word-reflections.github.io/?d=2027-03-09&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mardi de la 4e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Mercredi de la 4e semaine de Carême
+DESCRIPTION:Mercredi de la 4e semaine de Carême\nIsaïe 49\,8–15 · Ps
+ aume 145\,8–9.13c–14.17–18 · Jean 5\,17–30\nDieu dit : même si
+  une mère oubliait son enfant\, moi\, je ne t'oublierai pas.\n\nLire et
+  prier: https://daily-word-reflections.github.io/?d=2027-03-10&r=lat&l=f
+ r
+URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Mercredi de la 4e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Jeudi de la 4e semaine de Carême
+DESCRIPTION:Jeudi de la 4e semaine de Carême\nExode 32\,7–14 · Psaume
+  106\,19–20.21–22.23 · Jean 5\,31–47\nIsraël a fait un veau d'or
+  \; Moïse a intercédé et Dieu les a épargnés.\n\nLire et prier: htt
+ ps://daily-word-reflections.github.io/?d=2027-03-11&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Jeudi de la 4e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-12-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Vendredi de la 4e semaine de Carême
+DESCRIPTION:Vendredi de la 4e semaine de Carême\nSagesse 2\,1a.12–22 
+ · Psaume 34\,17–21.23 · Jean 7\,1–2.10.25–30\nLe livre de la Sag
+ esse annonce le complot contre le juste qui appelle Dieu son Père.\n\nL
+ ire et prier: https://daily-word-reflections.github.io/?d=2027-03-12&r=l
+ at&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Vendredi de la 4e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Samedi de la 4e semaine de Carême
+DESCRIPTION:Samedi de la 4e semaine de Carême\nJérémie 11\,18–20 · 
+ Psaume 7\,2–3.9b–12 · Jean 7\,40–53\nJérémie\, victime d'un com
+ plot\, est comme un agneau docile qu'on emmène à l'abattoir\, figure d
+ u Christ.\n\nLire et prier: https://daily-word-reflections.github.io/?d=
+ 2027-03-13&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Samedi de la 4e semaine de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-14-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:5e dimanche de Carême
+DESCRIPTION:5e dimanche de Carême\nJérémie 31\,31–34 · Psaume 51\,3
+ –4.12–15 · Hébreux 5\,7–9 · Jean 12\,20–33\nDieu promet une a
+ lliance nouvelle écrite sur nos cœurs\, avec le pardon des péchés.\n
+ \nLire et prier: https://daily-word-reflections.github.io/?d=2027-03-14&
+ r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-14&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: 5e dimanche de Carême
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-15-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Monday of the Fifth Week of Lent
+DESCRIPTION:Monday of the Fifth Week of Lent\nDaniel 13:1–9\, 15–17\,
+  19–30\, 33–62 (or 13:41c–62) · Psalm 23:1–3a\, 3b–4\, 5\, 6 
+ · John 8:1–11\nSusanna chose to fall into the hands of the wicked rat
+ her than sin before the Lord.\n\nLire et prier: https://daily-word-refle
+ ctions.github.io/?d=2027-03-15&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Monday of the Fifth Week of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-16-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Tuesday of the Fifth Week of Lent
+DESCRIPTION:Tuesday of the Fifth Week of Lent\nNumbers 21:4–9 · Psalm 
+ 102:1–2\, 15–17\, 18–20 · John 8:21–30\nIsrael grew impatient a
+ nd complained against God and the manna.\n\nLire et prier: https://daily
+ -word-reflections.github.io/?d=2027-03-16&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Tuesday of the Fifth Week of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Wednesday of the Fifth Week of Lent
+DESCRIPTION:Wednesday of the Fifth Week of Lent\nDaniel 3:14–20\, 91–
+ 92\, 95 · Daniel 3:52\, 53\, 54\, 55\, 56 · John 8:31–42\nThree youn
+ g men refused to worship the golden statue\, even if God did not rescue 
+ them.\n\nLire et prier: https://daily-word-reflections.github.io/?d=2027
+ -03-17&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Wednesday of the Fifth Week of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Thursday of the Fifth Week of Lent
+DESCRIPTION:Thursday of the Fifth Week of Lent\nGenesis 17:3–9 · Psalm
+  105:4–5\, 6–7\, 8–9 · John 8:51–59\nGod made an everlasting co
+ venant with Abraham and gave him a new name.\n\nLire et prier: https://d
+ aily-word-reflections.github.io/?d=2027-03-18&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Thursday of the Fifth Week of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:St Joseph\, Spouse of the Blessed Virgin Mary
+DESCRIPTION:St Joseph\, Spouse of the Blessed Virgin Mary\n2 Samuel 7:4
+ –5a\, 12–14a\, 16 · Psalm 89:1–2\, 3–4\, 26 and 28 · Romans 4:
+ 13\, 16–18\, 22 · Matthew 1:16\, 18–21\, 24a (or Luke 2:41–51a)\n
+ God's promise to David was fulfilled through Joseph\, who gave Jesus his
+  name and his place in David's line.\n\nLire et prier: https://daily-wor
+ d-reflections.github.io/?d=2027-03-19&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: St Joseph\, Spouse of the Blessed Virgin
+  Mary
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Saturday of the Fifth Week of Lent
+DESCRIPTION:Saturday of the Fifth Week of Lent\nEzekiel 37:21–28 · Jer
+ emiah 31:10\, 11–12ab\, 13 · John 11:45–56\nEzekiel promises that G
+ od will make his scattered people one nation with one shepherd.\n\nLire 
+ et prier: https://daily-word-reflections.github.io/?d=2027-03-20&r=lat&l
+ =fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Saturday of the Fifth Week of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Palm Sunday of the Passion of the Lord
+DESCRIPTION:Palm Sunday of the Passion of the Lord\nMark 11:1–10 (or Jo
+ hn 12:12–16) · Isaiah 50:4–7 · Psalm 22:7–8\, 16–17\, 18–19\
+ , 22–23 · Philippians 2:6–11 · Mark 14:1–15:47 (shorter form: 15
+ :1–39)\nJesus enters Jerusalem as a humble King on a colt\, greeted wi
+ th Hosanna.\n\nLire et prier: https://daily-word-reflections.github.io/?
+ d=2027-03-21&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-21&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Palm Sunday of the Passion of the Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-22-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Monday of Holy Week
+DESCRIPTION:Monday of Holy Week\nIsaiah 42:1–7 · Psalm 27:1\, 2\, 3\, 
+ 13–14 · John 12:1–11\nThe Servant of the Lord is gentle: he does no
+ t break the bruised reed.\n\nLire et prier: https://daily-word-reflectio
+ ns.github.io/?d=2027-03-22&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Monday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-23-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Tuesday of Holy Week
+DESCRIPTION:Tuesday of Holy Week\nIsaiah 49:1–6 · Psalm 71:1–2\, 3
+ –4a\, 5–6ab\, 15 and 17 · John 13:21–33\, 36–38\nThe Servant is
+  called from the womb and made a light to the nations.\n\nLire et prier:
+  https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Tuesday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Wednesday of Holy Week
+DESCRIPTION:Wednesday of Holy Week\nIsaiah 50:4–9a · Psalm 69:7–9\, 
+ 20–21\, 30 and 32–33 · Matthew 26:14–25\nThe Servant listens to G
+ od every morning and does not turn back from suffering.\n\nLire et prier
+ : https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Wednesday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-25-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Holy Thursday: Evening Mass of the Lord's Supper
+DESCRIPTION:Holy Thursday: Evening Mass of the Lord's Supper\nExodus 12:1
+ –8\, 11–14 · Psalm 116:12–13\, 15–16bc\, 17–18 · 1 Corinthia
+ ns 11:23–26 · John 13:1–15\nJesus\, our Passover Lamb\, gives his B
+ ody and Blood in the Eucharist.\n\nLire et prier: https://daily-word-ref
+ lections.github.io/?d=2027-03-25&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Holy Thursday: Evening Mass of the Lord'
+ s Supper
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Friday of the Passion of the Lord (Good Friday)
+DESCRIPTION:Friday of the Passion of the Lord (Good Friday)\nIsaiah 52:13
+ –53:12 · Psalm 31:1\, 5\, 11–12\, 14–15\, 16\, 24 · Hebrews 4:14
+ –16\; 5:7–9 · John 18:1–19:42\nThe Suffering Servant was wounded 
+ for our sins\; by his bruises we are healed.\n\nLire et prier: https://d
+ aily-word-reflections.github.io/?d=2027-03-26&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Friday of the Passion of the Lord (Good 
+ Friday)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Holy Saturday · The Easter Vigil in the Holy Night
+DESCRIPTION:Holy Saturday · The Easter Vigil in the Holy Night\nGenesis 
+ 1:1–2:2 (or 1:1\, 26–31a)\; Psalm 104 (or Psalm 33) · Genesis 22:1
+ –18 (or 22:1–2\, 9a\, 10–13\, 15–18)\; Psalm 16 · Exodus 14:15
+ –15:1\; Canticle Exodus 15:1–6\, 17–18 · Isaiah 54:5–14\; Psalm
+  30 · Isaiah 55:1–11\; Canticle Isaiah 12:2–6 · Baruch 3:9–15\, 
+ 32–4:4\; Psalm 19:7–10 · Ezekiel 36:16–17a\, 18–28\; Psalms 42:
+ 2\, 4 and 43:3–4 (or Isaiah 12\, or Psalm 51) · Romans 6:3–11 · Ps
+ alm 118:1–2\, 16–17\, 22–23 · Mark 16:1–7\nHoly Saturday: Chris
+ t lies in the tomb and descends among the dead\; the Church waits in sil
+ ence.\n\nLire et prier: https://daily-word-reflections.github.io/?d=2027
+ -03-27&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Holy Saturday · The Easter Vigil in the
+  Holy Night
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-28-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Easter Sunday of the Resurrection of the Lord
+DESCRIPTION:Easter Sunday of the Resurrection of the Lord\nActs 10:34a\, 
+ 37–43 · Psalm 118:1–2\, 16–17\, 22–23 · Colossians 3:1–4 (or
+  1 Corinthians 5:6b–8) · Victimae paschali laudes · John 20:1–9\nP
+ eter: God raised Jesus on the third day\, and we ate and drank with him.
+ \n\nLire et prier: https://daily-word-reflections.github.io/?d=2027-03-2
+ 8&r=lat&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-28&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Easter Sunday of the Resurrection of the
+  Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-29-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Monday within the Octave of Easter
+DESCRIPTION:Monday within the Octave of Easter\nActs 2:14\, 22–33 · Ps
+ alm 16:1–2a\, 5\, 7–8\, 9–10\, 11 · Matthew 28:8–15\nPeter: God
+  raised Jesus up\; death could not hold him\; we are all witnesses.\n\nL
+ ire et prier: https://daily-word-reflections.github.io/?d=2027-03-29&r=l
+ at&l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Monday within the Octave of Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-30-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Tuesday within the Octave of Easter
+DESCRIPTION:Tuesday within the Octave of Easter\nActs 2:36–41 · Psalm 
+ 33:4–5\, 18–19\, 20 and 22 · John 20:11–18\nCut to the heart\, th
+ e crowd asked: What should we do? Peter: repent and be baptized.\n\nLire
+  et prier: https://daily-word-reflections.github.io/?d=2027-03-30&r=lat&
+ l=fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Tuesday within the Octave of Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-lat-fr@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Wednesday within the Octave of Easter
+DESCRIPTION:Wednesday within the Octave of Easter\nActs 3:1–10 · Psalm
+  105:1–2\, 3–4\, 6–7\, 8–9 · Luke 24:13–35\nPeter healed the 
+ lame man: what I have I give you\; in the name of Jesus\, walk.\n\nLire 
+ et prier: https://daily-word-reflections.github.io/?d=2027-03-31&r=lat&l
+ =fr
+URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=lat&l=fr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Parole de demain: Wednesday within the Octave of Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

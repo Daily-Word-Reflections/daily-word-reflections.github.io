@@ -1,0 +1,3576 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daily Word//daily-word-reflections.github.io//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ಅನುದಿನ ವಾಕ್ಯ · Latin
+X-WR-TIMEZONE:Asia/Kolkata
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:2026-11-01-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:ಸಕಲ ಸಂತರ ಮಹೋತ್ಸವ
+DESCRIPTION:ಸಕಲ ಸಂತರ ಮಹೋತ್ಸವ\nಪ್ರಕಟ
+ ನೆ 7:2–4\, 9–14 · ಕೀರ್ತನೆ 24:1–2\, 3–4\, 5–
+ 6 · 1 ಯೊವಾನ್ನ 3:1–3 · ಮತ್ತಾಯ 5:1–12ಎ\n
+ ಸಂತರು ಎಲ್ಲಾ ದೇಶಗಳಿಂದ ಬಂದ\, ಯ
+ ಾರೂ ಎಣಿಸಲಾಗದ ಸಮೂಹ.\n\nಓದಿ\, ಪ್
+ ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=20
+ 26-11-01&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-01&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಕಲ ಸಂತರ ಮ
+ ಹೋತ್ಸವ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:ಮೃತ ವಿಶ್ವಾಸಿಗಳೆಲ್ಲರ ಸ್ಮ
+ ರಣೆ
+DESCRIPTION:ಮೃತ ವಿಶ್ವಾಸಿಗಳೆಲ್ಲರ ಸ
+ ್ಮರಣೆ\nಸುಜ್ಞಾನ ಗ್ರಂಥ 3:1–9 · ಕೀ
+ ರ್ತನೆ 23:1–6 · ರೋಮನರಿಗೆ 5:5–11 · ಯೊ
+ ವಾನ್ನ 6:37–40\nನಮ್ಮ ಮೃತರು ದೇವರ ಕ
+ ೈಯಲ್ಲಿದ್ದಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್
+ ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-11-02&r=l
+ at&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-02&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಮೃತ ವಿಶ್ವಾ
+ ಸಿಗಳೆಲ್ಲರ ಸ್ಮರಣೆ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಮಂ
+ ಗಳವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಮ
+ ಂಗಳವಾರ\nಫಿಲಿಪ್ಪಿಯರಿಗೆ 2:5–11 · 
+ ಕೀರ್ತನೆ 22:26ಬಿ–27\, 28–30ಎಬಿ\, 30ಇ–32 
+ · ಲೂಕ 14:15–24\nಕ್ರಿಸ್ತರು ತಮ್ಮನ್
+ ನು ಬರಿದುಮಾಡಿಕೊಂಡರು\; ದೇವರು 
+ ಅವರನ್ನು ಏರಿಸಿದರು.\n\nಓದಿ\, ಪ್ರ
+ ಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-
+ 11-03&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 31ನೇ ವಾರದ ಮಂಗಳವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಬು
+ ಧವಾರ · ಸಂತ ಚಾರ್ಲ್ಸ್ ಬೊರೊಮಿಯ
+ ೊ\, ಧರ್ಮಾಧ್ಯಕ್ಷರು
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಬ
+ ುಧವಾರ · ಸಂತ ಚಾರ್ಲ್ಸ್ ಬೊರೊಮಿ
+ ಯೊ\, ಧರ್ಮಾಧ್ಯಕ್ಷರು\nಫಿಲಿಪ್ಪ
+ ಿಯರಿಗೆ 2:12–18 · ಕೀರ್ತನೆ 27:1\, 4\, 13–14
+  · ಲೂಕ 14:25–33\nಶಿಷ್ಯತ್ವ ಎಲ್ಲವನ್
+ ನೂ ಕೇಳುತ್ತದೆ\, ಎಲ್ಲವನ್ನೂ ನೀ
+ ಡುತ್ತದೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: ht
+ tps://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 31ನೇ ವಾರದ ಬುಧವಾರ · ಸಂತ ಚಾರ
+ ್ಲ್ಸ್ ಬೊರೊಮಿಯೊ\, ಧರ್ಮಾಧ್ಯಕ
+ ್ಷರು
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಗು
+ ರುವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಗ
+ ುರುವಾರ\nಫಿಲಿಪ್ಪಿಯರಿಗೆ 3:3–8ಎ 
+ · ಕೀರ್ತನೆ 105:2–3\, 4–5\, 6–7 · ಲೂಕ 15:1–1
+ 0\nಕಳೆದುಹೋದವರನ್ನು ಕಂಡುಹಿಡಿ
+ ಯುವವರೆಗೂ ದೇವರು ಹುಡುಕುತ್ತಾ
+ ರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-wor
+ d-reflections.github.io/?d=2026-11-05&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 31ನೇ ವಾರದ ಗುರುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಶು
+ ಕ್ರವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಶ
+ ುಕ್ರವಾರ\nಫಿಲಿಪ್ಪಿಯರಿಗೆ 3:17–4:
+ 1 · ಕೀರ್ತನೆ 122:1–2\, 3–4ಬಿ\, 4ಸಿಡಿ–5 
+ · ಲೂಕ 16:1–8\nಲೆಕ್ಕ ಒಪ್ಪಿಸಬೇಕಾದ
+  ಮೇಲ್ವಿಚಾರಕರು ನಾವು.\n\nಓದಿ\, ಪ
+ ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d
+ =2026-11-06&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 31ನೇ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಶನ
+ ಿವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 31ನೇ ವಾರದ ಶ
+ ನಿವಾರ\nಫಿಲಿಪ್ಪಿಯರಿಗೆ 4:10–19 · 
+ ಕೀರ್ತನೆ 112:1ಬಿ–2\, 5–6\, 8ಎ ಮತ್ತು 9 
+ · ಲೂಕ 16:9–15\nಚಿಕ್ಕ ವಿಷಯಗಳಲ್ಲಿ
+ ನ ನಿಷ್ಠೆ ಹೃದಯವನ್ನು ಬಹಿರಂಗಪ
+ ಡಿಸುತ್ತದೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸ
+ ಿ: https://daily-word-reflections.github.io/?d=2026-11-07&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 31ನೇ ವಾರದ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ಭಾನುವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ಭಾನುವ
+ ಾರ\nಸುಜ್ಞಾನ ಗ್ರಂಥ 6:12–16 · ಕೀರ್
+ ತನೆ 63:2\, 3–4\, 5–6\, 7–8 · 1 ಥೆಸಲೊನೀಕದ
+ ವರಿಗೆ 4:13–18 · ಮತ್ತಾಯ 25:1–13\nದೇವರ
+ ನ್ನು ಹುಡುಕುವವರು ಅವರನ್ನು ಸು
+ ಲಭವಾಗಿ ಕಂಡುಕೊಳ್ಳುತ್ತಾರೆ.\n\n
+ ಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflectio
+ ns.github.io/?d=2026-11-08&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-08&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 32ನೇ ಭಾನುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:ಲ್ಯಾಟರನ್ ಮಹಾದೇವಾಲಯದ ಪ್ರ
+ ತಿಷ್ಠಾಪನೆ · ಹಬ್ಬ
+DESCRIPTION:ಲ್ಯಾಟರನ್ ಮಹಾದೇವಾಲಯದ ಪ
+ ್ರತಿಷ್ಠಾಪನೆ · ಹಬ್ಬ\nಯೆಜೆಕಿಯ
+ ೇಲ 47:1–2\, 8–9\, 12 · ಕೀರ್ತನೆ 46:2–3\, 5–6\,
+  8–9 · 1 ಕೊರಿಂಥಿಯರಿಗೆ 3:9ಸಿ–11\, 16–1
+ 7 · ಯೊವಾನ್ನ 2:13–22\nಲ್ಯಾಟರನ್ ಜಗದ
+ ್ಗುರುಗಳ ಪ್ರಧಾನಾಲಯ\, ಎಲ್ಲಾ ದ
+ ೇವಾಲಯಗಳ ತಾಯಿ.\n\nಓದಿ\, ಪ್ರಾರ್ಥ
+ ಿಸಿ: https://daily-word-reflections.github.io/?d=2026-11-09&r=lat&
+ l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಲ್ಯಾಟರನ್ ಮ
+ ಹಾದೇವಾಲಯದ ಪ್ರತಿಷ್ಠಾಪನೆ · ಹ
+ ಬ್ಬ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಮಂ
+ ಗಳವಾರ · ಸಂತ ಮಹಾ ಲಿಯೋ\, ಜಗದ್ಗು
+ ರು ಮತ್ತು ಧರ್ಮಸಭೆಯ ಪಂಡಿತರು
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಮ
+ ಂಗಳವಾರ · ಸಂತ ಮಹಾ ಲಿಯೋ\, ಜಗದ್ಗ
+ ುರು ಮತ್ತು ಧರ್ಮಸಭೆಯ ಪಂಡಿತರು
+ \nತೀತನಿಗೆ 2:1–8\, 11–14 · ಕೀರ್ತನೆ 37:3
+ –4\, 18 ಮತ್ತು 23\, 27 ಮತ್ತು 29 · ಲೂಕ 17:7
+ –10\nದೇವರನ್ನು ನಮ್ಮ ಸಾಲಗಾರನನ್
+ ನಾಗಿ ಮಾಡಲಾರೆವು.\n\nಓದಿ\, ಪ್ರಾರ
+ ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-11-10&
+ r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 32ನೇ ವಾರದ ಮಂಗಳವಾರ · ಸಂತ ಮಹ
+ ಾ ಲಿಯೋ\, ಜಗದ್ಗುರು ಮತ್ತು ಧರ್ಮ
+ ಸಭೆಯ ಪಂಡಿತರು
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಬು
+ ಧವಾರ · ಟೂರ್ಸ್‌ನ ಸಂತ ಮಾರ್ಟಿನ
+ ್\, ಧರ್ಮಾಧ್ಯಕ್ಷರು
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಬ
+ ುಧವಾರ · ಟೂರ್ಸ್‌ನ ಸಂತ ಮಾರ್ಟಿ
+ ನ್\, ಧರ್ಮಾಧ್ಯಕ್ಷರು\nತೀತನಿಗೆ 
+ 3:1–7 · ಕೀರ್ತನೆ 23:1ಬಿ–3ಎ\, 3ಬಿಸಿ–4\,
+  5\, 6 · ಲೂಕ 17:11–19\nಹತ್ತು ಮಂದಿ ಗುಣ
+ ಮುಖರಾದರು\; ಹಿಂದಿರುಗಿದ ಒಬ್ಬ
+ ನು ರಕ್ಷಣೆ ಪಡೆದನು.\n\nಓದಿ\, ಪ್ರ
+ ಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-
+ 11-11&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 32ನೇ ವಾರದ ಬುಧವಾರ · ಟೂರ್ಸ್‌
+ ನ ಸಂತ ಮಾರ್ಟಿನ್\, ಧರ್ಮಾಧ್ಯಕ್
+ ಷರು
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಗು
+ ರುವಾರ · ಸಂತ ಜೊಸಫಾತ್\, ಧರ್ಮಾಧ
+ ್ಯಕ್ಷರು ಮತ್ತು ಹುತಾತ್ಮರು
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಗ
+ ುರುವಾರ · ಸಂತ ಜೊಸಫಾತ್\, ಧರ್ಮಾ
+ ಧ್ಯಕ್ಷರು ಮತ್ತು ಹುತಾತ್ಮರು\n
+ ಫಿಲೆಮೋನನಿಗೆ 7–20 · ಕೀರ್ತನೆ 146:7\
+ , 8–9ಎ\, 9ಬಿಸಿ–10 · ಲೂಕ 17:20–25\nರಾಜ್ಯ
+  ಈಗಾಗಲೇ ಕ್ರಿಸ್ತರಲ್ಲಿ ನಮ್ಮ 
+ ನಡುವೆ ಇದೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ
+ : https://daily-word-reflections.github.io/?d=2026-11-12&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 32ನೇ ವಾರದ ಗುರುವಾರ · ಸಂತ ಜೊ
+ ಸಫಾತ್\, ಧರ್ಮಾಧ್ಯಕ್ಷರು ಮತ್ತ
+ ು ಹುತಾತ್ಮರು
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಶು
+ ಕ್ರವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಶ
+ ುಕ್ರವಾರ\n2 ಯೊವಾನ್ನ 4–9 · ಕೀರ್ತ
+ ನೆ 119:1\, 2\, 10\, 11\, 17\, 18 · ಲೂಕ 17:26–37\nದೇವ
+ ರಿಲ್ಲದ ಸಾಮಾನ್ಯ ಜೀವನವೇ ನಿಜವ
+ ಾದ ಅಪಾಯ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: http
+ s://daily-word-reflections.github.io/?d=2026-11-13&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 32ನೇ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಶನ
+ ಿವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 32ನೇ ವಾರದ ಶ
+ ನಿವಾರ\n3 ಯೊವಾನ್ನ 5–8 · ಕೀರ್ತನೆ 
+ 112:1–2\, 3–4\, 5–6 · ಲೂಕ 18:1–8\nಎಡೆಬಿಡದ
+ ೆ ಪ್ರಾರ್ಥಿಸಿರಿ\, ಎದೆಗುಂದಬೇ
+ ಡಿ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-wor
+ d-reflections.github.io/?d=2026-11-14&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 32ನೇ ವಾರದ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ಭಾನುವಾರ
+  · ವಿಶ್ವ ಬಡವರ ದಿನ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ಭಾನುವ
+ ಾರ · ವಿಶ್ವ ಬಡವರ ದಿನ\nಜ್ಞಾನೋಕ
+ ್ತಿಗಳು 31:10–13\, 19–20\, 30–31 · ಕೀರ್ತನ
+ ೆ 128:1–2\, 3\, 4–5 · 1 ಥೆಸಲೊನೀಕದವರಿಗ
+ ೆ 5:1–6 · ಮತ್ತಾಯ 25:14–30\nದೇವರು ಪ್ರ
+ ತಿಯೊಬ್ಬರಿಗೂ ವರಗಳ ಸಂಪತ್ತನ್
+ ನು ನೀಡುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್
+ ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-11-15&r=l
+ at&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-15&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 33ನೇ ಭಾನುವಾರ · ವಿಶ್ವ ಬಡವರ 
+ ದಿನ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಸೋ
+ ಮವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಸ
+ ೋಮವಾರ\nಪ್ರಕಟನೆ 1:1–4\; 2:1–5 · ಕೀರ್
+ ತನೆ 1:1–2\, 3\, 4 ಮತ್ತು 6 · ಲೂಕ 18:35–43\nಚ
+ ಟುವಟಿಕೆಯ ಧರ್ಮಸಭೆಯೂ ತನ್ನ ಮೊ
+ ದಲಿನ ಪ್ರೀತಿಯನ್ನು ಕಳೆದುಕೊಳ
+ ್ಳಬಹುದು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: ht
+ tps://daily-word-reflections.github.io/?d=2026-11-16&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 33ನೇ ವಾರದ ಸೋಮವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಮಂ
+ ಗಳವಾರ · ಹಂಗೇರಿಯ ಸಂತ ಎಲಿಜಬೆತ
+ ್\, ಸನ್ಯಾಸಿನಿ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಮ
+ ಂಗಳವಾರ · ಹಂಗೇರಿಯ ಸಂತ ಎಲಿಜಬೆ
+ ತ್\, ಸನ್ಯಾಸಿನಿ\nಪ್ರಕಟನೆ 3:1–6\, 14
+ –22 · ಕೀರ್ತನೆ 15:2–3ಎ\, 3ಬಿಸಿ–4ಎಬಿ\
+ , 5 · ಲೂಕ 19:1–10\nಕ್ರಿಸ್ತರು ತಟ್ಟು
+ ತ್ತಾರೆ\; ಬಾಗಿಲು ಒಡೆಯುವುದಿಲ
+ ್ಲ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-wor
+ d-reflections.github.io/?d=2026-11-17&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 33ನೇ ವಾರದ ಮಂಗಳವಾರ · ಹಂಗೇರಿ
+ ಯ ಸಂತ ಎಲಿಜಬೆತ್\, ಸನ್ಯಾಸಿನಿ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಬು
+ ಧವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಬ
+ ುಧವಾರ\nಪ್ರಕಟನೆ 4:1–11 · ಕೀರ್ತನೆ
+  150:1ಬಿ–2\, 3–4\, 5–6 · ಲೂಕ 19:11–28\nಸ್ವರ
+ ್ಗದ ಆರಾಧನೆ ಎಂದೂ ನಿಲ್ಲುವುದಿ
+ ಲ್ಲ\; ಪ್ರತಿ ಬಲಿಪೂಜೆಯೂ ಅದರೊಂ
+ ದಿಗೆ ಸೇರುತ್ತದೆ.\n\nಓದಿ\, ಪ್ರಾರ
+ ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-11-18&
+ r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 33ನೇ ವಾರದ ಬುಧವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಗು
+ ರುವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಗ
+ ುರುವಾರ\nಪ್ರಕಟನೆ 5:1–10 · ಕೀರ್ತನ
+ ೆ 149:1ಬಿ–2\, 3–4\, 5–6ಎ ಮತ್ತು 9ಬಿ · ಲೂ
+ ಕ 19:41–44\nಯೂದದ ಸಿಂಹ ವಧಿಸಲ್ಪಟ್ಟ
+  ಕುರಿಮರಿ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: h
+ ttps://daily-word-reflections.github.io/?d=2026-11-19&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 33ನೇ ವಾರದ ಗುರುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಶು
+ ಕ್ರವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಶ
+ ುಕ್ರವಾರ\nಪ್ರಕಟನೆ 10:8–11 · ಕೀರ್
+ ತನೆ 119:14\, 24\, 72\, 103\, 111\, 131 · ಲೂಕ 19:45–48\n
+ ದೇವರ ವಾಕ್ಯವನ್ನು ಸಾರುವ ಮೊದಲ
+ ು ಜೀರ್ಣಿಸಿಕೊಳ್ಳಬೇಕು.\n\nಓದಿ\, 
+ ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io
+ /?d=2026-11-20&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 33ನೇ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಶನ
+ ಿವಾರ · ದೇವಾಲಯದಲ್ಲಿ ಧನ್ಯ ಕನ್
+ ಯಾಮರಿಯಳ ಸಮರ್ಪಣೆ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 33ನೇ ವಾರದ ಶ
+ ನಿವಾರ · ದೇವಾಲಯದಲ್ಲಿ ಧನ್ಯ ಕನ
+ ್ಯಾಮರಿಯಳ ಸಮರ್ಪಣೆ\nಪ್ರಕಟನೆ 11
+ :4–12 · ಕೀರ್ತನೆ 144:1\, 2\, 9–10 · ಲೂಕ 20:27
+ –40\nದೇವರು ಜೀವಿತರ ದೇವರು\; ಅವರಿ
+ ಗೆ ಎಲ್ಲರೂ ಜೀವಂತರು.\n\nಓದಿ\, ಪ್
+ ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=20
+ 26-11-21&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 33ನೇ ವಾರದ ಶನಿವಾರ · ದೇವಾಲಯದ
+ ಲ್ಲಿ ಧನ್ಯ ಕನ್ಯಾಮರಿಯಳ ಸಮರ್ಪ
+ ಣೆ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ನಮ್ಮ ಪ್ರಭು ಯೇಸು ಕ್ರಿಸ್ತ
+ ರು\, ವಿಶ್ವದ ರಾಜ · ಮಹೋತ್ಸವ
+DESCRIPTION:ನಮ್ಮ ಪ್ರಭು ಯೇಸು ಕ್ರಿಸ್
+ ತರು\, ವಿಶ್ವದ ರಾಜ · ಮಹೋತ್ಸವ\nಯ
+ ೆಜೆಕಿಯೇಲ 34:11–12\, 15–17 · ಕೀರ್ತನೆ 2
+ 3:1–2\, 2–3\, 5–6 · 1 ಕೊರಿಂಥಿಯರಿಗೆ 15:20
+ –26\, 28 · ಮತ್ತಾಯ 25:31–46\nರಾಜನಾದ ಕ್
+ ರಿಸ್ತರು ಕುರುಬನಂತೆ ಆಳುತ್ತಾ
+ ರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-wor
+ d-reflections.github.io/?d=2026-11-22&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-22&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ನಮ್ಮ ಪ್ರಭು
+  ಯೇಸು ಕ್ರಿಸ್ತರು\, ವಿಶ್ವದ ರಾಜ
+  · ಮಹೋತ್ಸವ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಸೋ
+ ಮವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಸ
+ ೋಮವಾರ\nಪ್ರಕಟನೆ 14:1–3\, 4ಬಿ–5 · ಕೀ
+ ರ್ತನೆ 24:1ಬಿ–2\, 3–4ಎಬಿ\, 5–6 · ಲೂಕ 21:
+ 1–4\nದೇವರು ಕಾಣಿಕೆಗಳನ್ನು ಮೊತ್
+ ತದಿಂದಲ್ಲ\, ಪ್ರೀತಿಯಿಂದ ಅಳೆಯ
+ ುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: ht
+ tps://daily-word-reflections.github.io/?d=2026-11-23&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 34ನೇ ವಾರದ ಸೋಮವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಮಂ
+ ಗಳವಾರ · ಸಂತ ಅಂದ್ರೆಯ ಡುಂಗ್-ಲ
+ ಾಕ್ ಮತ್ತು ಸಂಗಡಿಗರು\, ಹುತಾತ್
+ ಮರು
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಮ
+ ಂಗಳವಾರ · ಸಂತ ಅಂದ್ರೆಯ ಡುಂಗ್-
+ ಲಾಕ್ ಮತ್ತು ಸಂಗಡಿಗರು\, ಹುತಾತ
+ ್ಮರು\nಪ್ರಕಟನೆ 14:14–19 · ಕೀರ್ತನೆ 
+ 96:10\, 11–12\, 13 · ಲೂಕ 21:5–11\nದೇವಾಲಯದ ಕ
+ ಲ್ಲುಗಳೂ ಬೀಳುತ್ತವೆ\; ದೇವರ ವಾ
+ ಕ್ಯ ಉಳಿಯುತ್ತದೆ.\n\nಓದಿ\, ಪ್ರಾರ
+ ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-11-24&
+ r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 34ನೇ ವಾರದ ಮಂಗಳವಾರ · ಸಂತ ಅಂ
+ ದ್ರೆಯ ಡುಂಗ್-ಲಾಕ್ ಮತ್ತು ಸಂಗ
+ ಡಿಗರು\, ಹುತಾತ್ಮರು
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಬು
+ ಧವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಬ
+ ುಧವಾರ\nಪ್ರಕಟನೆ 15:1–4 · ಕೀರ್ತನೆ
+  98:1\, 2–3ಎಬಿ\, 7–8\, 9 · ಲೂಕ 21:12–19\nಹಿಂಸ
+ ೆ ಸಾಕ್ಷಿ ನೀಡುವ ಅವಕಾಶವಾಗುತ್
+ ತದೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-
+ word-reflections.github.io/?d=2026-11-25&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 34ನೇ ವಾರದ ಬುಧವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಗು
+ ರುವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಗ
+ ುರುವಾರ\nಪ್ರಕಟನೆ 18:1–2\, 21–23\; 19:1–3\
+ , 9ಎ · ಕೀರ್ತನೆ 100:1ಬಿ–2\, 3\, 4\, 5 · ಲೂಕ
+  21:20–28\nಇತರರನ್ನು ಮೂರ್ಛೆಗೊಳಿಸ
+ ುವುದು ಶಿಷ್ಯರನ್ನು ಮೇಲಕ್ಕೆ ನ
+ ೋಡುವಂತೆ ಮಾಡುತ್ತದೆ.\n\nಓದಿ\, ಪ್
+ ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=20
+ 26-11-26&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 34ನೇ ವಾರದ ಗುರುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಶು
+ ಕ್ರವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಶ
+ ುಕ್ರವಾರ\nಪ್ರಕಟನೆ 20:1–4\, 11–21:2 · ಕ
+ ೀರ್ತನೆ 84:3\, 4\, 5–6ಎ ಮತ್ತು 8ಎ · ಲೂಕ
+  21:29–33\nಕ್ರಿಸ್ತರ ಮಾತುಗಳು ಆಕಾಶ
+  ಭೂಮಿಗಳಿಗಿಂತ ಹೆಚ್ಚು ಕಾಲ ಉಳ
+ ಿಯುತ್ತವೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ:
+  https://daily-word-reflections.github.io/?d=2026-11-27&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 34ನೇ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಶನ
+ ಿವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 34ನೇ ವಾರದ ಶ
+ ನಿವಾರ\nಪ್ರಕಟನೆ 22:1–7 · ಕೀರ್ತನೆ
+  95:1–2\, 3–5\, 6–7ಎಬಿ · ಲೂಕ 21:34–36\nಬೈಬಲ
+ ್ ಆರಂಭವಾದಲ್ಲಿಯೇ ಮುಕ್ತಾಯವಾ
+ ಗುತ್ತದೆ: ಜೀವವೃಕ್ಷದೊಂದಿಗೆ.\n\
+ nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflecti
+ ons.github.io/?d=2026-11-28&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 34ನೇ ವಾರದ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ಭಾನುವಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೊದಲ ಭಾನುವಾರ\
+ nಯೆಶಾಯ 63:16ಬಿ–17\, 19ಬಿ\; 64:2ಬಿ–7 · ಕೀ
+ ರ್ತನೆ 80:2–3\, 15–16\, 18–19 · 1 ಕೊರಿಂಥಿ
+ ಯರಿಗೆ 1:3–9 · ಮಾರ್ಕ 13:33–37\nಆಗಮನ ಕ
+ ಾಲ ಹಂಬಲದಿಂದ ಆರಂಭ: ಆಕಾಶವನ್ನ
+ ು ಸೀಳಿ ಇಳಿದುಬನ್ನಿರಿ.\n\nಓದಿ\, 
+ ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io
+ /?d=2026-11-29&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-29&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಮೊದಲ ಭಾನುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:ಪ್ರೇಷಿತ ಸಂತ ಅಂದ್ರೆಯ · ಹಬ
+ ್ಬ
+DESCRIPTION:ಪ್ರೇಷಿತ ಸಂತ ಅಂದ್ರೆಯ · ಹ
+ ಬ್ಬ\nರೋಮನರಿಗೆ 10:9–18 · ಕೀರ್ತನೆ 1
+ 9:8\, 9\, 10\, 11 · ಮತ್ತಾಯ 4:18–22\nಅಂದ್ರೆಯ
+ ರು ಪ್ರಥಮ ಕರೆಯಲ್ಪಟ್ಟವರು.\n\nಓ
+ ದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.
+ github.io/?d=2026-11-30&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪ್ರೇಷಿತ ಸಂ
+ ತ ಅಂದ್ರೆಯ · ಹಬ್ಬ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಮಂಗಳ
+ ವಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಮಂಗ
+ ಳವಾರ\nಯೆಶಾಯ 11:1–10 · ಕೀರ್ತನೆ 72:1–
+ 2\, 7–8\, 12–13\, 17 · ಲೂಕ 10:21–24\nಕಡಿದ ಬುಡ
+ ದಿಂದ ದೇವರು ಹೊಸ ಜೀವವನ್ನು ತರ
+ ುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: ht
+ tps://daily-word-reflections.github.io/?d=2026-12-01&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಮೊದಲ ವಾರದ ಮಂಗಳವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಬುಧವ
+ ಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಬುಧ
+ ವಾರ\nಯೆಶಾಯ 25:6–10ಎ · ಕೀರ್ತನೆ 23:1–
+ 3ಎ\, 3ಬಿ–4\, 5\, 6 · ಮತ್ತಾಯ 15:29–37\nದೇವ
+ ರು ಔತಣವನ್ನೂ ಮರಣದ ಅಂತ್ಯವನ್ನ
+ ೂ ವಾಗ್ದಾನ ಮಾಡುತ್ತಾರೆ.\n\nಓದಿ\,
+  ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.i
+ o/?d=2026-12-02&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಮೊದಲ ವಾರದ ಬುಧವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಗುರು
+ ವಾರ · ಯಾಜಕ ಸಂತ ಫ್ರಾನ್ಸಿಸ್ ಕ
+ ್ಸೇವಿಯರ್
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಗುರ
+ ುವಾರ · ಯಾಜಕ ಸಂತ ಫ್ರಾನ್ಸಿಸ್ 
+ ಕ್ಸೇವಿಯರ್\nಯೆಶಾಯ 26:1–6 · ಕೀರ್ತ
+ ನೆ 118:1 ಮತ್ತು 8–9\, 19–21\, 25–27ಎ · ಮತ್
+ ತಾಯ 7:21\, 24–27\nಪ್ರಭುವೇ\, ಪ್ರಭುವೇ 
+ ಎನ್ನುವುದು ಸಾಲದು\; ಅವರ ಚಿತ್ತ
+ ವನ್ನು ಮಾಡಬೇಕು.\n\nಓದಿ\, ಪ್ರಾರ್
+ ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-12-03&r=l
+ at&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಮೊದಲ ವಾರದ ಗುರುವಾರ · ಯಾಜಕ ಸಂ
+ ತ ಫ್ರಾನ್ಸಿಸ್ ಕ್ಸೇವಿಯರ್
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಶುಕ್
+ ರವಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಶುಕ
+ ್ರವಾರ\nಯೆಶಾಯ 29:17–24 · ಕೀರ್ತನೆ 27:
+ 1\, 4\, 13–14 · ಮತ್ತಾಯ 9:27–31\nಕುರುಡರು 
+ ಕಾಣುವರು ಎಂದು ದೇವರು ವಾಗ್ದಾನ
+  ಮಾಡುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿ
+ ಸಿ: https://daily-word-reflections.github.io/?d=2026-12-04&r=lat&l=k
+ n
+URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಮೊದಲ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಶನಿವ
+ ಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೊದಲ ವಾರದ ಶನಿ
+ ವಾರ\nಯೆಶಾಯ 30:19–21\, 23–26 · ಕೀರ್ತನೆ
+  147:1–2\, 3–4\, 5–6 · ಮತ್ತಾಯ 9:35–10:1\, 5ಎ\, 6
+ –8\nದಯೆ ತೋರಲು ದೇವರು ಕಾಯುತ್ತಾ
+ ರೆ\, ನಮ್ಮ ಮೊರೆಯನ್ನು ಕೇಳುತ್ತ
+ ಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-
+ word-reflections.github.io/?d=2026-12-05&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಮೊದಲ ವಾರದ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೇ ಭಾನುವಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಎರಡನೇ ಭಾನುವಾ
+ ರ\nಯೆಶಾಯ 40:1–5\, 9–11 · ಕೀರ್ತನೆ 85:9–1
+ 0\, 11–12\, 13–14 · 2 ಪೇತ್ರ 3:8–14 · ಮಾರ್ಕ 1
+ :1–8\nದೇವರ ಮೊದಲ ಮಾತು ಸಾಂತ್ವನ.\n\
+ nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflecti
+ ons.github.io/?d=2026-12-06&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-06&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಎರಡನೇ ಭಾನುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಸೋ
+ ಮವಾರ · ಧರ್ಮಾಧ್ಯಕ್ಷ ಮತ್ತು ಧರ
+ ್ಮಪಂಡಿತ ಸಂತ ಅಂಬ್ರೋಸ್
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಸ
+ ೋಮವಾರ · ಧರ್ಮಾಧ್ಯಕ್ಷ ಮತ್ತು ಧ
+ ರ್ಮಪಂಡಿತ ಸಂತ ಅಂಬ್ರೋಸ್\nಯೆಶ
+ ಾಯ 35:1–10 · ಕೀರ್ತನೆ 85:9ಎಬಿ\, 10\, 11–12\,
+  13–14 · ಲೂಕ 5:17–26\nದೇವರು ಮರುಭೂಮಿ
+ ಯನ್ನು ಹೂಬಿಡುವಂತೆ ಮಾಡುತ್ತಾ
+ ರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-wor
+ d-reflections.github.io/?d=2026-12-07&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಎರಡನೆಯ ವಾರದ ಸೋಮವಾರ · ಧರ್ಮಾಧ
+ ್ಯಕ್ಷ ಮತ್ತು ಧರ್ಮಪಂಡಿತ ಸಂತ 
+ ಅಂಬ್ರೋಸ್
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:ಪೂಜ್ಯ ಕನ್ಯಾಮರಿಯಳ ನಿಷ್ಕಳ
+ ಂಕ ಗರ್ಭಧಾರಣೆ · ಮಹೋತ್ಸವ
+DESCRIPTION:ಪೂಜ್ಯ ಕನ್ಯಾಮರಿಯಳ ನಿಷ್
+ ಕಳಂಕ ಗರ್ಭಧಾರಣೆ · ಮಹೋತ್ಸವ\nಆ
+ ದಿಕಾಂಡ 3:9–15\, 20 · ಕೀರ್ತನೆ 98:1\, 2–3
+ ಎ\, 3ಬಿ–4 · ಎಫೆಸಿಯರಿಗೆ 1:3–6\, 11–12 ·
+  ಲೂಕ 1:26–38\nಮರಿಯಳು ತನ್ನ ಮೊದಲ ಕ
+ ್ಷಣದಿಂದಲೇ ಮೂಲಪಾಪದಿಂದ ಕಾಪಾ
+ ಡಲ್ಪಟ್ಟಳು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸ
+ ಿ: https://daily-word-reflections.github.io/?d=2026-12-08&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-08&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪೂಜ್ಯ ಕನ್ಯ
+ ಾಮರಿಯಳ ನಿಷ್ಕಳಂಕ ಗರ್ಭಧಾರಣೆ 
+ · ಮಹೋತ್ಸವ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಬು
+ ಧವಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಬ
+ ುಧವಾರ\nಯೆಶಾಯ 40:25–31 · ಕೀರ್ತನೆ 103
+ :1–2\, 3–4\, 8\, 10 · ಮತ್ತಾಯ 11:28–30\nದೇವರ
+ ು ಎಂದಿಗೂ ಬಳಲುವುದಿಲ್ಲ.\n\nಓದಿ\,
+  ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.i
+ o/?d=2026-12-09&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಎರಡನೆಯ ವಾರದ ಬುಧವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಗು
+ ರುವಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಗ
+ ುರುವಾರ\nಯೆಶಾಯ 41:13–20 · ಕೀರ್ತನೆ 
+ 145:1\, 9\, 10–11\, 12–13ಎ · ಮತ್ತಾಯ 11:11–15\nದ
+ ೇವರು ನಮ್ಮ ಬಲಗೈ ಹಿಡಿಯುತ್ತಾರ
+ ೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-r
+ eflections.github.io/?d=2026-12-10&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಎರಡನೆಯ ವಾರದ ಗುರುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಶು
+ ಕ್ರವಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಶ
+ ುಕ್ರವಾರ\nಯೆಶಾಯ 48:17–19 · ಕೀರ್ತನ
+ ೆ 1:1–2\, 3\, 4\, 6 · ಮತ್ತಾಯ 11:16–19\nದೇವರ 
+ ಆಜ್ಞೆಗಳು ನದಿಯಂಥ ಶಾಂತಿಗೆ ನಡ
+ ೆಸುತ್ತವೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ:
+  https://daily-word-reflections.github.io/?d=2026-12-11&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಎರಡನೆಯ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಶನ
+ ಿವಾರ · ಗ್ವಾದಲೂಪೆಯ ಮಾತೆ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ವಾರದ ಶ
+ ನಿವಾರ · ಗ್ವಾದಲೂಪೆಯ ಮಾತೆ\nಸಿ
+ ರಾಕನ ಗ್ರಂಥ 48:1–4\, 9–11 · ಕೀರ್ತನೆ 
+ 80:2ಎಸಿ\, 3ಬಿ\, 15–16\, 18–19 · ಮತ್ತಾಯ 17:9
+ ಎ\, 10–13\nಎಲೀಯನು ಅಗ್ನಿಯಂಥ ಪ್ರವ
+ ಾದಿ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-
+ word-reflections.github.io/?d=2026-12-12&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಎರಡನೆಯ ವಾರದ ಶನಿವಾರ · ಗ್ವಾದಲ
+ ೂಪೆಯ ಮಾತೆ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ಭಾನುವಾ
+ ರ (ಆನಂದ ಭಾನುವಾರ)
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ಭಾನುವ
+ ಾರ (ಆನಂದ ಭಾನುವಾರ)\nಯೆಶಾಯ 61:1–2ಎ
+ \, 10–11 · ಲೂಕ 1:46–48\, 49–50\, 53–54 · 1 ಥೆಸಲ
+ ೋನಿಕದವರಿಗೆ 5:16–24 · ಯೊವಾನ್ನ 1:6–
+ 8\, 19–28\nಆನಂದವೇ ಆಗಮನ ಕಾಲದ ಹೃದಯ: 
+ ಪ್ರಭು ಸಮೀಪದಲ್ಲಿದ್ದಾರೆ.\n\nಓದ
+ ಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.git
+ hub.io/?d=2026-12-13&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-13&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಮೂರನೆಯ ಭಾನುವಾರ (ಆನಂದ ಭಾನುವ
+ ಾರ)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಸೋ
+ ಮವಾರ · ಯಾಜಕ ಮತ್ತು ಧರ್ಮಪಂಡಿತ
+  ಶಿಲುಬೆಯ ಸಂತ ಯೊವಾನ್ನ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಸ
+ ೋಮವಾರ · ಯಾಜಕ ಮತ್ತು ಧರ್ಮಪಂಡಿ
+ ತ ಶಿಲುಬೆಯ ಸಂತ ಯೊವಾನ್ನ\nಸಂಖ್
+ ಯಾಕಾಂಡ 24:2–7\, 15–17ಎ · ಕೀರ್ತನೆ 25:4
+ –5ಎಬಿ\, 6\, 7ಬಿಸಿ\, 8–9 · ಮತ್ತಾಯ 21:23–
+ 27\nಅನಿರೀಕ್ಷಿತ ಪ್ರವಾದಿಯ ಮೂಲಕ
+ ವೂ ದೇವರ ನಕ್ಷತ್ರ ಉದಯಿಸುತ್ತದ
+ ೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-r
+ eflections.github.io/?d=2026-12-14&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಮೂರನೆಯ ವಾರದ ಸೋಮವಾರ · ಯಾಜಕ ಮ
+ ತ್ತು ಧರ್ಮಪಂಡಿತ ಶಿಲುಬೆಯ ಸಂತ
+  ಯೊವಾನ್ನ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಮಂ
+ ಗಳವಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಮ
+ ಂಗಳವಾರ\nಜೆಫನ್ಯ 3:1–2\, 9–13 · ಕೀರ್
+ ತನೆ 34:2–3\, 6–7\, 17–18\, 19\, 23 · ಮತ್ತಾಯ 21:
+ 28–32\nದೇವರ ಭವಿಷ್ಯ ದೀನ ಶೇಷಕ್ಕೆ
+  ಸೇರಿದ್ದು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ
+ : https://daily-word-reflections.github.io/?d=2026-12-15&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಮೂರನೆಯ ವಾರದ ಮಂಗಳವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಬು
+ ಧವಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ವಾರದ ಬ
+ ುಧವಾರ\nಯೆಶಾಯ 45:6ಬಿ–8\, 18\, 21ಬಿ–25 · 
+ ಕೀರ್ತನೆ 85:9ಎಬಿ\, 10\, 11–12\, 13–14 · ಲೂ
+ ಕ 7:18ಬಿ–23\nಆಕಾಶ ನೀತಿವಂತನನ್ನು 
+ ಸುರಿಸುತ್ತದೆ\; ಭೂಮಿ ರಕ್ಷಕನನ
+ ್ನು ಹೆರುತ್ತದೆ.\n\nಓದಿ\, ಪ್ರಾರ್
+ ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-12-16&r=l
+ at&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ಮೂರನೆಯ ವಾರದ ಬುಧವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:ಡಿಸೆಂಬರ್ 17 · ಆಗಮನ ಕಾಲದ ವಾ
+ ರದ ದಿನ (ಓ ಜ್ಞಾನವೇ)
+DESCRIPTION:ಡಿಸೆಂಬರ್ 17 · ಆಗಮನ ಕಾಲದ ವ
+ ಾರದ ದಿನ (ಓ ಜ್ಞಾನವೇ)\nಆದಿಕಾಂಡ 4
+ 9:2\, 8–10 · ಕೀರ್ತನೆ 72:1–2\, 3–4ಎ\, 7–8\, 17 
+ · ಮತ್ತಾಯ 1:1–17\nಓ-ಪಲ್ಲವಿಗಳು ಆರ
+ ಂಭ: ಓ ಜ್ಞಾನವೇ\, ಬಾ!\n\nಓದಿ\, ಪ್ರಾ
+ ರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-12-
+ 17&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಡಿಸೆಂಬರ್ 17 
+ · ಆಗಮನ ಕಾಲದ ವಾರದ ದಿನ (ಓ ಜ್ಞಾನ
+ ವೇ)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:ಡಿಸೆಂಬರ್ 18 · ಆಗಮನ ಕಾಲದ ವಾ
+ ರದ ದಿನ (ಓ ಅದೋನಾಯ್)
+DESCRIPTION:ಡಿಸೆಂಬರ್ 18 · ಆಗಮನ ಕಾಲದ ವ
+ ಾರದ ದಿನ (ಓ ಅದೋನಾಯ್)\nಯೆರೆಮೀಯ 2
+ 3:5–8 · ಕೀರ್ತನೆ 72:1–2\, 12–13\, 18–19 · ಮತ
+ ್ತಾಯ 1:18–25\nದೇವರು ದಾವೀದನಿಂದ ನ
+ ೀತಿವಂತ ಚಿಗುರನ್ನು ಹುಟ್ಟಿಸು
+ ತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https
+ ://daily-word-reflections.github.io/?d=2026-12-18&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಡಿಸೆಂಬರ್ 18 
+ · ಆಗಮನ ಕಾಲದ ವಾರದ ದಿನ (ಓ ಅದೋನಾ
+ ಯ್)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:ಡಿಸೆಂಬರ್ 19 · ಆಗಮನ ಕಾಲದ ವಾ
+ ರದ ದಿನ (ಓ ಜೆಸ್ಸೆಯ ಬೇರೇ)
+DESCRIPTION:ಡಿಸೆಂಬರ್ 19 · ಆಗಮನ ಕಾಲದ ವ
+ ಾರದ ದಿನ (ಓ ಜೆಸ್ಸೆಯ ಬೇರೇ)\nನ್ಯ
+ ಾಯಸ್ಥಾಪಕರು 13:2–7\, 24–25ಎ · ಕೀರ್ತ
+ ನೆ 71:3–4ಎ\, 5–6ಎಬಿ\, 16–17 · ಲೂಕ 1:5–25\nದ
+ ೇವರು ಬಂಜೆತನವನ್ನು ಜೀವವನ್ನಾ
+ ಗಿ ಮಾರ್ಪಡಿಸುತ್ತಾರೆ.\n\nಓದಿ\, ಪ
+ ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d
+ =2026-12-19&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಡಿಸೆಂಬರ್ 19 
+ · ಆಗಮನ ಕಾಲದ ವಾರದ ದಿನ (ಓ ಜೆಸ್ಸ
+ ೆಯ ಬೇರೇ)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:ಆಗಮನ ಕಾಲದ ನಾಲ್ಕನೆಯ ಭಾನು
+ ವಾರ
+DESCRIPTION:ಆಗಮನ ಕಾಲದ ನಾಲ್ಕನೆಯ ಭಾನ
+ ುವಾರ\n2 ಸಮುವೇಲ 7:1–5\, 8ಬಿ–12\, 14ಎ\, 16 
+ · ಕೀರ್ತನೆ 89:2–3\, 4–5\, 27\, 29 · ರೋಮನರ
+ ಿಗೆ 16:25–27 · ಲೂಕ 1:26–38\nದಾವೀದನು ದ
+ ೇವರಿಗೆ ಮನೆ ಕಟ್ಟಬಯಸಿದನು\; ದೇ
+ ವರು ದಾವೀದನಿಗೆ ಮನೆ ಕಟ್ಟಿದರು
+ .\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-refl
+ ections.github.io/?d=2026-12-20&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-20&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಆಗಮನ ಕಾಲದ 
+ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:ಡಿಸೆಂಬರ್ 21 · ಆಗಮನ ಕಾಲದ ವಾ
+ ರದ ದಿನ (ಓ ಉದಯ ಜ್ಯೋತಿಯೇ)
+DESCRIPTION:ಡಿಸೆಂಬರ್ 21 · ಆಗಮನ ಕಾಲದ ವ
+ ಾರದ ದಿನ (ಓ ಉದಯ ಜ್ಯೋತಿಯೇ)\nಪರಮ
+ ಗೀತೆ 2:8–14 (ಅಥವಾ ಜೆಫನ್ಯ 3:14–18ಎ) · 
+ ಕೀರ್ತನೆ 33:2–3\, 11–12\, 20–21 · ಲೂಕ 1:39–4
+ 5\nಪ್ರಿಯನು ಬೆಟ್ಟಗಳ ಮೇಲೆ ಜಿಗಿ
+ ಯುತ್ತಾ ಬರುತ್ತಾನೆ.\n\nಓದಿ\, ಪ್ರ
+ ಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-
+ 12-21&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಡಿಸೆಂಬರ್ 21 
+ · ಆಗಮನ ಕಾಲದ ವಾರದ ದಿನ (ಓ ಉದಯ ಜ
+ ್ಯೋತಿಯೇ)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:ಡಿಸೆಂಬರ್ 22 · ಆಗಮನ ಕಾಲದ ವಾ
+ ರದ ದಿನ (ಓ ಜನಾಂಗಗಳ ರಾಜನೇ)
+DESCRIPTION:ಡಿಸೆಂಬರ್ 22 · ಆಗಮನ ಕಾಲದ ವ
+ ಾರದ ದಿನ (ಓ ಜನಾಂಗಗಳ ರಾಜನೇ)\n1 ಸ
+ ಮುವೇಲ 1:24–28 · 1 ಸಮುವೇಲ 2:1\, 4–5\, 6–7\, 
+ 8ಎಬಿಸಿಡಿ · ಲೂಕ 1:46–56\nದೇವರು ಕೊಟ
+ ್ಟ ಮಗನನ್ನು ಹನ್ನಾ ದೇವರಿಗೇ ಹ
+ ಿಂದಿರುಗಿಸಿದಳು.\n\nಓದಿ\, ಪ್ರಾರ
+ ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2026-12-22&
+ r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಡಿಸೆಂಬರ್ 22 
+ · ಆಗಮನ ಕಾಲದ ವಾರದ ದಿನ (ಓ ಜನಾಂಗ
+ ಗಳ ರಾಜನೇ)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:ಡಿಸೆಂಬರ್ 23 · ಆಗಮನ ಕಾಲದ ವಾ
+ ರದ ದಿನ (ಓ ಇಮ್ಮಾನುವೇಲನೇ)
+DESCRIPTION:ಡಿಸೆಂಬರ್ 23 · ಆಗಮನ ಕಾಲದ ವ
+ ಾರದ ದಿನ (ಓ ಇಮ್ಮಾನುವೇಲನೇ)\nಮಲ
+ ಾಕಿ 3:1–4\; 4:5–6 · ಕೀರ್ತನೆ 25:4–5ಎಬಿ\,
+  8–9\, 10\, 14 · ಲೂಕ 1:57–66\nಮಲಾಕಿ ಘೋಷಿಸ
+ ಿದ ದೂತನು ಜನಿಸುತ್ತಾನೆ: ಯೊವಾ
+ ನ್ನ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-
+ word-reflections.github.io/?d=2026-12-23&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಡಿಸೆಂಬರ್ 23 
+ · ಆಗಮನ ಕಾಲದ ವಾರದ ದಿನ (ಓ ಇಮ್ಮಾ
+ ನುವೇಲನೇ)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:ಡಿಸೆಂಬರ್ 24 · ಆಗಮನ ಕಾಲದ ವಾ
+ ರದ ದಿನ (ಮುಂಜಾನೆಯ ದಿವ್ಯಬಲಿಪ
+ ೂಜೆ)
+DESCRIPTION:ಡಿಸೆಂಬರ್ 24 · ಆಗಮನ ಕಾಲದ ವ
+ ಾರದ ದಿನ (ಮುಂಜಾನೆಯ ದಿವ್ಯಬಲಿ
+ ಪೂಜೆ)\n2 ಸಮುವೇಲ 7:1–5\, 8ಬಿ–12\, 14ಎ\, 16 
+ · ಕೀರ್ತನೆ 89:2–3\, 4–5\, 27\, 29 · ಲೂಕ 1:67–
+ 79\nದೇವರು ದಾವೀದನ ಮನೆತನದಲ್ಲಿ 
+ ಬಲಿಷ್ಠ ರಕ್ಷಕನನ್ನು ಎಬ್ಬಿಸಿ
+ ದರು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-
+ word-reflections.github.io/?d=2026-12-24&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಡಿಸೆಂಬರ್ 24 
+ · ಆಗಮನ ಕಾಲದ ವಾರದ ದಿನ (ಮುಂಜಾನ
+ ೆಯ ದಿವ್ಯಬಲಿಪೂಜೆ)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:ಪ್ರಭುವಿನ ಜನನ (ಕ್ರಿಸ್ತಜಯ
+ ಂತಿ) · ಮಹೋತ್ಸವ
+DESCRIPTION:ಪ್ರಭುವಿನ ಜನನ (ಕ್ರಿಸ್ತಜ
+ ಯಂತಿ) · ಮಹೋತ್ಸವ\nಯೆಶಾಯ 52:7–10 · ಕ
+ ೀರ್ತನೆ 98:1\, 2–3ಎಬಿ\, 3ಸಿಡಿ–4\, 5–6 · 
+ ಹಿಬ್ರಿಯರಿಗೆ 1:1–6 · ಯೊವಾನ್ನ 1:1
+ –18 (ಅಥವಾ 1:1–5\, 9–14)\nನಿತ್ಯ ವಾಕ್ಯ
+ ವು ಮನುಷ್ಯರಾಗಿ ನಮ್ಮ ನಡುವೆ ವ
+ ಾಸಿಸಿದರು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ:
+  https://daily-word-reflections.github.io/?d=2026-12-25&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-25&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪ್ರಭುವಿನ ಜ
+ ನನ (ಕ್ರಿಸ್ತಜಯಂತಿ) · ಮಹೋತ್ಸವ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:ಸಂತ ಸ್ತೇಫನ\, ಪ್ರಥಮ ಹುತಾತ್
+ ಮ · ಹಬ್ಬ
+DESCRIPTION:ಸಂತ ಸ್ತೇಫನ\, ಪ್ರಥಮ ಹುತಾ
+ ತ್ಮ · ಹಬ್ಬ\nಪ್ರೇಷಿತರ ಕಾರ್ಯಕ
+ ಲಾಪಗಳು 6:8–10\; 7:54–59 · ಕೀರ್ತನೆ 31:3ಸ
+ ಿಡಿ–4\, 6\, 8ಎಬಿ\, 16ಬಿಸಿ\, 17 · ಮತ್ತಾ
+ ಯ 10:17–22\nಕ್ರಿಸ್ತ ಜಯಂತಿಯ ಮರುದಿ
+ ನ\, ಧರ್ಮಸಭೆ ತನ್ನ ಪ್ರಥಮ ಹುತಾತ
+ ್ಮರನ್ನು ಆಚರಿಸುತ್ತದೆ.\n\nಓದಿ\, 
+ ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io
+ /?d=2026-12-26&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-26&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಂತ ಸ್ತೇಫನ
+ \, ಪ್ರಥಮ ಹುತಾತ್ಮ · ಹಬ್ಬ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:ಯೇಸು\, ಮರಿಯ ಮತ್ತು ಜೋಸೆಫರ 
+ ತಿರುಕುಟುಂಬ · ಹಬ್ಬ
+DESCRIPTION:ಯೇಸು\, ಮರಿಯ ಮತ್ತು ಜೋಸೆಫ
+ ರ ತಿರುಕುಟುಂಬ · ಹಬ್ಬ\nಆದಿಕಾಂ
+ ಡ 15:1–6\; 21:1–3 · ಕೀರ್ತನೆ 105:1–2\, 3–4\, 5
+ –6\, 8–9 · ಹಿಬ್ರಿಯರಿಗೆ 11:8\, 11–12\, 17–
+ 19 · ಲೂಕ 2:22–40 (ಅಥವಾ 2:22\, 39–40)\nದೇವರ 
+ ಪುತ್ರರು ಒಂದು ಕುಟುಂಬದಲ್ಲಿ ಬ
+ ೆಳೆದರು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https
+ ://daily-word-reflections.github.io/?d=2026-12-27&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-27&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಯೇಸು\, ಮರಿಯ 
+ ಮತ್ತು ಜೋಸೆಫರ ತಿರುಕುಟುಂಬ · ಹ
+ ಬ್ಬ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:ಪವಿತ್ರ ಮುಗ್ಧ ಶಿಶುಗಳು\, ಹು
+ ತಾತ್ಮರು · ಹಬ್ಬ
+DESCRIPTION:ಪವಿತ್ರ ಮುಗ್ಧ ಶಿಶುಗಳು\, 
+ ಹುತಾತ್ಮರು · ಹಬ್ಬ\n1 ಯೊವಾನ್ನ 1:5
+  – 2:2 · ಕೀರ್ತನೆ 124:2–3\, 4–5\, 7ಬಿ–8 · ಮ
+ ತ್ತಾಯ 2:13–18\nಹೊಸದಾಗಿ ಜನಿಸಿದ ರ
+ ಾಜನನ್ನು ನಾಶಮಾಡಲು ಹೆರೋದನು ಬ
+ ೆತ್ಲೆಹೇಮಿನ ಮಕ್ಕಳನ್ನು ಕೊಲ್
+ ಲಿಸಿದನು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: ht
+ tps://daily-word-reflections.github.io/?d=2026-12-28&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪವಿತ್ರ ಮುಗ
+ ್ಧ ಶಿಶುಗಳು\, ಹುತಾತ್ಮರು · ಹಬ್
+ ಬ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:ಡಿಸೆಂಬರ್ 29 · ಕ್ರಿಸ್ತ ಜಯಂತ
+ ಿಯ ಅಷ್ಟದಿನಗಳ ಐದನೇ ದಿನ
+DESCRIPTION:ಡಿಸೆಂಬರ್ 29 · ಕ್ರಿಸ್ತ ಜಯ
+ ಂತಿಯ ಅಷ್ಟದಿನಗಳ ಐದನೇ ದಿನ\n1 ಯ
+ ೊವಾನ್ನ 2:3–11 · ಕೀರ್ತನೆ 96:1–2ಎ\, 2ಬ
+ ಿ–3\, 5ಬಿ–6 · ಲೂಕ 2:22–35\nಆತ್ಮರಿಂದ 
+ ನಡೆಸಲ್ಪಟ್ಟ ಸಿಮೆಯೋನ ರಕ್ಷಕರ
+ ನ್ನು ಕೈಗಳಲ್ಲಿ ಎತ್ತಿಕೊಳ್ಳು
+ ತ್ತಾನೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https
+ ://daily-word-reflections.github.io/?d=2026-12-29&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-29&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಡಿಸೆಂಬರ್ 29 
+ · ಕ್ರಿಸ್ತ ಜಯಂತಿಯ ಅಷ್ಟದಿನಗಳ 
+ ಐದನೇ ದಿನ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:ಡಿಸೆಂಬರ್ 30 · ಕ್ರಿಸ್ತ ಜಯಂತ
+ ಿಯ ಅಷ್ಟದಿನಗಳ ಆರನೇ ದಿನ
+DESCRIPTION:ಡಿಸೆಂಬರ್ 30 · ಕ್ರಿಸ್ತ ಜಯ
+ ಂತಿಯ ಅಷ್ಟದಿನಗಳ ಆರನೇ ದಿನ\n1 ಯ
+ ೊವಾನ್ನ 2:12–17 · ಕೀರ್ತನೆ 96:7–8ಎ\, 8ಬ
+ ಿ–9\, 10 · ಲೂಕ 2:36–40\nಅನ್ನಳ ಜೀವನಪರ
+ ್ಯಂತದ ಪ್ರಾರ್ಥನೆ ಕ್ರಿಸ್ತರನ
+ ್ನು ಗುರುತಿಸಲು ಅವಳನ್ನು ಸಿದ್
+ ಧಪಡಿಸಿತು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ:
+  https://daily-word-reflections.github.io/?d=2026-12-30&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-30&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಡಿಸೆಂಬರ್ 30 
+ · ಕ್ರಿಸ್ತ ಜಯಂತಿಯ ಅಷ್ಟದಿನಗಳ 
+ ಆರನೇ ದಿನ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:ಡಿಸೆಂಬರ್ 31 · ಕ್ರಿಸ್ತ ಜಯಂತ
+ ಿಯ ಅಷ್ಟದಿನಗಳ ಏಳನೇ ದಿನ
+DESCRIPTION:ಡಿಸೆಂಬರ್ 31 · ಕ್ರಿಸ್ತ ಜಯ
+ ಂತಿಯ ಅಷ್ಟದಿನಗಳ ಏಳನೇ ದಿನ\n1 ಯ
+ ೊವಾನ್ನ 2:18–21 · ಕೀರ್ತನೆ 96:1–2\, 11–12
+ \, 13 · ಯೊವಾನ್ನ 1:1–18\nಆದಿಯಲ್ಲಿದ್
+ ದ ವಾಕ್ಯವು ಎಲ್ಲಾ ಕಾಲದ ಪ್ರಭು.\
+ n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflec
+ tions.github.io/?d=2026-12-31&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಡಿಸೆಂಬರ್ 31 
+ · ಕ್ರಿಸ್ತ ಜಯಂತಿಯ ಅಷ್ಟದಿನಗಳ 
+ ಏಳನೇ ದಿನ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:ದೇವಮಾತೆ ಪೂಜ್ಯ ಮರಿಯ · ಮಹೋ
+ ತ್ಸವ · ಕ್ರಿಸ್ತ ಜಯಂತಿಯ ಅಷ್ಟದ
+ ಿನಗಳ ಕೊನೆಯ ದಿನ
+DESCRIPTION:ದೇವಮಾತೆ ಪೂಜ್ಯ ಮರಿಯ · ಮಹ
+ ೋತ್ಸವ · ಕ್ರಿಸ್ತ ಜಯಂತಿಯ ಅಷ್ಟ
+ ದಿನಗಳ ಕೊನೆಯ ದಿನ\nಸಂಖ್ಯಾಕಾಂ
+ ಡ 6:22–27 · ಕೀರ್ತನೆ 67:1–2\, 4\, 5\, 7 · ಗಲಾ
+ ತ್ಯರಿಗೆ 4:4–7 · ಲೂಕ 2:16–21\nಮರಿಯಳು
+  ನಿಜವಾಗಿಯೂ ದೇವಮಾತೆ\, ಏಕೆಂದರ
+ ೆ ಅವಳ ಪುತ್ರ ದೇವರು.\n\nಓದಿ\, ಪ್ರ
+ ಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-
+ 01-01&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-01&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ದೇವಮಾತೆ ಪೂ
+ ಜ್ಯ ಮರಿಯ · ಮಹೋತ್ಸವ · ಕ್ರಿಸ್ತ
+  ಜಯಂತಿಯ ಅಷ್ಟದಿನಗಳ ಕೊನೆಯ ದಿ
+ ನ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:ಜನವರಿ 2 · ಸಂತ ಮಹಾ ಬೆಸಿಲ್ ಮ
+ ತ್ತು ನಾಜಿಯಾನ್ಸೆನ್‌ನ ಸಂತ ಗ್
+ ರೆಗೊರಿ\, ಧರ್ಮಾಧ್ಯಕ್ಷರು ಮತ್
+ ತು ಧರ್ಮಪಂಡಿತರು · ಸ್ಮರಣೆ
+DESCRIPTION:ಜನವರಿ 2 · ಸಂತ ಮಹಾ ಬೆಸಿಲ್ 
+ ಮತ್ತು ನಾಜಿಯಾನ್ಸೆನ್‌ನ ಸಂತ ಗ
+ ್ರೆಗೊರಿ\, ಧರ್ಮಾಧ್ಯಕ್ಷರು ಮತ
+ ್ತು ಧರ್ಮಪಂಡಿತರು · ಸ್ಮರಣೆ\n1 ಯ
+ ೊವಾನ್ನ 2:22–28 · ಕೀರ್ತನೆ 98:1\, 2–3ಎಬ
+ ಿ\, 3ಸಿಡಿ–4 · ಯೊವಾನ್ನ 1:19–28\nಸ್ನಾ
+ ನಿಕ ಯೊವಾನ್ನನು ಕ್ರಿಸ್ತರನ್ನ
+ ು ತೋರಿಸುವ ಒಂದು ಧ್ವನಿ.\n\nಓದಿ\, 
+ ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io
+ /?d=2027-01-02&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಜನವರಿ 2 · ಸಂ
+ ತ ಮಹಾ ಬೆಸಿಲ್ ಮತ್ತು ನಾಜಿಯಾನ
+ ್ಸೆನ್‌ನ ಸಂತ ಗ್ರೆಗೊರಿ\, ಧರ್ಮ
+ ಾಧ್ಯಕ್ಷರು ಮತ್ತು ಧರ್ಮಪಂಡಿತ
+ ರು · ಸ್ಮರಣೆ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:ಪ್ರಭುವಿನ ಪ್ರತ್ಯಕ್ಷತೆ · ಮ
+ ಹೋತ್ಸವ
+DESCRIPTION:ಪ್ರಭುವಿನ ಪ್ರತ್ಯಕ್ಷತೆ ·
+  ಮಹೋತ್ಸವ\nಯೆಶಾಯ 60:1–6 · ಕೀರ್ತನ
+ ೆ 72:1–2\, 7–8\, 10–11\, 12–13 · ಎಫೆಸಿಯರಿಗ
+ ೆ 3:2–3ಎ\, 5–6 · ಮತ್ತಾಯ 2:1–12\nಕ್ರಿಸ
+ ್ತರು ಎಲ್ಲಾ ಜನಾಂಗಗಳಿಗೆ ಪ್ರಕ
+ ಟರಾಗುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥ
+ ಿಸಿ: https://daily-word-reflections.github.io/?d=2027-01-03&r=lat&
+ l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-03&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪ್ರಭುವಿನ ಪ
+ ್ರತ್ಯಕ್ಷತೆ · ಮಹೋತ್ಸವ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:ಜನವರಿ 4 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
+ ಕ್ಷತೆಯ ನಂತರದ ಸೋಮವಾರ
+DESCRIPTION:ಜನವರಿ 4 · ಪ್ರಭುವಿನ ಪ್ರತ್
+ ಯಕ್ಷತೆಯ ನಂತರದ ಸೋಮವಾರ\n1 ಯೊವಾ
+ ನ್ನ 3:22–4:6 · ಕೀರ್ತನೆ 2:7–8\, 10–12ಎ · 
+ ಮತ್ತಾಯ 4:12–17\, 23–25\nಜನರು ಕತ್ತಲೆ
+ ಯಲ್ಲಿ ಕುಳಿತಿದ್ದಲ್ಲೇ ಯೇಸು ತ
+ ಮ್ಮ ಬೋಧನೆಯನ್ನು ಆರಂಭಿಸುತ್ತ
+ ಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-
+ word-reflections.github.io/?d=2027-01-04&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಜನವರಿ 4 · ಪ್
+ ರಭುವಿನ ಪ್ರತ್ಯಕ್ಷತೆಯ ನಂತರದ 
+ ಸೋಮವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:ಜನವರಿ 5 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
+ ಕ್ಷತೆಯ ನಂತರದ ಮಂಗಳವಾರ
+DESCRIPTION:ಜನವರಿ 5 · ಪ್ರಭುವಿನ ಪ್ರತ್
+ ಯಕ್ಷತೆಯ ನಂತರದ ಮಂಗಳವಾರ\n1 ಯೊವ
+ ಾನ್ನ 4:7–10 · ಕೀರ್ತನೆ 72:1–2\, 3–4\, 7–8 
+ · ಮಾರ್ಕ 6:34–44\nದೇವರು ಪ್ರೀತಿಯಾ
+ ಗಿದ್ದಾರೆ\; ಅವರೇ ಮೊದಲು ನಮ್ಮನ
+ ್ನು ಪ್ರೀತಿಸಿದರು.\n\nಓದಿ\, ಪ್ರಾ
+ ರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-01-
+ 05&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಜನವರಿ 5 · ಪ್
+ ರಭುವಿನ ಪ್ರತ್ಯಕ್ಷತೆಯ ನಂತರದ 
+ ಮಂಗಳವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:ಜನವರಿ 6 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
+ ಕ್ಷತೆಯ ನಂತರದ ಬುಧವಾರ
+DESCRIPTION:ಜನವರಿ 6 · ಪ್ರಭುವಿನ ಪ್ರತ್
+ ಯಕ್ಷತೆಯ ನಂತರದ ಬುಧವಾರ\n1 ಯೊವಾ
+ ನ್ನ 4:11–18 · ಕೀರ್ತನೆ 72:1–2\, 10\, 12–13 · 
+ ಮಾರ್ಕ 6:45–52\nಬೆಟ್ಟದ ಮೇಲೆ ಯೇಸು 
+ ಪ್ರಾರ್ಥಿಸುತ್ತಾ ನಾವು ಕಷ್ಟಪ
+ ಡುವುದನ್ನು ಕಾಣುತ್ತಾರೆ.\n\nಓದಿ
+ \, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github
+ .io/?d=2027-01-06&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-06&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಜನವರಿ 6 · ಪ್
+ ರಭುವಿನ ಪ್ರತ್ಯಕ್ಷತೆಯ ನಂತರದ 
+ ಬುಧವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:ಜನವರಿ 7 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
+ ಕ್ಷತೆಯ ನಂತರದ ಗುರುವಾರ
+DESCRIPTION:ಜನವರಿ 7 · ಪ್ರಭುವಿನ ಪ್ರತ್
+ ಯಕ್ಷತೆಯ ನಂತರದ ಗುರುವಾರ\n1 ಯೊವ
+ ಾನ್ನ 4:19–5:4 · ಕೀರ್ತನೆ 72:1–2\, 14 ಮತ್
+ ತು 15ಬಿಸಿ\, 17 · ಲೂಕ 4:14–22ಎ\nಬಡವರ ಮ
+ ತ್ತು ಸೆರೆಯಾಳುಗಳ ಬಳಿಗೆ ಕಳುಹ
+ ಿಸಲ್ಪಟ್ಟ ಅಭಿಷಿಕ್ತರು ಯೇಸು.\n\
+ nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflecti
+ ons.github.io/?d=2027-01-07&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಜನವರಿ 7 · ಪ್
+ ರಭುವಿನ ಪ್ರತ್ಯಕ್ಷತೆಯ ನಂತರದ 
+ ಗುರುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:ಜನವರಿ 8 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
+ ಕ್ಷತೆಯ ನಂತರದ ಶುಕ್ರವಾರ
+DESCRIPTION:ಜನವರಿ 8 · ಪ್ರಭುವಿನ ಪ್ರತ್
+ ಯಕ್ಷತೆಯ ನಂತರದ ಶುಕ್ರವಾರ\n1 ಯೊ
+ ವಾನ್ನ 5:5–13 · ಕೀರ್ತನೆ 147:12–13\, 14–15\
+ , 19–20 · ಲೂಕ 5:12–16\nಕುಷ್ಠರೋಗಿ ಯೇಸ
+ ುವಿನ ಶಕ್ತಿಯನ್ನು ನಂಬಿ\, ಅವರ ಚ
+ ಿತ್ತವನ್ನು ಕೇಳುತ್ತಾನೆ.\n\nಓದಿ
+ \, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github
+ .io/?d=2027-01-08&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಜನವರಿ 8 · ಪ್
+ ರಭುವಿನ ಪ್ರತ್ಯಕ್ಷತೆಯ ನಂತರದ 
+ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:ಜನವರಿ 9 · ಪ್ರಭುವಿನ ಪ್ರತ್ಯ
+ ಕ್ಷತೆಯ ನಂತರದ ಶನಿವಾರ
+DESCRIPTION:ಜನವರಿ 9 · ಪ್ರಭುವಿನ ಪ್ರತ್
+ ಯಕ್ಷತೆಯ ನಂತರದ ಶನಿವಾರ\n1 ಯೊವಾ
+ ನ್ನ 5:14–21 · ಕೀರ್ತನೆ 149:1–2\, 3–4\, 5 ಮ
+ ತ್ತು 6ಎ ಮತ್ತು 9ಬಿ · ಯೊವಾನ್ನ 3:22
+ –30\nಯೇಸು ಮದುಮಗ\; ಯೊವಾನ್ನರು ಅವ
+ ರ ಸ್ನೇಹಿತ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ
+ : https://daily-word-reflections.github.io/?d=2027-01-09&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಜನವರಿ 9 · ಪ್
+ ರಭುವಿನ ಪ್ರತ್ಯಕ್ಷತೆಯ ನಂತರದ 
+ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:ಪ್ರಭುವಿನ ದೀಕ್ಷಾಸ್ನಾನ · ಹ
+ ಬ್ಬ
+DESCRIPTION:ಪ್ರಭುವಿನ ದೀಕ್ಷಾಸ್ನಾನ ·
+  ಹಬ್ಬ\nಯೆಶಾಯ 42:1–4\, 6–7 · ಕೀರ್ತನೆ
+  29:1ಎ ಮತ್ತು 2\, 3ಎಸಿ–4\, 3ಬಿ ಮತ್ತು 9
+ ಬಿ–10 · ಪ್ರೇಷಿತರ ಕಾರ್ಯಕಲಾಪಗ
+ ಳು 10:34–38 · ಮಾರ್ಕ 1:7–11\nಜೋರ್ಡನ್‌
+ ನಲ್ಲಿ ಆಕಾಶ ತೆರೆದು ತ್ರಿಏಕ ದ
+ ೇವರು ಪ್ರಕಟರಾಗುತ್ತಾರೆ.\n\nಓದಿ
+ \, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github
+ .io/?d=2027-01-10&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-10&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪ್ರಭುವಿನ ದ
+ ೀಕ್ಷಾಸ್ನಾನ · ಹಬ್ಬ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಸೋಮ
+ ವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಸ
+ ೋಮವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 1:1–6 · ಕೀರ
+ ್ತನೆ 97:1 ಮತ್ತು 2ಬಿ\, 6 ಮತ್ತು 7ಸಿ\, 
+ 9 · ಮಾರ್ಕ 1:14–20\nದೇವರು ತಮ್ಮ ಕಡೆ
+ ಯ ವಾಕ್ಯವನ್ನು ತಮ್ಮ ಪುತ್ರನಲ್
+ ಲಿ ನುಡಿದಿದ್ದಾರೆ.\n\nಓದಿ\, ಪ್ರಾ
+ ರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-01-
+ 11&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 1ನೇ ವಾರದ ಸೋಮವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಮಂಗ
+ ಳವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಮ
+ ಂಗಳವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 2:5–12 · ಕೀ
+ ರ್ತನೆ 8:1\, 4\, 5–6\, 7–8 · ಮಾರ್ಕ 1:21–28\n
+ ಯೇಸು ತಮ್ಮ ಸ್ವಂತ ಅಧಿಕಾರದಿಂದ
+  ಬೋಧಿಸುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್
+ ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-01-12&r=l
+ at&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 1ನೇ ವಾರದ ಮಂಗಳವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಬುಧ
+ ವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಬ
+ ುಧವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 2:14–18 · ಕೀ
+ ರ್ತನೆ 105:1–2\, 3–4\, 6–7\, 8–9 · ಮಾರ್ಕ 1:2
+ 9–39\nಯೇಸು ರೋಗಿಯಾದ ಸ್ತ್ರೀಯನ್
+ ನು ಎಬ್ಬಿಸುತ್ತಾರೆ\, ಅವಳು ಸೇವ
+ ೆ ಮಾಡುತ್ತಾಳೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥ
+ ಿಸಿ: https://daily-word-reflections.github.io/?d=2027-01-13&r=lat&
+ l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 1ನೇ ವಾರದ ಬುಧವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಗುರ
+ ುವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಗ
+ ುರುವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 3:7–14 · ಕೀ
+ ರ್ತನೆ 95:6–7ಸಿ\, 8–9\, 10–11 · ಮಾರ್ಕ 1:40
+ –45\nಇಂದು\, ನಿಮ್ಮ ಹೃದಯಗಳನ್ನು ಕ
+ ಠಿಣಮಾಡಿಕೊಳ್ಳಬೇಡಿ.\n\nಓದಿ\, ಪ್
+ ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=20
+ 27-01-14&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 1ನೇ ವಾರದ ಗುರುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಶುಕ
+ ್ರವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಶ
+ ುಕ್ರವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 4:1–5\, 11 ·
+  ಕೀರ್ತನೆ 78:3 ಮತ್ತು 4ಬಿಸಿ\, 6ಸಿ–7\
+ , 8 · ಮಾರ್ಕ 2:1–12\nನಾಲ್ವರು ಸ್ನೇಹ
+ ಿತರು ಪಾರ್ಶ್ವವಾಯು ಪೀಡಿತನನ್
+ ನು ಯೇಸುವಿನ ಬಳಿಗೆ ಹೊತ್ತು ತರ
+ ುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: ht
+ tps://daily-word-reflections.github.io/?d=2027-01-15&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 1ನೇ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಶನಿ
+ ವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 1ನೇ ವಾರದ ಶ
+ ನಿವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 4:12–16 · ಕೀ
+ ರ್ತನೆ 19:7\, 8\, 9\, 14 · ಮಾರ್ಕ 2:13–17\nದೇ
+ ವರ ವಾಕ್ಯ ಜೀವಂತವಾದುದು\, ಹೃದಯ
+ ವನ್ನು ಕಾಣುತ್ತದೆ.\n\nಓದಿ\, ಪ್ರಾ
+ ರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-01-
+ 16&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 1ನೇ ವಾರದ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ಭಾನುವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ಭಾನುವಾ
+ ರ\n1 ಸಮುವೇಲ 3:3ಬಿ–10\, 19 · ಕೀರ್ತನೆ 4
+ 0:1\, 3\, 6–7\, 7–8\, 9 · 1 ಕೊರಿಂಥಿಯರಿಗೆ 6:
+ 13ಸಿ–15ಎ\, 17–20 · ಯೊವಾನ್ನ 1:35–42\nಯೇಸ
+ ು ಕೇಳುತ್ತಾರೆ: ನೀವು ಏನನ್ನು ಹ
+ ುಡುಕುತ್ತಿದ್ದೀರಿ?\n\nಓದಿ\, ಪ್ರ
+ ಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-
+ 01-17&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-17&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 2ನೇ ಭಾನುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಸೋಮ
+ ವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಸ
+ ೋಮವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 5:1–10 · ಕೀರ
+ ್ತನೆ 110:1\, 2\, 3\, 4 · ಮಾರ್ಕ 2:18–22\nಪ್ರ
+ ಧಾನ ಯಾಜಕರಾದ ಕ್ರಿಸ್ತರು ಯಾತನ
+ ೆಯ ಮೂಲಕ ವಿಧೇಯತೆಯನ್ನು ಕಲಿತರ
+ ು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-r
+ eflections.github.io/?d=2027-01-18&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 2ನೇ ವಾರದ ಸೋಮವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಮಂಗ
+ ಳವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಮ
+ ಂಗಳವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 6:10–20 · ಕ
+ ೀರ್ತನೆ 111:1–2\, 4–5\, 9 ಮತ್ತು 10ಸಿ · ಮ
+ ಾರ್ಕ 2:23–28\nನಾವು ತೋರುವ ಪ್ರೀತಿ
+ ಯನ್ನು ದೇವರು ಮರೆಯುವುದಿಲ್ಲ.\n\
+ nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflecti
+ ons.github.io/?d=2027-01-19&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 2ನೇ ವಾರದ ಮಂಗಳವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಬುಧ
+ ವಾರ · ಸಂತ ಫೇಬಿಯನ್ ಮತ್ತು ಸಂತ 
+ ಸೆಬಾಸ್ಟಿಯನ್
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಬ
+ ುಧವಾರ · ಸಂತ ಫೇಬಿಯನ್ ಮತ್ತು ಸ
+ ಂತ ಸೆಬಾಸ್ಟಿಯನ್\nಹಿಬ್ರಿಯರಿಗ
+ ೆ 7:1–3\, 15–17 · ಕೀರ್ತನೆ 110:1\, 2\, 3\, 4 · ಮ
+ ಾರ್ಕ 3:1–6\nಕ್ರಿಸ್ತರು ಮೆಲ್ಕಿಸ
+ ೆದೇಕನಂತೆ ನಿರಂತರ ಯಾಜಕರು.\n\nಓ
+ ದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.
+ github.io/?d=2027-01-20&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 2ನೇ ವಾರದ ಬುಧವಾರ · ಸಂತ ಫೇಬಿ
+ ಯನ್ ಮತ್ತು ಸಂತ ಸೆಬಾಸ್ಟಿಯನ್
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:ಕನ್ಯೆ ಮತ್ತು ಹುತಾತ್ಮರಾದ 
+ ಸಂತ ಆಗ್ನೆಸ್
+DESCRIPTION:ಕನ್ಯೆ ಮತ್ತು ಹುತಾತ್ಮರಾ
+ ದ ಸಂತ ಆಗ್ನೆಸ್\nಹಿಬ್ರಿಯರಿಗೆ 7
+ :25–8:6 · ಕೀರ್ತನೆ 40:6–7ಎ\, 7ಬಿ–8\, 9\, 16 ·
+  ಮಾರ್ಕ 3:7–12\nನಮಗಾಗಿ ವಿಜ್ಞಾಪಿ
+ ಸಲು ಕ್ರಿಸ್ತರು ಸದಾ ಜೀವಿಸುತ್
+ ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://dai
+ ly-word-reflections.github.io/?d=2027-01-21&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಕನ್ಯೆ ಮತ್ತ
+ ು ಹುತಾತ್ಮರಾದ ಸಂತ ಆಗ್ನೆಸ್
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಶುಕ
+ ್ರವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಶ
+ ುಕ್ರವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 8:6–13 · ಕ
+ ೀರ್ತನೆ 85:7 ಮತ್ತು 9\, 10–11\, 12–13 · ಮಾ
+ ರ್ಕ 3:13–19\nಹೊಸ ಒಡಂಬಡಿಕೆಯಲ್ಲಿ 
+ ದೇವರು ತಮ್ಮ ನಿಯಮವನ್ನು ನಮ್ಮ 
+ ಹೃದಯಗಳ ಮೇಲೆ ಬರೆಯುತ್ತಾರೆ.\n\n
+ ಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflectio
+ ns.github.io/?d=2027-01-22&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 2ನೇ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಶನಿ
+ ವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 2ನೇ ವಾರದ ಶ
+ ನಿವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 9:2–3\, 11–14 · 
+ ಕೀರ್ತನೆ 47:1–2\, 5–6\, 7–8 · ಮಾರ್ಕ 3:20
+ –21\nಕ್ರಿಸ್ತರು ತಮ್ಮ ಸ್ವಂತ ರಕ
+ ್ತದೊಂದಿಗೆ ಒಂದೇ ಸಾರಿ ಶಾಶ್ವತ
+ ವಾಗಿ ಪ್ರವೇಶಿಸಿದರು.\n\nಓದಿ\, ಪ್
+ ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=20
+ 27-01-23&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 2ನೇ ವಾರದ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ಭಾನುವಾರ 
+ · ದೇವರ ವಾಕ್ಯದ ಭಾನುವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ಭಾನುವಾ
+ ರ · ದೇವರ ವಾಕ್ಯದ ಭಾನುವಾರ\nಯೋನ 
+ 3:1–5\, 10 · ಕೀರ್ತನೆ 25:4–5\, 6–7\, 8–9 · 1 ಕ
+ ೊರಿಂಥಿಯರಿಗೆ 7:29–31 · ಮಾರ್ಕ 1:14–20
+ \nಕಾಲ ಪರಿಪೂರ್ಣವಾಯಿತು\; ರಾಜ್ಯ
+  ಸಮೀಪಿಸಿದೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸ
+ ಿ: https://daily-word-reflections.github.io/?d=2027-01-24&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-24&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 3ನೇ ಭಾನುವಾರ · ದೇವರ ವಾಕ್ಯದ 
+ ಭಾನುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:ಪ್ರೇಷಿತ ಸಂತ ಪೌಲರ ಮನಃಪರಿ
+ ವರ್ತನೆ
+DESCRIPTION:ಪ್ರೇಷಿತ ಸಂತ ಪೌಲರ ಮನಃಪರ
+ ಿವರ್ತನೆ\nಪ್ರೇಷಿತರ ಕಾರ್ಯಕಲಾ
+ ಪಗಳು 22:3–16 (ಅಥವಾ ಪ್ರೇಷಿತರ ಕಾರ
+ ್ಯಕಲಾಪಗಳು 9:1–22) · ಕೀರ್ತನೆ 117:1\, 2
+  · ಮಾರ್ಕ 16:15–18\nಹಿಂಸಕನಾದ ಸೌಲನು
+  ದಮಸ್ಕಸ್ಸಿನ ಹಾದಿಯಲ್ಲಿ ಪುನರ
+ ುತ್ಥಾನರಾದ ಯೇಸುವನ್ನು ಭೇಟಿಯ
+ ಾದನು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://dai
+ ly-word-reflections.github.io/?d=2027-01-25&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪ್ರೇಷಿತ ಸಂ
+ ತ ಪೌಲರ ಮನಃಪರಿವರ್ತನೆ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:ಧರ್ಮಾಧ್ಯಕ್ಷರಾದ ಸಂತ ತಿಮೊ
+ ಥೇಯ ಮತ್ತು ಸಂತ ತೀತ
+DESCRIPTION:ಧರ್ಮಾಧ್ಯಕ್ಷರಾದ ಸಂತ ತಿ
+ ಮೊಥೇಯ ಮತ್ತು ಸಂತ ತೀತ\n2 ತಿಮೊಥ
+ ೇಯನಿಗೆ 1:1–8 (ಅಥವಾ ತೀತನಿಗೆ 1:1–5) 
+ · ಕೀರ್ತನೆ 96:1–2a\, 2b–3\, 7–8a\, 10 · ಮಾರ
+ ್ಕ 3:31–35\nತಿಮೊಥೇಯನ ವಿಷಯದಲ್ಲಾ
+ ದಂತೆ\, ವಿಶ್ವಾಸ ಕುಟುಂಬಗಳಲ್ಲ
+ ಿ ಹಸ್ತಾಂತರವಾಗುತ್ತದೆ.\n\nಓದಿ\, 
+ ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io
+ /?d=2027-01-26&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಧರ್ಮಾಧ್ಯಕ
+ ್ಷರಾದ ಸಂತ ತಿಮೊಥೇಯ ಮತ್ತು ಸಂ
+ ತ ತೀತ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಬುಧ
+ ವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಬ
+ ುಧವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 10:11–18 · ಕೀ
+ ರ್ತನೆ 110:1\, 2\, 3\, 4 · ಮಾರ್ಕ 4:1–20\nಕ್ರ
+ ಿಸ್ತರ ಒಂದೇ ಬಲಿ ನಮ್ಮನ್ನು ಶಾ
+ ಶ್ವತವಾಗಿ ಪರಿಪೂರ್ಣರನ್ನಾಗಿ 
+ ಮಾಡುತ್ತದೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸ
+ ಿ: https://daily-word-reflections.github.io/?d=2027-01-27&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 3ನೇ ವಾರದ ಬುಧವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:ಗುರುಗಳೂ ಧರ್ಮಸಭೆಯ ಪಂಡಿತರ
+ ೂ ಆದ ಸಂತ ಥಾಮಸ್ ಅಕ್ವಿನಾಸ್
+DESCRIPTION:ಗುರುಗಳೂ ಧರ್ಮಸಭೆಯ ಪಂಡಿ
+ ತರೂ ಆದ ಸಂತ ಥಾಮಸ್ ಅಕ್ವಿನಾಸ್\n
+ ಹಿಬ್ರಿಯರಿಗೆ 10:19–25 · ಕೀರ್ತನೆ 24
+ :1–2\, 3–4ab\, 5–6 · ಮಾರ್ಕ 4:21–25\nಯೇಸುವ
+ ಿನ ಮೂಲಕ ನಾವು ಧೈರ್ಯದಿಂದ ದೇವ
+ ರನ್ನು ಸಮೀಪಿಸುತ್ತೇವೆ.\n\nಓದಿ\, 
+ ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io
+ /?d=2027-01-28&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಗುರುಗಳೂ ಧರ
+ ್ಮಸಭೆಯ ಪಂಡಿತರೂ ಆದ ಸಂತ ಥಾಮಸ
+ ್ ಅಕ್ವಿನಾಸ್
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಶುಕ
+ ್ರವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಶ
+ ುಕ್ರವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 10:32–39 · 
+ ಕೀರ್ತನೆ 37:3–4\, 5–6\, 23–24\, 39–40 · ಮಾರ
+ ್ಕ 4:26–34\nನಿಮ್ಮ ಧೈರ್ಯವನ್ನು ಕೈ
+ ಬಿಡಬೇಡಿ\; ನಿಮಗೆ ಸಹನೆ ಬೇಕು.\n\n
+ ಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflectio
+ ns.github.io/?d=2027-01-29&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 3ನೇ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಶನಿ
+ ವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 3ನೇ ವಾರದ ಶ
+ ನಿವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 11:1–2\, 8–19 · 
+ ಲೂಕ 1:69–70\, 71–72\, 73–75 · ಮಾರ್ಕ 4:35–41\n
+ ವಿಶ್ವಾಸವೆಂದರೆ ನಿರೀಕ್ಷಿಸು
+ ವವುಗಳ ಬಗ್ಗೆ ನಿಶ್ಚಯ.\n\nಓದಿ\, ಪ
+ ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d
+ =2027-01-30&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 3ನೇ ವಾರದ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ಭಾನುವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ಭಾನುವಾ
+ ರ\nಧರ್ಮೋಪದೇಶಕಾಂಡ 18:15–20 · ಕೀರ್
+ ತನೆ 95:1–2\, 6–7\, 7–9 · 1 ಕೊರಿಂಥಿಯರಿ
+ ಗೆ 7:32–35 · ಮಾರ್ಕ 1:21–28\nಮೋಶೆಯಂಥ ಒ
+ ಬ್ಬ ಪ್ರವಾದಿಯನ್ನು ದೇವರು ವಾಗ
+ ್ದಾನ ಮಾಡಿದರು\; ಆ ಪ್ರವಾದಿ ಯೇಸ
+ ುವೇ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-
+ word-reflections.github.io/?d=2027-01-31&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-01-31&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 4ನೇ ಭಾನುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಸೋಮ
+ ವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಸ
+ ೋಮವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 11:32–40 · ಕೀ
+ ರ್ತನೆ 31:19\, 20\, 21\, 22\, 23 · ಮಾರ್ಕ 5:1–20\n
+ ವಿಶ್ವಾಸ ವೀರರು ನರಳಿದರು\, ಆದರ
+ ೂ ನಂಬಿದರು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ
+ : https://daily-word-reflections.github.io/?d=2027-02-01&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 4ನೇ ವಾರದ ಸೋಮವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:ಪ್ರಭುವನ್ನು ದೇವಾಲಯದಲ್ಲಿ 
+ ಸಮರ್ಪಿಸಿದ್ದು
+DESCRIPTION:ಪ್ರಭುವನ್ನು ದೇವಾಲಯದಲ್ಲ
+ ಿ ಸಮರ್ಪಿಸಿದ್ದು\nಮಲಾಕಿ 3:1–4 (ಅ
+ ಥವಾ ಹಿಬ್ರಿಯರಿಗೆ 2:14–18) · ಕೀರ್
+ ತನೆ 24:7\, 8\, 9\, 10 · ಲೂಕ 2:22–40 (ಅಥವಾ 2:22–
+ 32)\nಜನನದ ನಲವತ್ತು ದಿನಗಳ ನಂತರ ಯ
+ ೇಸು ದೇವಾಲಯದಲ್ಲಿ ಸಮರ್ಪಿಸಲ್
+ ಪಡುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸ
+ ಿ: https://daily-word-reflections.github.io/?d=2027-02-02&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-02&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಪ್ರಭುವನ್ನ
+ ು ದೇವಾಲಯದಲ್ಲಿ ಸಮರ್ಪಿಸಿದ್ದ
+ ು
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಬುಧ
+ ವಾರ · ಸಂತ ಬ್ಲೇಸ್ ಮತ್ತು ಸಂತ ಆ
+ ನ್ಸ್‌ಗಾರ್
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಬ
+ ುಧವಾರ · ಸಂತ ಬ್ಲೇಸ್ ಮತ್ತು ಸಂ
+ ತ ಆನ್ಸ್‌ಗಾರ್\nಹಿಬ್ರಿಯರಿಗೆ 12
+ :4–7\, 11–15 · ಕೀರ್ತನೆ 103:1–2\, 13–14\, 17–18
+ ಎ · ಮಾರ್ಕ 6:1–6\nದೇವರು ಒಬ್ಬ ತಂದ
+ ೆಯಾಗಿ\, ನಮ್ಮ ಪವಿತ್ರತೆಗಾಗಿ ನ
+ ಮ್ಮನ್ನು ಶಿಸ್ತುಗೊಳಿಸುತ್ತಾ
+ ರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-wor
+ d-reflections.github.io/?d=2027-02-03&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 4ನೇ ವಾರದ ಬುಧವಾರ · ಸಂತ ಬ್ಲೇ
+ ಸ್ ಮತ್ತು ಸಂತ ಆನ್ಸ್‌ಗಾರ್
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಗುರ
+ ುವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 4ನೇ ವಾರದ ಗ
+ ುರುವಾರ\nಹಿಬ್ರಿಯರಿಗೆ 12:18–19\, 21–
+ 24 · ಕೀರ್ತನೆ 48:1–2ಎ\, 2ಬಿ–3\, 8\, 9–10 · 
+ ಮಾರ್ಕ 6:7–13\nನಾವು ಭಯಂಕರವಾದ ಸೀ
+ ನಾಯಿಗಲ್ಲ\, ಆನಂದಮಯವಾದ ಸಿಯೋನ
+ ಿಗೆ ಬಂದಿದ್ದೇವೆ.\n\nಓದಿ\, ಪ್ರಾರ
+ ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-02-04&
+ r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 4ನೇ ವಾರದ ಗುರುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:ಕನ್ಯೆ ಮತ್ತು ಹುತಾತ್ಮರಾದ 
+ ಸಂತ ಅಗಾತಾ
+DESCRIPTION:ಕನ್ಯೆ ಮತ್ತು ಹುತಾತ್ಮರಾ
+ ದ ಸಂತ ಅಗಾತಾ\nಹಿಬ್ರಿಯರಿಗೆ 13:1–
+ 8 · ಕೀರ್ತನೆ 27:1\, 3\, 5\, 8ಬಿ–9ಎಬಿಸಿ · 
+ ಮಾರ್ಕ 6:14–29\nಸಹೋದರ ಪ್ರೀತಿಯೂ ಆ
+ ತಿಥ್ಯವೂ ಮುಂದುವರಿಯಲಿ.\n\nಓದಿ\, 
+ ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io
+ /?d=2027-02-05&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಕನ್ಯೆ ಮತ್ತ
+ ು ಹುತಾತ್ಮರಾದ ಸಂತ ಅಗಾತಾ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:ಹುತಾತ್ಮರಾದ ಸಂತ ಪೌಲ್ ಮಿಕ
+ ಿ ಮತ್ತು ಸಂಗಡಿಗರು
+DESCRIPTION:ಹುತಾತ್ಮರಾದ ಸಂತ ಪೌಲ್ ಮಿ
+ ಕಿ ಮತ್ತು ಸಂಗಡಿಗರು\nಹಿಬ್ರಿಯ
+ ರಿಗೆ 13:15–17\, 20–21 · ಕೀರ್ತನೆ 23:1–3ಎ\,
+  3ಬಿ–4\, 5\, 6 · ಮಾರ್ಕ 6:30–34\nದೇವರಿಗೆ
+  ಸ್ತುತಿಯ ಮತ್ತು ಹಂಚಿಕೆಯ ಬಲಿ
+ ಯನ್ನು ಅರ್ಪಿಸಿರಿ.\n\nಓದಿ\, ಪ್ರಾ
+ ರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-02-
+ 06&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಹುತಾತ್ಮರಾ
+ ದ ಸಂತ ಪೌಲ್ ಮಿಕಿ ಮತ್ತು ಸಂಗಡಿ
+ ಗರು
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 5ನೇ ಭಾನುವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 5ನೇ ಭಾನುವಾ
+ ರ\nಯೋಬ 7:1–4\, 6–7 · ಕೀರ್ತನೆ 147:1–2\, 3–
+ 4\, 5–6 · 1 ಕೊರಿಂಥಿಯರಿಗೆ 9:16–19\, 22–23 
+ · ಮಾರ್ಕ 1:29–39\nಯೋಬನು ತನ್ನ ದೀರ್
+ ಘ ಸಂಕಟದ ರಾತ್ರಿಯಲ್ಲಿ ಕೂಗುತ್
+ ತಾನೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://dai
+ ly-word-reflections.github.io/?d=2027-02-07&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-07&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 5ನೇ ಭಾನುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 5ನೇ ವಾರದ ಸೋಮ
+ ವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 5ನೇ ವಾರದ ಸ
+ ೋಮವಾರ\nಆದಿಕಾಂಡ 1:1–19 · ಕೀರ್ತನೆ
+  104:1–2ಎ\, 5–6\, 10\, 12\, 24\, 35ಸಿ · ಮಾರ್ಕ 6:53
+ –56\nಆದಿಯಲ್ಲಿ ದೇವರು ಆಕಾಶವನ್ನ
+ ೂ ಭೂಮಿಯನ್ನೂ ಸೃಷ್ಟಿಸಿದರು.\n\n
+ ಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflectio
+ ns.github.io/?d=2027-02-08&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 5ನೇ ವಾರದ ಸೋಮವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:ಸಾಮಾನ್ಯ ಕಾಲದ 5ನೇ ವಾರದ ಮಂಗ
+ ಳವಾರ
+DESCRIPTION:ಸಾಮಾನ್ಯ ಕಾಲದ 5ನೇ ವಾರದ ಮ
+ ಂಗಳವಾರ\nಆದಿಕಾಂಡ 1:20–2:4ಎ · ಕೀರ್
+ ತನೆ 8:3–4\, 5–6\, 7–8 · ಮಾರ್ಕ 7:1–13\nದೇವ
+ ರು ಮಾನವನನ್ನು ತಮ್ಮ ಸ್ವರೂಪದಲ
+ ್ಲಿ\, ಗಂಡುಹೆಣ್ಣಾಗಿ ಸೃಷ್ಟಿಸ
+ ಿದರು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://dai
+ ly-word-reflections.github.io/?d=2027-02-09&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಾಮಾನ್ಯ ಕಾ
+ ಲದ 5ನೇ ವಾರದ ಮಂಗಳವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:ವಿಭೂತಿ ಬುಧವಾರ
+DESCRIPTION:ವಿಭೂತಿ ಬುಧವಾರ\nಯೋವೇಲ 2:12
+ –18 · ಕೀರ್ತನೆ 51:1–2\, 3–4ಎ\, 10–11\, 12\, 15 
+ · 2 ಕೊರಿಂಥಿಯರಿಗೆ 5:20–6:2 · ಮತ್ತಾ
+ ಯ 6:1–6\, 16–18\nನಿಮ್ಮ ಪೂರ್ಣಹೃದಯದಿ
+ ಂದ ಪ್ರಭುವಿನ ಬಳಿಗೆ ಹಿಂದಿರುಗ
+ ಿರಿ\; ಉಡುಪುಗಳನ್ನಲ್ಲ\, ಹೃದಯಗಳ
+ ನ್ನು ಹರಿದುಕೊಳ್ಳಿರಿ.\n\nಓದಿ\, ಪ
+ ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d
+ =2027-02-10&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ವಿಭೂತಿ ಬುಧ
+ ವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಗು
+ ರುವಾರ
+DESCRIPTION:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಗ
+ ುರುವಾರ\nಧರ್ಮೋಪದೇಶಕಾಂಡ 30:15–20 
+ · ಕೀರ್ತನೆ 1:1–2\, 3\, 4\, 6 · ಲೂಕ 9:22–25\nದ
+ ೇವರು ಜೀವವನ್ನೂ ಮರಣವನ್ನೂ ನಮ್
+ ಮ ಮುಂದೆ ಇಡುತ್ತಾರೆ: ಜೀವವನ್ನ
+ ು ಆರಿಸಿಕೊಳ್ಳಿರಿ.\n\nಓದಿ\, ಪ್ರಾ
+ ರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-02-
+ 11&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ವಿಭೂತಿ ಬುಧ
+ ವಾರದ ನಂತರದ ಗುರುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಶು
+ ಕ್ರವಾರ
+DESCRIPTION:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಶ
+ ುಕ್ರವಾರ\nಯೆಶಾಯ 58:1–9ಎ · ಕೀರ್ತನ
+ ೆ 51:1–2\, 3–4ಎ\, 16–17 · ಮತ್ತಾಯ 9:14–15\nಬ
+ ಡವರನ್ನು ಕಡೆಗಣಿಸುವ\, ಕೆಲಸಗಾ
+ ರರನ್ನು ಶೋಷಿಸುವ ಉಪವಾಸವನ್ನು 
+ ದೇವರು ತಿರಸ್ಕರಿಸುತ್ತಾರೆ.\n\nಓ
+ ದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.
+ github.io/?d=2027-02-12&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ವಿಭೂತಿ ಬುಧ
+ ವಾರದ ನಂತರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಶನ
+ ಿವಾರ
+DESCRIPTION:ವಿಭೂತಿ ಬುಧವಾರದ ನಂತರದ ಶ
+ ನಿವಾರ\nಯೆಶಾಯ 58:9ಬಿ–14 · ಕೀರ್ತನ
+ ೆ 86:1–2\, 3–4\, 5–6 · ಲೂಕ 5:27–32\nಬೆರಳು ತ
+ ೋರಿಸುವುದನ್ನೂ ಕೆಟ್ಟ ಮಾತುಗಳ
+ ನ್ನೂ ತೆಗೆದುಹಾಕಿರಿ.\n\nಓದಿ\, ಪ್
+ ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=20
+ 27-02-13&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ವಿಭೂತಿ ಬುಧ
+ ವಾರದ ನಂತರದ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ಭಾನ
+ ುವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ಭಾ
+ ನುವಾರ\nಆದಿಕಾಂಡ 9:8–15 · ಕೀರ್ತನೆ
+  25:4–5\, 6–7\, 8–9 · 1 ಪೇತ್ರ 3:18–22 · ಮಾರ್
+ ಕ 1:12–15\nಸಮಸ್ತ ಸೃಷ್ಟಿಯೊಂದಿಗಿ
+ ನ ತಮ್ಮ ಒಡಂಬಡಿಕೆಯ ಗುರುತಾಗಿ 
+ ದೇವರು ಮೋಡಗಳಲ್ಲಿ ತಮ್ಮ ಬಿಲ್ಲ
+ ನ್ನು ಇಟ್ಟರು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿ
+ ಸಿ: https://daily-word-reflections.github.io/?d=2027-02-14&r=lat&l=k
+ n
+URL:https://daily-word-reflections.github.io/?d=2027-02-14&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೊದಲನೆಯ ಭಾನುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
+ ದ ಸೋಮವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
+ ರದ ಸೋಮವಾರ\nಯಾಜಕಕಾಂಡ 19:1–2\, 11–18 
+ · ಕೀರ್ತನೆ 19:7\, 8\, 9\, 14 · ಮತ್ತಾಯ 25:31
+ –46\nದೇವರು ಹೇಳುತ್ತಾರೆ: ನಾನು ಪ
+ ವಿತ್ರನಾಗಿರುವುದರಿಂದ ನೀವು ಪ
+ ವಿತ್ರರಾಗಿರಿ\; ವಂಚಿಸಬೇಡಿರಿ\, 
+ ಸುಳ್ಳು ಹೇಳಬೇಡಿರಿ\, ಹಗೆ ಇಟ್ಟ
+ ುಕೊಳ್ಳಬೇಡಿರಿ.\n\nಓದಿ\, ಪ್ರಾರ್
+ ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-02-15&r=l
+ at&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೊದಲನೆಯ ವಾರದ ಸೋಮವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
+ ದ ಮಂಗಳವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
+ ರದ ಮಂಗಳವಾರ\nಯೆಶಾಯ 55:10–11 · ಕೀರ್
+ ತನೆ 34:3–4\, 5–6\, 15–16\, 17–18 · ಮತ್ತಾಯ 6:7
+ –15\nದೇವರ ವಾಕ್ಯ ಮಳೆಯಂತೆ: ಅದು ಯ
+ ಾವಾಗಲೂ ಫಲವನ್ನು ತರುತ್ತದೆ.\n\n
+ ಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflectio
+ ns.github.io/?d=2027-02-16&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೊದಲನೆಯ ವಾರದ ಮಂಗಳವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
+ ದ ಬುಧವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
+ ರದ ಬುಧವಾರ\nಯೋನ 3:1–10 · ಕೀರ್ತನೆ 5
+ 1:1–2\, 10–11\, 16–17 · ಲೂಕ 11:29–32\nದೇವರು ಯ
+ ೋನನಿಗೆ ಎರಡನೆಯ ಅವಕಾಶ ಕೊಡುತ್
+ ತಾರೆ\, ಯೋನನು ನಿನೆವೆಗೆ ಸಾರುತ
+ ್ತಾನೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://
+ daily-word-reflections.github.io/?d=2027-02-17&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೊದಲನೆಯ ವಾರದ ಬುಧವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
+ ದ ಗುರುವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
+ ರದ ಗುರುವಾರ\nಎಸ್ತೇರ್ C:12\, 14–16\, 23
+ –25 (ಗ್ರೀಕ್ ಸೇರ್ಪಡೆಗಳು\; ಅನೇಕ 
+ ಬೈಬಲ್‌ಗಳಲ್ಲಿ 14:1\, 3–5\, 12–14) · ಕೀ
+ ರ್ತನೆ 138:1–2a\, 2bc–3\, 7c–8 · ಮತ್ತಾಯ 7:7
+ –12\nಒಂಟಿಯಾಗಿ ಅಪಾಯದಲ್ಲಿರುವ ಎ
+ ಸ್ತೇರ್ ರಾಣಿ ಧೈರ್ಯಕ್ಕಾಗಿಯೂ 
+ ಸಹಾಯಕ್ಕಾಗಿಯೂ ದೇವರಿಗೆ ಪ್ರಾ
+ ರ್ಥಿಸುತ್ತಾಳೆ.\n\nಓದಿ\, ಪ್ರಾರ್
+ ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-02-18&r=l
+ at&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೊದಲನೆಯ ವಾರದ ಗುರುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
+ ದ ಶುಕ್ರವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
+ ರದ ಶುಕ್ರವಾರ\nಯೆಹೆಜ್ಕೇಲ 18:21–28 
+ · ಕೀರ್ತನೆ 130:1–2\, 3–4\, 5–6\, 7–8 · ಮತ್
+ ತಾಯ 5:20–26\nಪಾಪಿ ಸಾಯಬೇಕೆಂದಲ್ಲ\,
+  ಹಿಂದಿರುಗಿ ಬದುಕಬೇಕೆಂದು ದೇವ
+ ರು ಬಯಸುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್
+ ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-02-19&r=l
+ at&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೊದಲನೆಯ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾರ
+ ದ ಶನಿವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೊದಲನೆಯ ವಾ
+ ರದ ಶನಿವಾರ\nಧರ್ಮೋಪದೇಶಕಾಂಡ 26:16
+ –19 · ಕೀರ್ತನೆ 119:1–2\, 4–5\, 7–8 · ಮತ್ತ
+ ಾಯ 5:43–48\nದೇವರೂ ಇಸ್ರಾಯೇಲೂ ಒಂದ
+ ು ಒಡಂಬಡಿಕೆ ಮಾಡಿಕೊಳ್ಳುತ್ತಾ
+ ರೆ: ನೀವು ನನ್ನ ಸ್ವಕೀಯ ಸಂಪತ್ತ
+ ಾದ ಜನರು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: http
+ s://daily-word-reflections.github.io/?d=2027-02-20&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೊದಲನೆಯ ವಾರದ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ಭಾನು
+ ವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ಭಾನ
+ ುವಾರ\nಆದಿಕಾಂಡ 22:1–2\, 9a\, 10–13\, 15–18 ·
+  ಕೀರ್ತನೆ 116:10\, 15\, 16–17\, 18–19 · ರೋಮನ
+ ರಿಗೆ 8:31b–34 · ಮಾರ್ಕ 9:2–10\nಅಬ್ರಹಾ
+ ಮನು ತನ್ನ ಏಕೈಕ ಮಗನನ್ನು ದೇವರ
+ ಿಗೆ ಕೊಡಲು ಸಿದ್ಧನಾಗುತ್ತಾನೆ\
+ , ದೇವರು ಬದಲಿಗೆ ಒಂದು ಟಗರನ್ನು 
+ ಒದಗಿಸುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್
+ ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-02-21&r=l
+ at&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-21&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಎರಡನೆಯ ಭಾನುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:ಸಂತ ಪೇತ್ರರ ಪೀಠ\, ಪ್ರೇಷಿತರ
+ ು
+DESCRIPTION:ಸಂತ ಪೇತ್ರರ ಪೀಠ\, ಪ್ರೇಷಿ
+ ತರು\n1 ಪೇತ್ರ 5:1–4 · ಕೀರ್ತನೆ 23:1–3a\
+ , 4\, 5\, 6 · ಮತ್ತಾಯ 16:13–19\nಪೇತ್ರರು ಯ
+ ೇಸುವನ್ನು ಕ್ರಿಸ್ತರೆಂದೂ ಜೀವ
+ ಂತ ದೇವರ ಪುತ್ರರೆಂದೂ ಅರಿಕೆ ಮ
+ ಾಡಿದರು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https
+ ://daily-word-reflections.github.io/?d=2027-02-22&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-22&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ಸಂತ ಪೇತ್ರರ
+  ಪೀಠ\, ಪ್ರೇಷಿತರು
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-23-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರದ 
+ ಮಂಗಳವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರ
+ ದ ಮಂಗಳವಾರ\nಯೆಶಾಯ 1:10\, 16–20 · ಕೀರ
+ ್ತನೆ 50:8–9\, 16–17\, 21\, 23 · ಮತ್ತಾಯ 23:1–1
+ 2\nದೇವರು ಪಾಪಿಗಳನ್ನು ಆಮಂತ್ರಿ
+ ಸುತ್ತಾರೆ: ನಿಮ್ಮ ಪಾಪಗಳು ಕಡು
+ ಗೆಂಪಾಗಿದ್ದರೂ ಹಿಮದಂತೆ ಬೆಳ್
+ ಳಗಾಗುವವು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ:
+  https://daily-word-reflections.github.io/?d=2027-02-23&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಎರಡನೆಯ ವಾರದ ಮಂಗಳವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರದ 
+ ಬುಧವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರ
+ ದ ಬುಧವಾರ\nಯೆರೆಮೀಯ 18:18–20 · ಕೀರ್
+ ತನೆ 31:4–5\, 13\, 14–15 · ಮತ್ತಾಯ 20:17–28\nಯ
+ ೆರೆಮೀಯನು ತಾನು ಮಾಡಿದ ಒಳ್ಳೆಯ
+ ದಕ್ಕೆ ಕೆಟ್ಟದ್ದನ್ನು ಪಡೆದನು\
+ , ಆದರೂ ಪ್ರಾರ್ಥಿಸಿದನು.\n\nಓದಿ\, 
+ ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io
+ /?d=2027-02-24&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಎರಡನೆಯ ವಾರದ ಬುಧವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರದ 
+ ಗುರುವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರ
+ ದ ಗುರುವಾರ\nಯೆರೆಮೀಯ 17:5–10 · ಕೀರ
+ ್ತನೆ 1:1–2\, 3\, 4\, 6 · ಲೂಕ 16:19–31\nಪ್ರಭ
+ ುವನ್ನು ನಂಬುವವರು ನೀರಿನ ಬಳಿ 
+ ನೆಡಲ್ಪಟ್ಟ ಮರದಂತೆ ಇರುತ್ತಾರ
+ ೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-r
+ eflections.github.io/?d=2027-02-25&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಎರಡನೆಯ ವಾರದ ಗುರುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರದ 
+ ಶುಕ್ರವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರ
+ ದ ಶುಕ್ರವಾರ\nಆದಿಕಾಂಡ 37:3–4\, 12–13a\
+ , 17b–28 · ಕೀರ್ತನೆ 105:16–17\, 18–19\, 20–21 · 
+ ಮತ್ತಾಯ 21:33–43\, 45–46\nಪ್ರಿಯ ಪುತ್ರ
+ ನಾದ ಯೋಸೇಫನು ಅಸೂಯೆಪಟ್ಟ ತನ್ನ
+  ಸಹೋದರರಿಂದ ಮಾರಲ್ಪಟ್ಟನು\; ದೇ
+ ವರು ಅದನ್ನು ಒಳಿತನ್ನಾಗಿ ಮಾಡಿ
+ ದರು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-
+ word-reflections.github.io/?d=2027-02-26&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಎರಡನೆಯ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರದ 
+ ಶನಿವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಎರಡನೆಯ ವಾರ
+ ದ ಶನಿವಾರ\nಮೀಕ 7:14–15\, 18–20 · ಕೀರ್ತ
+ ನೆ 103:1–2\, 3–4\, 9–10\, 11–12 · ಲೂಕ 15:1–3\, 11
+ –32\nದೇವರು ಕರುಣೆಯಲ್ಲಿ ಆನಂದಿಸ
+ ುತ್ತಾರೆ\, ನಮ್ಮ ಪಾಪಗಳನ್ನು ಸಮ
+ ುದ್ರದ ಆಳಕ್ಕೆ ಎಸೆಯುತ್ತಾರೆ.\n\
+ nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflecti
+ ons.github.io/?d=2027-02-27&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಎರಡನೆಯ ವಾರದ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ಭಾನು
+ ವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ಭಾನ
+ ುವಾರ\nವಿಮೋಚನಕಾಂಡ 20:1–17 (ಅಥವಾ 20:
+ 1–3\, 7–8\, 12–17) · ಕೀರ್ತನೆ 19:7\, 8\, 9\, 10 · 1
+  ಕೊರಿಂಥಿಯರಿಗೆ 1:22–25 · ಯೊವಾನ್ನ
+  2:13–25\nದೇವರು ತಾವು ಬಿಡುಗಡೆಗೊಳ
+ ಿಸಿದ ಒಂದು ಜನರಿಗೆ ಹತ್ತು ಆಜ್
+ ಞೆಗಳನ್ನು ಕೊಟ್ಟರು.\n\nಓದಿ\, ಪ್ರ
+ ಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-
+ 02-28&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-02-28&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೂರನೆಯ ಭಾನುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-01-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
+ ಸೋಮವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
+ ದ ಸೋಮವಾರ\n2 ಅರಸುಗಳು 5:1–15ab · ಕೀರ
+ ್ತನೆ 42:1–2\; 43:3–4 · ಲೂಕ 4:24–30\nಗರ್ವಿ
+ ಷ್ಠ ಸೇನಾಪತಿ ನಾಮಾನನು ಜೋರ್ಡನ
+ ್ ನದಿಯಲ್ಲಿ ಏಳು ಸಾರಿ ಸ್ನಾನಮ
+ ಾಡಿ ಕುಷ್ಠದಿಂದ ಗುಣಮುಖನಾದನು.
+ \n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-refle
+ ctions.github.io/?d=2027-03-01&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೂರನೆಯ ವಾರದ ಸೋಮವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
+ ಮಂಗಳವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
+ ದ ಮಂಗಳವಾರ\nದಾನಿಯೇಲ 3:25\, 34–43 · ಕ
+ ೀರ್ತನೆ 25:4–5ab\, 6\, 7bc\, 8–9 · ಮತ್ತಾಯ 18
+ :21–35\nಕುಲುಮೆಯಲ್ಲಿ ಅಜರ್ಯನು ಮು
+ ರಿದ ಹೃದಯವನ್ನೂ ದೀನ ಆತ್ಮವನ್ನ
+ ೂ ದೇವರಿಗೆ ಅರ್ಪಿಸಿದನು.\n\nಓದಿ\,
+  ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.i
+ o/?d=2027-03-02&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೂರನೆಯ ವಾರದ ಮಂಗಳವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
+ ಬುಧವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
+ ದ ಬುಧವಾರ\nಧರ್ಮೋಪದೇಶಕಾಂಡ 4:1\, 5
+ –9 · ಕೀರ್ತನೆ 147:12–13\, 15–16\, 19–20 · ಮತ
+ ್ತಾಯ 5:17–19\nದೇವರ ಧರ್ಮಶಾಸ್ತ್ರ 
+ ಜೀವಕ್ಕಾಗಿಯೇ ಎಂದೂ\, ಅಷ್ಟು ಸಮ
+ ೀಪವಾದ ದೇವರುಳ್ಳ ಜನಾಂಗ ಬೇರೊಂ
+ ದಿಲ್ಲ ಎಂದೂ ಮೋಶೆ ಇಸ್ರಯೇಲಿಗೆ
+  ಬೋಧಿಸಿದನು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸ
+ ಿ: https://daily-word-reflections.github.io/?d=2027-03-03&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೂರನೆಯ ವಾರದ ಬುಧವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
+ ಗುರುವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
+ ದ ಗುರುವಾರ\nಯೆರೆಮೀಯ 7:23–28 · ಕೀರ
+ ್ತನೆ 95:1–2\, 6–7\, 8–9 · ಲೂಕ 11:14–23\nದೇವ
+ ರ ಸ್ವರವನ್ನು ಕೇಳದ ಒಂದು ಜನರ ಬ
+ ಗ್ಗೆ ಯೆರೆಮೀಯನು ಗೋಳಾಡಿದನು.\n\
+ nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflecti
+ ons.github.io/?d=2027-03-04&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೂರನೆಯ ವಾರದ ಗುರುವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
+ ಶುಕ್ರವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
+ ದ ಶುಕ್ರವಾರ\nಹೊಶೇಯ 14:1–9 · ಕೀರ್
+ ತನೆ 81:5c–7a\, 7bc–8\, 9–10ab\, 13\, 16 · ಮಾರ್ಕ 1
+ 2:28–34\nಹೊಶೇಯನ ಮೂಲಕ ದೇವರು ಇಸ್ರ
+ ಯೇಲಿಗೆ ಹಿಂದಿರುಗುವ ಮಾತುಗಳನ
+ ್ನು ಕಲಿಸಿ\, ಅವರನ್ನು ಉಚಿತವಾಗ
+ ಿ ಪ್ರೀತಿಸುವುದಾಗಿ ವಾಗ್ದಾನ ಮ
+ ಾಡುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸ
+ ಿ: https://daily-word-reflections.github.io/?d=2027-03-05&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೂರನೆಯ ವಾರದ ಶುಕ್ರವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರದ 
+ ಶನಿವಾರ
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ಮೂರನೆಯ ವಾರ
+ ದ ಶನಿವಾರ\nಹೊಶೇಯ 6:1–6 · ಕೀರ್ತನೆ
+  51:1–2\, 16–17\, 18–19 · ಲೂಕ 18:9–14\nನಮ್ಮ ಪ
+ ್ರೀತಿ ಮುಂಜಾನೆಯ ಇಬ್ಬನಿಯಂತೆ 
+ ಮಾಯವಾಗಬಹುದು ಎಂದು ಹೊಶೇಯ ಎಚ್
+ ಚರಿಸುತ್ತಾನೆ\; ದೇವರು ಬಲಿಯನ್
+ ನಲ್ಲ\, ಸ್ಥಿರವಾದ ಪ್ರೀತಿಯನ್ನ
+ ೇ ಬಯಸುತ್ತಾರೆ.\n\nಓದಿ\, ಪ್ರಾರ್ಥ
+ ಿಸಿ: https://daily-word-reflections.github.io/?d=2027-03-06&r=lat&
+ l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ಮೂರನೆಯ ವಾರದ ಶನಿವಾರ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:ತಪಸ್ಸು ಕಾಲದ ನಾಲ್ಕನೆಯ ಭಾ
+ ನುವಾರ (ಲೇತಾರೆ)
+DESCRIPTION:ತಪಸ್ಸು ಕಾಲದ ನಾಲ್ಕನೆಯ ಭ
+ ಾನುವಾರ (ಲೇತಾರೆ)\n2 ಪೂರ್ವಕಾಲವ
+ ೃತ್ತಾಂತ 36:14–16\, 19–23 · ಕೀರ್ತನೆ 137:
+ 1–2\, 3\, 4–5\, 6 · ಎಫೆಸಿಯರಿಗೆ 2:4–10 · ಯ
+ ೊವಾನ್ನ 3:14–21\nದೇವರು ತಮ್ಮ ಜನರ ಮ
+ ೇಲೆ ಕನಿಕರಪಟ್ಟಿದ್ದರಿಂದ ಅವರ
+ ನ್ನು ಸೆರೆಯಿಂದ ಮನೆಗೆ ಕಳುಹಿಸ
+ ಿದರು.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://dai
+ ly-word-reflections.github.io/?d=2027-03-07&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-07&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: ತಪಸ್ಸು ಕಾಲ
+ ದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ (ಲೇತಾರೆ)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-08-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Monday of the Fourth Week of Lent
+DESCRIPTION:Monday of the Fourth Week of Lent\nIsaiah 65:17–21 · Psalm
+  30:1\, 3\, 4–5\, 10–12 · John 4:43–54\nGod promises new heavens 
+ and a new earth\, a world without weeping.\n\nಓದಿ\, ಪ್ರಾ
+ ರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-03-
+ 08&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Monday of the Fourth Week of
+  Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Tuesday of the Fourth Week of Lent
+DESCRIPTION:Tuesday of the Fourth Week of Lent\nEzekiel 47:1–9\, 12 · 
+ Psalm 46:1–2\, 4–5\, 7–8 · John 5:1–16\nEzekiel sees a river fl
+ owing from the Temple that brings life wherever it goes.\n\nಓದಿ\, 
+ ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io
+ /?d=2027-03-09&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Tuesday of the Fourth Week o
+ f Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Wednesday of the Fourth Week of Lent
+DESCRIPTION:Wednesday of the Fourth Week of Lent\nIsaiah 49:8–15 · Psa
+ lm 145:8–9\, 13c–14\, 17–18 · John 5:17–30\nGod says: even if a
+  mother forgets her child\, I will not forget you.\n\nಓದಿ\, ಪ್
+ ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=20
+ 27-03-10&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Wednesday of the Fourth Week
+  of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Thursday of the Fourth Week of Lent
+DESCRIPTION:Thursday of the Fourth Week of Lent\nExodus 32:7–14 · Psal
+ m 106:19–20\, 21–22\, 23 · John 5:31–47\nIsrael made a golden cal
+ f\; Moses interceded and God spared them.\n\nಓದಿ\, ಪ್ರಾರ
+ ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-03-11&
+ r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Thursday of the Fourth Week 
+ of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-12-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Friday of the Fourth Week of Lent
+DESCRIPTION:Friday of the Fourth Week of Lent\nWisdom 2:1a\, 12–22 · P
+ salm 34:16–20\, 22 · John 7:1–2\, 10\, 25–30\nThe Book of Wisdom 
+ foretells the plot against the righteous man who calls God his Father.\n
+ \nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflect
+ ions.github.io/?d=2027-03-12&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Friday of the Fourth Week of
+  Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Saturday of the Fourth Week of Lent
+DESCRIPTION:Saturday of the Fourth Week of Lent\nJeremiah 11:18–20 · P
+ salm 7:1–2\, 8b–11 · John 7:40–53\nJeremiah\, plotted against\, i
+ s like a gentle lamb led to the slaughter\, a figure of Christ.\n\nಓ
+ ದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.
+ github.io/?d=2027-03-13&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Saturday of the Fourth Week 
+ of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-14-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nJeremiah 31:31–34 · Psalm 51:1–2\,
+  10–13 · Hebrews 5:7–9 · John 12:20–33\nGod promises a new coven
+ ant written on our hearts\, with sins forgiven.\n\nಓದಿ\, ಪ್ರ
+ ಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-
+ 03-14&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-14&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Fifth Sunday of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-15-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Monday of the Fifth Week of Lent
+DESCRIPTION:Monday of the Fifth Week of Lent\nDaniel 13:1–9\, 15–17\,
+  19–30\, 33–62 (or 13:41c–62) · Psalm 23:1–3a\, 3b–4\, 5\, 6 
+ · John 8:1–11\nSusanna chose to fall into the hands of the wicked rat
+ her than sin before the Lord.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸ
+ ಿ: https://daily-word-reflections.github.io/?d=2027-03-15&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Monday of the Fifth Week of 
+ Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-16-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Tuesday of the Fifth Week of Lent
+DESCRIPTION:Tuesday of the Fifth Week of Lent\nNumbers 21:4–9 · Psalm 
+ 102:1–2\, 15–17\, 18–20 · John 8:21–30\nIsrael grew impatient a
+ nd complained against God and the manna.\n\nಓದಿ\, ಪ್ರಾರ
+ ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-03-16&
+ r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Tuesday of the Fifth Week of
+  Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Wednesday of the Fifth Week of Lent
+DESCRIPTION:Wednesday of the Fifth Week of Lent\nDaniel 3:14–20\, 91–
+ 92\, 95 · Daniel 3:52\, 53\, 54\, 55\, 56 · John 8:31–42\nThree youn
+ g men refused to worship the golden statue\, even if God did not rescue 
+ them.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-
+ reflections.github.io/?d=2027-03-17&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Wednesday of the Fifth Week 
+ of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Thursday of the Fifth Week of Lent
+DESCRIPTION:Thursday of the Fifth Week of Lent\nGenesis 17:3–9 · Psalm
+  105:4–5\, 6–7\, 8–9 · John 8:51–59\nGod made an everlasting co
+ venant with Abraham and gave him a new name.\n\nಓದಿ\, ಪ್ರಾ
+ ರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-03-
+ 18&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Thursday of the Fifth Week o
+ f Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:St Joseph\, Spouse of the Blessed Virgin Mary
+DESCRIPTION:St Joseph\, Spouse of the Blessed Virgin Mary\n2 Samuel 7:4
+ –5a\, 12–14a\, 16 · Psalm 89:1–2\, 3–4\, 26 and 28 · Romans 4:
+ 13\, 16–18\, 22 · Matthew 1:16\, 18–21\, 24a (or Luke 2:41–51a)\n
+ God's promise to David was fulfilled through Joseph\, who gave Jesus his
+  name and his place in David's line.\n\nಓದಿ\, ಪ್ರಾರ್
+ ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-03-19&r=l
+ at&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: St Joseph\, Spouse of the Bl
+ essed Virgin Mary
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Saturday of the Fifth Week of Lent
+DESCRIPTION:Saturday of the Fifth Week of Lent\nEzekiel 37:21–28 · Jer
+ emiah 31:10\, 11–12ab\, 13 · John 11:45–56\nEzekiel promises that G
+ od will make his scattered people one nation with one shepherd.\n\nಓ
+ ದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.
+ github.io/?d=2027-03-20&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Saturday of the Fifth Week o
+ f Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Palm Sunday of the Passion of the Lord
+DESCRIPTION:Palm Sunday of the Passion of the Lord\nMark 11:1–10 (or Jo
+ hn 12:12–16) · Isaiah 50:4–7 · Psalm 22:7–8\, 16–17\, 18–19\
+ , 22–23 · Philippians 2:6–11 · Mark 14:1–15:47 (shorter form: 15
+ :1–39)\nJesus enters Jerusalem as a humble King on a colt\, greeted wi
+ th Hosanna.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily
+ -word-reflections.github.io/?d=2027-03-21&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-21&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Palm Sunday of the Passion o
+ f the Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-22-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Monday of Holy Week
+DESCRIPTION:Monday of Holy Week\nIsaiah 42:1–7 · Psalm 27:1\, 2\, 3\, 
+ 13–14 · John 12:1–11\nThe Servant of the Lord is gentle: he does no
+ t break the bruised reed.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ:
+  https://daily-word-reflections.github.io/?d=2027-03-22&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Monday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-23-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Tuesday of Holy Week
+DESCRIPTION:Tuesday of Holy Week\nIsaiah 49:1–6 · Psalm 71:1–2\, 3
+ –4a\, 5–6ab\, 15 and 17 · John 13:21–33\, 36–38\nThe Servant is
+  called from the womb and made a light to the nations.\n\nಓದಿ\, 
+ ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io
+ /?d=2027-03-23&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Tuesday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Wednesday of Holy Week
+DESCRIPTION:Wednesday of Holy Week\nIsaiah 50:4–9a · Psalm 69:7–9\, 
+ 20–21\, 30 and 32–33 · Matthew 26:14–25\nThe Servant listens to G
+ od every morning and does not turn back from suffering.\n\nಓದಿ\, 
+ ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.github.io
+ /?d=2027-03-24&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Wednesday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-25-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Holy Thursday: Evening Mass of the Lord's Supper
+DESCRIPTION:Holy Thursday: Evening Mass of the Lord's Supper\nExodus 12:1
+ –8\, 11–14 · Psalm 116:12–13\, 15–16bc\, 17–18 · 1 Corinthia
+ ns 11:23–26 · John 13:1–15\nJesus\, our Passover Lamb\, gives his B
+ ody and Blood in the Eucharist.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿ
+ ಸಿ: https://daily-word-reflections.github.io/?d=2027-03-25&r=lat&l=k
+ n
+URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Holy Thursday: Evening Mass 
+ of the Lord's Supper
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Friday of the Passion of the Lord (Good Friday)
+DESCRIPTION:Friday of the Passion of the Lord (Good Friday)\nIsaiah 52:13
+ –53:12 · Psalm 31:1\, 5\, 11–12\, 14–15\, 16\, 24 · Hebrews 4:14
+ –16\; 5:7–9 · John 18:1–19:42\nThe Suffering Servant was wounded 
+ for our sins\; by his bruises we are healed.\n\nಓದಿ\, ಪ್ರಾ
+ ರ್ಥಿಸಿ: https://daily-word-reflections.github.io/?d=2027-03-
+ 26&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Friday of the Passion of the
+  Lord (Good Friday)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Holy Saturday · The Easter Vigil in the Holy Night
+DESCRIPTION:Holy Saturday · The Easter Vigil in the Holy Night\nGenesis 
+ 1:1–2:2 (or 1:1\, 26–31a)\; Psalm 104 (or Psalm 33) · Genesis 22:1
+ –18 (or 22:1–2\, 9a\, 10–13\, 15–18)\; Psalm 16 · Exodus 14:15
+ –15:1\; Canticle Exodus 15:1–6\, 17–18 · Isaiah 54:5–14\; Psalm
+  30 · Isaiah 55:1–11\; Canticle Isaiah 12:2–6 · Baruch 3:9–15\, 
+ 32–4:4\; Psalm 19:7–10 · Ezekiel 36:16–17a\, 18–28\; Psalms 42:
+ 2\, 4 and 43:3–4 (or Isaiah 12\, or Psalm 51) · Romans 6:3–11 · Ps
+ alm 118:1–2\, 16–17\, 22–23 · Mark 16:1–7\nHoly Saturday: Chris
+ t lies in the tomb and descends among the dead\; the Church waits in sil
+ ence.\n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-
+ reflections.github.io/?d=2027-03-27&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Holy Saturday · The Easter 
+ Vigil in the Holy Night
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-28-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Easter Sunday of the Resurrection of the Lord
+DESCRIPTION:Easter Sunday of the Resurrection of the Lord\nActs 10:34a\, 
+ 37–43 · Psalm 118:1–2\, 16–17\, 22–23 · Colossians 3:1–4 (or
+  1 Corinthians 5:6b–8) · Victimae paschali laudes · John 20:1–9\nP
+ eter: God raised Jesus on the third day\, and we ate and drank with him.
+ \n\nಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-refle
+ ctions.github.io/?d=2027-03-28&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-28&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Easter Sunday of the Resurre
+ ction of the Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-29-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Monday within the Octave of Easter
+DESCRIPTION:Monday within the Octave of Easter\nActs 2:14\, 22–33 · Ps
+ alm 16:1–2a\, 5\, 7–8\, 9–10\, 11 · Matthew 28:8–15\nPeter: God
+  raised Jesus up\; death could not hold him\; we are all witnesses.\n\n
+ ಓದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflectio
+ ns.github.io/?d=2027-03-29&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Monday within the Octave of 
+ Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-30-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Tuesday within the Octave of Easter
+DESCRIPTION:Tuesday within the Octave of Easter\nActs 2:36–41 · Psalm 
+ 33:4–5\, 18–19\, 20 and 22 · John 20:11–18\nCut to the heart\, th
+ e crowd asked: What should we do? Peter: repent and be baptized.\n\nಓ
+ ದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.
+ github.io/?d=2027-03-30&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Tuesday within the Octave of
+  Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-lat-kn@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Wednesday within the Octave of Easter
+DESCRIPTION:Wednesday within the Octave of Easter\nActs 3:1–10 · Psalm
+  105:1–2\, 3–4\, 6–7\, 8–9 · Luke 24:13–35\nPeter healed the 
+ lame man: what I have I give you\; in the name of Jesus\, walk.\n\nಓ
+ ದಿ\, ಪ್ರಾರ್ಥಿಸಿ: https://daily-word-reflections.
+ github.io/?d=2027-03-31&r=lat&l=kn
+URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=lat&l=kn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ನಾಳೆಯ ವಾಕ್ಯ: Wednesday within the Octave 
+ of Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

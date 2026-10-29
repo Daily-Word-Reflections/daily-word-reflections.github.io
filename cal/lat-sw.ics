@@ -1,0 +1,2836 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daily Word//daily-word-reflections.github.io//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Neno la Kila Siku · Latin
+X-WR-TIMEZONE:Asia/Kolkata
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:2026-11-01-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Watakatifu Wote · Sherehe
+DESCRIPTION:Watakatifu Wote · Sherehe\nUfunuo 7:2–4\, 9–14 · Zaburi
+  24:1–2\, 3–4\, 5–6 · 1 Yohane 3:1–3 · Mathayo 5:1–12a\nWata
+ katifu ni mkutano usiohesabika\, kutoka kila taifa.\n\nSoma na usali: ht
+ tps://daily-word-reflections.github.io/?d=2026-11-01&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-01&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Watakatifu Wote · Sherehe
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Kumbukumbu ya Marehemu Wote
+DESCRIPTION:Kumbukumbu ya Marehemu Wote\nHekima 3:1–9 · Zaburi 23:1–
+ 6 · Warumi 5:5–11 · Yohane 6:37–40\nMarehemu wetu wamo mkononi mwa
+  Mungu.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=20
+ 26-11-02&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-02&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Kumbukumbu ya Marehemu Wote
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Jumanne\, Juma la 31 la Mwaka
+DESCRIPTION:Jumanne\, Juma la 31 la Mwaka\nWafilipi 2:5–11 · Zaburi 22
+ :26b–27\, 28–30ab\, 30e–32 · Luka 14:15–24\nKristo alijifanya s
+ i kitu\; Mungu alimwadhimisha.\n\nSoma na usali: https://daily-word-refl
+ ections.github.io/?d=2026-11-03&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne\, Juma la 31 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Jumatano\, Juma la 31 la Mwaka · Mt. Karoli Borromeo\, Askofu
+DESCRIPTION:Jumatano\, Juma la 31 la Mwaka · Mt. Karoli Borromeo\, Askof
+ u\nWafilipi 2:12–18 · Zaburi 27:1\, 4\, 13–14 · Luka 14:25–33\nK
+ uwa mwanafunzi kunagharimu kila kitu na kunatoa kila kitu.\n\nSoma na us
+ ali: https://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano\, Juma la 31 la Mwaka · Mt. Karoli B
+ orromeo\, Askofu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Alhamisi\, Juma la 31 la Mwaka
+DESCRIPTION:Alhamisi\, Juma la 31 la Mwaka\nWafilipi 3:3–8a · Zaburi 1
+ 05:2–3\, 4–5\, 6–7 · Luka 15:1–10\nMungu anawatafuta waliopotea
+  hadi awapate.\n\nSoma na usali: https://daily-word-reflections.github.i
+ o/?d=2026-11-05&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi\, Juma la 31 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Ijumaa\, Juma la 31 la Mwaka
+DESCRIPTION:Ijumaa\, Juma la 31 la Mwaka\nWafilipi 3:17–4:1 · Zaburi 1
+ 22:1–2\, 3–4b\, 4cd–5 · Luka 16:1–8\nSisi ni mawakili tutakaoto
+ a hesabu.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=
+ 2026-11-06&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa\, Juma la 31 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Jumamosi\, Juma la 31 la Mwaka
+DESCRIPTION:Jumamosi\, Juma la 31 la Mwaka\nWafilipi 4:10–19 · Zaburi 
+ 112:1b–2\, 5–6\, 8a na 9 · Luka 16:9–15\nUaminifu katika mambo ma
+ dogo unafunua moyo.\n\nSoma na usali: https://daily-word-reflections.git
+ hub.io/?d=2026-11-07&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi\, Juma la 31 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Dominika ya 32 ya Mwaka
+DESCRIPTION:Dominika ya 32 ya Mwaka\nHekima 6:12–16 · Zaburi 63:2\, 3
+ –4\, 5–6\, 7–8 · 1 Wathesalonike 4:13–18 · Mathayo 25:1–13\n
+ Mungu huonekana kwa urahisi na wanaomtafuta.\n\nSoma na usali: https://d
+ aily-word-reflections.github.io/?d=2026-11-08&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-08&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya 32 ya Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Kutabarukiwa kwa Basilika ya Laterani · Sikukuu
+DESCRIPTION:Kutabarukiwa kwa Basilika ya Laterani · Sikukuu\nEzekieli 47
+ :1–2\, 8–9\, 12 · Zaburi 46:2–3\, 5–6\, 8–9 · 1 Wakorintho 3
+ :9c–11\, 16–17 · Yohane 2:13–22\nLaterani ni kanisa kuu la Papa\,
+  mama wa makanisa yote.\n\nSoma na usali: https://daily-word-reflections
+ .github.io/?d=2026-11-09&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Kutabarukiwa kwa Basilika ya Laterani · Sikuk
+ uu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Jumanne\, Juma la 32 la Mwaka · Mt. Leo Mkuu\, Papa na Mwalimu w
+ a Kanisa
+DESCRIPTION:Jumanne\, Juma la 32 la Mwaka · Mt. Leo Mkuu\, Papa na Mwali
+ mu wa Kanisa\nTito 2:1–8\, 11–14 · Zaburi 37:3–4\, 18 na 23\, 27 
+ na 29 · Luka 17:7–10\nHatuwezi kumfanya Mungu atudai.\n\nSoma na usal
+ i: https://daily-word-reflections.github.io/?d=2026-11-10&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne\, Juma la 32 la Mwaka · Mt. Leo Mkuu\
+ , Papa na Mwalimu wa Kanisa
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Jumatano\, Juma la 32 la Mwaka · Mt. Martino wa Tours\, Askofu
+DESCRIPTION:Jumatano\, Juma la 32 la Mwaka · Mt. Martino wa Tours\, Asko
+ fu\nTito 3:1–7 · Zaburi 23:1b–3a\, 3bc–4\, 5\, 6 · Luka 17:11–
+ 19\nKumi waliponywa\; mmoja alirudi akaokolewa.\n\nSoma na usali: https:
+ //daily-word-reflections.github.io/?d=2026-11-11&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano\, Juma la 32 la Mwaka · Mt. Martino 
+ wa Tours\, Askofu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Alhamisi\, Juma la 32 la Mwaka · Mt. Yosafati\, Askofu na Shahid
+ i
+DESCRIPTION:Alhamisi\, Juma la 32 la Mwaka · Mt. Yosafati\, Askofu na Sh
+ ahidi\nFilemoni 7–20 · Zaburi 146:7\, 8–9a\, 9bc–10 · Luka 17:20
+ –25\nUfalme tayari umo katikati yetu ndani ya Kristo.\n\nSoma na usali
+ : https://daily-word-reflections.github.io/?d=2026-11-12&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi\, Juma la 32 la Mwaka · Mt. Yosafati
+ \, Askofu na Shahidi
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Ijumaa\, Juma la 32 la Mwaka
+DESCRIPTION:Ijumaa\, Juma la 32 la Mwaka\n2 Yohane 4–9 · Zaburi 119:1\
+ , 2\, 10\, 11\, 17\, 18 · Luka 17:26–37\nMaisha ya kawaida bila Mungu
+  ndiyo hatari halisi.\n\nSoma na usali: https://daily-word-reflections.g
+ ithub.io/?d=2026-11-13&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa\, Juma la 32 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Jumamosi\, Juma la 32 la Mwaka
+DESCRIPTION:Jumamosi\, Juma la 32 la Mwaka\n3 Yohane 5–8 · Zaburi 112:
+ 1–2\, 3–4\, 5–6 · Luka 18:1–8\nSalini sikuzote wala msikate tam
+ aa.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2026-1
+ 1-14&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi\, Juma la 32 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Dominika ya 33 ya Mwaka · Siku ya Maskini Duniani
+DESCRIPTION:Dominika ya 33 ya Mwaka · Siku ya Maskini Duniani\nMithali 3
+ 1:10–13\, 19–20\, 30–31 · Zaburi 128:1–2\, 3\, 4–5 · 1 Wathe
+ salonike 5:1–6 · Mathayo 25:14–30\nMungu humpa kila mtu utajiri wa 
+ zawadi.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=20
+ 26-11-15&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-15&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya 33 ya Mwaka · Siku ya Maskini Dun
+ iani
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Jumatatu\, Juma la 33 la Mwaka
+DESCRIPTION:Jumatatu\, Juma la 33 la Mwaka\nUfunuo 1:1–4\; 2:1–5 · Z
+ aburi 1:1–2\, 3\, 4 na 6 · Luka 18:35–43\nKanisa lenye shughuli nyi
+ ngi linaweza kupoteza upendo wake wa kwanza.\n\nSoma na usali: https://d
+ aily-word-reflections.github.io/?d=2026-11-16&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu\, Juma la 33 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Jumanne\, Juma la 33 la Mwaka · Mt. Elizabeti wa Hungaria\, Mtaw
+ a
+DESCRIPTION:Jumanne\, Juma la 33 la Mwaka · Mt. Elizabeti wa Hungaria\, 
+ Mtawa\nUfunuo 3:1–6\, 14–22 · Zaburi 15:2–3a\, 3bc–4ab\, 5 · L
+ uka 19:1–10\nKristo anabisha\; havunji mlango.\n\nSoma na usali: https
+ ://daily-word-reflections.github.io/?d=2026-11-17&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne\, Juma la 33 la Mwaka · Mt. Elizabeti
+  wa Hungaria\, Mtawa
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Jumatano\, Juma la 33 la Mwaka
+DESCRIPTION:Jumatano\, Juma la 33 la Mwaka\nUfunuo 4:1–11 · Zaburi 150
+ :1b–2\, 3–4\, 5–6 · Luka 19:11–28\nIbada ya mbinguni haikomi ka
+ mwe\; kila Misa inaungana nayo.\n\nSoma na usali: https://daily-word-ref
+ lections.github.io/?d=2026-11-18&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano\, Juma la 33 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Alhamisi\, Juma la 33 la Mwaka
+DESCRIPTION:Alhamisi\, Juma la 33 la Mwaka\nUfunuo 5:1–10 · Zaburi 149
+ :1b–2\, 3–4\, 5–6a na 9b · Luka 19:41–44\nSimba wa Yuda ni Mwan
+ akondoo aliyechinjwa.\n\nSoma na usali: https://daily-word-reflections.g
+ ithub.io/?d=2026-11-19&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi\, Juma la 33 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Ijumaa\, Juma la 33 la Mwaka
+DESCRIPTION:Ijumaa\, Juma la 33 la Mwaka\nUfunuo 10:8–11 · Zaburi 119:
+ 14\, 24\, 72\, 103\, 111\, 131 · Luka 19:45–48\nNeno la Mungu lazima 
+ limeng'enywe kabla ya kutangazwa.\n\nSoma na usali: https://daily-word-r
+ eflections.github.io/?d=2026-11-20&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa\, Juma la 33 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Jumamosi\, Juma la 33 la Mwaka · Bikira Maria Kutolewa Hekaluni
+DESCRIPTION:Jumamosi\, Juma la 33 la Mwaka · Bikira Maria Kutolewa Hekal
+ uni\nUfunuo 11:4–12 · Zaburi 144:1\, 2\, 9–10 · Luka 20:27–40\nM
+ ungu ni Mungu wa walio hai\; kwake wote wako hai.\n\nSoma na usali: http
+ s://daily-word-reflections.github.io/?d=2026-11-21&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi\, Juma la 33 la Mwaka · Bikira Maria
+  Kutolewa Hekaluni
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Bwana Wetu Yesu Kristo\, Mfalme wa Ulimwengu · Sherehe
+DESCRIPTION:Bwana Wetu Yesu Kristo\, Mfalme wa Ulimwengu · Sherehe\nEzek
+ ieli 34:11–12\, 15–17 · Zaburi 23:1–2\, 2–3\, 5–6 · 1 Wakori
+ ntho 15:20–26\, 28 · Mathayo 25:31–46\nKristo Mfalme anatawala kama
+  mchungaji.\n\nSoma na usali: https://daily-word-reflections.github.io/?
+ d=2026-11-22&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-22&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Bwana Wetu Yesu Kristo\, Mfalme wa Ulimwengu 
+ · Sherehe
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Jumatatu\, Juma la 34 la Mwaka
+DESCRIPTION:Jumatatu\, Juma la 34 la Mwaka\nUfunuo 14:1–3\, 4b–5 · Z
+ aburi 24:1b–2\, 3–4ab\, 5–6 · Luka 21:1–4\nMungu anapima zawadi
+  kwa upendo\, si kwa kiasi.\n\nSoma na usali: https://daily-word-reflect
+ ions.github.io/?d=2026-11-23&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu\, Juma la 34 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Jumanne\, Juma la 34 la Mwaka · Mt. Andrea Dung-Lac na Wenzake\,
+  Wafiadini
+DESCRIPTION:Jumanne\, Juma la 34 la Mwaka · Mt. Andrea Dung-Lac na Wenza
+ ke\, Wafiadini\nUfunuo 14:14–19 · Zaburi 96:10\, 11–12\, 13 · Luka
+  21:5–11\nHata mawe ya Hekalu yataanguka\; neno la Mungu linadumu.\n\n
+ Soma na usali: https://daily-word-reflections.github.io/?d=2026-11-24&r=
+ lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne\, Juma la 34 la Mwaka · Mt. Andrea Du
+ ng-Lac na Wenzake\, Wafiadini
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Jumatano\, Juma la 34 la Mwaka
+DESCRIPTION:Jumatano\, Juma la 34 la Mwaka\nUfunuo 15:1–4 · Zaburi 98:
+ 1\, 2–3ab\, 7–8\, 9 · Luka 21:12–19\nMateso yanakuwa nafasi ya ku
+ shuhudia.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=
+ 2026-11-25&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano\, Juma la 34 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Alhamisi\, Juma la 34 la Mwaka
+DESCRIPTION:Alhamisi\, Juma la 34 la Mwaka\nUfunuo 18:1–2\, 21–23\; 1
+ 9:1–3\, 9a · Zaburi 100:1b–2\, 3\, 4\, 5 · Luka 21:20–28\nKinach
+ owazimisha wengine kinawafanya wanafunzi watazame juu.\n\nSoma na usali:
+  https://daily-word-reflections.github.io/?d=2026-11-26&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi\, Juma la 34 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Ijumaa\, Juma la 34 la Mwaka
+DESCRIPTION:Ijumaa\, Juma la 34 la Mwaka\nUfunuo 20:1–4\, 11–21:2 · 
+ Zaburi 84:3\, 4\, 5–6a na 8a · Luka 21:29–33\nManeno ya Kristo yana
+ dumu kuliko mbingu na nchi.\n\nSoma na usali: https://daily-word-reflect
+ ions.github.io/?d=2026-11-27&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa\, Juma la 34 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Jumamosi\, Juma la 34 la Mwaka
+DESCRIPTION:Jumamosi\, Juma la 34 la Mwaka\nUfunuo 22:1–7 · Zaburi 95:
+ 1–2\, 3–5\, 6–7ab · Luka 21:34–36\nBiblia inaishia ilipoanzia: 
+ na mti wa uzima.\n\nSoma na usali: https://daily-word-reflections.github
+ .io/?d=2026-11-28&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi\, Juma la 34 la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Dominika ya 1 ya Majilio
+DESCRIPTION:Dominika ya 1 ya Majilio\nIsaya 63:16b–17\, 19b\; 64:2b–7
+  · Zaburi 80:2–3\, 15–16\, 18–19 · 1 Wakorintho 1:3–9 · Marko
+  13:33–37\nMajilio yanaanza kwa shauku: zipasue mbingu ushuke.\n\nSoma
+  na usali: https://daily-word-reflections.github.io/?d=2026-11-29&r=lat&
+ l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-29&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya 1 ya Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Mtakatifu Andrea\, Mtume · Sikukuu
+DESCRIPTION:Mtakatifu Andrea\, Mtume · Sikukuu\nWarumi 10:9–18 · Zabu
+ ri 19:8\, 9\, 10\, 11 · Mathayo 4:18–22\nAndrea alikuwa Aliyeitwa Kwa
+ nza.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2026-
+ 11-30&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Mtakatifu Andrea\, Mtume · Sikukuu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Jumanne ya Juma la Kwanza la Majilio
+DESCRIPTION:Jumanne ya Juma la Kwanza la Majilio\nIsaya 11:1–10 · Zabu
+ ri 72:1–2\, 7–8\, 12–13\, 17 · Luka 10:21–24\nMungu huleta uhai
+  mpya kutoka katika shina lililokatwa.\n\nSoma na usali: https://daily-w
+ ord-reflections.github.io/?d=2026-12-01&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne ya Juma la Kwanza la Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Jumatano ya Juma la Kwanza la Majilio
+DESCRIPTION:Jumatano ya Juma la Kwanza la Majilio\nIsaya 25:6–10a · Za
+ buri 23:1–3a\, 3b–4\, 5\, 6 · Mathayo 15:29–37\nMungu anaahidi ka
+ ramu na mwisho wa mauti.\n\nSoma na usali: https://daily-word-reflection
+ s.github.io/?d=2026-12-02&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Kwanza la Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Alhamisi ya Juma la Kwanza la Majilio · Mt. Fransisko Saveri\, P
+ adri
+DESCRIPTION:Alhamisi ya Juma la Kwanza la Majilio · Mt. Fransisko Saveri
+ \, Padri\nIsaya 26:1–6 · Zaburi 118:1 na 8–9\, 19–21\, 25–27a 
+ · Mathayo 7:21\, 24–27\nKusema Bwana\, Bwana hakutoshi\; lazima tufan
+ ye mapenzi yake.\n\nSoma na usali: https://daily-word-reflections.github
+ .io/?d=2026-12-03&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi ya Juma la Kwanza la Majilio · Mt. F
+ ransisko Saveri\, Padri
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Ijumaa ya Juma la Kwanza la Majilio
+DESCRIPTION:Ijumaa ya Juma la Kwanza la Majilio\nIsaya 29:17–24 · Zabu
+ ri 27:1\, 4\, 13–14 · Mathayo 9:27–31\nMungu anaahidi kwamba vipofu
+  wataona.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=
+ 2026-12-04&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa ya Juma la Kwanza la Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Jumamosi ya Juma la Kwanza la Majilio
+DESCRIPTION:Jumamosi ya Juma la Kwanza la Majilio\nIsaya 30:19–21\, 23
+ –26 · Zaburi 147:1–2\, 3–4\, 5–6 · Mathayo 9:35–10:1\, 5a\, 
+ 6–8\nMungu anangoja kutufanyia neema na kusikia kilio chetu.\n\nSoma n
+ a usali: https://daily-word-reflections.github.io/?d=2026-12-05&r=lat&l=
+ sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi ya Juma la Kwanza la Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Dominika ya Pili ya Majilio
+DESCRIPTION:Dominika ya Pili ya Majilio\nIsaya 40:1–5\, 9–11 · Zabur
+ i 85:9–10\, 11–12\, 13–14 · 2 Petro 3:8–14 · Marko 1:1–8\nNe
+ no la kwanza la Mungu ni faraja.\n\nSoma na usali: https://daily-word-re
+ flections.github.io/?d=2026-12-06&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-06&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Pili ya Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Jumatatu ya Juma la Pili la Majilio · Mt. Ambrosi\, Askofu na Mw
+ alimu wa Kanisa
+DESCRIPTION:Jumatatu ya Juma la Pili la Majilio · Mt. Ambrosi\, Askofu n
+ a Mwalimu wa Kanisa\nIsaya 35:1–10 · Zaburi 85:9ab na 10\, 11–12\, 
+ 13–14 · Luka 5:17–26\nMungu analifanya jangwa kuchanua.\n\nSoma na 
+ usali: https://daily-word-reflections.github.io/?d=2026-12-07&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu ya Juma la Pili la Majilio · Mt. Amb
+ rosi\, Askofu na Mwalimu wa Kanisa
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Bikira Maria Mkingiwa Dhambi ya Asili · Sherehe
+DESCRIPTION:Bikira Maria Mkingiwa Dhambi ya Asili · Sherehe\nMwanzo 3:9
+ –15\, 20 · Zaburi 98:1\, 2–3ab\, 3cd–4 · Waefeso 1:3–6\, 11–
+ 12 · Luka 1:26–38\nMaria alikingiwa dhambi ya asili tangu dakika ya k
+ wanza.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=202
+ 6-12-08&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-08&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Bikira Maria Mkingiwa Dhambi ya Asili · Shere
+ he
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Jumatano ya Juma la Pili la Majilio
+DESCRIPTION:Jumatano ya Juma la Pili la Majilio\nIsaya 40:25–31 · Zabu
+ ri 103:1–2\, 3–4\, 8 na 10 · Mathayo 11:28–30\nMungu hachoki kamw
+ e.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2026-12
+ -09&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Pili la Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Alhamisi ya Juma la Pili la Majilio
+DESCRIPTION:Alhamisi ya Juma la Pili la Majilio\nIsaya 41:13–20 · Zabu
+ ri 145:1 na 9\, 10–11\, 12–13ab · Mathayo 11:11–15\nMungu anatush
+ ika mkono wa kuume.\n\nSoma na usali: https://daily-word-reflections.git
+ hub.io/?d=2026-12-10&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi ya Juma la Pili la Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Ijumaa ya Juma la Pili la Majilio
+DESCRIPTION:Ijumaa ya Juma la Pili la Majilio\nIsaya 48:17–19 · Zaburi
+  1:1–2\, 3\, 4 na 6 · Mathayo 11:16–19\nAmri za Mungu huongoza kwen
+ ye amani kama mto.\n\nSoma na usali: https://daily-word-reflections.gith
+ ub.io/?d=2026-12-11&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa ya Juma la Pili la Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Jumamosi ya Juma la Pili la Majilio · Bikira Maria wa Guadalupe
+DESCRIPTION:Jumamosi ya Juma la Pili la Majilio · Bikira Maria wa Guadal
+ upe\nYoshua bin Sira 48:1–4\, 9–11 · Zaburi 80:2ac na 3b\, 15–16\
+ , 18–19 · Mathayo 17:9a\, 10–13\nEliya alikuwa nabii kama moto.\n\n
+ Soma na usali: https://daily-word-reflections.github.io/?d=2026-12-12&r=
+ lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi ya Juma la Pili la Majilio · Bikira 
+ Maria wa Guadalupe
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Dominika ya Tatu ya Majilio (Gaudete)
+DESCRIPTION:Dominika ya Tatu ya Majilio (Gaudete)\nIsaya 61:1–2a\, 10
+ –11 · Luka 1:46–48\, 49–50\, 53–54 · 1 Wathesalonike 5:16–24
+  · Yohane 1:6–8\, 19–28\nFuraha ndiyo moyo wa Majilio: Bwana yu kar
+ ibu.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2026-
+ 12-13&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-13&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Tatu ya Majilio (Gaudete)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Jumatatu ya Juma la Tatu la Majilio · Mt. Yohane wa Msalaba\, Pa
+ dri na Mwalimu wa Kanisa
+DESCRIPTION:Jumatatu ya Juma la Tatu la Majilio · Mt. Yohane wa Msalaba\
+ , Padri na Mwalimu wa Kanisa\nHesabu 24:2–7\, 15–17a · Zaburi 25:4
+ –5ab\, 6 na 7bc\, 8–9 · Mathayo 21:23–27\nNyota ya Mungu inatokea
+  hata kupitia nabii asiyetarajiwa.\n\nSoma na usali: https://daily-word-
+ reflections.github.io/?d=2026-12-14&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu ya Juma la Tatu la Majilio · Mt. Yoh
+ ane wa Msalaba\, Padri na Mwalimu wa Kanisa
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Jumanne ya Juma la Tatu la Majilio
+DESCRIPTION:Jumanne ya Juma la Tatu la Majilio\nSefania 3:1–2\, 9–13 
+ · Zaburi 34:2–3\, 6–7\, 17–18\, 19 na 23 · Mathayo 21:28–32\nM
+ ustakabali wa Mungu ni wa mabaki wanyenyekevu.\n\nSoma na usali: https:/
+ /daily-word-reflections.github.io/?d=2026-12-15&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne ya Juma la Tatu la Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Jumatano ya Juma la Tatu la Majilio
+DESCRIPTION:Jumatano ya Juma la Tatu la Majilio\nIsaya 45:6b–8\, 18\, 2
+ 1b–25 · Zaburi 85:9ab na 10\, 11–12\, 13–14 · Luka 7:18b–23\nM
+ bingu zinamnyesha Mwenye haki\; nchi inamzaa Mwokozi.\n\nSoma na usali: 
+ https://daily-word-reflections.github.io/?d=2026-12-16&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Tatu la Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:17 Desemba · Siku ya Majilio (Ee Hekima)
+DESCRIPTION:17 Desemba · Siku ya Majilio (Ee Hekima)\nMwanzo 49:2\, 8–
+ 10 · Zaburi 72:1–2\, 3–4ab\, 7–8\, 17 · Mathayo 1:1–17\nAntifo
+ na za O zinaanza: Ee Hekima\, njoo!\n\nSoma na usali: https://daily-word
+ -reflections.github.io/?d=2026-12-17&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 17 Desemba · Siku ya Majilio (Ee Hekima)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:18 Desemba · Siku ya Majilio (Ee Adonai)
+DESCRIPTION:18 Desemba · Siku ya Majilio (Ee Adonai)\nYeremia 23:5–8 
+ · Zaburi 72:1–2\, 12–13\, 18–19 · Mathayo 1:18–25\nMungu anach
+ ipusha Chipukizi la haki kutoka kwa Daudi.\n\nSoma na usali: https://dai
+ ly-word-reflections.github.io/?d=2026-12-18&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 18 Desemba · Siku ya Majilio (Ee Adonai)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:19 Desemba · Siku ya Majilio (Ee Shina la Yese)
+DESCRIPTION:19 Desemba · Siku ya Majilio (Ee Shina la Yese)\nWaamuzi 13:
+ 2–7\, 24–25a · Zaburi 71:3–4a\, 5–6ab\, 16–17 · Luka 1:5–2
+ 5\nMungu anageuza utasa kuwa uzima.\n\nSoma na usali: https://daily-word
+ -reflections.github.io/?d=2026-12-19&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 19 Desemba · Siku ya Majilio (Ee Shina la Yes
+ e)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Dominika ya Nne ya Majilio
+DESCRIPTION:Dominika ya Nne ya Majilio\n2 Samweli 7:1–5\, 8b–12\, 14a
+ \, 16 · Zaburi 89:2–3\, 4–5\, 27\, 29 · Warumi 16:25–27 · Luka 
+ 1:26–38\nDaudi alitaka kumjengea Mungu nyumba\; Mungu akamjengea Daudi
+  nyumba.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2
+ 026-12-20&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-20&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Nne ya Majilio
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:21 Desemba · Siku ya Majilio (Ee Mapambazuko)
+DESCRIPTION:21 Desemba · Siku ya Majilio (Ee Mapambazuko)\nWimbo Ulio Bo
+ ra 2:8–14 (au Sefania 3:14–18a) · Zaburi 33:2–3\, 11–12\, 20–
+ 21 · Luka 1:39–45\nMpendwa anakuja akiruka juu ya milima.\n\nSoma na 
+ usali: https://daily-word-reflections.github.io/?d=2026-12-21&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 21 Desemba · Siku ya Majilio (Ee Mapambazuko)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:22 Desemba · Siku ya Majilio (Ee Mfalme wa Mataifa)
+DESCRIPTION:22 Desemba · Siku ya Majilio (Ee Mfalme wa Mataifa)\n1 Samwe
+ li 1:24–28 · 1 Samweli 2:1\, 4–5\, 6–7\, 8abcd · Luka 1:46–56\
+ nHana alimrudishia Mungu mwana aliyempa.\n\nSoma na usali: https://daily
+ -word-reflections.github.io/?d=2026-12-22&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 22 Desemba · Siku ya Majilio (Ee Mfalme wa Ma
+ taifa)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:23 Desemba · Siku ya Majilio (Ee Imanueli)
+DESCRIPTION:23 Desemba · Siku ya Majilio (Ee Imanueli)\nMalaki 3:1–4\;
+  4:5–6 · Zaburi 25:4–5ab\, 8–9\, 10\, 14 · Luka 1:57–66\nMjumb
+ e wa Malaki anazaliwa: Yohane.\n\nSoma na usali: https://daily-word-refl
+ ections.github.io/?d=2026-12-23&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 23 Desemba · Siku ya Majilio (Ee Imanueli)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:24 Desemba · Siku ya Majilio (Misa ya Asubuhi)
+DESCRIPTION:24 Desemba · Siku ya Majilio (Misa ya Asubuhi)\n2 Samweli 7:
+ 1–5\, 8b–12\, 14a\, 16 · Zaburi 89:2–3\, 4–5\, 27\, 29 · Luka 
+ 1:67–79\nMungu amesimamisha pembe ya wokovu katika nyumba ya Daudi.\n\
+ nSoma na usali: https://daily-word-reflections.github.io/?d=2026-12-24&r
+ =lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 24 Desemba · Siku ya Majilio (Misa ya Asubuhi
+ )
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Kuzaliwa kwa Bwana (Noeli) · Sherehe
+DESCRIPTION:Kuzaliwa kwa Bwana (Noeli) · Sherehe\nIsaya 52:7–10 · Zab
+ uri 98:1\, 2–3ab\, 3cd–4\, 5–6 · Waebrania 1:1–6 · Yohana 1:1
+ –18 (au 1:1–5\, 9–14)\nNeno wa milele alifanyika mwili\, akakaa kw
+ etu.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2026-
+ 12-25&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-25&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Kuzaliwa kwa Bwana (Noeli) · Sherehe
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Mt. Stefano\, Shahidi wa Kwanza · Sikukuu
+DESCRIPTION:Mt. Stefano\, Shahidi wa Kwanza · Sikukuu\nMatendo ya Mitume
+  6:8–10\; 7:54–59 · Zaburi 31:3cd–4\, 6\, 8ab\, 16bc\, 17 · Math
+ ayo 10:17–22\nSiku iliyofuata Noeli\, Kanisa linamwadhimisha shahidi w
+ ake wa kwanza.\n\nSoma na usali: https://daily-word-reflections.github.i
+ o/?d=2026-12-26&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-26&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Mt. Stefano\, Shahidi wa Kwanza · Sikukuu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Familia Takatifu ya Yesu\, Maria na Yosefu · Sikukuu
+DESCRIPTION:Familia Takatifu ya Yesu\, Maria na Yosefu · Sikukuu\nMwanzo
+  15:1–6\; 21:1–3 · Zaburi 105:1–2\, 3–4\, 5–6\, 8–9 · Waeb
+ rania 11:8\, 11–12\, 17–19 · Luka 2:22–40 (au 2:22\, 39–40)\nMw
+ ana wa Mungu alikulia katika familia.\n\nSoma na usali: https://daily-wo
+ rd-reflections.github.io/?d=2026-12-27&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-27&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Familia Takatifu ya Yesu\, Maria na Yosefu · 
+ Sikukuu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Watoto Watakatifu Mashahidi · Sikukuu
+DESCRIPTION:Watoto Watakatifu Mashahidi · Sikukuu\n1 Yohana 1:5 – 2:2 
+ · Zaburi 124:2–3\, 4–5\, 7b–8 · Mathayo 2:13–18\nHerode aliwau
+ a watoto wa Bethlehemu ili amwangamize Mfalme aliyezaliwa.\n\nSoma na us
+ ali: https://daily-word-reflections.github.io/?d=2026-12-28&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Watoto Watakatifu Mashahidi · Sikukuu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:29 Desemba · Siku ya Tano ndani ya Siku Nane za Noeli
+DESCRIPTION:29 Desemba · Siku ya Tano ndani ya Siku Nane za Noeli\n1 Yoh
+ ana 2:3–11 · Zaburi 96:1–2a\, 2b–3\, 5b–6 · Luka 2:22–35\nSi
+ meoni\, akiongozwa na Roho\, anampokea Mkombozi mikononi mwake.\n\nSoma 
+ na usali: https://daily-word-reflections.github.io/?d=2026-12-29&r=lat&l
+ =sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-29&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 29 Desemba · Siku ya Tano ndani ya Siku Nane 
+ za Noeli
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:30 Desemba · Siku ya Sita ndani ya Siku Nane za Noeli
+DESCRIPTION:30 Desemba · Siku ya Sita ndani ya Siku Nane za Noeli\n1 Yoh
+ ana 2:12–17 · Zaburi 96:7–8a\, 8b–9\, 10 · Luka 2:36–40\nSala 
+ ya Ana ya maisha yake yote ilimwandaa kumtambua Kristo.\n\nSoma na usali
+ : https://daily-word-reflections.github.io/?d=2026-12-30&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-30&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 30 Desemba · Siku ya Sita ndani ya Siku Nane 
+ za Noeli
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:31 Desemba · Siku ya Saba ndani ya Siku Nane za Noeli
+DESCRIPTION:31 Desemba · Siku ya Saba ndani ya Siku Nane za Noeli\n1 Yoh
+ ana 2:18–21 · Zaburi 96:1–2\, 11–12\, 13 · Yohana 1:1–18\nNeno
+  aliyekuwako hapo mwanzo ni Bwana wa nyakati zote.\n\nSoma na usali: htt
+ ps://daily-word-reflections.github.io/?d=2026-12-31&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 31 Desemba · Siku ya Saba ndani ya Siku Nane 
+ za Noeli
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Maria Mtakatifu\, Mama wa Mungu · Sherehe · Siku ya Nane ya Noe
+ li
+DESCRIPTION:Maria Mtakatifu\, Mama wa Mungu · Sherehe · Siku ya Nane ya
+  Noeli\nHesabu 6:22–27 · Zaburi 67:1–2\, 4\, 5\, 7 · Wagalatia 4:4
+ –7 · Luka 2:16–21\nMaria ni kweli Mama wa Mungu\, kwa sababu Mwanaw
+ e ni Mungu.\n\nSoma na usali: https://daily-word-reflections.github.io/?
+ d=2027-01-01&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-01&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Maria Mtakatifu\, Mama wa Mungu · Sherehe · 
+ Siku ya Nane ya Noeli
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:2 Januari · Watakatifu Basili Mkuu na Gregori wa Nazianzo\, Maas
+ kofu na Walimu wa Kanisa · Kumbukumbu
+DESCRIPTION:2 Januari · Watakatifu Basili Mkuu na Gregori wa Nazianzo\, 
+ Maaskofu na Walimu wa Kanisa · Kumbukumbu\n1 Yohana 2:22–28 · Zaburi
+  98:1\, 2–3ab\, 3cd–4 · Yohana 1:19–28\nYohane Mbatizaji ni sauti
+  inayomwonyesha Kristo.\n\nSoma na usali: https://daily-word-reflections
+ .github.io/?d=2027-01-02&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 2 Januari · Watakatifu Basili Mkuu na Gregori
+  wa Nazianzo\, Maaskofu na Walimu wa Kanisa · Kumbukumbu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Epifania ya Bwana (Tokeo la Bwana) · Sherehe
+DESCRIPTION:Epifania ya Bwana (Tokeo la Bwana) · Sherehe\nIsaya 60:1–6
+  · Zaburi 72:1–2\, 7–8\, 10–11\, 12–13 · Waefeso 3:2–3a\, 5
+ –6 · Mathayo 2:1–12\nKristo anajifunua kwa mataifa yote.\n\nSoma na
+  usali: https://daily-word-reflections.github.io/?d=2027-01-03&r=lat&l=s
+ w
+URL:https://daily-word-reflections.github.io/?d=2027-01-03&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Epifania ya Bwana (Tokeo la Bwana) · Sherehe
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:4 Januari · Jumatatu baada ya Epifania
+DESCRIPTION:4 Januari · Jumatatu baada ya Epifania\n1 Yohana 3:22–4:6 
+ · Zaburi 2:7–8\, 10–12a · Mathayo 4:12–17\, 23–25\nYesu anaanz
+ a mahubiri yake pale watu walipokaa gizani.\n\nSoma na usali: https://da
+ ily-word-reflections.github.io/?d=2027-01-04&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 4 Januari · Jumatatu baada ya Epifania
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:5 Januari · Jumanne baada ya Epifania
+DESCRIPTION:5 Januari · Jumanne baada ya Epifania\n1 Yohana 4:7–10 · 
+ Zaburi 72:1–2\, 3–4\, 7–8 · Marko 6:34–44\nMungu ni upendo\, na
+ ye alitupenda kwanza.\n\nSoma na usali: https://daily-word-reflections.g
+ ithub.io/?d=2027-01-05&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 5 Januari · Jumanne baada ya Epifania
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:6 Januari · Jumatano baada ya Epifania
+DESCRIPTION:6 Januari · Jumatano baada ya Epifania\n1 Yohana 4:11–18 
+ · Zaburi 72:1–2\, 10\, 12–13 · Marko 6:45–52\nYesu anasali mlima
+ ni na anatuona tukihangaika.\n\nSoma na usali: https://daily-word-reflec
+ tions.github.io/?d=2027-01-06&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-06&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 6 Januari · Jumatano baada ya Epifania
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:7 Januari · Alhamisi baada ya Epifania
+DESCRIPTION:7 Januari · Alhamisi baada ya Epifania\n1 Yohana 4:19–5:4 
+ · Zaburi 72:1–2\, 14 na 15bc\, 17 · Luka 4:14–22a\nYesu ndiye Aliy
+ epakwa Mafuta\, aliyetumwa kwa maskini na kwa wafungwa.\n\nSoma na usali
+ : https://daily-word-reflections.github.io/?d=2027-01-07&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 7 Januari · Alhamisi baada ya Epifania
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:8 Januari · Ijumaa baada ya Epifania
+DESCRIPTION:8 Januari · Ijumaa baada ya Epifania\n1 Yohana 5:5–13 · Z
+ aburi 147:12–13\, 14–15\, 19–20 · Luka 5:12–16\nMwenye ukoma an
+ aamini uwezo wa Yesu na anaomba mapenzi yake.\n\nSoma na usali: https://
+ daily-word-reflections.github.io/?d=2027-01-08&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 8 Januari · Ijumaa baada ya Epifania
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:9 Januari · Jumamosi baada ya Epifania
+DESCRIPTION:9 Januari · Jumamosi baada ya Epifania\n1 Yohana 5:14–21 
+ · Zaburi 149:1–2\, 3–4\, 5 na 6a na 9b · Yohana 3:22–30\nYesu ni
+  Bwana Arusi\; Yohane ni rafiki yake.\n\nSoma na usali: https://daily-wo
+ rd-reflections.github.io/?d=2027-01-09&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: 9 Januari · Jumamosi baada ya Epifania
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Ubatizo wa Bwana · Sikukuu
+DESCRIPTION:Ubatizo wa Bwana · Sikukuu\nIsaya 42:1–4\, 6–7 · Zaburi
+  29:1a na 2\, 3ac–4\, 3b na 9b–10 · Matendo ya Mitume 10:34–38 ·
+  Marko 1:7–11\nKule Yordani mbingu zinafunguka na Utatu Mtakatifu unaf
+ unuliwa.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2
+ 027-01-10&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-10&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ubatizo wa Bwana · Sikukuu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Jumatatu ya Juma la Kwanza la Mwaka
+DESCRIPTION:Jumatatu ya Juma la Kwanza la Mwaka\nWaebrania 1:1–6 · Zab
+ uri 97:1 na 2b\, 6 na 7c\, 9 · Marko 1:14–20\nMungu amesema Neno lake
+  la mwisho katika Mwanawe.\n\nSoma na usali: https://daily-word-reflecti
+ ons.github.io/?d=2027-01-11&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu ya Juma la Kwanza la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Jumanne ya Juma la Kwanza la Mwaka
+DESCRIPTION:Jumanne ya Juma la Kwanza la Mwaka\nWaebrania 2:5–12 · Zab
+ uri 8:1\, 4\, 5–6\, 7–8 · Marko 1:21–28\nYesu anafundisha kwa mam
+ laka yake mwenyewe.\n\nSoma na usali: https://daily-word-reflections.git
+ hub.io/?d=2027-01-12&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne ya Juma la Kwanza la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Jumatano ya Juma la Kwanza la Mwaka
+DESCRIPTION:Jumatano ya Juma la Kwanza la Mwaka\nWaebrania 2:14–18 · Z
+ aburi 105:1–2\, 3–4\, 6–7\, 8–9 · Marko 1:29–39\nYesu anamwin
+ ua mwanamke mgonjwa\, naye anahudumia.\n\nSoma na usali: https://daily-w
+ ord-reflections.github.io/?d=2027-01-13&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Kwanza la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Alhamisi ya Juma la Kwanza la Mwaka
+DESCRIPTION:Alhamisi ya Juma la Kwanza la Mwaka\nWaebrania 3:7–14 · Za
+ buri 95:6–7c\, 8–9\, 10–11 · Marko 1:40–45\nLeo\, msiifanye mig
+ umu mioyo yenu.\n\nSoma na usali: https://daily-word-reflections.github.
+ io/?d=2027-01-14&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi ya Juma la Kwanza la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Ijumaa ya Juma la Kwanza la Mwaka
+DESCRIPTION:Ijumaa ya Juma la Kwanza la Mwaka\nWaebrania 4:1–5\, 11 · 
+ Zaburi 78:3 na 4bc\, 6c–7\, 8 · Marko 2:1–12\nRafiki wanne wanambeb
+ a aliyepooza hadi kwa Yesu.\n\nSoma na usali: https://daily-word-reflect
+ ions.github.io/?d=2027-01-15&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa ya Juma la Kwanza la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Jumamosi ya Juma la Kwanza la Mwaka
+DESCRIPTION:Jumamosi ya Juma la Kwanza la Mwaka\nWaebrania 4:12–16 · Z
+ aburi 19:7\, 8\, 9\, 14 · Marko 2:13–17\nNeno la Mungu li hai na lina
+ uona moyo.\n\nSoma na usali: https://daily-word-reflections.github.io/?d
+ =2027-01-16&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi ya Juma la Kwanza la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Dominika ya Pili ya Mwaka
+DESCRIPTION:Dominika ya Pili ya Mwaka\n1 Samweli 3:3b–10\, 19 · Zaburi
+  40:1\, 3\, 6–7\, 7–8\, 9 · 1 Wakorintho 6:13c–15a\, 17–20 · Y
+ ohana 1:35–42\nYesu anauliza: mnatafuta nini?\n\nSoma na usali: https:
+ //daily-word-reflections.github.io/?d=2027-01-17&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-17&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Pili ya Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Jumatatu ya Juma la Pili la Mwaka
+DESCRIPTION:Jumatatu ya Juma la Pili la Mwaka\nWaebrania 5:1–10 · Zabu
+ ri 110:1\, 2\, 3\, 4 · Marko 2:18–22\nKristo Kuhani Mkuu alijifunza k
+ utii kwa mateso.\n\nSoma na usali: https://daily-word-reflections.github
+ .io/?d=2027-01-18&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu ya Juma la Pili la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Jumanne ya Juma la Pili la Mwaka
+DESCRIPTION:Jumanne ya Juma la Pili la Mwaka\nWaebrania 6:10–20 · Zabu
+ ri 111:1–2\, 4–5\, 9 na 10c · Marko 2:23–28\nMungu hausahau upend
+ o tunaouonyesha.\n\nSoma na usali: https://daily-word-reflections.github
+ .io/?d=2027-01-19&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne ya Juma la Pili la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Jumatano ya Juma la Pili la Mwaka · Mt. Fabiani na Mt. Sebastian
+ i
+DESCRIPTION:Jumatano ya Juma la Pili la Mwaka · Mt. Fabiani na Mt. Sebas
+ tiani\nWaebrania 7:1–3\, 15–17 · Zaburi 110:1\, 2\, 3\, 4 · Marko 
+ 3:1–6\nKristo ni kuhani milele\, kama Melkizedeki.\n\nSoma na usali: h
+ ttps://daily-word-reflections.github.io/?d=2027-01-20&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Pili la Mwaka · Mt. Fabia
+ ni na Mt. Sebastiani
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Mt. Agnesi\, Bikira na Shahidi
+DESCRIPTION:Mt. Agnesi\, Bikira na Shahidi\nWaebrania 7:25–8:6 · Zabur
+ i 40:6–7a\, 7b–8\, 9\, 16 · Marko 3:7–12\nKristo yu hai siku zote
+  ili atuombee.\n\nSoma na usali: https://daily-word-reflections.github.i
+ o/?d=2027-01-21&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Mt. Agnesi\, Bikira na Shahidi
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Ijumaa ya Juma la Pili la Mwaka
+DESCRIPTION:Ijumaa ya Juma la Pili la Mwaka\nWaebrania 8:6–13 · Zaburi
+  85:7 na 9\, 10–11\, 12–13 · Marko 3:13–19\nKatika agano jipya Mu
+ ngu anaiandika sheria yake mioyoni mwetu.\n\nSoma na usali: https://dail
+ y-word-reflections.github.io/?d=2027-01-22&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa ya Juma la Pili la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Jumamosi ya Juma la Pili la Mwaka
+DESCRIPTION:Jumamosi ya Juma la Pili la Mwaka\nWaebrania 9:2–3\, 11–1
+ 4 · Zaburi 47:1–2\, 5–6\, 7–8 · Marko 3:20–21\nKristo aliingia
+  mara moja kwa ajili ya wote kwa damu yake mwenyewe.\n\nSoma na usali: h
+ ttps://daily-word-reflections.github.io/?d=2027-01-23&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi ya Juma la Pili la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Dominika ya Tatu ya Mwaka · Dominika ya Neno la Mungu
+DESCRIPTION:Dominika ya Tatu ya Mwaka · Dominika ya Neno la Mungu\nYona 
+ 3:1–5\, 10 · Zaburi 25:4–5\, 6–7\, 8–9 · 1 Wakorintho 7:29–3
+ 1 · Marko 1:14–20\nWakati umetimia\; Ufalme umekaribia.\n\nSoma na us
+ ali: https://daily-word-reflections.github.io/?d=2027-01-24&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-24&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Tatu ya Mwaka · Dominika ya Neno 
+ la Mungu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Kuongoka kwa Mt. Paulo\, Mtume
+DESCRIPTION:Kuongoka kwa Mt. Paulo\, Mtume\nMatendo ya Mitume 22:3–16 (
+ au Matendo ya Mitume 9:1–22) · Zaburi 117:1\, 2 · Marko 16:15–18\n
+ Sauli mtesaji alikutana na Yesu mfufuka njiani kwenda Damasko.\n\nSoma n
+ a usali: https://daily-word-reflections.github.io/?d=2027-01-25&r=lat&l=
+ sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Kuongoka kwa Mt. Paulo\, Mtume
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Watakatifu Timotheo na Tito\, Maaskofu
+DESCRIPTION:Watakatifu Timotheo na Tito\, Maaskofu\n2 Timotheo 1:1–8 (a
+ u Tito 1:1–5) · Zaburi 96:1–2a\, 2b–3\, 7–8a\, 10 · Marko 3:31
+ –35\nImani inarithishwa ndani ya familia\, kama kwa Timotheo.\n\nSoma 
+ na usali: https://daily-word-reflections.github.io/?d=2027-01-26&r=lat&l
+ =sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Watakatifu Timotheo na Tito\, Maaskofu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Jumatano ya Juma la Tatu la Mwaka
+DESCRIPTION:Jumatano ya Juma la Tatu la Mwaka\nWaebrania 10:11–18 · Za
+ buri 110:1\, 2\, 3\, 4 · Marko 4:1–20\nDhabihu moja ya Kristo inatuka
+ milisha kwa nyakati zote.\n\nSoma na usali: https://daily-word-reflectio
+ ns.github.io/?d=2027-01-27&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Tatu la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Mt. Thomas wa Akwino\, Padri na Mwalimu wa Kanisa
+DESCRIPTION:Mt. Thomas wa Akwino\, Padri na Mwalimu wa Kanisa\nWaebrania 
+ 10:19–25 · Zaburi 24:1–2\, 3–4ab\, 5–6 · Marko 4:21–25\nKwa 
+ njia ya Yesu tunamkaribia Mungu kwa ujasiri.\n\nSoma na usali: https://d
+ aily-word-reflections.github.io/?d=2027-01-28&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Mt. Thomas wa Akwino\, Padri na Mwalimu wa Kan
+ isa
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Ijumaa ya Juma la Tatu la Mwaka
+DESCRIPTION:Ijumaa ya Juma la Tatu la Mwaka\nWaebrania 10:32–39 · Zabu
+ ri 37:3–4\, 5–6\, 23–24\, 39–40 · Marko 4:26–34\nMsiutupe uja
+ siri wenu\; mnahitaji saburi.\n\nSoma na usali: https://daily-word-refle
+ ctions.github.io/?d=2027-01-29&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa ya Juma la Tatu la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Jumamosi ya Juma la Tatu la Mwaka
+DESCRIPTION:Jumamosi ya Juma la Tatu la Mwaka\nWaebrania 11:1–2\, 8–1
+ 9 · Luka 1:69–70\, 71–72\, 73–75 · Marko 4:35–41\nImani ni hak
+ ika ya mambo yatarajiwayo.\n\nSoma na usali: https://daily-word-reflecti
+ ons.github.io/?d=2027-01-30&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi ya Juma la Tatu la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Dominika ya Nne ya Mwaka
+DESCRIPTION:Dominika ya Nne ya Mwaka\nKumbukumbu la Torati 18:15–20 · 
+ Zaburi 95:1–2\, 6–7\, 7–9 · 1 Wakorintho 7:32–35 · Marko 1:21
+ –28\nMungu aliahidi nabii kama Musa\; Yesu ndiye nabii huyo.\n\nSoma n
+ a usali: https://daily-word-reflections.github.io/?d=2027-01-31&r=lat&l=
+ sw
+URL:https://daily-word-reflections.github.io/?d=2027-01-31&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Nne ya Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Jumatatu ya Juma la Nne la Mwaka
+DESCRIPTION:Jumatatu ya Juma la Nne la Mwaka\nWaebrania 11:32–40 · Zab
+ uri 31:19\, 20\, 21\, 22\, 23 · Marko 5:1–20\nMashujaa wa imani walit
+ eseka\, lakini waliamini.\n\nSoma na usali: https://daily-word-reflectio
+ ns.github.io/?d=2027-02-01&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu ya Juma la Nne la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Kutolewa kwa Bwana Hekaluni · Sikukuu
+DESCRIPTION:Kutolewa kwa Bwana Hekaluni · Sikukuu\nMalaki 3:1–4 (au Wa
+ ebrania 2:14–18) · Zaburi 24:7\, 8\, 9\, 10 · Luka 2:22–40 (au 2:2
+ 2–32)\nSiku arobaini baada ya kuzaliwa kwake Yesu anatolewa hekaluni.\
+ n\nSoma na usali: https://daily-word-reflections.github.io/?d=2027-02-02
+ &r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-02&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Kutolewa kwa Bwana Hekaluni · Sikukuu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Jumatano ya Juma la Nne la Mwaka · Mt. Blasi\; Mt. Ansgari
+DESCRIPTION:Jumatano ya Juma la Nne la Mwaka · Mt. Blasi\; Mt. Ansgari\n
+ Waebrania 12:4–7\, 11–15 · Zaburi 103:1–2\, 13–14\, 17–18a ·
+  Marko 6:1–6\nMungu anatuadhibu kama Baba\, kwa ajili ya utakatifu wet
+ u.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2027-02
+ -03&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Nne la Mwaka · Mt. Blasi\
+ ; Mt. Ansgari
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Alhamisi ya Juma la Nne la Mwaka
+DESCRIPTION:Alhamisi ya Juma la Nne la Mwaka\nWaebrania 12:18–19\, 21
+ –24 · Zaburi 48:1–2a\, 2b–3\, 8\, 9–10 · Marko 6:7–13\nHatuk
+ ufika Sinai ya kutisha bali Sayuni ya furaha.\n\nSoma na usali: https://
+ daily-word-reflections.github.io/?d=2027-02-04&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi ya Juma la Nne la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Mt. Agata\, Bikira na Shahidi
+DESCRIPTION:Mt. Agata\, Bikira na Shahidi\nWaebrania 13:1–8 · Zaburi 2
+ 7:1\, 3\, 5\, 8b–9abc · Marko 6:14–29\nUpendo wa ndugu na ukarimu n
+ a udumu.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2
+ 027-02-05&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Mt. Agata\, Bikira na Shahidi
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Watakatifu Paulo Miki na Wenzake\, Mashahidi
+DESCRIPTION:Watakatifu Paulo Miki na Wenzake\, Mashahidi\nWaebrania 13:15
+ –17\, 20–21 · Zaburi 23:1–3a\, 3b–4\, 5\, 6 · Marko 6:30–34\
+ nMtoleeni Mungu dhabihu ya sifa na ya kushirikiana.\n\nSoma na usali: ht
+ tps://daily-word-reflections.github.io/?d=2027-02-06&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Watakatifu Paulo Miki na Wenzake\, Mashahidi
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Dominika ya Tano ya Mwaka
+DESCRIPTION:Dominika ya Tano ya Mwaka\nAyubu 7:1–4\, 6–7 · Zaburi 14
+ 7:1–2\, 3–4\, 5–6 · 1 Wakorintho 9:16–19\, 22–23 · Marko 1:2
+ 9–39\nAyubu analia katika usiku wake mrefu wa mateso.\n\nSoma na usali
+ : https://daily-word-reflections.github.io/?d=2027-02-07&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-07&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Tano ya Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Jumatatu ya Juma la Tano la Mwaka
+DESCRIPTION:Jumatatu ya Juma la Tano la Mwaka\nMwanzo 1:1–19 · Zaburi 
+ 104:1–2a\, 5–6\, 10 na 12\, 24 na 35c · Marko 6:53–56\nHapo mwanz
+ o Mungu aliziumba mbingu na nchi.\n\nSoma na usali: https://daily-word-r
+ eflections.github.io/?d=2027-02-08&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu ya Juma la Tano la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Jumanne ya Juma la Tano la Mwaka
+DESCRIPTION:Jumanne ya Juma la Tano la Mwaka\nMwanzo 1:20–2:4a · Zabur
+ i 8:3–4\, 5–6\, 7–8 · Marko 7:1–13\nMungu aliumba mwanadamu kwa
+  sura yake\, mwanamume na mwanamke.\n\nSoma na usali: https://daily-word
+ -reflections.github.io/?d=2027-02-09&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne ya Juma la Tano la Mwaka
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Jumatano ya Majivu
+DESCRIPTION:Jumatano ya Majivu\nYoeli 2:12–18 · Zaburi 51:1–2\, 3–
+ 4a\, 10–11\, 12 na 15 · 2 Wakorintho 5:20–6:2 · Mathayo 6:1–6\, 
+ 16–18\nMrudieni Bwana kwa mioyo yenu yote\; rarueni mioyo\, si mavazi.
+ \n\nSoma na usali: https://daily-word-reflections.github.io/?d=2027-02-1
+ 0&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Majivu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Alhamisi baada ya Jumatano ya Majivu
+DESCRIPTION:Alhamisi baada ya Jumatano ya Majivu\nKumbukumbu la Torati 30
+ :15–20 · Zaburi 1:1–2\, 3\, 4 na 6 · Luka 9:22–25\nMungu anaweka
+  mbele yetu uzima na mauti: chagueni uzima.\n\nSoma na usali: https://da
+ ily-word-reflections.github.io/?d=2027-02-11&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi baada ya Jumatano ya Majivu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Ijumaa baada ya Jumatano ya Majivu
+DESCRIPTION:Ijumaa baada ya Jumatano ya Majivu\nIsaya 58:1–9a · Zaburi
+  51:1–2\, 3–4a\, 16–17 · Mathayo 9:14–15\nMungu anaukataa mfung
+ o unaowasahau maskini na kuwadhulumu wafanyakazi.\n\nSoma na usali: http
+ s://daily-word-reflections.github.io/?d=2027-02-12&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa baada ya Jumatano ya Majivu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Jumamosi baada ya Jumatano ya Majivu
+DESCRIPTION:Jumamosi baada ya Jumatano ya Majivu\nIsaya 58:9b–14 · Zab
+ uri 86:1–2\, 3–4\, 5–6 · Luka 5:27–32\nOndoeni kidole kinachony
+ ooshwa na kusema maovu.\n\nSoma na usali: https://daily-word-reflections
+ .github.io/?d=2027-02-13&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi baada ya Jumatano ya Majivu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Dominika ya Kwanza ya Kwaresima
+DESCRIPTION:Dominika ya Kwanza ya Kwaresima\nMwanzo 9:8–15 · Zaburi 25
+ :4–5\, 6–7\, 8–9 · 1 Petro 3:18–22 · Marko 1:12–15\nMungu al
+ iweka upinde wake mawinguni kama ishara ya agano lake na uumbaji wote.\n
+ \nSoma na usali: https://daily-word-reflections.github.io/?d=2027-02-14&
+ r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-14&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Kwanza ya Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Jumatatu ya Juma la Kwanza la Kwaresima
+DESCRIPTION:Jumatatu ya Juma la Kwanza la Kwaresima\nMambo ya Walawi 19:1
+ –2\, 11–18 · Zaburi 19:7\, 8\, 9\, 14 · Mathayo 25:31–46\nMungu 
+ anasema: kuweni watakatifu\, kwa kuwa mimi ni mtakatifu\; msidanganye\, 
+ msiseme uongo wala msiwe na kinyongo.\n\nSoma na usali: https://daily-wo
+ rd-reflections.github.io/?d=2027-02-15&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu ya Juma la Kwanza la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Jumanne ya Juma la Kwanza la Kwaresima
+DESCRIPTION:Jumanne ya Juma la Kwanza la Kwaresima\nIsaya 55:10–11 · Z
+ aburi 34:3–4\, 5–6\, 15–16\, 17–18 · Mathayo 6:7–15\nNeno la 
+ Mungu ni kama mvua: daima linaleta matunda.\n\nSoma na usali: https://da
+ ily-word-reflections.github.io/?d=2027-02-16&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne ya Juma la Kwanza la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Jumatano ya Juma la Kwanza la Kwaresima
+DESCRIPTION:Jumatano ya Juma la Kwanza la Kwaresima\nYona 3:1–10 · Zab
+ uri 51:1–2\, 10–11\, 16–17 · Luka 11:29–32\nMungu anampa Yona n
+ afasi ya pili\, na Yona anahubiri Ninawi.\n\nSoma na usali: https://dail
+ y-word-reflections.github.io/?d=2027-02-17&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Kwanza la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Alhamisi ya Juma la Kwanza la Kwaresima
+DESCRIPTION:Alhamisi ya Juma la Kwanza la Kwaresima\nEsta C:12\, 14–16\
+ , 23–25 (nyongeza za Kigiriki\; katika Biblia nyingi 14:1\, 3–5\, 12
+ –14) · Zaburi 138:1–2a\, 2bc–3\, 7c–8 · Mathayo 7:7–12\nMalk
+ ia Esta\, akiwa peke yake na katika hatari\, anamwomba Mungu ujasiri na 
+ msaada.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=20
+ 27-02-18&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi ya Juma la Kwanza la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Ijumaa ya Juma la Kwanza la Kwaresima
+DESCRIPTION:Ijumaa ya Juma la Kwanza la Kwaresima\nEzekieli 18:21–28 ·
+  Zaburi 130:1–2\, 3–4\, 5–6\, 7–8 · Mathayo 5:20–26\nMungu an
+ ataka mwenye dhambi ageuke na kuishi\, si afe.\n\nSoma na usali: https:/
+ /daily-word-reflections.github.io/?d=2027-02-19&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa ya Juma la Kwanza la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Jumamosi ya Juma la Kwanza la Kwaresima
+DESCRIPTION:Jumamosi ya Juma la Kwanza la Kwaresima\nKumbukumbu la Torati
+  26:16–19 · Zaburi 119:1–2\, 4–5\, 7–8 · Mathayo 5:43–48\nMu
+ ngu na Israeli wanafanya agano: ninyi ni watu walio hazina yangu.\n\nSom
+ a na usali: https://daily-word-reflections.github.io/?d=2027-02-20&r=lat
+ &l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi ya Juma la Kwanza la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Dominika ya Pili ya Kwaresima
+DESCRIPTION:Dominika ya Pili ya Kwaresima\nMwanzo 22:1–2\, 9a\, 10–13
+ \, 15–18 · Zaburi 116:10\, 15\, 16–17\, 18–19 · Warumi 8:31b–3
+ 4 · Marko 9:2–10\nAbrahamu yuko tayari kumpa Mungu mwanawe wa pekee\,
+  na Mungu anajipatia kondoo dume badala yake.\n\nSoma na usali: https://
+ daily-word-reflections.github.io/?d=2027-02-21&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-21&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Pili ya Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Kiti cha Mt. Petro\, Mtume
+DESCRIPTION:Kiti cha Mt. Petro\, Mtume\n1 Petro 5:1–4 · Zaburi 23:1–
+ 3a\, 4\, 5\, 6 · Mathayo 16:13–19\nPetro alimkiri Yesu kuwa Kristo\, 
+ Mwana wa Mungu aliye hai.\n\nSoma na usali: https://daily-word-reflectio
+ ns.github.io/?d=2027-02-22&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-22&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Kiti cha Mt. Petro\, Mtume
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-23-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Jumanne ya Juma la Pili la Kwaresima
+DESCRIPTION:Jumanne ya Juma la Pili la Kwaresima\nIsaya 1:10\, 16–20 ·
+  Zaburi 50:8–9\, 16–17\, 21\, 23 · Mathayo 23:1–12\nMungu anawaal
+ ika wenye dhambi: dhambi zenu zijapokuwa nyekundu sana\, zitakuwa nyeupe
+  kama theluji.\n\nSoma na usali: https://daily-word-reflections.github.i
+ o/?d=2027-02-23&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne ya Juma la Pili la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Jumatano ya Juma la Pili la Kwaresima
+DESCRIPTION:Jumatano ya Juma la Pili la Kwaresima\nYeremia 18:18–20 · 
+ Zaburi 31:4–5\, 13\, 14–15 · Mathayo 20:17–28\nYeremia alilipwa m
+ abaya kwa mema aliyoyatenda\, na bado akasali.\n\nSoma na usali: https:/
+ /daily-word-reflections.github.io/?d=2027-02-24&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Pili la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Alhamisi ya Juma la Pili la Kwaresima
+DESCRIPTION:Alhamisi ya Juma la Pili la Kwaresima\nYeremia 17:5–10 · Z
+ aburi 1:1–2\, 3\, 4\, 6 · Luka 16:19–31\nWanaomtegemea Bwana ni kam
+ a mti uliopandwa kando ya maji.\n\nSoma na usali: https://daily-word-ref
+ lections.github.io/?d=2027-02-25&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi ya Juma la Pili la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Ijumaa ya Juma la Pili la Kwaresima
+DESCRIPTION:Ijumaa ya Juma la Pili la Kwaresima\nMwanzo 37:3–4\, 12–1
+ 3a\, 17b–28 · Zaburi 105:16–17\, 18–19\, 20–21 · Mathayo 21:33
+ –43\, 45–46\nYusufu\, mwana mpendwa\, aliuzwa na ndugu zake wenye wi
+ vu\; Mungu aligeuza jambo hilo kuwa jema.\n\nSoma na usali: https://dail
+ y-word-reflections.github.io/?d=2027-02-26&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa ya Juma la Pili la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Jumamosi ya Juma la Pili la Kwaresima
+DESCRIPTION:Jumamosi ya Juma la Pili la Kwaresima\nMika 7:14–15\, 18–
+ 20 · Zaburi 103:1–2\, 3–4\, 9–10\, 11–12 · Luka 15:1–3\, 11
+ –32\nMungu hufurahia rehema na kuzitupa dhambi zetu katika vilindi vya
+  bahari.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2
+ 027-02-27&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi ya Juma la Pili la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Dominika ya Tatu ya Kwaresima
+DESCRIPTION:Dominika ya Tatu ya Kwaresima\nKutoka 20:1–17 (au 20:1–3\
+ , 7–8\, 12–17) · Zaburi 19:7\, 8\, 9\, 10 · 1 Wakorintho 1:22–25
+  · Yohane 2:13–25\nMungu aliwapa Amri Kumi taifa alilokwisha kuliweka
+  huru.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=202
+ 7-02-28&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-02-28&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Tatu ya Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-01-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Jumatatu ya Juma la Tatu la Kwaresima
+DESCRIPTION:Jumatatu ya Juma la Tatu la Kwaresima\n2 Wafalme 5:1–15ab 
+ · Zaburi 42:1–2\; 43:3–4 · Luka 4:24–30\nNaamani\, jemadari mwen
+ ye kiburi\, aliponywa ukoma kwa kuoga mara saba katika Yordani.\n\nSoma 
+ na usali: https://daily-word-reflections.github.io/?d=2027-03-01&r=lat&l
+ =sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu ya Juma la Tatu la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Jumanne ya Juma la Tatu la Kwaresima
+DESCRIPTION:Jumanne ya Juma la Tatu la Kwaresima\nDanieli 3:25\, 34–43 
+ · Zaburi 25:4–5ab\, 6 na 7bc\, 8–9 · Mathayo 18:21–35\nKatika ta
+ nuru\, Azaria alimtolea Mungu moyo uliopondeka na roho nyenyekevu.\n\nSo
+ ma na usali: https://daily-word-reflections.github.io/?d=2027-03-02&r=la
+ t&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne ya Juma la Tatu la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Jumatano ya Juma la Tatu la Kwaresima
+DESCRIPTION:Jumatano ya Juma la Tatu la Kwaresima\nKumbukumbu la Torati 4
+ :1\, 5–9 · Zaburi 147:12–13\, 15–16\, 19–20 · Mathayo 5:17–1
+ 9\nMusa aliifundisha Israeli kwamba sheria ya Mungu ni kwa ajili ya uzim
+ a\, na kwamba hakuna taifa lenye Mungu aliye karibu hivyo.\n\nSoma na us
+ ali: https://daily-word-reflections.github.io/?d=2027-03-03&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Tatu la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Alhamisi ya Juma la Tatu la Kwaresima
+DESCRIPTION:Alhamisi ya Juma la Tatu la Kwaresima\nYeremia 7:23–28 · Z
+ aburi 95:1–2\, 6–7\, 8–9 · Luka 11:14–23\nYeremia aliwalilia wa
+ tu wasiotaka kuisikiliza sauti ya Mungu.\n\nSoma na usali: https://daily
+ -word-reflections.github.io/?d=2027-03-04&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi ya Juma la Tatu la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Ijumaa ya Juma la Tatu la Kwaresima
+DESCRIPTION:Ijumaa ya Juma la Tatu la Kwaresima\nHosea 14:1–9 · Zaburi
+  81:5c–7a\, 7bc–8\, 9–10ab\, 13 na 16 · Marko 12:28–34\nKwa kin
+ ywa cha Hosea\, Mungu anaifundisha Israeli maneno ya kurudi na kuahidi k
+ uwapenda kwa hiari.\n\nSoma na usali: https://daily-word-reflections.git
+ hub.io/?d=2027-03-05&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa ya Juma la Tatu la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Jumamosi ya Juma la Tatu la Kwaresima
+DESCRIPTION:Jumamosi ya Juma la Tatu la Kwaresima\nHosea 6:1–6 · Zabur
+ i 51:1–2\, 16–17\, 18–19 · Luka 18:9–14\nHosea anaonya kwamba u
+ pendo wetu unaweza kutoweka kama umande wa asubuhi\; Mungu anataka fadhi
+ li\, wala si sadaka.\n\nSoma na usali: https://daily-word-reflections.gi
+ thub.io/?d=2027-03-06&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi ya Juma la Tatu la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Dominika ya Nne ya Kwaresima (Laetare)
+DESCRIPTION:Dominika ya Nne ya Kwaresima (Laetare)\n2 Mambo ya Nyakati 36
+ :14–16\, 19–23 · Zaburi 137:1–2\, 3\, 4–5\, 6 · Waefeso 2:4–
+ 10 · Yohane 3:14–21\nMungu aliwarudisha watu wake nyumbani kutoka uha
+ mishoni kwa sababu aliwahurumia.\n\nSoma na usali: https://daily-word-re
+ flections.github.io/?d=2027-03-07&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-07&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Nne ya Kwaresima (Laetare)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-08-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Jumatatu ya Juma la Nne la Kwaresima
+DESCRIPTION:Jumatatu ya Juma la Nne la Kwaresima\nIsaya 65:17–21 · Zab
+ uri 30:1\, 3\, 4–5\, 10–12 · Yohane 4:43–54\nMungu anaahidi mbing
+ u mpya na nchi mpya\, ulimwengu usio na kilio.\n\nSoma na usali: https:/
+ /daily-word-reflections.github.io/?d=2027-03-08&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu ya Juma la Nne la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Jumanne ya Juma la Nne la Kwaresima
+DESCRIPTION:Jumanne ya Juma la Nne la Kwaresima\nEzekieli 47:1–9\, 12 
+ · Zaburi 46:1–2\, 4–5\, 7–8 · Yohane 5:1–16\nEzekieli anaona m
+ to ukitoka Hekaluni unaoleta uzima popote unapofika.\n\nSoma na usali: h
+ ttps://daily-word-reflections.github.io/?d=2027-03-09&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne ya Juma la Nne la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Jumatano ya Juma la Nne la Kwaresima
+DESCRIPTION:Jumatano ya Juma la Nne la Kwaresima\nIsaya 49:8–15 · Zabu
+ ri 145:8–9\, 13c–14\, 17–18 · Yohane 5:17–30\nMungu anasema: ha
+ ta kama mama atamsahau mtoto wake\, mimi sitakusahau wewe.\n\nSoma na us
+ ali: https://daily-word-reflections.github.io/?d=2027-03-10&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Nne la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Alhamisi ya Juma la Nne la Kwaresima
+DESCRIPTION:Alhamisi ya Juma la Nne la Kwaresima\nKutoka 32:7–14 · Zab
+ uri 106:19–20\, 21–22\, 23 · Yohane 5:31–47\nIsraeli walijifanyia
+  ndama wa dhahabu\; Musa aliwaombea na Mungu akawahurumia.\n\nSoma na us
+ ali: https://daily-word-reflections.github.io/?d=2027-03-11&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi ya Juma la Nne la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-12-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Ijumaa ya Juma la Nne la Kwaresima
+DESCRIPTION:Ijumaa ya Juma la Nne la Kwaresima\nHekima 2:1a\, 12–22 · 
+ Zaburi 34:16–20\, 22 · Yohane 7:1–2\, 10\, 25–30\nKitabu cha Heki
+ ma kinatabiri njama dhidi ya mwenye haki anayemwita Mungu Baba yake.\n\n
+ Soma na usali: https://daily-word-reflections.github.io/?d=2027-03-12&r=
+ lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Ijumaa ya Juma la Nne la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Jumamosi ya Juma la Nne la Kwaresima
+DESCRIPTION:Jumamosi ya Juma la Nne la Kwaresima\nYeremia 11:18–20 · Z
+ aburi 7:1–2\, 8b–11 · Yohane 7:40–53\nYeremia\, aliyepangiwa njam
+ a\, ni kama mwana-kondoo mpole anayepelekwa machinjoni\, mfano wa Kristo
+ .\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2027-03-
+ 13&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi ya Juma la Nne la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-14-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Dominika ya Tano ya Kwaresima
+DESCRIPTION:Dominika ya Tano ya Kwaresima\nYeremia 31:31–34 · Zaburi 5
+ 1:1–2\, 10–13 · Waebrania 5:7–9 · Yohane 12:20–33\nMungu anaah
+ idi agano jipya lililoandikwa mioyoni mwetu\, pamoja na msamaha wa dhamb
+ i.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2027-03
+ -14&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-14&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Tano ya Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-15-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Jumatatu ya Juma la Tano la Kwaresima
+DESCRIPTION:Jumatatu ya Juma la Tano la Kwaresima\nDanieli 13:1–9\, 15
+ –17\, 19–30\, 33–62 (au 13:41c–62) · Zaburi 23:1–3a\, 3b–4\
+ , 5\, 6 · Yohane 8:1–11\nSusana alichagua kuangukia mikononi mwa waov
+ u kuliko kutenda dhambi mbele za Bwana.\n\nSoma na usali: https://daily-
+ word-reflections.github.io/?d=2027-03-15&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatatu ya Juma la Tano la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-16-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Jumanne ya Juma la Tano la Kwaresima
+DESCRIPTION:Jumanne ya Juma la Tano la Kwaresima\nHesabu 21:4–9 · Zabu
+ ri 102:1–2\, 15–17\, 18–20 · Yohane 8:21–30\nIsraeli walikosa s
+ ubira wakanung'unika juu ya Mungu na juu ya mana.\n\nSoma na usali: http
+ s://daily-word-reflections.github.io/?d=2027-03-16&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumanne ya Juma la Tano la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Jumatano ya Juma la Tano la Kwaresima
+DESCRIPTION:Jumatano ya Juma la Tano la Kwaresima\nDanieli 3:14–20\, 91
+ –92\, 95 · Danieli 3:52\, 53\, 54\, 55\, 56 · Yohane 8:31–42\nVija
+ na watatu walikataa kuiabudu sanamu ya dhahabu\, hata kama Mungu asingew
+ aokoa.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=202
+ 7-03-17&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumatano ya Juma la Tano la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Alhamisi ya Juma la Tano la Kwaresima
+DESCRIPTION:Alhamisi ya Juma la Tano la Kwaresima\nMwanzo 17:3–9 · Zab
+ uri 105:4–5\, 6–7\, 8–9 · Yohane 8:51–59\nMungu alifanya agano 
+ la milele na Abrahamu na kumpa jina jipya.\n\nSoma na usali: https://dai
+ ly-word-reflections.github.io/?d=2027-03-18&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Alhamisi ya Juma la Tano la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Mt. Yosefu\, Mume wa Bikira Maria Mbarikiwa
+DESCRIPTION:Mt. Yosefu\, Mume wa Bikira Maria Mbarikiwa\n2 Samweli 7:4–
+ 5a\, 12–14a\, 16 · Zaburi 89:1–2\, 3–4\, 26 na 28 · Warumi 4:13\
+ , 16–18\, 22 · Mathayo 1:16\, 18–21\, 24a (au Luka 2:41–51a)\nAha
+ di ya Mungu kwa Daudi ilitimizwa kupitia Yosefu\, aliyempa Yesu jina lak
+ e na nafasi yake katika ukoo wa Daudi.\n\nSoma na usali: https://daily-w
+ ord-reflections.github.io/?d=2027-03-19&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Mt. Yosefu\, Mume wa Bikira Maria Mbarikiwa
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Jumamosi ya Juma la Tano la Kwaresima
+DESCRIPTION:Jumamosi ya Juma la Tano la Kwaresima\nEzekieli 37:21–28 ·
+  Yeremia 31:10\, 11–12ab\, 13 · Yohane 11:45–56\nEzekieli anaahidi 
+ kwamba Mungu atawafanya watu wake waliotawanyika kuwa taifa moja lenye m
+ chungaji mmoja.\n\nSoma na usali: https://daily-word-reflections.github.
+ io/?d=2027-03-20&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Jumamosi ya Juma la Tano la Kwaresima
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Dominika ya Matawi ya Mateso ya Bwana
+DESCRIPTION:Dominika ya Matawi ya Mateso ya Bwana\nMarko 11:1–10 (au Yo
+ hane 12:12–16) · Isaya 50:4–7 · Zaburi 22:7–8\, 16–17\, 18–1
+ 9\, 22–23 · Wafilipi 2:6–11 · Marko 14:1–15:47 (kifupi: 15:1–3
+ 9)\nYesu anaingia Yerusalemu kama Mfalme mnyenyekevu juu ya mwana-punda\
+ , akishangiliwa kwa Hosana.\n\nSoma na usali: https://daily-word-reflect
+ ions.github.io/?d=2027-03-21&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-21&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Dominika ya Matawi ya Mateso ya Bwana
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-22-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Monday of Holy Week
+DESCRIPTION:Monday of Holy Week\nIsaiah 42:1–7 · Psalm 27:1\, 2\, 3\, 
+ 13–14 · John 12:1–11\nThe Servant of the Lord is gentle: he does no
+ t break the bruised reed.\n\nSoma na usali: https://daily-word-reflectio
+ ns.github.io/?d=2027-03-22&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Monday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-23-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Tuesday of Holy Week
+DESCRIPTION:Tuesday of Holy Week\nIsaiah 49:1–6 · Psalm 71:1–2\, 3
+ –4a\, 5–6ab\, 15 and 17 · John 13:21–33\, 36–38\nThe Servant is
+  called from the womb and made a light to the nations.\n\nSoma na usali:
+  https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Tuesday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Wednesday of Holy Week
+DESCRIPTION:Wednesday of Holy Week\nIsaiah 50:4–9a · Psalm 69:7–9\, 
+ 20–21\, 30 and 32–33 · Matthew 26:14–25\nThe Servant listens to G
+ od every morning and does not turn back from suffering.\n\nSoma na usali
+ : https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Wednesday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-25-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Holy Thursday: Evening Mass of the Lord's Supper
+DESCRIPTION:Holy Thursday: Evening Mass of the Lord's Supper\nExodus 12:1
+ –8\, 11–14 · Psalm 116:12–13\, 15–16bc\, 17–18 · 1 Corinthia
+ ns 11:23–26 · John 13:1–15\nJesus\, our Passover Lamb\, gives his B
+ ody and Blood in the Eucharist.\n\nSoma na usali: https://daily-word-ref
+ lections.github.io/?d=2027-03-25&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Holy Thursday: Evening Mass of the Lord's Supp
+ er
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Friday of the Passion of the Lord (Good Friday)
+DESCRIPTION:Friday of the Passion of the Lord (Good Friday)\nIsaiah 52:13
+ –53:12 · Psalm 31:1\, 5\, 11–12\, 14–15\, 16\, 24 · Hebrews 4:14
+ –16\; 5:7–9 · John 18:1–19:42\nThe Suffering Servant was wounded 
+ for our sins\; by his bruises we are healed.\n\nSoma na usali: https://d
+ aily-word-reflections.github.io/?d=2027-03-26&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Friday of the Passion of the Lord (Good Friday
+ )
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Holy Saturday · The Easter Vigil in the Holy Night
+DESCRIPTION:Holy Saturday · The Easter Vigil in the Holy Night\nGenesis 
+ 1:1–2:2 (or 1:1\, 26–31a)\; Psalm 104 (or Psalm 33) · Genesis 22:1
+ –18 (or 22:1–2\, 9a\, 10–13\, 15–18)\; Psalm 16 · Exodus 14:15
+ –15:1\; Canticle Exodus 15:1–6\, 17–18 · Isaiah 54:5–14\; Psalm
+  30 · Isaiah 55:1–11\; Canticle Isaiah 12:2–6 · Baruch 3:9–15\, 
+ 32–4:4\; Psalm 19:7–10 · Ezekiel 36:16–17a\, 18–28\; Psalms 42:
+ 2\, 4 and 43:3–4 (or Isaiah 12\, or Psalm 51) · Romans 6:3–11 · Ps
+ alm 118:1–2\, 16–17\, 22–23 · Mark 16:1–7\nHoly Saturday: Chris
+ t lies in the tomb and descends among the dead\; the Church waits in sil
+ ence.\n\nSoma na usali: https://daily-word-reflections.github.io/?d=2027
+ -03-27&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Holy Saturday · The Easter Vigil in the Holy 
+ Night
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-28-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Easter Sunday of the Resurrection of the Lord
+DESCRIPTION:Easter Sunday of the Resurrection of the Lord\nActs 10:34a\, 
+ 37–43 · Psalm 118:1–2\, 16–17\, 22–23 · Colossians 3:1–4 (or
+  1 Corinthians 5:6b–8) · Victimae paschali laudes · John 20:1–9\nP
+ eter: God raised Jesus on the third day\, and we ate and drank with him.
+ \n\nSoma na usali: https://daily-word-reflections.github.io/?d=2027-03-2
+ 8&r=lat&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-28&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Easter Sunday of the Resurrection of the Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-29-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Monday within the Octave of Easter
+DESCRIPTION:Monday within the Octave of Easter\nActs 2:14\, 22–33 · Ps
+ alm 16:1–2a\, 5\, 7–8\, 9–10\, 11 · Matthew 28:8–15\nPeter: God
+  raised Jesus up\; death could not hold him\; we are all witnesses.\n\nS
+ oma na usali: https://daily-word-reflections.github.io/?d=2027-03-29&r=l
+ at&l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Monday within the Octave of Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-30-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Tuesday within the Octave of Easter
+DESCRIPTION:Tuesday within the Octave of Easter\nActs 2:36–41 · Psalm 
+ 33:4–5\, 18–19\, 20 and 22 · John 20:11–18\nCut to the heart\, th
+ e crowd asked: What should we do? Peter: repent and be baptized.\n\nSoma
+  na usali: https://daily-word-reflections.github.io/?d=2027-03-30&r=lat&
+ l=sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Tuesday within the Octave of Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-lat-sw@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Wednesday within the Octave of Easter
+DESCRIPTION:Wednesday within the Octave of Easter\nActs 3:1–10 · Psalm
+  105:1–2\, 3–4\, 6–7\, 8–9 · Luke 24:13–35\nPeter healed the 
+ lame man: what I have I give you\; in the name of Jesus\, walk.\n\nSoma 
+ na usali: https://daily-word-reflections.github.io/?d=2027-03-31&r=lat&l
+ =sw
+URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=lat&l=sw
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Neno la kesho: Wednesday within the Octave of Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

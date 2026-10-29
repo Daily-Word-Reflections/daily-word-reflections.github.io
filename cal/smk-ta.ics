@@ -1,0 +1,4785 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daily Word//daily-word-reflections.github.io//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:அனுதின இறைவார்த்தை · Syro
+ -Malankara
+X-WR-TIMEZONE:Asia/Kolkata
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:2026-11-01-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறு · தி
+ ருச்சபையின் புனிதப்படுத்
+ துதல்
+DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறு · த
+ ிருச்சபையின் புனிதப்படுத
+ ்துதல்\nமாற்கு 8:27–30 · விடுதல
+ ைப் பயணம் 10:1–5 (அச்சிடப்பட்ட
+ படி) · 1 அரசர்கள் 6:1–8 · எசேக்க
+ ியேல் 10:1–5\, 18–22 · எசாயா 6:1–8 · 1 ப
+ ேதுரு 2:1–12 · எபேசியர் 2:14–22 · மத
+ ்தேயு 16:13–23\nநம் திருவழிபாட்
+ டு ஆண்டு திருச்சபையுடன் தொ
+ டங்குகிறது: மக்களிடையே கடவ
+ ுளின் உறைவிடம்.\n\nவாசித்து 
+ இறைவேண்டல் செய்வோம்: https://daily-w
+ ord-reflections.github.io/?d=2026-11-01&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-01&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கூத
+ ோஸ் ஈத்தோ ஞாயிறு · திருச்சப
+ ையின் புனிதப்படுத்துதல்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் திங்கள்
+DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் திங்கள்\n1 தெசலோனி
+ க்கர் 4:1–8 · மத்தேயு 5:1–12\nநம் த
+ ூய்மையே கடவுளின் திருவுளம
+ ்.\n\nவாசித்து இறைவேண்டல் செ
+ ய்வோம்: https://daily-word-reflections.github.io/?d=2026-11-
+ 02&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-02&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் திங்கள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் செவ்வாய் · நிசேயாவி
+ ன் 318 தந்தையர்
+DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் செவ்வாய் · நிசேயா
+ வின் 318 தந்தையர்\nஎபிரேயர் 13:7
+ –16 · மத்தேயு 24:45–51\nதலைவர்களை 
+ நினைவுகூர்ந்து அவர்கள் வி
+ சுவாசத்தைப் பின்பற்றுங்க
+ ள்.\n\nவாசித்து இறைவேண்டல் ச
+ ெய்வோம்: https://daily-word-reflections.github.io/?d=2026-
+ 11-03&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் செவ்வாய் · நிசேயாவின் 318 த
+ ந்தையர்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் புதன்
+DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் புதன்\n1 கொரிந்திய
+ ர் 4:6–14 · லூக்கா 6:37–42\nநம்மிடம
+ ுள்ளவை அனைத்தும் கொடை.\n\nவா
+ சித்து இறைவேண்டல் செய்வோம
+ ்: https://daily-word-reflections.github.io/?d=2026-11-04&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் புதன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் வியாழன்
+DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் வியாழன்\nஎபிரேயர
+ ் 12:4–11 · யோவான் 5:19–23\nகடவுள் தா
+ ம் அன்பு செய்பவர்களைக் கண்
+ டித்துத் திருத்துகிறார்.\n\n
+ வாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2026-11-05&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் வியாழன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் வெள்ளி
+DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் வெள்ளி\n1 திமொத்தே
+ யு 6:17–19 · லூக்கா 7:36–50\nசெல்வத்
+ தில் அல்ல\, கடவுளில் நம்பிக
+ ்கை வையுங்கள்.\n\nவாசித்து இ
+ றைவேண்டல் செய்வோம்: https://daily-word
+ -reflections.github.io/?d=2026-11-06&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் வெள்ளி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:கூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் சனி · மெலித்தேனின் 33
+  மறைசாட்சிகள்
+DESCRIPTION:கூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் சனி · மெலித்தேனின
+ ் 33 மறைசாட்சிகள்\n1 கொரிந்தி
+ யர் 1:10–17 · யோவான் 12:20–22\nகிறிஸ்
+ து பிளவுபட்டவர் அல்லர்.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2026-11-07&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் சனி · மெலித்தேனின் 33 மறைசா
+ ட்சிகள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறு · தி
+ ருச்சபையின் புதுப்பித்தல
+ ்
+DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறு · த
+ ிருச்சபையின் புதுப்பித்த
+ ல்\nமாற்கு 11:15–17 · விடுதலைப் ப
+ யணம் 32:1–14 · 1 அரசர்கள் 8:22–30 · எர
+ ேமியா 31:10–14\, 22–26 · எசாயா 55:1–13 · த
+ ிருவெளிப்பாடு 3:14–22 · எபிரேய
+ ர் 9:1–14 · யோவான் 2:13–22\nதிருச்ச
+ பை தூயது\; எப்போதும் புதுப்
+ பிக்கப்பட வேண்டியது.\n\nவாசி
+ த்து இறைவேண்டல் செய்வோம்: ht
+ tps://daily-word-reflections.github.io/?d=2026-11-08&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-08&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
+ ோஸ் ஈத்தோ ஞாயிறு · திருச்சப
+ ையின் புதுப்பித்தல்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் திங்கள் · தூய தியடோ
+ ர்
+DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் திங்கள் · தூய திய
+ டோர்\nஎபிரேயர் 4:6–11 · மத்தேயு
+  18:10–14\nஇன்று அவர் குரலைக் கே
+ ளுங்கள்.\n\nவாசித்து இறைவேண்
+ டல் செய்வோம்: https://daily-word-reflections.githu
+ b.io/?d=2026-11-09&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் திங்கள் · தூய தியடோர்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் செவ்வாய் · சாமுவேல்
+  இறைவாக்கினர்\; திருத்தந்த
+ ை தூய பெரிய லியோ
+DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் செவ்வாய் · சாமுவே
+ ல் இறைவாக்கினர்\; திருத்தந
+ ்தை தூய பெரிய லியோ\n1 திமொத்
+ தேயு 6:1–2 · மத்தேயு 20:1–16\nநேர்ம
+ ையான வேலை கிறிஸ்துவுக்குச
+ ் சாட்சி.\n\nவாசித்து இறைவேண
+ ்டல் செய்வோம்: https://daily-word-reflections.gi
+ thub.io/?d=2026-11-10&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் செவ்வாய் · சாமுவேல் இறைவா
+ க்கினர்\; திருத்தந்தை தூய ப
+ ெரிய லியோ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் புதன்
+DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் புதன்\nஎபேசியர் 2:14
+ –22 · மத்தேயு 9:14–17\nகிறிஸ்து ப
+ ிரிவினைச் சுவரைத் தகர்த்த
+ ார்.\n\nவாசித்து இறைவேண்டல் 
+ செய்வோம்: https://daily-word-reflections.github.io/?d=20
+ 26-11-11&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் புதன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் வியாழன் · அலெக்சாந்
+ திரியாவின் மார் யோவான்
+DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் வியாழன் · அலெக்சா
+ ந்திரியாவின் மார் யோவான்\n
+ எபேசியர் 1:15–23 · மாற்கு 4:26–29\nஇ
+ றையாட்சி அவருடைய வல்லமையா
+ ல் அமைதியாக வளர்கிறது.\n\nவா
+ சித்து இறைவேண்டல் செய்வோம
+ ்: https://daily-word-reflections.github.io/?d=2026-11-12&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் வியாழன் · அலெக்சாந்திரிய
+ ாவின் மார் யோவான்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் வெள்ளி · பொன்வாய் ம
+ ார் இவானியோஸ் (தூய யோவான் க
+ ிறிசோஸ்தோம்)
+DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் வெள்ளி · பொன்வாய்
+  மார் இவானியோஸ் (தூய யோவான் 
+ கிறிசோஸ்தோம்)\n1 கொரிந்தியர
+ ் 2:6–15 · மத்தேயு 13:44–52\nஇறையாட்
+ சி அனைத்துக்கும் தகுதியான
+ து.\n\nவாசித்து இறைவேண்டல் ச
+ ெய்வோம்: https://daily-word-reflections.github.io/?d=2026-
+ 11-13&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் வெள்ளி · பொன்வாய் மார் இவ
+ ானியோஸ் (தூய யோவான் கிறிசோ
+ ஸ்தோம்)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:ஹூதோஸ் ஈத்தோ ஞாயிறுக்கு
+ ப் பின் சனி · மார் பீலிப்போ
+ ஸ் திருத்தூதர்
+DESCRIPTION:ஹூதோஸ் ஈத்தோ ஞாயிறுக்
+ குப் பின் சனி · மார் பீலிப்
+ போஸ் திருத்தூதர்\n1 கொரிந்த
+ ியர் 4:1–5 · யோவான் 14:7–14\nபொறுப்
+ பாளர்கள் நம்பிக்கைக்குரி
+ யவர்களாக இருக்க வேண்டும்.\n\
+ nவாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2026-11-14&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: ஹூத
+ ோஸ் ஈத்தோ ஞாயிறுக்குப் பின
+ ் சனி · மார் பீலிப்போஸ் திர
+ ுத்தூதர்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:சக்கரியாவுக்கு அறிவிக்
+ கப்பட்ட மங்கள வார்த்தையின
+ ் ஞாயிறு
+DESCRIPTION:சக்கரியாவுக்கு அறிவிக
+ ்கப்பட்ட மங்கள வார்த்தையி
+ ன் ஞாயிறு\nலூக்கா 1:1–17 · தொடக
+ ்க நூல் 17:15–22 · ரூத்து 1:11–18 · 1 ச
+ ாமுவேல் 1:9–17 · எசாயா 41:8–17 · 2 பே
+ துரு 1:3–11 · உரோமையர் 4:13–25 · லூக
+ ்கா 1:5–25\nசூபோரோ தொடங்குகிறத
+ ு: நற்செய்தியின் காலம்.\n\nவா
+ சித்து இறைவேண்டல் செய்வோம
+ ்: https://daily-word-reflections.github.io/?d=2026-11-15&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-15&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: சக்
+ கரியாவுக்கு அறிவிக்கப்பட
+ ்ட மங்கள வார்த்தையின் ஞாயி
+ று
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:சக்கரியாவுக்கு மங்கள வா
+ ர்த்தை ஞாயிறுக்குப் பின் த
+ ிங்கள் · மார் மத்தேயு திருத
+ ்தூதர்
+DESCRIPTION:சக்கரியாவுக்கு மங்கள 
+ வார்த்தை ஞாயிறுக்குப் பின
+ ் திங்கள் · மார் மத்தேயு தி
+ ருத்தூதர்\nஎபேசியர் 4:1–6 · மத
+ ்தேயு 9:9–13\nவெறுக்கப்பட்டவர
+ ்களை இயேசு பின்பற்ற அழைக்க
+ ிறார்.\n\nவாசித்து இறைவேண்டல
+ ் செய்வோம்: https://daily-word-reflections.github.io/?
+ d=2026-11-16&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: சக்
+ கரியாவுக்கு மங்கள வார்த்த
+ ை ஞாயிறுக்குப் பின் திங்கள
+ ் · மார் மத்தேயு திருத்தூதர
+ ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:சக்கரியாவுக்கு மங்கள வா
+ ர்த்தை ஞாயிறுக்குப் பின் ச
+ ெவ்வாய்
+DESCRIPTION:சக்கரியாவுக்கு மங்கள 
+ வார்த்தை ஞாயிறுக்குப் பின
+ ் செவ்வாய்\nஉரோமையர் 11:17–24 · ம
+ த்தேயு 9:1–8\nநண்பர்களின் விச
+ ுவாசம் முடக்குவாதமுற்றவர
+ ை இயேசுவிடம் கொண்டுவந்தது.
+ \n\nவாசித்து இறைவேண்டல் செய்
+ வோம்: https://daily-word-reflections.github.io/?d=2026-11-17&r=s
+ mk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: சக்
+ கரியாவுக்கு மங்கள வார்த்த
+ ை ஞாயிறுக்குப் பின் செவ்வா
+ ய்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:சக்கரியாவுக்கு மங்கள வா
+ ர்த்தை ஞாயிறுக்குப் பின் ப
+ ுதன்
+DESCRIPTION:சக்கரியாவுக்கு மங்கள 
+ வார்த்தை ஞாயிறுக்குப் பின
+ ் புதன்\n2 திமொத்தேயு 4:19–22 · ம
+ த்தேயு 23:37–39\nபவுலின் கடைசிச
+ ் சொற்கள் நண்பர்களைப் பெயர
+ ் சொல்லி நினைவுகூர்கின்றன.
+ \n\nவாசித்து இறைவேண்டல் செய்
+ வோம்: https://daily-word-reflections.github.io/?d=2026-11-18&r=s
+ mk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: சக்
+ கரியாவுக்கு மங்கள வார்த்த
+ ை ஞாயிறுக்குப் பின் புதன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:சக்கரியாவுக்கு மங்கள வா
+ ர்த்தை ஞாயிறுக்குப் பின் வ
+ ியாழன்
+DESCRIPTION:சக்கரியாவுக்கு மங்கள 
+ வார்த்தை ஞாயிறுக்குப் பின
+ ் வியாழன்\nஎபேசியர் 6:1–4 · மத்
+ தேயு 23:1–12\nதந்தையையும் தாயை
+ யும் மதியுங்கள்.\n\nவாசித்து
+  இறைவேண்டல் செய்வோம்: https://daily-
+ word-reflections.github.io/?d=2026-11-19&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: சக்
+ கரியாவுக்கு மங்கள வார்த்த
+ ை ஞாயிறுக்குப் பின் வியாழன
+ ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:சக்கரியாவுக்கு மங்கள வா
+ ர்த்தை ஞாயிறுக்குப் பின் வ
+ ெள்ளி
+DESCRIPTION:சக்கரியாவுக்கு மங்கள 
+ வார்த்தை ஞாயிறுக்குப் பின
+ ் வெள்ளி\nஉரோமையர் 10:5–13 · மத்
+ தேயு 13:1–9\nவார்த்தை அருகில்: 
+ வாயிலும் உள்ளத்திலும்.\n\nவா
+ சித்து இறைவேண்டல் செய்வோம
+ ்: https://daily-word-reflections.github.io/?d=2026-11-20&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: சக்
+ கரியாவுக்கு மங்கள வார்த்த
+ ை ஞாயிறுக்குப் பின் வெள்ளி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:கடவுளின் தாய் மரியா கோவ
+ ிலில் காணிக்கையாக்கப்படு
+ தல்
+DESCRIPTION:கடவுளின் தாய் மரியா கோ
+ விலில் காணிக்கையாக்கப்பட
+ ுதல்\nபிலிப்பியர் 4:4–9 · மத்த
+ ேயு 12:46–50\nதொடக்கத்திலிருந்
+ தே மரியா முழுமையாகக் கடவுள
+ ுக்கு உரியவர்.\n\nவாசித்து இ
+ றைவேண்டல் செய்வோம்: https://daily-word
+ -reflections.github.io/?d=2026-11-21&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியா கோவிலில் 
+ காணிக்கையாக்கப்படுதல்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:கடவுளின் தாய் மரியாவுக்
+ கு அறிவிக்கப்பட்ட மங்கள வா
+ ர்த்தையின் ஞாயிறு
+DESCRIPTION:கடவுளின் தாய் மரியாவு
+ க்கு அறிவிக்கப்பட்ட மங்கள 
+ வார்த்தையின் ஞாயிறு\nமத்தே
+ யு 1:1–17 · தொடக்க நூல் 3:8–15 · நீத
+ ித் தலைவர்கள் 13:2–14 · செக்கரி
+ யா 4:1–7 · எசாயா 63:15–64:5 · 1 யோவான் 3
+ :1–10 · கலாத்தியர் 4:1–7 · லூக்கா 
+ 1:26–38\nஏதேனில் தந்த முதல் வாக
+ ்குறுதியைக் கடவுள் காக்கி
+ றார்.\n\nவாசித்து இறைவேண்டல்
+  செய்வோம்: https://daily-word-reflections.github.io/?d=2
+ 026-11-22&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-22&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியாவுக்கு அறி
+ விக்கப்பட்ட மங்கள வார்த்த
+ ையின் ஞாயிறு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:கடவுளின் தாய் மரியாவுக்
+ கு மங்கள வார்த்தை ஞாயிறுக்
+ குப் பின் திங்கள் · திருத்த
+ ந்தை தூய கிளமெந்து\; தூய பெல
+ ிசிட்டி
+DESCRIPTION:கடவுளின் தாய் மரியாவு
+ க்கு மங்கள வார்த்தை ஞாயிறு
+ க்குப் பின் திங்கள் · திருத
+ ்தந்தை தூய கிளமெந்து\; தூய ப
+ ெலிசிட்டி\nபிலமோன் 1:1–7 · லூக
+ ்கா 6:43–45\nமரம் அதன் கனியால் அ
+ றியப்படும்.\n\nவாசித்து இறைவ
+ ேண்டல் செய்வோம்: https://daily-word-reflecti
+ ons.github.io/?d=2026-11-23&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியாவுக்கு மங்
+ கள வார்த்தை ஞாயிறுக்குப் ப
+ ின் திங்கள் · திருத்தந்தை த
+ ூய கிளமெந்து\; தூய பெலிசிட்
+ டி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:கடவுளின் தாய் மரியாவுக்
+ கு மங்கள வார்த்தை ஞாயிறுக்
+ குப் பின் செவ்வாய்
+DESCRIPTION:கடவுளின் தாய் மரியாவு
+ க்கு மங்கள வார்த்தை ஞாயிறு
+ க்குப் பின் செவ்வாய்\nதீத்
+ து 2:11–15 · மத்தேயு 24:32–36\nஇயேசுவ
+ ில் அருள் வெளிப்பட்டது.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2026-11-24&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியாவுக்கு மங்
+ கள வார்த்தை ஞாயிறுக்குப் ப
+ ின் செவ்வாய்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:கடவுளின் தாய் மரியாவுக்
+ கு மங்கள வார்த்தை ஞாயிறுக்
+ குப் பின் புதன்
+DESCRIPTION:கடவுளின் தாய் மரியாவு
+ க்கு மங்கள வார்த்தை ஞாயிறு
+ க்குப் பின் புதன்\nபிலிப்ப
+ ியர் 1:15–20 · மத்தேயு 13:10–17\nகிறி
+ ஸ்து அறிவிக்கப்படும்போதெ
+ ல்லாம் பவுல் மகிழ்கிறார்.\n\
+ nவாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2026-11-25&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியாவுக்கு மங்
+ கள வார்த்தை ஞாயிறுக்குப் ப
+ ின் புதன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:கடவுளின் தாய் மரியாவுக்
+ கு மங்கள வார்த்தை ஞாயிறுக்
+ குப் பின் வியாழன்
+DESCRIPTION:கடவுளின் தாய் மரியாவு
+ க்கு மங்கள வார்த்தை ஞாயிறு
+ க்குப் பின் வியாழன்\n1 கொரிந
+ ்தியர் 10:14–22 · லூக்கா 4:31–37\nநற்
+ கருணை கிறிஸ்துவின் உடலிலு
+ ம் இரத்தத்திலும் பங்கேற்ப
+ ு.\n\nவாசித்து இறைவேண்டல் செ
+ ய்வோம்: https://daily-word-reflections.github.io/?d=2026-11-
+ 26&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியாவுக்கு மங்
+ கள வார்த்தை ஞாயிறுக்குப் ப
+ ின் வியாழன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:கடவுளின் தாய் மரியாவுக்
+ கு மங்கள வார்த்தை ஞாயிறுக்
+ குப் பின் வெள்ளி
+DESCRIPTION:கடவுளின் தாய் மரியாவு
+ க்கு மங்கள வார்த்தை ஞாயிறு
+ க்குப் பின் வெள்ளி\n2 தெசலோன
+ ிக்கர் 3:6–15 · மாற்கு 10:1–12\nகடவ
+ ுள் கணவனையும் மனைவியையும் 
+ இணைக்கிறார்.\n\nவாசித்து இறை
+ வேண்டல் செய்வோம்: https://daily-word-refle
+ ctions.github.io/?d=2026-11-27&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியாவுக்கு மங்
+ கள வார்த்தை ஞாயிறுக்குப் ப
+ ின் வெள்ளி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:கடவுளின் தாய் மரியாவுக்
+ கு மங்கள வார்த்தை ஞாயிறுக்
+ குப் பின் சனி · தூய கத்தரீன
+ ்
+DESCRIPTION:கடவுளின் தாய் மரியாவு
+ க்கு மங்கள வார்த்தை ஞாயிறு
+ க்குப் பின் சனி · தூய கத்தர
+ ீன்\n1 கொரிந்தியர் 4:15–21 · மாற்
+ கு 4:30–34\nஇறையாட்சி சிறிதாகத
+ ் தொடங்கிப் பெரிதாக வளர்கி
+ றது.\n\nவாசித்து இறைவேண்டல் 
+ செய்வோம்: https://daily-word-reflections.github.io/?d=20
+ 26-11-28&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியாவுக்கு மங்
+ கள வார்த்தை ஞாயிறுக்குப் ப
+ ின் சனி · தூய கத்தரீன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:கடவுளின் தாய் மரியா எலி
+ சபெத்தைச் சந்தித்த ஞாயிறு
+DESCRIPTION:கடவுளின் தாய் மரியா எல
+ ிசபெத்தைச் சந்தித்த ஞாயிற
+ ு\nலூக்கா 1:39–45 · தொடக்க நூல் 24:
+ 15–27 · 1 சாமுவேல் 2:1–11 · நீதிமொழ
+ ிகள் 31:10–26 · எசாயா 29:17–24 · 1 பேது
+ ரு 2:6–10 · 1 திமொத்தேயு 2:4–10 · லூ
+ க்கா 1:39–56\nகிறிஸ்துவைச் சும
+ ந்த மரியா பணிசெய்ய விரைகிற
+ ார்.\n\nவாசித்து இறைவேண்டல் 
+ செய்வோம்: https://daily-word-reflections.github.io/?d=20
+ 26-11-29&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-29&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியா எலிசபெத்த
+ ைச் சந்தித்த ஞாயிறு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:கடவுளின் தாய் மரியா எலி
+ சபெத்தைச் சந்தித்த ஞாயிறு
+ க்குப் பின் திங்கள் · மார் 
+ அந்திரேயா திருத்தூதர்
+DESCRIPTION:கடவுளின் தாய் மரியா எல
+ ிசபெத்தைச் சந்தித்த ஞாயிற
+ ுக்குப் பின் திங்கள் · மார்
+  அந்திரேயா திருத்தூதர்\nகல
+ ாத்தியர் 4:12–20 · யோவான் 1:35–42\nவ
+ ந்து பாருங்கள்: இயேசுவின் 
+ உடனிருப்பில் விசுவாசம் தொ
+ டங்குகிறது.\n\nவாசித்து இறைவ
+ ேண்டல் செய்வோம்: https://daily-word-reflecti
+ ons.github.io/?d=2026-11-30&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியா எலிசபெத்த
+ ைச் சந்தித்த ஞாயிறுக்குப் 
+ பின் திங்கள் · மார் அந்திரே
+ யா திருத்தூதர்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:கடவுளின் தாய் மரியா எலி
+ சபெத்தைச் சந்தித்த ஞாயிறு
+ க்குப் பின் செவ்வாய் · இருப
+ த்தைந்து நாள் நோன்பு தொடங்
+ குகிறது
+DESCRIPTION:கடவுளின் தாய் மரியா எல
+ ிசபெத்தைச் சந்தித்த ஞாயிற
+ ுக்குப் பின் செவ்வாய் · இரு
+ பத்தைந்து நாள் நோன்பு தொடங
+ ்குகிறது\nஉரோமையர் 13:8–14 · யோ
+ வான் 1:1–5\nயல்தோவின் குழந்தை 
+ நித்திய வாக்கு.\n\nவாசித்து 
+ இறைவேண்டல் செய்வோம்: https://daily-w
+ ord-reflections.github.io/?d=2026-12-01&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியா எலிசபெத்த
+ ைச் சந்தித்த ஞாயிறுக்குப் 
+ பின் செவ்வாய் · இருபத்தைந்
+ து நாள் நோன்பு தொடங்குகிறத
+ ு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:கடவுளின் தாய் மரியா எலி
+ சபெத்தைச் சந்தித்த ஞாயிறு
+ க்குப் பின் புதன்
+DESCRIPTION:கடவுளின் தாய் மரியா எல
+ ிசபெத்தைச் சந்தித்த ஞாயிற
+ ுக்குப் பின் புதன்\nஉரோமைய
+ ர் 10:14–15 · மத்தேயு 5:33–37\nஅனுப்ப
+ ப்பட்டோர் வழியாக விசுவாசம
+ ் வருகிறது.\n\nவாசித்து இறைவ
+ ேண்டல் செய்வோம்: https://daily-word-reflecti
+ ons.github.io/?d=2026-12-02&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியா எலிசபெத்த
+ ைச் சந்தித்த ஞாயிறுக்குப் 
+ பின் புதன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:கடவுளின் தாய் மரியா எலி
+ சபெத்தைச் சந்தித்த ஞாயிறு
+ க்குப் பின் வியாழன் · தூய ப
+ ிரான்சிஸ் சவேரியார்
+DESCRIPTION:கடவுளின் தாய் மரியா எல
+ ிசபெத்தைச் சந்தித்த ஞாயிற
+ ுக்குப் பின் வியாழன் · தூய 
+ பிரான்சிஸ் சவேரியார்\n1 கொர
+ ிந்தியர் 9:19–23 · மாற்கு 16:14–18\nப
+ வுல் அனைவருக்கும் அனைத்து
+ மானார்.\n\nவாசித்து இறைவேண்ட
+ ல் செய்வோம்: https://daily-word-reflections.github.i
+ o/?d=2026-12-03&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியா எலிசபெத்த
+ ைச் சந்தித்த ஞாயிறுக்குப் 
+ பின் வியாழன் · தூய பிரான்சி
+ ஸ் சவேரியார்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:கடவுளின் தாய் மரியா எலி
+ சபெத்தைச் சந்தித்த ஞாயிறு
+ க்குப் பின் வெள்ளி · தமஸ்கு
+  நகரத் தூய யோவான்
+DESCRIPTION:கடவுளின் தாய் மரியா எல
+ ிசபெத்தைச் சந்தித்த ஞாயிற
+ ுக்குப் பின் வெள்ளி · தமஸ்க
+ ு நகரத் தூய யோவான்\nஉரோமையர
+ ் 10:17–20 · மத்தேயு 5:21–26\nசினமே க
+ ொலையின் வேர்.\n\nவாசித்து இற
+ ைவேண்டல் செய்வோம்: https://daily-word-re
+ flections.github.io/?d=2026-12-04&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியா எலிசபெத்த
+ ைச் சந்தித்த ஞாயிறுக்குப் 
+ பின் வெள்ளி · தமஸ்கு நகரத் 
+ தூய யோவான்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:கடவுளின் தாய் மரியா எலி
+ சபெத்தைச் சந்தித்த ஞாயிறு
+ க்குப் பின் சனி · மார் சாபா\;
+  அலெக்சாந்திரியாவின் தூய க
+ ிளமெந்து
+DESCRIPTION:கடவுளின் தாய் மரியா எல
+ ிசபெத்தைச் சந்தித்த ஞாயிற
+ ுக்குப் பின் சனி · மார் சாப
+ ா\; அலெக்சாந்திரியாவின் தூ
+ ய கிளமெந்து\n1 திமொத்தேயு 4:6–
+ 10 · யோவான் 7:40–53\nஇறைப்பற்றில்
+  உன்னைப் பயிற்றுவி.\n\nவாசித
+ ்து இறைவேண்டல் செய்வோம்: https
+ ://daily-word-reflections.github.io/?d=2026-12-05&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தாய் மரியா எலிசபெத்த
+ ைச் சந்தித்த ஞாயிறுக்குப் 
+ பின் சனி · மார் சாபா\; அலெக்ச
+ ாந்திரியாவின் தூய கிளமெந்
+ து
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:திருமுழுக்கு யோவானின் ப
+ ிறப்பு ஞாயிறு
+DESCRIPTION:திருமுழுக்கு யோவானின்
+  பிறப்பு ஞாயிறு\nலூக்கா 1:67–80 
+ · விடுதலைப் பயணம் 2:1–10 · 1 சாம
+ ுவேல் 1:19–28 · திருப்பாடல்கள் 
+ 127:1–5 · எசாயா 62:1–12 · 1 யோவான் 4:1–6 
+ · கலாத்தியர் 4:21–31 · லூக்கா 1:57
+ –66\nஅவன் பெயர் யோவான்: கடவுள
+ ் அருள் நிறைந்தவர்.\n\nவாசித
+ ்து இறைவேண்டல் செய்வோம்: https
+ ://daily-word-reflections.github.io/?d=2026-12-06&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-06&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுமுழுக்கு யோவானின் பிறப்ப
+ ு ஞாயிறு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:திருமுழுக்கு யோவானின் ப
+ ிறப்பு ஞாயிறுக்குப் பின் த
+ ிங்கள் · தூய அம்புரோஸ்
+DESCRIPTION:திருமுழுக்கு யோவானின்
+  பிறப்பு ஞாயிறுக்குப் பின்
+  திங்கள் · தூய அம்புரோஸ்\n2 த
+ ிமொத்தேயு 1:8–14 · யோவான் 16:25–33\n
+ தாம் நம்பியவரைப் பவுல் அறி
+ வார்.\n\nவாசித்து இறைவேண்டல்
+  செய்வோம்: https://daily-word-reflections.github.io/?d=2
+ 026-12-07&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுமுழுக்கு யோவானின் பிறப்ப
+ ு ஞாயிறுக்குப் பின் திங்கள
+ ் · தூய அம்புரோஸ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:கடவுளின் தூய தாயின் அமல 
+ உற்பவம்
+DESCRIPTION:கடவுளின் தூய தாயின் அம
+ ல உற்பவம்\nகலாத்தியர் 4:1–7 · ல
+ ூக்கா 1:46–56\nமரியா கருவானது ம
+ ுதல் பிறப்புநிலைப் பாவத்த
+ ிலிருந்து காக்கப்பட்டார்.\
+ n\nவாசித்து இறைவேண்டல் செய்
+ வோம்: https://daily-word-reflections.github.io/?d=2026-12-08&r=s
+ mk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-08&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தூய தாயின் அமல உற்பவ
+ ம்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:திருமுழுக்கு யோவானின் ப
+ ிறப்பு ஞாயிறுக்குப் பின் ப
+ ுதன்
+DESCRIPTION:திருமுழுக்கு யோவானின்
+  பிறப்பு ஞாயிறுக்குப் பின்
+  புதன்\nஎபிரேயர் 1:1–4 · லூக்கா
+  7:18–23\nகடவுள் தம் மகனில் இறுத
+ ியாகப் பேசியுள்ளார்.\n\nவாசி
+ த்து இறைவேண்டல் செய்வோம்: ht
+ tps://daily-word-reflections.github.io/?d=2026-12-09&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுமுழுக்கு யோவானின் பிறப்ப
+ ு ஞாயிறுக்குப் பின் புதன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:திருமுழுக்கு யோவானின் ப
+ ிறப்பு ஞாயிறுக்குப் பின் வ
+ ியாழன் · மார் பெஹ்னாம்\, அவர
+ ் சகோதரி சாரா\, நாற்பது மறைச
+ ்சாட்சிகள்
+DESCRIPTION:திருமுழுக்கு யோவானின்
+  பிறப்பு ஞாயிறுக்குப் பின்
+  வியாழன் · மார் பெஹ்னாம்\, அவ
+ ர் சகோதரி சாரா\, நாற்பது மறை
+ ச்சாட்சிகள்\n1 தெசலோனிக்கர
+ ் 4:9–12 · மத்தேயு 10:26–33\nஉடலை மட்
+ டும் கொல்வோருக்கு அஞ்சாதீ
+ ர்கள்.\n\nவாசித்து இறைவேண்டல
+ ் செய்வோம்: https://daily-word-reflections.github.io/?
+ d=2026-12-10&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுமுழுக்கு யோவானின் பிறப்ப
+ ு ஞாயிறுக்குப் பின் வியாழன
+ ் · மார் பெஹ்னாம்\, அவர் சகோத
+ ரி சாரா\, நாற்பது மறைச்சாட்
+ சிகள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:திருமுழுக்கு யோவானின் ப
+ ிறப்பு ஞாயிறுக்குப் பின் வ
+ ெள்ளி
+DESCRIPTION:திருமுழுக்கு யோவானின்
+  பிறப்பு ஞாயிறுக்குப் பின்
+  வெள்ளி\n1 கொரிந்தியர் 16:1–4 · ம
+ த்தேயு 12:1–8\nஞாயிறும் ஏழைகள்
+  மீதான அக்கறையும் ஒன்றாகச்
+  செல்கின்றன.\n\nவாசித்து இறை
+ வேண்டல் செய்வோம்: https://daily-word-refle
+ ctions.github.io/?d=2026-12-11&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுமுழுக்கு யோவானின் பிறப்ப
+ ு ஞாயிறுக்குப் பின் வெள்ளி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:திருமுழுக்கு யோவானின் ப
+ ிறப்பு ஞாயிறுக்குப் பின் ச
+ னி
+DESCRIPTION:திருமுழுக்கு யோவானின்
+  பிறப்பு ஞாயிறுக்குப் பின்
+  சனி\n1 தெசலோனிக்கர் 5:12–22 · மா
+ ற்கு 9:42–50\nமகிழுங்கள்\, செபிய
+ ுங்கள்\, நன்றி செலுத்துங்க
+ ள்: நம்மைக் குறித்த கடவுளி
+ ன் திருவுளம்.\n\nவாசித்து இற
+ ைவேண்டல் செய்வோம்: https://daily-word-re
+ flections.github.io/?d=2026-12-12&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: திர
+ ுமுழுக்கு யோவானின் பிறப்ப
+ ு ஞாயிறுக்குப் பின் சனி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:தூய யோசேப்புக்கு வானதூத
+ ர் தோன்றிய ஞாயிறு
+DESCRIPTION:தூய யோசேப்புக்கு வானத
+ ூதர் தோன்றிய ஞாயிறு\nமத்தே
+ யு 1:18–25 · தொடக்க நூல் 37:5–11 · சீ
+ ராக்கின் ஞானம் 7:11–17 · 1 சாமுவ
+ ேல் 3:10–18 · எசாயா 45:20–25 · 1 பேதுர
+ ு 2:11–17 · கலாத்தியர் 1:11–24 · மத்
+ தேயு 1:18–25\nநேர்மையாளரான யோச
+ ேப்பு இரக்கமுள்ளவர்.\n\nவாசி
+ த்து இறைவேண்டல் செய்வோம்: ht
+ tps://daily-word-reflections.github.io/?d=2026-12-13&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-13&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ யோசேப்புக்கு வானதூதர் தோன
+ ்றிய ஞாயிறு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:தூய யோசேப்புக்கு வானதூத
+ ர் தோன்றிய ஞாயிறுக்குப் பி
+ ன் திங்கள் · சிலுவையின் தூய
+  யோவான்
+DESCRIPTION:தூய யோசேப்புக்கு வானத
+ ூதர் தோன்றிய ஞாயிறுக்குப் 
+ பின் திங்கள் · சிலுவையின் த
+ ூய யோவான்\nஎபிரேயர் 7:1–10 · லூ
+ க்கா 14:25–35\nஅப்பமும் இரசமும் 
+ கொணர்ந்த குரு மெல்கிசதேக்
+ கு கிறிஸ்துவைச் சுட்டிக்க
+ ாட்டுகிறார்.\n\nவாசித்து இறை
+ வேண்டல் செய்வோம்: https://daily-word-refle
+ ctions.github.io/?d=2026-12-14&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ யோசேப்புக்கு வானதூதர் தோன
+ ்றிய ஞாயிறுக்குப் பின் திங
+ ்கள் · சிலுவையின் தூய யோவான
+ ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:தூய யோசேப்புக்கு வானதூத
+ ர் தோன்றிய ஞாயிறுக்குப் பி
+ ன் செவ்வாய்
+DESCRIPTION:தூய யோசேப்புக்கு வானத
+ ூதர் தோன்றிய ஞாயிறுக்குப் 
+ பின் செவ்வாய்\n1 கொரிந்தியர
+ ் 2:1–5 · யோவான் 16:1–4\nபவுல் சிலு
+ வையில் அறையப்பட்ட கிறிஸ்த
+ ுவை மட்டுமே போதித்தார்.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2026-12-15&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ யோசேப்புக்கு வானதூதர் தோன
+ ்றிய ஞாயிறுக்குப் பின் செவ
+ ்வாய்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:தூய யோசேப்புக்கு வானதூத
+ ர் தோன்றிய ஞாயிறுக்குப் பி
+ ன் புதன்
+DESCRIPTION:தூய யோசேப்புக்கு வானத
+ ூதர் தோன்றிய ஞாயிறுக்குப் 
+ பின் புதன்\n2 கொரிந்தியர் 12:7
+ –10 · லூக்கா 9:18–20\nஇயேசு கேட்க
+ ிறார்: நான் யார் என நீங்கள் 
+ சொல்கிறீர்கள்?\n\nவாசித்து இ
+ றைவேண்டல் செய்வோம்: https://daily-word
+ -reflections.github.io/?d=2026-12-16&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ யோசேப்புக்கு வானதூதர் தோன
+ ்றிய ஞாயிறுக்குப் பின் புத
+ ன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:தூய யோசேப்புக்கு வானதூத
+ ர் தோன்றிய ஞாயிறுக்குப் பி
+ ன் வியாழன் · மார் ரபூலா
+DESCRIPTION:தூய யோசேப்புக்கு வானத
+ ூதர் தோன்றிய ஞாயிறுக்குப் 
+ பின் வியாழன் · மார் ரபூலா\nஉ
+ ரோமையர் 16:17–20 · மத்தேயு 7:15–20\nந
+ ன்மையில் ஞானிகளாய்\, தீமைய
+ ில் கள்ளமற்றோராய் இருங்கள
+ ்.\n\nவாசித்து இறைவேண்டல் செ
+ ய்வோம்: https://daily-word-reflections.github.io/?d=2026-12-
+ 17&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ யோசேப்புக்கு வானதூதர் தோன
+ ்றிய ஞாயிறுக்குப் பின் விய
+ ாழன் · மார் ரபூலா
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:தூய யோசேப்புக்கு வானதூத
+ ர் தோன்றிய ஞாயிறுக்குப் பி
+ ன் வெள்ளி · மயிலாப்பூர் அற்
+ புதச் சிலுவை
+DESCRIPTION:தூய யோசேப்புக்கு வானத
+ ூதர் தோன்றிய ஞாயிறுக்குப் 
+ பின் வெள்ளி · மயிலாப்பூர் அ
+ ற்புதச் சிலுவை\nஎபேசியர் 3:8
+ –13 · யோவான் 14:1–6\nதந்தையின் வீ
+ ட்டில் இயேசு நமக்கு இடம் த
+ யாரிக்கிறார்.\n\nவாசித்து இற
+ ைவேண்டல் செய்வோம்: https://daily-word-re
+ flections.github.io/?d=2026-12-18&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ யோசேப்புக்கு வானதூதர் தோன
+ ்றிய ஞாயிறுக்குப் பின் வெள
+ ்ளி · மயிலாப்பூர் அற்புதச் 
+ சிலுவை
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:தூய யோசேப்புக்கு வானதூத
+ ர் தோன்றிய ஞாயிறுக்குப் பி
+ ன் சனி
+DESCRIPTION:தூய யோசேப்புக்கு வானத
+ ூதர் தோன்றிய ஞாயிறுக்குப் 
+ பின் சனி\nஎபேசியர் 2:14–22 · மத்
+ தேயு 11:1–6\nகடவுளின் உறைவிடமா
+ க நாம் கட்டியெழுப்பப்படுக
+ ிறோம்.\n\nவாசித்து இறைவேண்டல
+ ் செய்வோம்: https://daily-word-reflections.github.io/?
+ d=2026-12-19&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தூய 
+ யோசேப்புக்கு வானதூதர் தோன
+ ்றிய ஞாயிறுக்குப் பின் சனி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:யல்தோவுக்கு முந்தைய ஞாய
+ ிறு
+DESCRIPTION:யல்தோவுக்கு முந்தைய ஞ
+ ாயிறு\nமத்தேயு 1:1–17 · தொடக்க 
+ நூல் 46:8–27 · 1 அரசர்கள் 9:3–7 · எர
+ ேமியா 23:5–8 · எசாயா 11:1–9 · திருத
+ ்தூதர் பணிகள் 3:20–26 · எபிரேயர
+ ் 7:14–17 · லூக்கா 2:1–5\nகடவுளின் 
+ மீட்பு உண்மையான குடும்பங்
+ கள்\, உண்மையான வரலாறு வழியா
+ க வருகிறது.\n\nவாசித்து இறைவ
+ ேண்டல் செய்வோம்: https://daily-word-reflecti
+ ons.github.io/?d=2026-12-20&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-20&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்கு முந்தைய ஞாயிறு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:யல்தோவுக்கு முந்தைய ஞாய
+ ிறுக்குப் பின் திங்கள்
+DESCRIPTION:யல்தோவுக்கு முந்தைய ஞ
+ ாயிறுக்குப் பின் திங்கள்\n
+ உரோமையர் 1:8–15 · யோவான் 1:1–5\nவி
+ சுவாசம் பிறருக்குக் கடன்ப
+ ட்ட கொடை.\n\nவாசித்து இறைவேண
+ ்டல் செய்வோம்: https://daily-word-reflections.gi
+ thub.io/?d=2026-12-21&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்கு முந்தைய ஞாயிறுக்
+ குப் பின் திங்கள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:யல்தோவுக்கு முந்தைய ஞாய
+ ிறுக்குப் பின் செவ்வாய்
+DESCRIPTION:யல்தோவுக்கு முந்தைய ஞ
+ ாயிறுக்குப் பின் செவ்வாய்\
+ nகலாத்தியர் 4:8–11 · யோவான் 1:6–9\n
+ ஒளிக்குச் சான்று பகர யோவான
+ ் வந்தார்.\n\nவாசித்து இறைவே
+ ண்டல் செய்வோம்: https://daily-word-reflections
+ .github.io/?d=2026-12-22&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்கு முந்தைய ஞாயிறுக்
+ குப் பின் செவ்வாய்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:யல்தோவுக்கு முந்தைய ஞாய
+ ிறுக்குப் பின் புதன்
+DESCRIPTION:யல்தோவுக்கு முந்தைய ஞ
+ ாயிறுக்குப் பின் புதன்\nகொ
+ லோசையர் 2:1–5 · யோவான் 1:10–13\nஉலக
+ ம் அவரை அறியவில்லை\; அவருக்
+ குரியவர்கள் ஏற்கவில்லை.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2026-12-23&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்கு முந்தைய ஞாயிறுக்
+ குப் பின் புதன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:யல்தோவுக்கு முந்தைய ஞாய
+ ிறுக்குப் பின் வியாழன் · யல
+ ்தோ முன்தினம்
+DESCRIPTION:யல்தோவுக்கு முந்தைய ஞ
+ ாயிறுக்குப் பின் வியாழன் · 
+ யல்தோ முன்தினம்\nஉரோமையர் 1:
+ 18–23 · யோவான் 1:14–18\nவாக்கு மனித
+ ர் ஆனார்\; நம்மிடையே குடிகொ
+ ண்டார்.\n\nவாசித்து இறைவேண்ட
+ ல் செய்வோம்: https://daily-word-reflections.github.i
+ o/?d=2026-12-24&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்கு முந்தைய ஞாயிறுக்
+ குப் பின் வியாழன் · யல்தோ ம
+ ுன்தினம்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:யல்தோ · நம் ஆண்டவரின் பி
+ றப்பு
+DESCRIPTION:யல்தோ · நம் ஆண்டவரின் ப
+ ிறப்பு\nயோவான் 1:6–18 · தொடக்க 
+ நூல் 21:1–8 · 2 அரசர்கள் 4:8–17 · மீ
+ க்கா 5:1–4 · எசாயா 9:1–7 · திருத்த
+ ூதர் பணிகள் 3:20–26 · எபிரேயர் 7:
+ 14–17 · மத்தேயு 2:1–12\nவாக்கு மனி
+ தர் ஆனார்: கடவுளே வந்தார்.\n\n
+ வாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2026-12-25&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-25&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோ · நம் ஆண்டவரின் பிறப்பு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:கடவுளின் தூய தாயின் புக
+ ழ்
+DESCRIPTION:கடவுளின் தூய தாயின் பு
+ கழ்\nகலாத்தியர் 4:4–7 · லூக்கா 
+ 2:15–19\nகடவுள் தம் மகனைப் பெண்
+ ணிடம் பிறந்தவராக அனுப்பின
+ ார்.\n\nவாசித்து இறைவேண்டல் 
+ செய்வோம்: https://daily-word-reflections.github.io/?d=20
+ 26-12-26&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-26&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கடவ
+ ுளின் தூய தாயின் புகழ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:யல்தோவுக்குப் பின் முதல
+ ் ஞாயிறு
+DESCRIPTION:யல்தோவுக்குப் பின் மு
+ தல் ஞாயிறு\nமத்தேயு 2:19–23 · தொ
+ டக்க நூல் 21:8–14 · நீதித்தலைவர
+ ்கள் 13:24–14:4 · திருப்பாடல் 122:1–9
+  · செக்கரியா 8:3–12 · 1 பேதுரு 5:5–1
+ 1 · எபிரேயர் 3:1–6 · லூக்கா 2:41–52\n
+ கடவுளின் மகன் நாசரேத்தில் 
+ ஒரு சாதாரணக் குடும்பத்தில
+ ் வளர்ந்தார்.\n\nவாசித்து இற
+ ைவேண்டல் செய்வோம்: https://daily-word-re
+ flections.github.io/?d=2026-12-27&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-27&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்குப் பின் முதல் ஞாயி
+ று
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:யல்தோவுக்குப் பின் முதல
+ ் ஞாயிறுக்குப் பின் திங்கள
+ ் · தாவீது\, அரசரும் இறைவாக்
+ கினரும்
+DESCRIPTION:யல்தோவுக்குப் பின் மு
+ தல் ஞாயிறுக்குப் பின் திங்
+ கள் · தாவீது\, அரசரும் இறைவா
+ க்கினரும்\nஎபிரேயர் 11:32–40 · ம
+ த்தேயு 22:41–46\nதாவீதுக்குக் க
+ டவுள் என்றுமுள்ள அரியணையை 
+ வாக்களித்தார்.\n\nவாசித்து இ
+ றைவேண்டல் செய்வோம்: https://daily-word
+ -reflections.github.io/?d=2026-12-28&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்குப் பின் முதல் ஞாயி
+ றுக்குப் பின் திங்கள் · தாவ
+ ீது\, அரசரும் இறைவாக்கினரு
+ ம்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:யல்தோவுக்குப் பின் முதல
+ ் ஞாயிறுக்குப் பின் செவ்வா
+ ய்
+DESCRIPTION:யல்தோவுக்குப் பின் மு
+ தல் ஞாயிறுக்குப் பின் செவ்
+ வாய்\nஉரோமையர் 11:25–32 · மத்தேய
+ ு 15:1–9\nகடவுளின் கொடைகளும் அ
+ ழைப்பும் திரும்பப் பெறப்ப
+ டுவதில்லை.\n\nவாசித்து இறைவே
+ ண்டல் செய்வோம்: https://daily-word-reflections
+ .github.io/?d=2026-12-29&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-29&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்குப் பின் முதல் ஞாயி
+ றுக்குப் பின் செவ்வாய்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:யல்தோவுக்குப் பின் முதல
+ ் ஞாயிறுக்குப் பின் புதன்
+DESCRIPTION:யல்தோவுக்குப் பின் மு
+ தல் ஞாயிறுக்குப் பின் புதன
+ ்\nஉரோமையர் 15:7–13 · மத்தேயு 2:19–
+ 23\nயோசேப்பு கீழ்ப்படிந்து க
+ ுழந்தையை நாசரேத்துக்கு அழ
+ ைத்து வருகிறார்.\n\nவாசித்து
+  இறைவேண்டல் செய்வோம்: https://daily-
+ word-reflections.github.io/?d=2026-12-30&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-30&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்குப் பின் முதல் ஞாயி
+ றுக்குப் பின் புதன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:யல்தோவுக்குப் பின் முதல
+ ் ஞாயிறுக்குப் பின் வியாழன
+ ் · ஆண்டின் இறுதி நாள்
+DESCRIPTION:யல்தோவுக்குப் பின் மு
+ தல் ஞாயிறுக்குப் பின் வியா
+ ழன் · ஆண்டின் இறுதி நாள்\nஉர
+ ோமையர் 15:14–21 · லூக்கா 13:6–9\nதோட
+ ்டக்காரர் இன்னும் ஓர் ஆண்ட
+ ுக்காக வேண்டுகிறார்.\n\nவாசி
+ த்து இறைவேண்டல் செய்வோம்: ht
+ tps://daily-word-reflections.github.io/?d=2026-12-31&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்குப் பின் முதல் ஞாயி
+ றுக்குப் பின் வியாழன் · ஆண்
+ டின் இறுதி நாள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:நம் ஆண்டவருக்குப் பெயரி
+ டுதல் · புத்தாண்டு நாள்
+DESCRIPTION:நம் ஆண்டவருக்குப் பெய
+ ரிடுதல் · புத்தாண்டு நாள்\n
+ எபேசியர் 4:17–24 · லூக்கா 2:21–24\nஇ
+ யேசு என்றால் ஆண்டவர் மீட்க
+ ிறார்.\n\nவாசித்து இறைவேண்டல
+ ் செய்வோம்: https://daily-word-reflections.github.io/?
+ d=2027-01-01&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-01&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: நம் 
+ ஆண்டவருக்குப் பெயரிடுதல் 
+ · புத்தாண்டு நாள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:புத்தாண்டுக்குப் பின் ச
+ னி · மார் பசேலியோஸ்\, மார் கி
+ ரிகோரியோஸ்
+DESCRIPTION:புத்தாண்டுக்குப் பின்
+  சனி · மார் பசேலியோஸ்\, மார் 
+ கிரிகோரியோஸ்\n2 திமொத்தேயு 2
+ :21–26 · யோவான் 3:1–14\nபசிலியாரும
+ ் கிரகோரியும் மூவொரு கடவுள
+ ் மீதான விசுவாசத்தைக் காத்
+ த கனிவான மேய்ப்பர்கள்.\n\nவா
+ சித்து இறைவேண்டல் செய்வோம
+ ்: https://daily-word-reflections.github.io/?d=2027-01-02&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: புத
+ ்தாண்டுக்குப் பின் சனி · மா
+ ர் பசேலியோஸ்\, மார் கிரிகோர
+ ியோஸ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:யல்தோவுக்குப் பின் இரண்
+ டாம் ஞாயிறு
+DESCRIPTION:யல்தோவுக்குப் பின் இர
+ ண்டாம் ஞாயிறு\nலூக்கா 3:7–14 · 
+ தொடக்க நூல் 37:1–4 · 1 சாமுவேல் 2
+ :18–21 · திருப்பாடல் 45:1–17 · எசாய
+ ா 40:25–31 · 1 யோவான் 3:19–24 · எபிரேய
+ ர் 11:23–31 · யோவான் 1:29–34\nபெத்லகே
+ மின் குழந்தையே கடவுளின் செ
+ ம்மறி.\n\nவாசித்து இறைவேண்டல
+ ் செய்வோம்: https://daily-word-reflections.github.io/?
+ d=2027-01-03&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-03&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்குப் பின் இரண்டாம் ஞ
+ ாயிறு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:யல்தோவுக்குப் பின் இரண்
+ டாம் ஞாயிறுக்குப் பின் திங
+ ்கள் · இறைவாக்கினர் மலாக்க
+ ி\; தூய குரியாக்கோஸ் ஏலியாஸ
+ ் சாவறா
+DESCRIPTION:யல்தோவுக்குப் பின் இர
+ ண்டாம் ஞாயிறுக்குப் பின் த
+ ிங்கள் · இறைவாக்கினர் மலாக
+ ்கி\; தூய குரியாக்கோஸ் ஏலிய
+ ாஸ் சாவறா\nஎபிரேயர் 11:4–7 · மத
+ ்தேயு 5:1–12\nவிசுவாசமின்றிக் 
+ கடவுளுக்கு உகந்தவராயிருக
+ ்க இயலாது.\n\nவாசித்து இறைவே
+ ண்டல் செய்வோம்: https://daily-word-reflections
+ .github.io/?d=2027-01-04&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்குப் பின் இரண்டாம் ஞ
+ ாயிறுக்குப் பின் திங்கள் · 
+ இறைவாக்கினர் மலாக்கி\; தூய 
+ குரியாக்கோஸ் ஏலியாஸ் சாவற
+ ா
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:யல்தோவுக்குப் பின் இரண்
+ டாம் ஞாயிறுக்குப் பின் செவ
+ ்வாய் · தென்ஹோ திருவிழிப்ப
+ ு
+DESCRIPTION:யல்தோவுக்குப் பின் இர
+ ண்டாம் ஞாயிறுக்குப் பின் ச
+ ெவ்வாய் · தென்ஹோ திருவிழிப
+ ்பு\nஎபேசியர் 4:7–16 · லூக்கா 12:22
+ –28\nகிறிஸ்து தம் உடலைக் கட்
+ டியெழுப்பக் கொடைகளை அளிக்
+ கிறார்.\n\nவாசித்து இறைவேண்ட
+ ல் செய்வோம்: https://daily-word-reflections.github.i
+ o/?d=2027-01-05&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: யல்
+ தோவுக்குப் பின் இரண்டாம் ஞ
+ ாயிறுக்குப் பின் செவ்வாய் 
+ · தென்ஹோ திருவிழிப்பு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:தென்ஹோ · நம் ஆண்டவரின் த
+ ிருமுழுக்கு
+DESCRIPTION:தென்ஹோ · நம் ஆண்டவரின் 
+ திருமுழுக்கு\nமாற்கு 1:1–11 · த
+ ொடக்க நூல் 24:10–20 · 2 அரசர்கள் 3:
+ 21–27 · எசேக்கியேல் 47:1–12 · எசாய
+ ா 12:1–6 · திருத்தூதர் பணிகள் 19:
+ 1–7 · தீத்து 2:11–3:9 · மத்தேயு 3:13–1
+ 7\nதென்ஹோ: யோர்தானில் மூவொரு
+  கடவுள் வெளிப்படுகிறார்.\n\n
+ வாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2027-01-06&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-06&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோ · நம் ஆண்டவரின் திருமுழ
+ ுக்கு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:தென்ஹோவுக்குப் பின் விய
+ ாழன் · தூய திருமுழுக்கு யோவ
+ ானின் புகழ்ச்சி
+DESCRIPTION:தென்ஹோவுக்குப் பின் வ
+ ியாழன் · தூய திருமுழுக்கு ய
+ ோவானின் புகழ்ச்சி\nஎபேசியர
+ ் 3:1–7 · லூக்கா 7:24–29\nயோவான் கா
+ ற்றால் அசையும் நாணல் அல்ல.\n
+ \nவாசித்து இறைவேண்டல் செய்
+ வோம்: https://daily-word-reflections.github.io/?d=2027-01-07&r=s
+ mk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் வியாழன் · 
+ தூய திருமுழுக்கு யோவானின் 
+ புகழ்ச்சி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:தென்ஹோவுக்குப் பின் வெள
+ ்ளி · முதல் மறைசாட்சியான மா
+ ர் ஸ்தேப்பானோஸ்
+DESCRIPTION:தென்ஹோவுக்குப் பின் வ
+ ெள்ளி · முதல் மறைசாட்சியான 
+ மார் ஸ்தேப்பானோஸ்\nதிருத்த
+ ூதர் பணிகள் 7:54–60 · 1 கொரிந்தி
+ யர் 16:15–18 · மத்தேயு 23:34–36\nஸ்தே
+ வான் வானம் திறந்திருப்பதை
+ யும் இயேசு நிற்பதையும் கண்
+ டார்.\n\nவாசித்து இறைவேண்டல்
+  செய்வோம்: https://daily-word-reflections.github.io/?d=2
+ 027-01-08&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் வெள்ளி · ம
+ ுதல் மறைசாட்சியான மார் ஸ்த
+ ேப்பானோஸ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:தென்ஹோவுக்குப் பின் சனி
+DESCRIPTION:தென்ஹோவுக்குப் பின் ச
+ னி\nஉரோமையர் 3:1–8 · மாற்கு 7:1–8\n
+ நம் நம்பிக்கைத் துரோகம் கட
+ வுளின் நம்பிக்கைக்குரிய த
+ ன்மையை அழிப்பதில்லை.\n\nவாசி
+ த்து இறைவேண்டல் செய்வோம்: ht
+ tps://daily-word-reflections.github.io/?d=2027-01-09&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் சனி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:தென்ஹோவுக்குப் பின் முத
+ ல் ஞாயிறு
+DESCRIPTION:தென்ஹோவுக்குப் பின் ம
+ ுதல் ஞாயிறு\nமாற்கு 1:14–20 · தொ
+ டக்க நூல் 30:25–43 · விடுதலைப் ப
+ யணம் 3:1–15 · திருப்பாடல் 147:1–11 ·
+  எசாயா 49:7–13 · திருத்தூதர் பண
+ ிகள் 2:37–47 · எபேசியர் 1:3–14 · மத்
+ தேயு 4:12–22\nமக்களை அழைப்பதன் 
+ மூலம் இயேசு தம் பணியைத் தொ
+ டங்குகிறார்.\n\nவாசித்து இறை
+ வேண்டல் செய்வோம்: https://daily-word-refle
+ ctions.github.io/?d=2027-01-10&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-10&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் முதல் ஞாய
+ ிறு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:தென்ஹோவுக்குப் பின் முத
+ ல் ஞாயிறுக்குப் பின் திங்க
+ ள் · நீசாவின் மார் கிரிகோரி
+ யோஸ்
+DESCRIPTION:தென்ஹோவுக்குப் பின் ம
+ ுதல் ஞாயிறுக்குப் பின் திங
+ ்கள் · நீசாவின் மார் கிரிகோ
+ ரியோஸ்\n2 கொரிந்தியர் 1:3–11 · ய
+ ோவான் 3:31–36\nகடவுள் இரக்கம் ந
+ ிறைந்த தந்தை\, ஆறுதல் அனைத்
+ துக்கும் ஊற்றான கடவுள்.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-01-11&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் முதல் ஞாய
+ ிறுக்குப் பின் திங்கள் · நீ
+ சாவின் மார் கிரிகோரியோஸ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:தென்ஹோவுக்குப் பின் முத
+ ல் ஞாயிறுக்குப் பின் செவ்வ
+ ாய் · மடாதிபதி மார் தேவோதோச
+ ியோஸ்
+DESCRIPTION:தென்ஹோவுக்குப் பின் ம
+ ுதல் ஞாயிறுக்குப் பின் செவ
+ ்வாய் · மடாதிபதி மார் தேவோத
+ ோசியோஸ்\n2 கொரிந்தியர் 4:1–6 · 
+ மத்தேயு 12:9–14\nகடவுளின் மாட்
+ சி இயேசு கிறிஸ்துவின் முகத
+ ்தில் ஒளிர்கிறது.\n\nவாசித்த
+ ு இறைவேண்டல் செய்வோம்: https://dai
+ ly-word-reflections.github.io/?d=2027-01-12&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் முதல் ஞாய
+ ிறுக்குப் பின் செவ்வாய் · ம
+ டாதிபதி மார் தேவோதோசியோஸ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:தென்ஹோவுக்குப் பின் முத
+ ல் ஞாயிறுக்குப் பின் புதன்
+DESCRIPTION:தென்ஹோவுக்குப் பின் ம
+ ுதல் ஞாயிறுக்குப் பின் புத
+ ன்\n1 திமொத்தேயு 2:1–7 · மத்தேய
+ ு 7:1–6\nஆட்சியாளர் உட்பட அனைவ
+ ருக்காகவும் செபியுங்கள்.\n\n
+ வாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2027-01-13&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் முதல் ஞாய
+ ிறுக்குப் பின் புதன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:தென்ஹோவுக்குப் பின் முத
+ ல் ஞாயிறுக்குப் பின் வியாழ
+ ன் · சீனாய் மலையின் நாற்பது
+  மறைசாட்சிகள்\; தூய தேவசகாய
+ ம்
+DESCRIPTION:தென்ஹோவுக்குப் பின் ம
+ ுதல் ஞாயிறுக்குப் பின் விய
+ ாழன் · சீனாய் மலையின் நாற்ப
+ து மறைசாட்சிகள்\; தூய தேவசக
+ ாயம்\nஉரோமையர் 3:21–26 · லூக்கா 1
+ 2:4–7\nஎல்லாரும் பாவம் செய்தன
+ ர்\; எல்லாருக்கும் அருள் கொ
+ டையாக வழங்கப்படுகிறது.\n\nவா
+ சித்து இறைவேண்டல் செய்வோம
+ ்: https://daily-word-reflections.github.io/?d=2027-01-14&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் முதல் ஞாய
+ ிறுக்குப் பின் வியாழன் · சீ
+ னாய் மலையின் நாற்பது மறைசா
+ ட்சிகள்\; தூய தேவசகாயம்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:தென்ஹோவுக்குப் பின் முத
+ ல் ஞாயிறுக்குப் பின் வெள்ள
+ ி · விதைகளுக்கான இறைவனின் த
+ ாய் மரியாவின் நினைவு
+DESCRIPTION:தென்ஹோவுக்குப் பின் ம
+ ுதல் ஞாயிறுக்குப் பின் வெள
+ ்ளி · விதைகளுக்கான இறைவனின
+ ் தாய் மரியாவின் நினைவு\n2 க
+ ொரிந்தியர் 9:6–11 · லூக்கா 2:15–19\
+ nநிறைவாக விதைப்பவர் நிறைவா
+ க அறுவடை செய்வார்.\n\nவாசித்
+ து இறைவேண்டல் செய்வோம்: https://
+ daily-word-reflections.github.io/?d=2027-01-15&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் முதல் ஞாய
+ ிறுக்குப் பின் வெள்ளி · வித
+ ைகளுக்கான இறைவனின் தாய் மர
+ ியாவின் நினைவு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:தென்ஹோவுக்குப் பின் முத
+ ல் ஞாயிறுக்குப் பின் சனி · 
+ தூய பேதுருவின் சங்கிலிகள்
+DESCRIPTION:தென்ஹோவுக்குப் பின் ம
+ ுதல் ஞாயிறுக்குப் பின் சனி
+  · தூய பேதுருவின் சங்கிலிகள
+ ்\nஎபிரேயர் 13:7–16 · மத்தேயு 24:45
+ –51\nஉங்கள் தலைவர்களை நினைவு
+ கூர்ந்து அவர்களுடைய விசுவ
+ ாசத்தைப் பின்பற்றுங்கள்.\n\n
+ வாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2027-01-16&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் முதல் ஞாய
+ ிறுக்குப் பின் சனி · தூய பே
+ துருவின் சங்கிலிகள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:தென்ஹோவுக்குப் பின் இரண
+ ்டாம் ஞாயிறு
+DESCRIPTION:தென்ஹோவுக்குப் பின் இ
+ ரண்டாம் ஞாயிறு\nலூக்கா 4:14–15 
+ · லேவியர் 22:26–33 · நீதிமொழிகள்
+  8:22–36 · மீக்கா 5:1–8 · எசாயா 51:1–8 · 
+ 1 பேதுரு 1:13–25 · உரோமையர் 3:1–8 · 
+ யோவான் 1:43–51\nவந்து பாருங்கள
+ ்: ஒருவரைக் கிறிஸ்துவிடம் 
+ கொண்டுவரும் சிறந்த வழி.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-01-17&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-01-17&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் இரண்டாம் 
+ ஞாயிறு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:தென்ஹோவுக்குப் பின் இரண
+ ்டாம் ஞாயிறுக்குப் பின் தி
+ ங்கள் · நினிவே மக்களின் நோன
+ ்பின் முதல் நாள்
+DESCRIPTION:தென்ஹோவுக்குப் பின் இ
+ ரண்டாம் ஞாயிறுக்குப் பின் 
+ திங்கள் · நினிவே மக்களின் ந
+ ோன்பின் முதல் நாள்\nயோனா 1:1–7
+  · பிலிப்பியர் 2:1–11 · மத்தேயு 
+ 12:38–42\nயோனா ஆண்டவரின் திருமு
+ ன்னிலிருந்து தப்பி ஓடினார
+ ்.\n\nவாசித்து இறைவேண்டல் செ
+ ய்வோம்: https://daily-word-reflections.github.io/?d=2027-01-
+ 18&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் இரண்டாம் 
+ ஞாயிறுக்குப் பின் திங்கள் 
+ · நினிவே மக்களின் நோன்பின் 
+ முதல் நாள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:தென்ஹோவுக்குப் பின் இரண
+ ்டாம் ஞாயிறுக்குப் பின் செ
+ வ்வாய் · நினிவே மக்களின் நோ
+ ன்பின் இரண்டாம் நாள் · மார்
+  மக்காரியோஸ்
+DESCRIPTION:தென்ஹோவுக்குப் பின் இ
+ ரண்டாம் ஞாயிறுக்குப் பின் 
+ செவ்வாய் · நினிவே மக்களின் 
+ நோன்பின் இரண்டாம் நாள் · மா
+ ர் மக்காரியோஸ்\nயோனா 3:1–10 · உ
+ ரோமையர் 12:9–15 · மத்தேயு 24:37–44\nந
+ ினிவே நோன்பிருந்து வன்முற
+ ையையும் தீமையையும் விட்டு
+ த் திரும்பியது.\n\nவாசித்து 
+ இறைவேண்டல் செய்வோம்: https://daily-w
+ ord-reflections.github.io/?d=2027-01-19&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் இரண்டாம் 
+ ஞாயிறுக்குப் பின் செவ்வாய
+ ் · நினிவே மக்களின் நோன்பின
+ ் இரண்டாம் நாள் · மார் மக்க
+ ாரியோஸ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:தென்ஹோவுக்குப் பின் இரண
+ ்டாம் ஞாயிறுக்குப் பின் பு
+ தன் · நினிவே மக்களின் நோன்ப
+ ின் மூன்றாம் நாள் · தூய செப
+ ஸ்தியார்
+DESCRIPTION:தென்ஹோவுக்குப் பின் இ
+ ரண்டாம் ஞாயிறுக்குப் பின் 
+ புதன் · நினிவே மக்களின் நோன
+ ்பின் மூன்றாம் நாள் · தூய ச
+ ெபஸ்தியார்\nயோனா 2:1–10 · 1 தெசல
+ ோனிக்கர் 5:1–11 · லூக்கா 13:1–5\nயோ
+ னா ஆழத்திலிருந்து செபித்த
+ ார்\; கடவுள் அவருக்குச் செவ
+ ிசாய்த்தார்.\n\nவாசித்து இறை
+ வேண்டல் செய்வோம்: https://daily-word-refle
+ ctions.github.io/?d=2027-01-20&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் இரண்டாம் 
+ ஞாயிறுக்குப் பின் புதன் · ந
+ ினிவே மக்களின் நோன்பின் மூ
+ ன்றாம் நாள் · தூய செபஸ்தியா
+ ர்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:தென்ஹோவுக்குப் பின் இரண
+ ்டாம் ஞாயிறுக்குப் பின் வி
+ யாழன் · நினிவே மக்களின் நோன
+ ்பின் நிறைவு · தூய ஆக்னஸ்
+DESCRIPTION:தென்ஹோவுக்குப் பின் இ
+ ரண்டாம் ஞாயிறுக்குப் பின் 
+ வியாழன் · நினிவே மக்களின் ந
+ ோன்பின் நிறைவு · தூய ஆக்னஸ்
+ \nலூக்கா 12:54–59 · தொடக்க நூல் 18:22
+ –33\; யோசுவா 7:6–13 · யோனா 4:1–11 · தி
+ ருப்பாடல் 13 · திருத்தூதர் ப
+ ணிகள் 9:1–9 · கலாத்தியர் 1:13–24 · 
+ லூக்கா 11:29–32\nகடவுளின் இரக்க
+ த்தைக் கண்டு யோனா சினம் கொ
+ ண்டார்\; கடவுள் அவருடைய உள்
+ ளத்தை அகலமாக்கினார்.\n\nவாசி
+ த்து இறைவேண்டல் செய்வோம்: ht
+ tps://daily-word-reflections.github.io/?d=2027-01-21&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் இரண்டாம் 
+ ஞாயிறுக்குப் பின் வியாழன் 
+ · நினிவே மக்களின் நோன்பின் 
+ நிறைவு · தூய ஆக்னஸ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:தென்ஹோவுக்குப் பின் இரண
+ ்டாம் ஞாயிறுக்குப் பின் வெ
+ ள்ளி · திருத்தூதர் மார் திம
+ ோத்தேயோஸ்
+DESCRIPTION:தென்ஹோவுக்குப் பின் இ
+ ரண்டாம் ஞாயிறுக்குப் பின் 
+ வெள்ளி · திருத்தூதர் மார் த
+ ிமோத்தேயோஸ்\n1 திமொத்தேயு 6:11
+ –16 · மத்தேயு 5:17–20\nநம்பிக்கைக
+ ்கான நல்ல போராட்டத்தில் ஈட
+ ுபடு.\n\nவாசித்து இறைவேண்டல்
+  செய்வோம்: https://daily-word-reflections.github.io/?d=2
+ 027-01-22&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் இரண்டாம் 
+ ஞாயிறுக்குப் பின் வெள்ளி · 
+ திருத்தூதர் மார் திமோத்தே
+ யோஸ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:தென்ஹோவுக்குப் பின் இரண
+ ்டாம் ஞாயிறுக்குப் பின் சன
+ ி
+DESCRIPTION:தென்ஹோவுக்குப் பின் இ
+ ரண்டாம் ஞாயிறுக்குப் பின் 
+ சனி\nஎபிரேயர் 8:1–6 · மத்தேயு 9:3
+ 2–34\nகடவுளின் வலப்பக்கம் இர
+ ுக்கும் நம் தலைமைக் குரு இ
+ யேசு.\n\nவாசித்து இறைவேண்டல்
+  செய்வோம்: https://daily-word-reflections.github.io/?d=2
+ 027-01-23&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: தென
+ ்ஹோவுக்குப் பின் இரண்டாம் 
+ ஞாயிறுக்குப் பின் சனி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:கோஹ்னே ஞாயிறு · இறந்த கு
+ ருக்களின் நினைவு
+DESCRIPTION:கோஹ்னே ஞாயிறு · இறந்த க
+ ுருக்களின் நினைவு\nலூக்கா 19
+ :11–27 · எண்ணிக்கை 20:22–29 · யோசுவா
+  24:29–33 · சீராக்கின் ஞானம் 45:15–22
+  · எசாயா 65:13–16 · திருத்தூதர் ப
+ ணிகள் 20:25–38 · எபிரேயர் 13:7–16 · ம
+ த்தேயு 24:45–51\nகோஹ்னே ஞாயிறு: 
+ இறந்த குருக்களை நினைவுகூர
+ ்கிறோம்.\n\nவாசித்து இறைவேண்
+ டல் செய்வோம்: https://daily-word-reflections.githu
+ b.io/?d=2027-01-24&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-24&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
+ ்னே ஞாயிறு · இறந்த குருக்கள
+ ின் நினைவு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
+ ் திங்கள் · தூய பவுலின் மனம
+ ாற்றம்
+DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
+ ின் திங்கள் · தூய பவுலின் ம
+ னமாற்றம்\nதிருத்தூதர் பணிக
+ ள் 9:1–9 · கலாத்தியர் 1:13–24 · யோவ
+ ான் 17:20–23\nதுன்புறுத்திய சவு
+ ல் உயிர்த்த இயேசுவைச் சந்த
+ ித்தார்.\n\nவாசித்து இறைவேண்
+ டல் செய்வோம்: https://daily-word-reflections.githu
+ b.io/?d=2027-01-25&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
+ ்னே ஞாயிறுக்குப் பின் திங்
+ கள் · தூய பவுலின் மனமாற்றம்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
+ ் செவ்வாய் · இந்தியக் குடிய
+ ரசு நாள்
+DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
+ ின் செவ்வாய் · இந்தியக் குட
+ ியரசு நாள்\n2 கொரிந்தியர் 3:1–
+ 5 · மத்தேயு 22:15–22\nநீங்கள் இதய
+ ங்களில் எழுதப்பட்ட கிறிஸ்
+ துவின் மடல்.\n\nவாசித்து இறை
+ வேண்டல் செய்வோம்: https://daily-word-refle
+ ctions.github.io/?d=2027-01-26&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
+ ்னே ஞாயிறுக்குப் பின் செவ்
+ வாய் · இந்தியக் குடியரசு நா
+ ள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
+ ் புதன்
+DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
+ ின் புதன்\nஎபேசியர் 5:22–33 · மத
+ ்தேயு 5:31–32\nகிறிஸ்துவுக்கு 
+ அஞ்சி ஒருவருக்கொருவர் பணி
+ ந்திருங்கள்.\n\nவாசித்து இறை
+ வேண்டல் செய்வோம்: https://daily-word-refle
+ ctions.github.io/?d=2027-01-27&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
+ ்னே ஞாயிறுக்குப் பின் புதன
+ ்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
+ ் வியாழன் · தூய தோமா அக்குவ
+ ினா
+DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
+ ின் வியாழன் · தூய தோமா அக்க
+ ுவினா\nஎபிரேயர் 13:7–16 · யோவான
+ ் 14:1–6\nஉங்கள் தலைவர்களை நின
+ ைவுகூர்ந்து அவர்களுடைய நம
+ ்பிக்கையைப் பின்பற்றுங்க
+ ள்.\n\nவாசித்து இறைவேண்டல் ச
+ ெய்வோம்: https://daily-word-reflections.github.io/?d=2027-
+ 01-28&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
+ ்னே ஞாயிறுக்குப் பின் வியா
+ ழன் · தூய தோமா அக்குவினா
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
+ ் வெள்ளி · அந்தியோக்கியாவி
+ ன் மார் இக்னாத்தியோஸ் நூரோ
+ னோ
+DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
+ ின் வெள்ளி · அந்தியோக்கியா
+ வின் மார் இக்னாத்தியோஸ் நூ
+ ரோனோ\nஉரோமையர் 12:1–8 · யோவான் 12
+ :20–26\nஇயேசுவைக் காண்பது\, மடி
+ ந்து விளைச்சல் தரும் கோதும
+ ை மணியைக் காண்பதே.\n\nவாசித்
+ து இறைவேண்டல் செய்வோம்: https://
+ daily-word-reflections.github.io/?d=2027-01-29&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
+ ்னே ஞாயிறுக்குப் பின் வெள்
+ ளி · அந்தியோக்கியாவின் மார
+ ் இக்னாத்தியோஸ் நூரோனோ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:கோஹ்னே ஞாயிறுக்குப் பின
+ ் சனி · பாரசீக ஞானியான மார் 
+ யாக்கோபு அஃப்ரஹாத்
+DESCRIPTION:கோஹ்னே ஞாயிறுக்குப் ப
+ ின் சனி · பாரசீக ஞானியான மா
+ ர் யாக்கோபு அஃப்ரஹாத்\n2 கொர
+ ிந்தியர் 13:5–8 · மத்தேயு 12:33–37\n
+ உங்களையே ஆய்ந்து பாருங்கள
+ ்: கிறிஸ்து உங்களுக்குள் இ
+ ருக்கிறார்.\n\nவாசித்து இறைவ
+ ேண்டல் செய்வோம்: https://daily-word-reflecti
+ ons.github.io/?d=2027-01-30&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கோஹ
+ ்னே ஞாயிறுக்குப் பின் சனி ·
+  பாரசீக ஞானியான மார் யாக்க
+ ோபு அஃப்ரஹாத்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:அனீதே ஞாயிறு · இறந்த நம்
+ பிக்கையாளரின் நினைவு
+DESCRIPTION:அனீதே ஞாயிறு · இறந்த நம
+ ்பிக்கையாளரின் நினைவு\nமத்
+ தேயு 25:31–46 · தொடக்க நூல் 49:29–33 ·
+  2 மக்கபேயர் 12:38–45 · சீராக்கின
+ ் ஞானம் 41:1–4 · எசாயா 38:9–22 · 2 பேத
+ ுரு 3:8–13 · 1 தெசலோனிக்கர் 4:13–18 
+ · யோவான் 5:19–29\nஅனீதே ஞாயிறு: இ
+ றந்த நம்பிக்கையாளர் அனைவர
+ ையும் நினைவுகூர்கிறோம்.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-01-31&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-01-31&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: அனீ
+ தே ஞாயிறு · இறந்த நம்பிக்கை
+ யாளரின் நினைவு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:அனீதே ஞாயிறுக்குப் பின்
+  திங்கள்
+DESCRIPTION:அனீதே ஞாயிறுக்குப் பி
+ ன் திங்கள்\nகொலோசையர் 1:9–14 · 
+ மத்தேயு 6:9–15\nகடவுளின் திருவ
+ ுளத்தை அறிந்து ஆண்டவருக்க
+ ு ஏற்றபடி வாழ நமக்காகப் பவ
+ ுல் செபிக்கிறார்.\n\nவாசித்த
+ ு இறைவேண்டல் செய்வோம்: https://dai
+ ly-word-reflections.github.io/?d=2027-02-01&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: அனீ
+ தே ஞாயிறுக்குப் பின் திங்க
+ ள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:மாயல்த்தோ · நம் ஆண்டவர் 
+ கோவிலுக்குள் நுழைதல்
+DESCRIPTION:மாயல்த்தோ · நம் ஆண்டவர
+ ் கோவிலுக்குள் நுழைதல்\nலூ
+ க்கா 2:22–35 · லேவியர் 12:1–8 · லேவி
+ யர் 22:17–25 · 2 சாமுவேல் 5:1–5 · எசா
+ யா 11:1–9 · திருத்தூதர் பணிகள் 
+ 24:14–21 · எபிரேயர் 9:11–14 · லூக்கா 2
+ :22–24\nமரியாவின் கைகளில் ஆண்ட
+ வர் தம் கோவிலுக்குள் நுழைக
+ ிறார்.\n\nவாசித்து இறைவேண்டல
+ ் செய்வோம்: https://daily-word-reflections.github.io/?
+ d=2027-02-02&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-02&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: மாய
+ ல்த்தோ · நம் ஆண்டவர் கோவிலு
+ க்குள் நுழைதல்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:அனீதே ஞாயிறுக்குப் பின்
+  புதன் · மார் சிமியோனும் மோ
+ ர்த் ஹன்னாவும்
+DESCRIPTION:அனீதே ஞாயிறுக்குப் பி
+ ன் புதன் · மார் சிமியோனும் 
+ மோர்த் ஹன்னாவும்\nஎபேசியர்
+  3:14–21 · லூக்கா 2:25–38\nசிமியோன் இ
+ ஸ்ரயேலின் ஆறுதலுக்காகக் க
+ ாத்திருந்தார்\; ஆவியார் அவ
+ ரை வழிநடத்தினார்.\n\nவாசித்த
+ ு இறைவேண்டல் செய்வோம்: https://dai
+ ly-word-reflections.github.io/?d=2027-02-03&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: அனீ
+ தே ஞாயிறுக்குப் பின் புதன்
+  · மார் சிமியோனும் மோர்த் ஹ
+ ன்னாவும்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:அனீதே ஞாயிறுக்குப் பின்
+  வியாழன் · தூய ஜான் தெ பிரிட
+ ்டோ
+DESCRIPTION:அனீதே ஞாயிறுக்குப் பி
+ ன் வியாழன் · தூய ஜான் தெ பிர
+ ிட்டோ\nஉரோமையர் 1:13–17 · மத்தே
+ யு 7:13–14\nஞானிகள்\, எளியோர் என 
+ எல்லாருக்கும் தாம் கடமைப்
+ பட்டவர் என்று பவுல் சொல்கி
+ றார்.\n\nவாசித்து இறைவேண்டல்
+  செய்வோம்: https://daily-word-reflections.github.io/?d=2
+ 027-02-04&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: அனீ
+ தே ஞாயிறுக்குப் பின் வியாழ
+ ன் · தூய ஜான் தெ பிரிட்டோ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:அனீதே ஞாயிறுக்குப் பின்
+  வெள்ளி
+DESCRIPTION:அனீதே ஞாயிறுக்குப் பி
+ ன் வெள்ளி\n1 கொரிந்தியர் 10:1–13
+  · யோவான் 15:18–25\nகடவுளின் எல்ல
+ ாக் கொடைகளும் இருந்தும் இஸ
+ ்ரயேல் பாலைநிலத்தில் வீழ்
+ ந்தது.\n\nவாசித்து இறைவேண்டல
+ ் செய்வோம்: https://daily-word-reflections.github.io/?
+ d=2027-02-05&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: அனீ
+ தே ஞாயிறுக்குப் பின் வெள்ள
+ ி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:அனீதே ஞாயிறுக்குப் பின்
+  சனி
+DESCRIPTION:அனீதே ஞாயிறுக்குப் பி
+ ன் சனி\n1 திமொத்தேயு 6:17–21 · லூ
+ க்கா 12:16–21\nஅறிவற்ற செல்வன் த
+ னக்காக மட்டுமே திட்டமிட்ட
+ ுக் கடவுளை மறந்தான்.\n\nவாசி
+ த்து இறைவேண்டல் செய்வோம்: ht
+ tps://daily-word-reflections.github.io/?d=2027-02-06&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: அனீ
+ தே ஞாயிறுக்குப் பின் சனி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:கோத்தினே ஞாயிறு · பெரிய 
+ நோன்பின் முதல் ஞாயிறு
+DESCRIPTION:கோத்தினே ஞாயிறு · பெரி
+ ய நோன்பின் முதல் ஞாயிறு\nயோ
+ வான் 10:22–30 · தொடக்க நூல் 9:12–17 · 
+ விடுதலைப் பயணம் 20:7–22 · யோவேல
+ ் 2:12–20 · எசாயா 58:6–14 · திருத்தூ
+ தர் பணிகள் 11:19–26 · கொலோசையர் 3
+ :5–17 · யோவான் 2:1–11\nநம் நோன்பு ஒ
+ ரு திருமணத்தில் தொடங்குகி
+ றது: நோன்பு துயரம் அல்ல\, உர
+ ுமாற்றம்.\n\nவாசித்து இறைவேண
+ ்டல் செய்வோம்: https://daily-word-reflections.gi
+ thub.io/?d=2027-02-07&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-07&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கோத
+ ்தினே ஞாயிறு · பெரிய நோன்பி
+ ன் முதல் ஞாயிறு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:பெரிய நோன்பின் முதல் வா
+ ரம்: திங்கள் · சுபுக்கோனோ
+DESCRIPTION:பெரிய நோன்பின் முதல் வ
+ ாரம்: திங்கள் · சுபுக்கோனோ\n
+ தொடக்க நூல் 15:1–6 · எபேசியர் 4:2
+ 5–32 · மத்தேயு 4:1–11\nஆபிராம் கட
+ வுளின் வாக்குறுதியை நம்பி
+ னார்\; நீதிமானாகக் கருதப்ப
+ ட்டார்.\n\nவாசித்து இறைவேண்ட
+ ல் செய்வோம்: https://daily-word-reflections.github.i
+ o/?d=2027-02-08&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் முதல் வாரம்: தி
+ ங்கள் · சுபுக்கோனோ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:பெரிய நோன்பின் முதல் வா
+ ரம்: செவ்வாய்
+DESCRIPTION:பெரிய நோன்பின் முதல் வ
+ ாரம்: செவ்வாய்\nதொடக்க நூல் 
+ 15:7–16 · உரோமையர் 8:1–11 · யோவான் 10:
+ 11–16\nஆபிராம் ஒரு பலி செலுத்த
+ ி\, இரைதேடும் பறவைகளை விரட்
+ டினார்.\n\nவாசித்து இறைவேண்ட
+ ல் செய்வோம்: https://daily-word-reflections.github.i
+ o/?d=2027-02-09&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் முதல் வாரம்: செ
+ வ்வாய்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:பெரிய நோன்பின் முதல் வா
+ ரம்: புதன் · சீரோ-மலங்கரா தல
+ ைமைப் பேராயர் திருச்சபையி
+ ன் ஆண்டு நினைவு
+DESCRIPTION:பெரிய நோன்பின் முதல் வ
+ ாரம்: புதன் · சீரோ-மலங்கரா த
+ லைமைப் பேராயர் திருச்சபைய
+ ின் ஆண்டு நினைவு\nதொடக்க நூ
+ ல் 15:17–21 · பிலிப்பியர் 3:12–14 · ல
+ ூக்கா 9:18–20\nகடவுள் மட்டுமே த
+ ுண்டுகளுக்கு இடையே கடந்து 
+ சென்றார்: அவருடைய உடன்படிக
+ ்கை அவருடைய நம்பிக்கைக்கு
+ ரிய தன்மையில் நிலைகொண்டிர
+ ுக்கிறது.\n\nவாசித்து இறைவேண
+ ்டல் செய்வோம்: https://daily-word-reflections.gi
+ thub.io/?d=2027-02-10&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் முதல் வாரம்: பு
+ தன் · சீரோ-மலங்கரா தலைமைப் 
+ பேராயர் திருச்சபையின் ஆண்
+ டு நினைவு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:பெரிய நோன்பின் முதல் வா
+ ரம்: வியாழன் · லூர்து அன்னை
+DESCRIPTION:பெரிய நோன்பின் முதல் வ
+ ாரம்: வியாழன் · லூர்து அன்ன
+ ை\nதொடக்க நூல் 16:1–6 · கொலோசைய
+ ர் 3:1–4 · லூக்கா 1:46–55\nகடவுள் இ
+ ல்லாமல் சாராய் தீட்டிய திட
+ ்டம் அவர் குடும்பத்தை உடைத
+ ்து\, ஆகாரைக் காயப்படுத்தி
+ யது.\n\nவாசித்து இறைவேண்டல் 
+ செய்வோம்: https://daily-word-reflections.github.io/?d=20
+ 27-02-11&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் முதல் வாரம்: வி
+ யாழன் · லூர்து அன்னை
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:பெரிய நோன்பின் முதல் வா
+ ரம்: வெள்ளி
+DESCRIPTION:பெரிய நோன்பின் முதல் வ
+ ாரம்: வெள்ளி\nதொடக்க நூல் 16:7
+ –16 · உரோமையர் 2:12–16 · லூக்கா 12:8
+ –12\nஆண்டவரின் தூதர் பாலைநில
+ த்தில் ஆகாரைக் கண்டார்\; அவ
+ ர் கடவுளைக் காணும் கடவுள் 
+ என்று அழைத்தார்.\n\nவாசித்து
+  இறைவேண்டல் செய்வோம்: https://daily-
+ word-reflections.github.io/?d=2027-02-12&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் முதல் வாரம்: வெ
+ ள்ளி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:பெரிய நோன்பின் முதல் வா
+ ரம்: சனி · மார் அப்ரேம்\, மார
+ ் தெயோதோர்\; இறைவாக்கினர் ஆ
+ காய்
+DESCRIPTION:பெரிய நோன்பின் முதல் வ
+ ாரம்: சனி · மார் அப்ரேம்\, மா
+ ர் தெயோதோர்\; இறைவாக்கினர் 
+ ஆகாய்\nதொடக்க நூல் 17:1–8 · எபி
+ ரேயர் 4:12–14 · மத்தேயு 7:21–28\nகடவ
+ ுள் ஆபிராமைத் தம் திருமுன்
+  நடக்க அழைத்து\, ஆபிரகாம் என
+ ்ற புதிய பெயரைத் தந்தார்.\n\n
+ வாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2027-02-13&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் முதல் வாரம்: சன
+ ி · மார் அப்ரேம்\, மார் தெயோத
+ ோர்\; இறைவாக்கினர் ஆகாய்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:கர்போ ஞாயிறு · தொழுநோயாள
+ ர் நலம் பெறுதல்
+DESCRIPTION:கர்போ ஞாயிறு · தொழுநோய
+ ாளர் நலம் பெறுதல்\nமத்தேயு 8
+ :1–4 · தொடக்க நூல் 7:6–16 · 2 அரசர்
+ கள் 5:1–14 · எரேமியா 50:4–7 · எசாயா 
+ 33:2–9 · திருத்தூதர் பணிகள் 9:20–
+ 25 · உரோமையர் 3:27–4:3 · லூக்கா 5:12–1
+ 6\nதவக்காலம் நலம் பெறும் கால
+ ம்: மருத்துவரான கிறிஸ்து.\n\n
+ வாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2027-02-14&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-14&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: கர்
+ போ ஞாயிறு · தொழுநோயாளர் நலம
+ ் பெறுதல்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:பெரிய நோன்பின் இரண்டாம்
+  வாரம்: திங்கள்
+DESCRIPTION:பெரிய நோன்பின் இரண்டா
+ ம் வாரம்: திங்கள்\nதொடக்க நூ
+ ல் 17:9–14 · கொலோசையர் 4:1–6 · மத்த
+ ேயு 6:25–34\nகடவுள் ஆபிரகாமுக்
+ கு விருத்தசேதனத்தைத் தம் உ
+ டன்படிக்கையின் அடையாளமாக
+ க் கொடுத்தார்.\n\nவாசித்து இ
+ றைவேண்டல் செய்வோம்: https://daily-word
+ -reflections.github.io/?d=2027-02-15&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் இரண்டாம் வாரம்
+ : திங்கள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:பெரிய நோன்பின் இரண்டாம்
+  வாரம்: செவ்வாய்
+DESCRIPTION:பெரிய நோன்பின் இரண்டா
+ ம் வாரம்: செவ்வாய்\nதொடக்க ந
+ ூல் 17:15–22 · எபேசியர் 2:1–10 · மத்
+ தேயு 7:15–20\nகடவுள் சாராய்க்க
+ ுச் சாரா என்று புதுப் பெயர
+ ிட்டு\, ஆபிரகாமுக்கு ஈசாக்
+ கு என்ற மகனை வாக்களித்தார்
+ .\n\nவாசித்து இறைவேண்டல் செய
+ ்வோம்: https://daily-word-reflections.github.io/?d=2027-02-16&
+ r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் இரண்டாம் வாரம்
+ : செவ்வாய்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:பெரிய நோன்பின் இரண்டாம்
+  வாரம்: புதன்
+DESCRIPTION:பெரிய நோன்பின் இரண்டா
+ ம் வாரம்: புதன்\nதொடக்க நூல்
+  17:23–27 · கொலோசையர் 2:1–5 · மத்தேய
+ ு 8:18–22\nஆபிரகாம் அதே நாளில் க
+ டவுளுக்குக் கீழ்ப்படிந்த
+ ார்.\n\nவாசித்து இறைவேண்டல் 
+ செய்வோம்: https://daily-word-reflections.github.io/?d=20
+ 27-02-17&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் இரண்டாம் வாரம்
+ : புதன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:பெரிய நோன்பின் இரண்டாம்
+  வாரம்: வியாழன்
+DESCRIPTION:பெரிய நோன்பின் இரண்டா
+ ம் வாரம்: வியாழன்\nதொடக்க நூ
+ ல் 18:1–8 · 2 கொரிந்தியர் 6:14–18 · ம
+ த்தேயு 22:1–14\nஆபிரகாம் மம்ரே
+ யில் மூன்று விருந்தினரை வர
+ வேற்க ஓடி\, அவர்களுக்கு விர
+ ுந்து படைத்தார்.\n\nவாசித்து
+  இறைவேண்டல் செய்வோம்: https://daily-
+ word-reflections.github.io/?d=2027-02-18&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் இரண்டாம் வாரம்
+ : வியாழன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:பெரிய நோன்பின் இரண்டாம்
+  வாரம்: வெள்ளி · மார் இசஹாக்
+DESCRIPTION:பெரிய நோன்பின் இரண்டா
+ ம் வாரம்: வெள்ளி · மார் இசஹா
+ க்\nதொடக்க நூல் 18:9–15 · பிலிப்
+ பியர் 3:8–11 · யோவான் 10:27–30\nசாரா 
+ நம்பிக்கையின்றி நகைத்தார
+ ்\; ஆனால் கடவுள் கேட்டார்: ஆ
+ ண்டவரால் இயலாதது ஏதேனும் உ
+ ண்டோ?\n\nவாசித்து இறைவேண்டல்
+  செய்வோம்: https://daily-word-reflections.github.io/?d=2
+ 027-02-19&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் இரண்டாம் வாரம்
+ : வெள்ளி · மார் இசஹாக்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:பெரிய நோன்பின் இரண்டாம்
+  வாரம்: சனி
+DESCRIPTION:பெரிய நோன்பின் இரண்டா
+ ம் வாரம்: சனி\nதொடக்க நூல் 18:16
+ –21 · தீத்து 3:1–7 · லூக்கா 12:32–34\n
+ நேர்மையையும் நீதியையும் க
+ டைப்பிடிக்கத் தம் வீட்டார
+ ுக்குக் கற்பிக்கும்படி கட
+ வுள் ஆபிரகாமைத் தேர்ந்தெட
+ ுத்தார்.\n\nவாசித்து இறைவேண்
+ டல் செய்வோம்: https://daily-word-reflections.githu
+ b.io/?d=2027-02-20&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் இரண்டாம் வாரம்
+ : சனி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:ம்ஷாரியோ ஞாயிறு · முடக்க
+ ுவாதமுற்றவர் நலம் பெறுதல்
+DESCRIPTION:ம்ஷாரியோ ஞாயிறு · முடக
+ ்குவாதமுற்றவர் நலம் பெறுத
+ ல்\nலூக்கா 5:17–26 · இணைச்சட்டம
+ ் 31:19–30 · சீராக் 9:10–18 · எசேக்கி
+ யேல் 33:23–33 · எசாயா 5:18–25 · திருத
+ ்தூதர் பணிகள் 5:12–16 · உரோமையர
+ ் 5:1–11 · மாற்கு 2:1–12\nநான்கு நண
+ ்பர்கள் முடக்குவாதமுற்றவ
+ ரை இயேசுவிடம் தூக்கிவருகி
+ ன்றனர்: நம்பிக்கையால் நாம்
+  ஒருவரை ஒருவர் தூக்கிச் செ
+ ல்கிறோம்.\n\nவாசித்து இறைவேண
+ ்டல் செய்வோம்: https://daily-word-reflections.gi
+ thub.io/?d=2027-02-21&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-21&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: ம்ஷ
+ ாரியோ ஞாயிறு · முடக்குவாதம
+ ுற்றவர் நலம் பெறுதல்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:பெரிய நோன்பின் மூன்றாம்
+  வாரம்: திங்கள் · அந்தியோக்
+ கியாவில் தூய பேதுருவின் ஆட
+ ்சிப்பீடம்
+DESCRIPTION:பெரிய நோன்பின் மூன்றா
+ ம் வாரம்: திங்கள் · அந்தியோ
+ க்கியாவில் தூய பேதுருவின் 
+ ஆட்சிப்பீடம்\nதொடக்க நூல் 18
+ :22–33 · எபிரேயர் 13:7–16 · மத்தேயு 
+ 24:45–51\nஆபிரகாம் ஆண்டவர் முன் 
+ நின்று சோதோமில் இருந்த நீத
+ ிமான்களுக்காக மன்றாடினார
+ ்.\n\nவாசித்து இறைவேண்டல் செ
+ ய்வோம்: https://daily-word-reflections.github.io/?d=2027-02-
+ 22&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-22&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் மூன்றாம் வாரம்
+ : திங்கள் · அந்தியோக்கியாவி
+ ல் தூய பேதுருவின் ஆட்சிப்ப
+ ீடம்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-23-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:பெரிய நோன்பின் மூன்றாம்
+  வாரம்: செவ்வாய் · சிமிர்னா
+ வின் தூய பொலிகார்ப்
+DESCRIPTION:பெரிய நோன்பின் மூன்றா
+ ம் வாரம்: செவ்வாய் · சிமிர்
+ னாவின் தூய பொலிகார்ப்\nதொட
+ க்க நூல் 19:1–11 · உரோமையர் 5:1–5 · 
+ மத்தேயு 11:28–30\nலோத்து கடவுளி
+ ன் தூதர்களுக்குப் புகலிடம
+ ் அளித்தார்\; அவர்கள் வன்மு
+ றைக் கூட்டத்திலிருந்து அவ
+ ரைப் பாதுகாப்புக்குள் இழு
+ த்துக்கொண்டனர்.\n\nவாசித்து 
+ இறைவேண்டல் செய்வோம்: https://daily-w
+ ord-reflections.github.io/?d=2027-02-23&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் மூன்றாம் வாரம்
+ : செவ்வாய் · சிமிர்னாவின் த
+ ூய பொலிகார்ப்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:பெரிய நோன்பின் மூன்றாம்
+  வாரம்: புதன் · திருமுழுக்க
+ ு யோவானின் தலை கண்டெடுக்கப
+ ்பட்டது
+DESCRIPTION:பெரிய நோன்பின் மூன்றா
+ ம் வாரம்: புதன் · திருமுழுக
+ ்கு யோவானின் தலை கண்டெடுக்
+ கப்பட்டது\nதொடக்க நூல் 19:12–22 
+ · உரோமையர் 3:10–20 · மத்தேயு 14:1–12
+ \nலோத்து சோதோமில் தயங்கினா
+ ர்\; ஆனால் கடவுளின் இரக்கத்
+ தால் வானதூதர்கள் அவரைக் கை
+ ப்பிடித்து அழைத்துச் சென்
+ றனர்.\n\nவாசித்து இறைவேண்டல்
+  செய்வோம்: https://daily-word-reflections.github.io/?d=2
+ 027-02-24&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் மூன்றாம் வாரம்
+ : புதன் · திருமுழுக்கு யோவா
+ னின் தலை கண்டெடுக்கப்பட்ட
+ து
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:பெரிய நோன்பின் மூன்றாம்
+  வாரம்: வியாழன் · அருளாளர் ர
+ ாணி மரியா
+DESCRIPTION:பெரிய நோன்பின் மூன்றா
+ ம் வாரம்: வியாழன் · அருளாளர
+ ் ராணி மரியா\nதொடக்க நூல் 19:23
+ –29 · 2 கொரிந்தியர் 4:7–15 · மத்தே
+ யு 10:16–25\nலோத்தின் மனைவி திரு
+ ம்பிப் பார்த்து உப்புத் தூ
+ ண் ஆனார்\; கடவுள் ஆபிரகாமை ந
+ ினைவுகூர்ந்து லோத்தைக் கா
+ ப்பாற்றினார்.\n\nவாசித்து இற
+ ைவேண்டல் செய்வோம்: https://daily-word-re
+ flections.github.io/?d=2027-02-25&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் மூன்றாம் வாரம்
+ : வியாழன் · அருளாளர் ராணி மர
+ ியா
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:பெரிய நோன்பின் மூன்றாம்
+  வாரம்: வெள்ளி
+DESCRIPTION:பெரிய நோன்பின் மூன்றா
+ ம் வாரம்: வெள்ளி\nதொடக்க நூல
+ ் 19:30–38 · உரோமையர் 2:1–11 · மத்தே
+ யு 6:5–8\nஅச்சமும் தனிமையும் ஆ
+ ட்கொண்டதால் லோத்தும் அவரு
+ டைய புதல்வியரும் பாவத்தில
+ ் விழுந்தனர்\; ஆயினும் மோவா
+ பிலிருந்து இயேசுவின் மூதா
+ தையரான ரூத்து வந்தார்.\n\nவா
+ சித்து இறைவேண்டல் செய்வோம
+ ்: https://daily-word-reflections.github.io/?d=2027-02-26&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் மூன்றாம் வாரம்
+ : வெள்ளி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:பெரிய நோன்பின் மூன்றாம்
+  வாரம்: சனி
+DESCRIPTION:பெரிய நோன்பின் மூன்றா
+ ம் வாரம்: சனி\nதொடக்க நூல் 20:1
+ –7 · உரோமையர் 2:12–16 · லூக்கா 12:8–
+ 12\nஅச்சத்தால் ஆபிரகாம் சாரா
+ வைத் தம் சகோதரி என்றார்\; கட
+ வுள் அவரைக் காத்து\, அபிமலே
+ க்கைப் பாவத்திலிருந்து தட
+ ுத்தார்.\n\nவாசித்து இறைவேண்
+ டல் செய்வோம்: https://daily-word-reflections.githu
+ b.io/?d=2027-02-27&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் மூன்றாம் வாரம்
+ : சனி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:க்னானோயித்தோ ஞாயிறு · கா
+ னானியப் பெண்
+DESCRIPTION:க்னானோயித்தோ ஞாயிறு · 
+ கானானியப் பெண்\nமாற்கு 7:24–30 
+ · விடுதலைப் பயணம் 16:1–12 · 1 சாம
+ ுவேல் 7:10–17 · சீராக்கின் ஞானம
+ ் 10:6–18 · எசாயா 56:1–7 · திருத்தூத
+ ர் பணிகள் 20:22–32 · உரோமையர் 7:13–
+ 25 · மத்தேயு 15:21–28\nவிடாமுயற்ச
+ ியுள்ள இறைவேண்டல்: கடவுள் 
+ மௌனமாக இருப்பதுபோலத் தோன்
+ றும்போதும் தொடர்ந்து கேளு
+ ங்கள்.\n\nவாசித்து இறைவேண்டல
+ ் செய்வோம்: https://daily-word-reflections.github.io/?
+ d=2027-02-28&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-02-28&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: க்ன
+ ானோயித்தோ ஞாயிறு · கானானிய
+ ப் பெண்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-01-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:பெரிய நோன்பின் நான்காம்
+  வாரம்: திங்கள்
+DESCRIPTION:பெரிய நோன்பின் நான்கா
+ ம் வாரம்: திங்கள்\nதொடக்க நூ
+ ல் 20:8–18 · 2 தெசலோனிக்கர் 3:16–18 · 
+ மத்தேயு 14:22–33\nஅச்சத்தால் அப
+ ிமெலக்குக்குத் தீங்கிழைத
+ ்த ஆபிரகாம் அவருக்காக மன்ற
+ ாடினார்\; கடவுள் அவருடைய வீ
+ ட்டாரை நலமாக்கினார்.\n\nவாசி
+ த்து இறைவேண்டல் செய்வோம்: ht
+ tps://daily-word-reflections.github.io/?d=2027-03-01&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் நான்காம் வாரம்
+ : திங்கள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:பெரிய நோன்பின் நான்காம்
+  வாரம்: செவ்வாய்
+DESCRIPTION:பெரிய நோன்பின் நான்கா
+ ம் வாரம்: செவ்வாய்\nதொடக்க ந
+ ூல் 21:1–8 · கலாத்தியர் 3:26–29 · மத
+ ்தேயு 11:20–24\nகடவுள் தம் வாக்க
+ ுறுதியை நிறைவேற்றினார்: சா
+ ரா ஈசாக்கைப் பெற்றெடுத்தா
+ ர்\; அவருடைய சிரிப்பு மகிழ்
+ ச்சியானது.\n\nவாசித்து இறைவே
+ ண்டல் செய்வோம்: https://daily-word-reflections
+ .github.io/?d=2027-03-02&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் நான்காம் வாரம்
+ : செவ்வாய்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:நோன்பின் நடுநாள் · பெரிய
+  நோன்பின் நான்காம் வாரம்: ப
+ ுதன் · நோன்பின் நடுவில் சில
+ ுவையை உயர்த்துதல்
+DESCRIPTION:நோன்பின் நடுநாள் · பெர
+ ிய நோன்பின் நான்காம் வாரம்
+ : புதன் · நோன்பின் நடுவில் ச
+ ிலுவையை உயர்த்துதல்\nமத்தே
+ யு 17:22–27 · எண்ணிக்கை 21:1–9 · 1 சாம
+ ுவேல் 7:5–9 · திருப்பாடல் 34:1–9 ·
+  செக்கரியா 12:6–14 · திருத்தூதர
+ ் பணிகள் 15:22–33 · 1 கொரிந்தியர்
+  10:1–13 · யோவான் 3:13–21\nபெரிய நோன்
+ பின் நடுவில் திருச்சபை தூய
+  சிலுவையை உயர்த்துகிறது\; ப
+ ஞ்சாங்கம் இதைக் கொல்கொதாவ
+ ை நிறுவுதல் என்று அழைக்கிற
+ து.\n\nவாசித்து இறைவேண்டல் ச
+ ெய்வோம்: https://daily-word-reflections.github.io/?d=2027-
+ 03-03&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: நோன
+ ்பின் நடுநாள் · பெரிய நோன்ப
+ ின் நான்காம் வாரம்: புதன் · 
+ நோன்பின் நடுவில் சிலுவையை 
+ உயர்த்துதல்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:பெரிய நோன்பின் நான்காம்
+  வாரம்: வியாழன்
+DESCRIPTION:பெரிய நோன்பின் நான்கா
+ ம் வாரம்: வியாழன்\nதொடக்க நூ
+ ல் 21:9–14 · 1 கொரிந்தியர் 8:1–6 · ம
+ த்தேயு 5:43–48\nஆகாரையும் இஸ்ம
+ யேலையும் அனுப்பிவிட வேண்ட
+ ும் என்று சாரா வலியுறுத்தி
+ னார்\; ஆபிரகாம் மனவருத்தமட
+ ைந்தார்\; அந்தச் சிறுவனிடம
+ ிருந்து ஓர் இனத்தை உருவாக்
+ குவதாகக் கடவுள் வாக்களித்
+ தார்.\n\nவாசித்து இறைவேண்டல்
+  செய்வோம்: https://daily-word-reflections.github.io/?d=2
+ 027-03-04&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் நான்காம் வாரம்
+ : வியாழன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:பெரிய நோன்பின் நான்காம்
+  வாரம்: வெள்ளி · எங்கள் தலைம
+ ைப் பேராயர்-கத்தோலிக்கோஸ் 
+ அரியணை ஏறியதன் ஆண்டு நினைவ
+ ு
+DESCRIPTION:பெரிய நோன்பின் நான்கா
+ ம் வாரம்: வெள்ளி · எங்கள் தல
+ ைமைப் பேராயர்-கத்தோலிக்கோ
+ ஸ் அரியணை ஏறியதன் ஆண்டு நி
+ னைவு\nதொடக்க நூல் 21:15–21 · 1 கொர
+ ிந்தியர் 16:13–24 · யோவான் 10:14–16\n
+ பாலைநிலத்தில் சிறுவன் இஸ்
+ மயேலின் குரலைக் கடவுள் கேட
+ ்டார்\; ஒரு நீரூற்றைக் காணு
+ ம்படி ஆகாரின் கண்களைத் திற
+ ந்தார்.\n\nவாசித்து இறைவேண்ட
+ ல் செய்வோம்: https://daily-word-reflections.github.i
+ o/?d=2027-03-05&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் நான்காம் வாரம்
+ : வெள்ளி · எங்கள் தலைமைப் பே
+ ராயர்-கத்தோலிக்கோஸ் அரியண
+ ை ஏறியதன் ஆண்டு நினைவு
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:பெரிய நோன்பின் நான்காம்
+  வாரம்: சனி
+DESCRIPTION:பெரிய நோன்பின் நான்கா
+ ம் வாரம்: சனி\nதொடக்க நூல் 21:22
+ –34 · 1 திமொத்தேயு 4:1–5 · லூக்கா 
+ 4:42–44\nஆபிரகாமும் அபிமெலக்கு
+ ம் பெயேர்செபாவில் உடன்படி
+ க்கை செய்தார்கள்\; ஆபிரகாம
+ ் என்றுமுள்ள கடவுளின் பெயர
+ ைச் சொல்லி மன்றாடினார்.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-03-06&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் நான்காம் வாரம்
+ : சனி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:க்பீப்தோ ஞாயிறு · கூன் வ
+ ிழுந்த பெண் நலம் பெறுதல்
+DESCRIPTION:க்பீப்தோ ஞாயிறு · கூன் 
+ விழுந்த பெண் நலம் பெறுதல்\n
+ லூக்கா 10:25–37 · தொடக்க நூல் 9:1–7
+  · சீராக்கின் ஞானம் 51:1–10 · எர
+ ேமியா 51:1–9 · எசாயா 50:1–5 · 1 பேது
+ ரு 3:8–17 · உரோமையர் 12:1–15 · லூக்க
+ ா 13:10–17\nஇயேசு கூன் விழுந்த ப
+ ெண்ணைக் கண்டு அவரை விடுவிக
+ ்கிறார்.\n\nவாசித்து இறைவேண்
+ டல் செய்வோம்: https://daily-word-reflections.githu
+ b.io/?d=2027-03-07&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-07&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: க்ப
+ ீப்தோ ஞாயிறு · கூன் விழுந்த
+  பெண் நலம் பெறுதல்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-08-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
+ வாரம்: திங்கள்
+DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
+ ் வாரம்: திங்கள்\nதொடக்க நூல
+ ் 22:1–8 · 1 கொரிந்தியர் 11:1–10 · லூ
+ க்கா 5:33–39\nகடவுள் ஆபிரகாமைச
+ ் சோதித்தார்\; அவர் இதோ நான்
+  என்று பதில் சொல்லி ஈசாக்க
+ ோடு மோரியாவுக்குப் புறப்ப
+ ட்டார்.\n\nவாசித்து இறைவேண்ட
+ ல் செய்வோம்: https://daily-word-reflections.github.i
+ o/?d=2027-03-08&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் ஐந்தாம் வாரம்: 
+ திங்கள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
+ வாரம்: செவ்வாய் · செபஸ்தேயி
+ ன் நாற்பது மறைச்சாட்சிகள்
+DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
+ ் வாரம்: செவ்வாய் · செபஸ்தே
+ யின் நாற்பது மறைச்சாட்சிக
+ ள்\nதொடக்க நூல் 22:9–19 · கொலோசை
+ யர் 1:24–29 · மாற்கு 8:31–38\nவானதூத
+ ர் ஆபிரகாமின் கையைத் தடுத்
+ தார்\; ஈசாக்குக்குப் பதிலா
+ க ஓர் ஆட்டுக்கிடாய் பலியிட
+ ப்பட்டது\; அந்த இடம் ஆண்டவர
+ ் பார்த்துக்கொள்வார் என்ற
+ ு அழைக்கப்பட்டது.\n\nவாசித்த
+ ு இறைவேண்டல் செய்வோம்: https://dai
+ ly-word-reflections.github.io/?d=2027-03-09&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் ஐந்தாம் வாரம்: 
+ செவ்வாய் · செபஸ்தேயின் நாற
+ ்பது மறைச்சாட்சிகள்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
+ வாரம்: புதன்
+DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
+ ் வாரம்: புதன்\nதொடக்க நூல் 22
+ :20–24 · 1 திமொத்தேயு 5:17–22 · மத்த
+ ேயு 15:32–39\nஆபிரகாமின் சகோதரர
+ ் நாகோரின் குடும்பத்தைப் ப
+ ற்றிய செய்தி அவருக்கு வந்த
+ து\; பெத்துவேல் ரெபேக்காவி
+ ன் தந்தை ஆனார்.\n\nவாசித்து இ
+ றைவேண்டல் செய்வோம்: https://daily-word
+ -reflections.github.io/?d=2027-03-10&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் ஐந்தாம் வாரம்: 
+ புதன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
+ வாரம்: வியாழன்
+DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
+ ் வாரம்: வியாழன்\nதொடக்க நூல
+ ் 23:1–9 · கொலோசையர் 1:3–6 · மத்தே
+ யு 16:1–4\nசாரா எபிரோனில் இறந்
+ தார்\; ஆபிரகாம் அவருக்காகத
+ ் துயரம் கொண்டாடி அழுதார்\; 
+ அன்னியராக இத்தியரிடம் ஓர் 
+ அடக்க இடம் கேட்டார்.\n\nவாசி
+ த்து இறைவேண்டல் செய்வோம்: ht
+ tps://daily-word-reflections.github.io/?d=2027-03-11&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் ஐந்தாம் வாரம்: 
+ வியாழன்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-12-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
+ வாரம்: வெள்ளி
+DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
+ ் வாரம்: வெள்ளி\nதொடக்க நூல்
+  23:10–16 · எபேசியர் 2:11–22 · மாற்கு 
+ 8:14–21\nஎப்ரோன் வயலைக் கொடையா
+ கத் தர முன்வந்தார்\; நானூறு 
+ செக்கேல் என்னும் முழு விலை
+ யையும் செலுத்த வேண்டும் என
+ ்று ஆபிரகாம் வலியுறுத்தின
+ ார்.\n\nவாசித்து இறைவேண்டல் 
+ செய்வோம்: https://daily-word-reflections.github.io/?d=20
+ 27-03-12&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் ஐந்தாம் வாரம்: 
+ வெள்ளி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:பெரிய நோன்பின் ஐந்தாம் 
+ வாரம்: சனி
+DESCRIPTION:பெரிய நோன்பின் ஐந்தாம
+ ் வாரம்: சனி\nதொடக்க நூல் 23:17–
+ 20 · உரோமையர் 3:27–31 · யோவான் 15:11–1
+ 7\nமக்பேலாவின் வயலும் குகைய
+ ும் ஆபிரகாமின் உடைமையாயின\
+ ; வாக்களிக்கப்பட்ட நாட்டில
+ ் அங்கே அவர் சாராவை அடக்கம
+ ் செய்தார்.\n\nவாசித்து இறைவ
+ ேண்டல் செய்வோம்: https://daily-word-reflecti
+ ons.github.io/?d=2027-03-13&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: பெர
+ ிய நோன்பின் ஐந்தாம் வாரம்: 
+ சனி
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-14-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:சாமியோ ஞாயிறு · பார்வையற
+ ்றோர் நலம் பெறுதல்
+DESCRIPTION:சாமியோ ஞாயிறு · பார்வை
+ யற்றோர் நலம் பெறுதல்\nமாற்
+ கு 10:46–52 · இணைச் சட்டம் 25:13–19 · 
+ யோபு 42:1–9 · 1 அரசர்கள் 3:4–15 · எர
+ ேமியா 51:10–19 · 1 பேதுரு 4:12–19 · உர
+ ோமையர் 14:10–23 · யோவான் 9:1–41\nஇயே
+ சுவே உலகின் ஒளி: அவர் பார்வ
+ ையற்ற கண்களைத் திறக்கிறார
+ ்.\n\nவாசித்து இறைவேண்டல் செ
+ ய்வோம்: https://daily-word-reflections.github.io/?d=2027-03-
+ 14&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-14&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: சாம
+ ியோ ஞாயிறு · பார்வையற்றோர் 
+ நலம் பெறுதல்
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-15-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Monday of the sixth week of the Great Fast
+DESCRIPTION:Monday of the sixth week of the Great Fast\nGenesis 24:1–9 
+ · Ephesians 6:18–20 · Mark 11:27–33\nOld Abraham sends his servant
+  to find a wife for Isaac\, trusting God to send his angel ahead.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-03-15&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Monday of 
+ the sixth week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-16-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Tuesday of the sixth week of the Great Fast
+DESCRIPTION:Tuesday of the sixth week of the Great Fast\nGenesis 24:10–
+ 14 · Colossians 1:24–29 · Mark 9:30–32\nAt the well\, Abraham's se
+ rvant prays for guidance and asks for a girl with a generous heart.\n\n
+ வாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2027-03-16&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Tuesday of
+  the sixth week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Wednesday of the sixth week of the Great Fast · St Patrick
+DESCRIPTION:Wednesday of the sixth week of the Great Fast · St Patrick\n
+ Genesis 24:15–27 · Ephesians 5:1–4 · Luke 4:16–19\nRebekah gives
+  water to the servant and\, unasked\, to all his camels\; the servant bl
+ esses God.\n\nவாசித்து இறைவேண்டல் 
+ செய்வோம்: https://daily-word-reflections.github.io/?d=20
+ 27-03-17&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Wednesday 
+ of the sixth week of the Great Fast · St Patrick
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Thursday of the sixth week of the Great Fast · Mar Cyril of Jeru
+ salem
+DESCRIPTION:Thursday of the sixth week of the Great Fast · Mar Cyril of 
+ Jerusalem\nGenesis 24:28–41 · Colossians 3:12–17 · Matthew 5:13–
+ 16\nAbraham's servant will not eat until he has told his errand\; he spe
+ aks only of his master.\n\nவாசித்து இறைவேண
+ ்டல் செய்வோம்: https://daily-word-reflections.gi
+ thub.io/?d=2027-03-18&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Thursday o
+ f the sixth week of the Great Fast · Mar Cyril of Jerusalem
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:The Fortieth Friday · Mar Yauseph (St Joseph)
+DESCRIPTION:The Fortieth Friday · Mar Yauseph (St Joseph)\nMatthew 4:1
+ –11 · Genesis 3:1–7 · 2 Samuel 24:18–25 · Jeremiah 7:1–7 · I
+ saiah 58:1–8 · 1 Peter 1:13–21 · Romans 14:1–9 · Luke 4:1–13 
+ · Romans 4:16–18 · Matthew 1:18–25\nThe forty days are complete: J
+ esus conquers with the word of God the tempter who overcame Adam.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-03-19&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: The Fortie
+ th Friday · Mar Yauseph (St Joseph)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Lazarus Saturday · The Saturday of the Raising of Lazarus
+DESCRIPTION:Lazarus Saturday · The Saturday of the Raising of Lazarus\nG
+ enesis 24:50–61 · 1 Corinthians 15:20–28 · John 11:28–44\nJesus 
+ weeps at the tomb of Lazarus and raises him with a loud cry: “Lazarus\
+ , come out!”\n\nவாசித்து இறைவேண்டல
+ ் செய்வோம்: https://daily-word-reflections.github.io/?
+ d=2027-03-20&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Lazarus Sa
+ turday · The Saturday of the Raising of Lazarus
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Hosanna Sunday · The Lord's Entry into Jerusalem
+DESCRIPTION:Hosanna Sunday · The Lord's Entry into Jerusalem\nLuke 19:28
+ –40 · Genesis 49:8–15 · 2 Samuel 6:1–7 · Proverbs 16:13–25 ·
+  Zechariah 9:8–17 · Revelation 7:9–12 · Romans 11:17–24 · John 
+ 12:12–19\nHosanna: the humble King enters Jerusalem on a donkey.\n\n
+ வாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2027-03-21&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-21&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Hosanna Su
+ nday · The Lord's Entry into Jerusalem
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-22-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Hasha Monday · Monday of Passion Week
+DESCRIPTION:Hasha Monday · Monday of Passion Week\nIsaiah 28:5–13 · H
+ ebrews 1:10–14 · Matthew 21:23–27\nGod offered his people rest\, bu
+ t their leaders would not hear.\n\nவாசித்து இறைவ
+ ேண்டல் செய்வோம்: https://daily-word-reflecti
+ ons.github.io/?d=2027-03-22&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Hasha Mond
+ ay · Monday of Passion Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-23-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Hasha Tuesday · Tuesday of Passion Week
+DESCRIPTION:Hasha Tuesday · Tuesday of Passion Week\nDeuteronomy 31:14
+ –30 · Hebrews 4:1–5 · John 12:27–36\nBefore his death Moses comm
+ issioned Joshua: be strong and bold\; I will be with you.\n\nவாச
+ ித்து இறைவேண்டல் செய்வோம்:
+  https://daily-word-reflections.github.io/?d=2027-03-23&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Hasha Tues
+ day · Tuesday of Passion Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Hasha Wednesday · Wednesday of Passion Week
+DESCRIPTION:Hasha Wednesday · Wednesday of Passion Week\nEzekiel 21:28
+ –32 · Hebrews 9:23–28 · Matthew 26:14–16\nJudas\, one of the twe
+ lve\, sold Jesus for thirty pieces of silver.\n\nவாசித்த
+ ு இறைவேண்டல் செய்வோம்: https://dai
+ ly-word-reflections.github.io/?d=2027-03-24&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Hasha Wedn
+ esday · Wednesday of Passion Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-25-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Pesaha · The Lord's Supper
+DESCRIPTION:Pesaha · The Lord's Supper\nJohn 7:37–53 · Exodus 12:1–
+ 11 · Leviticus 16:3–10 · Proverbs 1:10–19 · Isaiah 24:16–23 · 
+ Revelation 19:5–16 · 1 Corinthians 11:23–34 · Luke 22:14–30\nOn 
+ this night Jesus gave us the Holy Qurbono.\n\nவாசித்து 
+ இறைவேண்டல் செய்வோம்: https://daily-w
+ ord-reflections.github.io/?d=2027-03-25&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Pesaha · 
+ The Lord's Supper
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Good Friday · The Passion and Death of our Lord
+DESCRIPTION:Good Friday · The Passion and Death of our Lord\nReadings of
+  the Hours of Good Friday · Matthew 26–27\; Mark 14–15\; Luke 22–
+ 23\; John 18–19\n“He was wounded for our transgressions.”\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-03-26&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Good Frida
+ y · The Passion and Death of our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Holy Saturday · The Lord Rests in the Tomb
+DESCRIPTION:Holy Saturday · The Lord Rests in the Tomb\nAmos 6:10–14 (
+ as printed) · Romans 6:1–11 · Matthew 27:62–66\nHoly Saturday: the
+  great silence\; the Lord rests in the tomb.\n\nவாசித்து
+  இறைவேண்டல் செய்வோம்: https://daily-
+ word-reflections.github.io/?d=2027-03-27&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Holy Satur
+ day · The Lord Rests in the Tomb
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-28-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Qyomtho · The Resurrection of our Lord
+DESCRIPTION:Qyomtho · The Resurrection of our Lord\nMatthew 28:1–10 ·
+  Exodus 40:17–23 · Sirach 30:21–25 · Daniel 6:18–24 · Isaiah 57
+ :14–21 · Acts 2:29–36 · 1 Corinthians 15:1–11 · John 20:1–10\
+ nChrist is risen: “He is not here\; he has been raised.”\n\nவா
+ சித்து இறைவேண்டல் செய்வோம
+ ்: https://daily-word-reflections.github.io/?d=2027-03-28&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-28&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Qyomtho ·
+  The Resurrection of our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-29-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Monday of Hevoro week · Easter Monday
+DESCRIPTION:Monday of Hevoro week · Easter Monday\nRomans 7:1–6 · Mat
+ thew 28:11–15\nThe guards were paid to say that the body had been stol
+ en\; the tomb was empty because Christ was raised.\n\nவாசித்
+ து இறைவேண்டல் செய்வோம்: https://
+ daily-word-reflections.github.io/?d=2027-03-29&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Monday of 
+ Hevoro week · Easter Monday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-30-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Tuesday of Hevoro week · Easter Tuesday
+DESCRIPTION:Tuesday of Hevoro week · Easter Tuesday\n1 Corinthians 5:6
+ –8 · Mark 4:21–25\nChrist our paschal lamb has been sacrificed\; le
+ t us keep the feast with sincerity and truth.\n\nவாசித்த
+ ு இறைவேண்டல் செய்வோம்: https://dai
+ ly-word-reflections.github.io/?d=2027-03-30&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Tuesday of
+  Hevoro week · Easter Tuesday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Wednesday of Hevoro week · Easter Wednesday
+DESCRIPTION:Wednesday of Hevoro week · Easter Wednesday\n1 Timothy 1:18
+ –20 · Mark 10:17–27\nPaul charges Timothy: fight the good fight wit
+ h faith and a good conscience.\n\nவாசித்து இறைவ
+ ேண்டல் செய்வோம்: https://daily-word-reflecti
+ ons.github.io/?d=2027-03-31&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Wednesday 
+ of Hevoro week · Easter Wednesday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-04-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:New Sunday · The Lord Appears to Thomas
+DESCRIPTION:New Sunday · The Lord Appears to Thomas\nJohn 20:19–23 · 
+ Genesis 41:37–45 · 2 Kings 2:1–12 · Wisdom 3:1–9 · Isaiah 40:9
+ –15 · 1 Peter 1:3–12 · 2 Timothy 2:1–13 · John 20:19–29\nThe 
+ risen Lord gives peace\, mission\, the Spirit and forgiveness.\n\nவா
+ சித்து இறைவேண்டல் செய்வோம
+ ்: https://daily-word-reflections.github.io/?d=2027-04-04&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-04-04&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: New Sunday
+  · The Lord Appears to Thomas
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-11-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Second Sunday after Qyomtho
+DESCRIPTION:Second Sunday after Qyomtho\nJohn 21:15–19 · Exodus 15:1
+ –8 · Wisdom 1:12–16 · Joshua 6:8–14 · Isaiah 63:1–6 · Acts 1
+ 3:26–41 · Ephesians 6:18–24 · John 21:1–14\nThe risen Lord meets
+  us in our empty nights.\n\nவாசித்து இறைவேண
+ ்டல் செய்வோம்: https://daily-word-reflections.gi
+ thub.io/?d=2027-04-11&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-04-11&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Second Sun
+ day after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-18-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Third Sunday after Qyomtho · The Road to Emmaus
+DESCRIPTION:Third Sunday after Qyomtho · The Road to Emmaus\nMark 16:9
+ –13 · Exodus 40:1–15 · Joshua 2:1–14 · Amos 4:6–13 · Isaiah 
+ 65:1–7 · Acts 4:5–22 · Ephesians 2:1–10 · Luke 24:13–35\nJesu
+ s walks with us even when we do not recognise him.\n\nவாசித்
+ து இறைவேண்டல் செய்வோம்: https://
+ daily-word-reflections.github.io/?d=2027-04-18&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-04-18&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Third Sund
+ ay after Qyomtho · The Road to Emmaus
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-25-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Fourth Sunday after Qyomtho
+DESCRIPTION:Fourth Sunday after Qyomtho\nMatthew 28:16–20 · Exodus 34:
+ 10–17 · Job 42:7–17 · 1 Kings 3:4–15 · Isaiah 49:8–13 · Acts
+  10:34–43 · 2 Corinthians 5:17–21 · Luke 24:36–49\nThe risen Lor
+ d is real: “Touch me and see.”\n\nவாசித்து இறை
+ வேண்டல் செய்வோம்: https://daily-word-refle
+ ctions.github.io/?d=2027-04-25&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-04-25&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Fourth Sun
+ day after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-02-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Fifth Sunday after Qyomtho
+DESCRIPTION:Fifth Sunday after Qyomtho\nJohn 16:12–15 · Deuteronomy 16
+ :10–12 · 2 Samuel 5:9–12 · Proverbs 10:1–13 · Isaiah 28:23–29
+  · Acts 13:44–52 · Colossians 3:1–11 · John 16:16–24\n“Your p
+ ain will turn into joy”: Easter joy is born through the Cross.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-05-02&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-05-02&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Fifth Sund
+ ay after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-06-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Suloko · The Ascension of our Lord
+DESCRIPTION:Suloko · The Ascension of our Lord\nMark 16:14–20 · Deute
+ ronomy 10:1–5 · 2 Kings 2:9–15 · Jeremiah 31:31–34 · Isaiah 49:
+ 1–7 · Acts 1:6–11 · Ephesians 4:7–16 · Luke 24:50–53\nJesus a
+ scends with hands raised in blessing.\n\nவாசித்து இற
+ ைவேண்டல் செய்வோம்: https://daily-word-re
+ flections.github.io/?d=2027-05-06&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-05-06&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Suloko · 
+ The Ascension of our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-09-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Sixth Sunday after Qyomtho
+DESCRIPTION:Sixth Sunday after Qyomtho\nJohn 17:1–5 · Exodus 6:1–8 
+ · Joshua 1:5–9 · Wisdom 12:1–11 · Isaiah 44:21–28 · Acts 1:12
+ –14 · Ephesians 1:15–23 · John 16:5–11\n“It is to your advanta
+ ge that I go away”: the Spirit will make Christ present everywhere.\n\
+ nவாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2027-05-09&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-05-09&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Sixth Sund
+ ay after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-16-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:The Sunday of Pentecost
+DESCRIPTION:The Sunday of Pentecost\nJohn 14:25–31 · Numbers 11:16–3
+ 5 · Joshua 18:1–7 · 1 Samuel 10:9–16 · Ezekiel 36:22–38 · Acts
+  2:1–13 · 1 Corinthians 12:1–11 · John 14:15–24\nPentecost: the 
+ Spirit comes as wind and fire\; the Church is born into mission.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-05-16&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-05-16&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: The Sunday
+  of Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-23-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:First Sunday after Pentecost
+DESCRIPTION:First Sunday after Pentecost\nLuke 8:4–15 · Exodus 12:31
+ –42 · Joshua 5:9–12 · Micah 3:8–10 · Jeremiah 29:10–16 · Act
+ s 17:10–15 · Galatians 5:16–26 · John 6:25–33\nAfter Pentecost: 
+ the Spirit bears fruit in us.\n\nவாசித்து இறைவ
+ ேண்டல் செய்வோம்: https://daily-word-reflecti
+ ons.github.io/?d=2027-05-23&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-05-23&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: First Sund
+ ay after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-30-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Second Sunday after Pentecost
+DESCRIPTION:Second Sunday after Pentecost\nLuke 6:12–23 · Leviticus 19
+ :1–8 · 2 Samuel 5:1–10 · Baruch 1:2–8 · Daniel 6:25–28 · Act
+ s 2:14–21 · Romans 8:1–11 · Matthew 10:38–42\nThe Spirit is pour
+ ed out on all who call on the Lord.\n\nவாசித்து இற
+ ைவேண்டல் செய்வோம்: https://daily-word-re
+ flections.github.io/?d=2027-05-30&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-05-30&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Second Sun
+ day after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-06-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Third Sunday after Pentecost
+DESCRIPTION:Third Sunday after Pentecost\nMark 6:4–13 · Genesis 42:18
+ –25 · Judges 1:8–11 · Daniel 3:1–18 · Jeremiah 3:1–5 · Acts 
+ 13:26–41 · Galatians 6:10–15 · John 6:35–46\n“I am the bread o
+ f life”: whoever comes to Jesus will never hunger.\n\nவாசித
+ ்து இறைவேண்டல் செய்வோம்: https
+ ://daily-word-reflections.github.io/?d=2027-06-06&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-06-06&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Third Sund
+ ay after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-13-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Fourth Sunday after Pentecost
+DESCRIPTION:Fourth Sunday after Pentecost\nLuke 10:1–16 · Deuteronomy 
+ 33:23–29 · Joshua 6:14–18 · Psalm 15:1–5 · Isaiah 65:8–12 · 
+ Acts 6:1–7 · 1 Corinthians 10:14–22 · Luke 10:17–20\nBefore send
+ ing the seventy\, Jesus asks them to pray for laborers.\n\nவாசி
+ த்து இறைவேண்டல் செய்வோம்: ht
+ tps://daily-word-reflections.github.io/?d=2027-06-13&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-06-13&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Fourth Sun
+ day after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-20-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Fifth Sunday after Pentecost
+DESCRIPTION:Fifth Sunday after Pentecost\nMark 9:30–37 · Exodus 23:14
+ –19 · Zechariah 6:1–8 · Hosea 14:5–9 · Isaiah 40:27–31 · Act
+ s 9:10–19 · 2 Corinthians 6:14–18 · Luke 9:10–17\n“You give th
+ em something to eat”: Christ feeds his people through his disciples.\n
+ \nவாசித்து இறைவேண்டல் செய்
+ வோம்: https://daily-word-reflections.github.io/?d=2027-06-20&r=s
+ mk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-06-20&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Fifth Sund
+ ay after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-27-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Sixth Sunday after Pentecost
+DESCRIPTION:Sixth Sunday after Pentecost\nLuke 17:1–10 · Exodus 30:34
+ –38 · 2 Samuel 3:17–21 · Psalm 20:1–9 · Isaiah 14:22–27 · Ac
+ ts 17:22–34 · 1 Corinthians 12:12–26 · Luke 15:1–7\nThe Good She
+ pherd searches for the lost one\; heaven rejoices over one sinner who re
+ pents.\n\nவாசித்து இறைவேண்டல் செ
+ ய்வோம்: https://daily-word-reflections.github.io/?d=2027-06-
+ 27&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-06-27&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Sixth Sund
+ ay after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-29-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Sts Peter and Paul\, Apostles
+DESCRIPTION:Sts Peter and Paul\, Apostles\nMatthew 16:13–20 · Genesis 
+ 12:1–8 · Proverbs 13:1–9 · Daniel 1:1–9 · Isaiah 43:1–7 · Ac
+ ts 12:6–19 · 2 Timothy 4:6–10 · John 21:15–19\n“You are Peter\
+ , and on this rock I will build my church.”\n\nவாசித்த
+ ு இறைவேண்டல் செய்வோம்: https://dai
+ ly-word-reflections.github.io/?d=2027-06-29&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-06-29&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Sts Peter 
+ and Paul\, Apostles
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-03-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Dukrono of St Thomas the Apostle
+DESCRIPTION:Dukrono of St Thomas the Apostle\nJohn 14:1–6 · Genesis 12
+ :1–9 · Proverbs 4:10–18 · Job 23:1–7 · Isaiah 52:1–15 · 1 Pe
+ ter 2:15–17 · 1 Corinthians 4:15–21 · John 20:19–29\nThomas move
+ d from doubt to the greatest confession: “My Lord and my God!”\n\n
+ வாசித்து இறைவேண்டல் செய்வ
+ ோம்: https://daily-word-reflections.github.io/?d=2027-07-03&r=smk&
+ l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-07-03&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Dukrono of
+  St Thomas the Apostle
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-04-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Seventh Sunday after Pentecost
+DESCRIPTION:Seventh Sunday after Pentecost\nMatthew 12:30–37 · Levitic
+ us 16:29–34 · 1 Samuel 4:18–22 · Hosea 5:1–5 · Isaiah 57:14–2
+ 1 · Acts 4:23–31 · Ephesians 2:11–22 · Mark 3:20–30\n“A house
+  divided against itself cannot stand”: Satan divides\, Christ unites.\
+ n\nவாசித்து இறைவேண்டல் செய்
+ வோம்: https://daily-word-reflections.github.io/?d=2027-07-04&r=s
+ mk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-07-04&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Seventh Su
+ nday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-11-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Eighth Sunday after Pentecost
+DESCRIPTION:Eighth Sunday after Pentecost\nMark 4:1–12 · Exodus 3:9–
+ 15 · Job 23:1–7 · Jeremiah 7:21–25 · Isaiah 65:13–16 · 1 Peter
+  2:4–10 · Hebrews 4:12–16 · Mark 4:1–20\n“The word of God is l
+ iving and active”: Christ speaks when the Gospel is proclaimed.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-07-11&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-07-11&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Eighth Sun
+ day after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-15-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Commemoration of Archbishop Mar Ivanios
+DESCRIPTION:Commemoration of Archbishop Mar Ivanios\nMatthew 25:14–30 
+ · Exodus 3:9–12 · Deuteronomy 34:1–8 · Sirach 7:29–36 · Isaiah
+  65:13–16 · Acts 20:25–35 · Hebrews 13:7–16 · Matthew 24:45–5
+ 1\n“Remember your leaders… imitate their faith.”\n\nவாசி
+ த்து இறைவேண்டல் செய்வோம்: ht
+ tps://daily-word-reflections.github.io/?d=2027-07-15&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-07-15&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Commemorat
+ ion of Archbishop Mar Ivanios
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-18-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Ninth Sunday after Pentecost
+DESCRIPTION:Ninth Sunday after Pentecost\nMatthew 13:24–35 · Deuterono
+ my 4:1–6 · Sirach 13:1–7 · Psalm 22:1–11 · Isaiah 24:1–5 · A
+ cts 28:11–22 · 1 Corinthians 6:1–11 · Luke 14:7–11\n“Those who
+  humble themselves will be exalted”: let God choose our place.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-07-18&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-07-18&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Ninth Sund
+ ay after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-25-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Tenth Sunday after Pentecost
+DESCRIPTION:Tenth Sunday after Pentecost\nLuke 9:12–17 · Exodus 15:23
+ –27 · Job 42:7–17 · Psalm 112:1–10 · Isaiah 57:14–21 · Acts 
+ 28:23–30 · Romans 10:5–13 · Matthew 18:1–14\n“Unless you chang
+ e and become like children\, you will never enter the kingdom.”\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-07-25&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-07-25&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Tenth Sund
+ ay after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-01-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Eleventh Sunday after Pentecost · Sunday School Day
+DESCRIPTION:Eleventh Sunday after Pentecost · Sunday School Day\nMatthew
+  18:15–20 · Leviticus 19:13–18 · Joshua 23:7–14 · Malachi 4:1
+ –6 · Sirach 7:29–36 · James 2:14–26 · 1 Corinthians 14:26–33 
+ · Mark 6:7–13\nSunday School Day: faith is handed on person to person
+ .\n\nவாசித்து இறைவேண்டல் செய
+ ்வோம்: https://daily-word-reflections.github.io/?d=2027-08-01&
+ r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-08-01&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Eleventh S
+ unday after Pentecost · Sunday School Day
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-06-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:The Transfiguration of Our Lord
+DESCRIPTION:The Transfiguration of Our Lord\nMatthew 17:1–8 · Exodus 1
+ 9:24–20:6 · Deuteronomy 16:13–17 · Psalm 24:1–10 · Isaiah 60:8
+ –14 · 2 Peter 1:16–21 · Romans 11:25–36 · Luke 9:28–36\nJesus
+  is transfigured while praying\; the Law and the Prophets speak of his C
+ ross.\n\nவாசித்து இறைவேண்டல் செ
+ ய்வோம்: https://daily-word-reflections.github.io/?d=2027-08-
+ 06&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-08-06&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: The Transf
+ iguration of Our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-08-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:First Sunday after the Transfiguration
+DESCRIPTION:First Sunday after the Transfiguration\nMark 4:21–34 · Deu
+ teronomy 25:13–16 · 1 Samuel 2:31–36 · 1 Kings 18:36–46 · Ezeki
+ el 7:1–4 · James 4:7–10 · Philippians 4:8–20 · Matthew 21:28–
+ 32\nThe two sons: obedience counts more than words.\n\nவாசித
+ ்து இறைவேண்டல் செய்வோம்: https
+ ://daily-word-reflections.github.io/?d=2027-08-08&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-08-08&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: First Sund
+ ay after the Transfiguration
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-15-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Shunoyo: the Assumption of Mary\, Mother of God
+DESCRIPTION:Shunoyo: the Assumption of Mary\, Mother of God\nMatthew 12:4
+ 6–50 · Genesis 3:14–18 · Joshua 4:1–14 · Psalm 45:9–17 · Isa
+ iah 45:9–19 · Acts 7:44–53 · Hebrews 9:1–12 · John 19:25–27\n
+ Mary\, having completed her earthly life\, was assumed body and soul int
+ o heaven.\n\nவாசித்து இறைவேண்டல் ச
+ ெய்வோம்: https://daily-word-reflections.github.io/?d=2027-
+ 08-15&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-08-15&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Shunoyo: t
+ he Assumption of Mary\, Mother of God
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-22-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Third Sunday after the Transfiguration
+DESCRIPTION:Third Sunday after the Transfiguration\nLuke 11:5–13 · Gen
+ esis 6:1–12 · Ecclesiastes 5:1–7 · Sirach 4:1–10 · Isaiah 43:1
+ –7 · 2 Peter 3:1–7 · 2 Corinthians 12:1–10 · Luke 18:9–14\nTh
+ e tax collector\, not the proud Pharisee\, went home justified.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-08-22&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-08-22&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Third Sund
+ ay after the Transfiguration
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-29-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Fourth Sunday after the Transfiguration
+DESCRIPTION:Fourth Sunday after the Transfiguration\nMatthew 20:20–28 
+ · Deuteronomy 18:1–8 · 2 Chronicles 19:8–11 · Psalm 119:1–8 · 
+ Ezekiel 47:1–12 · 1 Peter 4:1–11 · Philippians 2:1–11 · Mark 10
+ :35–45\nThe mother of James and John asked for high seats\; Jesus offe
+ red his cup.\n\nவாசித்து இறைவேண்டல் 
+ செய்வோம்: https://daily-word-reflections.github.io/?d=20
+ 27-08-29&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-08-29&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Fourth Sun
+ day after the Transfiguration
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-05-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Fifth Sunday after the Transfiguration
+DESCRIPTION:Fifth Sunday after the Transfiguration\nLuke 18:1–8 · Deut
+ eronomy 9:25–29 · 1 Samuel 12:16–25 · Proverbs 16:1–9 · Isaiah 
+ 40:1–11 · James 1:2–8 · Hebrews 13:5–6 · Luke 18:18–30\nThe r
+ ich ruler lacked one thing: a free heart to follow Jesus.\n\nவாச
+ ித்து இறைவேண்டல் செய்வோம்:
+  https://daily-word-reflections.github.io/?d=2027-09-05&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-09-05&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Fifth Sund
+ ay after the Transfiguration
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-08-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Nativity of Mary\, Mother of God
+DESCRIPTION:Nativity of Mary\, Mother of God\nMark 3:31–35 · Genesis 3
+ :8–15 · Song of Songs 4:1–9 · Psalm 45:9–15 · Isaiah 7:1–15 
+ · Revelation 12:1–12 · Romans 6:1–11 · John 19:25–27\nMary's bi
+ rth is the dawn before the Sun of Justice\, Christ.\n\nவாசித
+ ்து இறைவேண்டல் செய்வோம்: https
+ ://daily-word-reflections.github.io/?d=2027-09-08&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-09-08&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Nativity o
+ f Mary\, Mother of God
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-14-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Exaltation of the Holy Cross (Sleebo)
+DESCRIPTION:Exaltation of the Holy Cross (Sleebo)\nMatthew 24:29–36 · 
+ Genesis 48:13–20 · Numbers 21:4–9 · 1 Samuel 17:37–51 · Isaiah 
+ 65:1–7 · Acts 13:26–39 · Galatians 3:1–14 · Luke 21:5–28\nThe
+  Cross\, sign of shame\, has become the sign of victory and love.\n\nவ
+ ாசித்து இறைவேண்டல் செய்வோ
+ ம்: https://daily-word-reflections.github.io/?d=2027-09-14&r=smk&l=t
+ a
+URL:https://daily-word-reflections.github.io/?d=2027-09-14&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: Exaltation
+  of the Holy Cross (Sleebo)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-19-smk-ta@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:First Sunday after Sleebo
+DESCRIPTION:First Sunday after Sleebo\nLuke 17:20–35 · Genesis 42:1–
+ 8 · Hosea 5:1–7 · Daniel 4:1–9 · Isaiah 57:14–21 · Acts 3:21
+ –26 · 1 Corinthians 2:10–15 · Mark 13:28–37\n“Keep alert\; for
+  you do not know when the time will come.”\n\nவாசித்து
+  இறைவேண்டல் செய்வோம்: https://daily-
+ word-reflections.github.io/?d=2027-09-19&r=smk&l=ta
+URL:https://daily-word-reflections.github.io/?d=2027-09-19&r=smk&l=ta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:நாளைய இறைவார்த்தை: First Sund
+ ay after Sleebo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

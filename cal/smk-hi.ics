@@ -1,0 +1,4410 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daily Word//daily-word-reflections.github.io//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:दैनिक वचन · Syro-Malankara
+X-WR-TIMEZONE:Asia/Kolkata
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:2026-11-01-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:कूदोश ईत्तो रविवार · कली
+ सिया का पवित्रीकरण
+DESCRIPTION:कूदोश ईत्तो रविवार · कल
+ ीसिया का पवित्रीकरण\nमारकु
+ स 8:27–30 · निर्गमन 10:1–5 (जैसा छपा 
+ है) · 1 राजाओं 6:1–8 · एज़ेकिएल 10:1
+ –5\, 18–22 · इसायाह 6:1–8 · 1 पेत्रुस 
+ 2:1–12 · एफ़ेसियों 2:14–22 · मत्ती 16:
+ 13–23\nहमारा धर्मविधिक वर्ष कल
+ ीसिया से शुरू होता है: अपनी 
+ प्रजा के बीच ईश्वर का निवास
+ ।\n\nपढ़ें और प्रार्थना करें: 
+ https://daily-word-reflections.github.io/?d=2026-11-01&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-01&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कूदोश ईत्तो र
+ विवार · कलीसिया का पवित्रीक
+ रण
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:कूदोश ईत्तो रविवार के बा
+ द सोमवार
+DESCRIPTION:कूदोश ईत्तो रविवार के ब
+ ाद सोमवार\n1 थेसलनीकियों 4:1–8 
+ · मत्ती 5:1–12\nहमारी पवित्रता 
+ ईश्वर की इच्छा है।\n\nपढ़ें औ
+ र प्रार्थना करें: https://daily-word-reflect
+ ions.github.io/?d=2026-11-02&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-02&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कूदोश ईत्तो र
+ विवार के बाद सोमवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:कूदोश ईत्तो रविवार के बा
+ द मंगलवार · निकेया के 318 धर्म
+ ाचार्य
+DESCRIPTION:कूदोश ईत्तो रविवार के ब
+ ाद मंगलवार · निकेया के 318 धर्
+ माचार्य\nइब्रानियों 13:7–16 · म
+ त्ती 24:45–51\nअगुओं को याद करो औ
+ र उनके विश्वास का अनुकरण कर
+ ो।\n\nपढ़ें और प्रार्थना करे
+ ं: https://daily-word-reflections.github.io/?d=2026-11-03&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कूदोश ईत्तो र
+ विवार के बाद मंगलवार · निके
+ या के 318 धर्माचार्य
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:कूदोश ईत्तो रविवार के बा
+ द बुधवार
+DESCRIPTION:कूदोश ईत्तो रविवार के ब
+ ाद बुधवार\n1 कुरिन्थियों 4:6–14 
+ · लूकस 6:37–42\nहमारे पास जो कुछ 
+ है\, वह वरदान है।\n\nपढ़ें और प
+ ्रार्थना करें: https://daily-word-reflections.gi
+ thub.io/?d=2026-11-04&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कूदोश ईत्तो र
+ विवार के बाद बुधवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:कूदोश ईत्तो रविवार के बा
+ द गुरुवार
+DESCRIPTION:कूदोश ईत्तो रविवार के ब
+ ाद गुरुवार\nइब्रानियों 12:4–11 
+ · योहन 5:19–23\nईश्वर जिनसे प्रे
+ म करता है\, उन्हें अनुशासित 
+ करता है।\n\nपढ़ें और प्रार्थ
+ ना करें: https://daily-word-reflections.github.io/?d=2026-11
+ -05&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कूदोश ईत्तो र
+ विवार के बाद गुरुवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:कूदोश ईत्तो रविवार के बा
+ द शुक्रवार
+DESCRIPTION:कूदोश ईत्तो रविवार के ब
+ ाद शुक्रवार\n1 तिमथी 6:17–19 · लू
+ कस 7:36–50\nधन पर नहीं\, ईश्वर पर 
+ आशा रखो।\n\nपढ़ें और प्रार्थ
+ ना करें: https://daily-word-reflections.github.io/?d=2026-11
+ -06&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कूदोश ईत्तो र
+ विवार के बाद शुक्रवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:कूदोश ईत्तो रविवार के बा
+ द शनिवार · मेलितेने के 33 शही
+ द
+DESCRIPTION:कूदोश ईत्तो रविवार के ब
+ ाद शनिवार · मेलितेने के 33 शह
+ ीद\n1 कुरिन्थियों 1:10–17 · योहन 12
+ :20–22\nमसीह बँटे हुए नहीं हैं।\
+ n\nपढ़ें और प्रार्थना करें: http
+ s://daily-word-reflections.github.io/?d=2026-11-07&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कूदोश ईत्तो र
+ विवार के बाद शनिवार · मेलित
+ ेने के 33 शहीद
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:हूदोश ईत्तो रविवार · कली
+ सिया का नवीकरण
+DESCRIPTION:हूदोश ईत्तो रविवार · कल
+ ीसिया का नवीकरण\nमारकुस 11:15–17
+  · निर्गमन 32:1–14 · 1 राजाओं 8:22–30 ·
+  यिरमियाह 31:10–14\, 22–26 · इसायाह 55:
+ 1–13 · प्रकाशना 3:14–22 · इब्रानिय
+ ों 9:1–14 · योहन 2:13–22\nकलीसिया पव
+ ित्र है और उसे सदा नवीकरण की
+  आवश्यकता है।\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2026-11-08&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-08&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: हूदोश ईत्तो र
+ विवार · कलीसिया का नवीकरण
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:हूदोश ईत्तो रविवार के बा
+ द सोमवार · संत थियोडोर
+DESCRIPTION:हूदोश ईत्तो रविवार के ब
+ ाद सोमवार · संत थियोडोर\nइब्
+ रानियों 4:6–11 · मत्ती 18:10–14\nआज उ
+ सकी आवाज़ सुनो।\n\nपढ़ें और प
+ ्रार्थना करें: https://daily-word-reflections.gi
+ thub.io/?d=2026-11-09&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: हूदोश ईत्तो र
+ विवार के बाद सोमवार · संत थि
+ योडोर
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:हूदोश ईत्तो रविवार के बा
+ द मंगलवार · नबी समुएल\; संत प
+ ापा महान लियो
+DESCRIPTION:हूदोश ईत्तो रविवार के ब
+ ाद मंगलवार · नबी समुएल\; संत 
+ पापा महान लियो\n1 तिमथी 6:1–2 · म
+ त्ती 20:1–16\nईमानदार मेहनत मसी
+ ह की गवाही है।\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2026-11-10&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: हूदोश ईत्तो र
+ विवार के बाद मंगलवार · नबी स
+ मुएल\; संत पापा महान लियो
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:हूदोश ईत्तो रविवार के बा
+ द बुधवार
+DESCRIPTION:हूदोश ईत्तो रविवार के ब
+ ाद बुधवार\nएफ़ेसियों 2:14–22 · म
+ त्ती 9:14–17\nमसीह ने विभाजन की 
+ दीवार गिरा दी।\n\nपढ़ें और प्
+ रार्थना करें: https://daily-word-reflections.githu
+ b.io/?d=2026-11-11&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: हूदोश ईत्तो र
+ विवार के बाद बुधवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:हूदोश ईत्तो रविवार के बा
+ द गुरुवार · सिकंदरिया के मा
+ र योहन
+DESCRIPTION:हूदोश ईत्तो रविवार के ब
+ ाद गुरुवार · सिकंदरिया के म
+ ार योहन\nएफ़ेसियों 1:15–23 · मार
+ कुस 4:26–29\nईश्वर का राज्य उसकी
+  शक्ति से चुपचाप बढ़ता है।\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2026-11-12&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: हूदोश ईत्तो र
+ विवार के बाद गुरुवार · सिकं
+ दरिया के मार योहन
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:हूदोश ईत्तो रविवार के बा
+ द शुक्रवार · स्वर्ण-मुख मार 
+ इवानियोस (संत योहन क्रिसोस
+ ्तोम)
+DESCRIPTION:हूदोश ईत्तो रविवार के ब
+ ाद शुक्रवार · स्वर्ण-मुख मा
+ र इवानियोस (संत योहन क्रिसो
+ स्तोम)\n1 कुरिन्थियों 2:6–15 · मत
+ ्ती 13:44–52\nईश्वर का राज्य सब क
+ ुछ के योग्य है।\n\nपढ़ें और प्
+ रार्थना करें: https://daily-word-reflections.githu
+ b.io/?d=2026-11-13&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: हूदोश ईत्तो र
+ विवार के बाद शुक्रवार · स्व
+ र्ण-मुख मार इवानियोस (संत यो
+ हन क्रिसोस्तोम)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:हूदोश ईत्तो रविवार के बा
+ द शनिवार · प्रेरित मार फ़िल
+ िप
+DESCRIPTION:हूदोश ईत्तो रविवार के ब
+ ाद शनिवार · प्रेरित मार फ़ि
+ लिप\n1 कुरिन्थियों 4:1–5 · योहन 1
+ 4:7–14\nप्रबंधकों को विश्वसनीय
+  होना चाहिए।\n\nपढ़ें और प्रा
+ र्थना करें: https://daily-word-reflections.github.io/?
+ d=2026-11-14&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: हूदोश ईत्तो र
+ विवार के बाद शनिवार · प्रेर
+ ित मार फ़िलिप
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:ज़करिया को शुभ संदेश का र
+ विवार
+DESCRIPTION:ज़करिया को शुभ संदेश का
+  रविवार\nलूकस 1:1–17 · उत्पत्ति 1
+ 7:15–22 · रूत 1:11–18 · 1 समुएल 1:9–17 · इस
+ ायाह 41:8–17 · 2 पेत्रुस 1:3–11 · रोम
+ ियों 4:13–25 · लूकस 1:5–25\nसूबोरो श
+ ुरू होता है: शुभ संदेश का का
+ ल।\n\nपढ़ें और प्रार्थना करे
+ ं: https://daily-word-reflections.github.io/?d=2026-11-15&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-15&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ज़करिया को शु
+ भ संदेश का रविवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:ज़करिया को शुभ संदेश के र
+ विवार के बाद सोमवार · प्रेर
+ ित मार मत्ती
+DESCRIPTION:ज़करिया को शुभ संदेश के
+  रविवार के बाद सोमवार · प्रे
+ रित मार मत्ती\nएफ़ेसियों 4:1–6
+  · मत्ती 9:9–13\nयेसु तिरस्कृतो
+ ं को पीछे चलने बुलाते हैं।\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2026-11-16&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ज़करिया को शु
+ भ संदेश के रविवार के बाद सोम
+ वार · प्रेरित मार मत्ती
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:ज़करिया को शुभ संदेश के र
+ विवार के बाद मंगलवार
+DESCRIPTION:ज़करिया को शुभ संदेश के
+  रविवार के बाद मंगलवार\nरोमि
+ यों 11:17–24 · मत्ती 9:1–8\nमित्रों 
+ का विश्वास लकवाग्रस्त को य
+ ेसु के पास लाया।\n\nपढ़ें और प
+ ्रार्थना करें: https://daily-word-reflections.gi
+ thub.io/?d=2026-11-17&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ज़करिया को शु
+ भ संदेश के रविवार के बाद मंग
+ लवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:ज़करिया को शुभ संदेश के र
+ विवार के बाद बुधवार
+DESCRIPTION:ज़करिया को शुभ संदेश के
+  रविवार के बाद बुधवार\n2 तिमथ
+ ी 4:19–22 · मत्ती 23:37–39\nपौलुस के अ
+ ंतिम शब्द मित्रों को नाम से 
+ याद करते हैं।\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2026-11-18&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ज़करिया को शु
+ भ संदेश के रविवार के बाद बुध
+ वार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:ज़करिया को शुभ संदेश के र
+ विवार के बाद गुरुवार
+DESCRIPTION:ज़करिया को शुभ संदेश के
+  रविवार के बाद गुरुवार\nएफ़े
+ सियों 6:1–4 · मत्ती 23:1–12\nपिता औ
+ र माता का आदर करो।\n\nपढ़ें और
+  प्रार्थना करें: https://daily-word-reflection
+ s.github.io/?d=2026-11-19&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ज़करिया को शु
+ भ संदेश के रविवार के बाद गुर
+ ुवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:ज़करिया को शुभ संदेश के र
+ विवार के बाद शुक्रवार
+DESCRIPTION:ज़करिया को शुभ संदेश के
+  रविवार के बाद शुक्रवार\nरोम
+ ियों 10:5–13 · मत्ती 13:1–9\nवचन निक
+ ट है: मुँह में और हृदय में।\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2026-11-20&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ज़करिया को शु
+ भ संदेश के रविवार के बाद शुक
+ ्रवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ईश्वर की माता मरियम का मं
+ दिर-प्रवेश
+DESCRIPTION:ईश्वर की माता मरियम का 
+ मंदिर-प्रवेश\nफ़िलिप्पियों
+  4:4–9 · मत्ती 12:46–50\nमरियम आरंभ स
+ े पूरी तरह ईश्वर की थीं।\n\nपढ
+ ़ें और प्रार्थना करें: https://daily
+ -word-reflections.github.io/?d=2026-11-21&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम का मंदिर-प्रवेश
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ईश्वर की माता मरियम को शु
+ भ संदेश का रविवार
+DESCRIPTION:ईश्वर की माता मरियम को 
+ शुभ संदेश का रविवार\nमत्ती 1:1
+ –17 · उत्पत्ति 3:8–15 · न्यायकर्
+ ता 13:2–14 · ज़करियाह 4:1–7 · इसाया
+ ह 63:15–64:4 · 1 योहन 3:1–10 · गलातियों 
+ 4:1–7 · लूकस 1:26–38\nईश्वर अदन में 
+ दी गई पहली प्रतिज्ञा निभात
+ ा है।\n\nपढ़ें और प्रार्थना क
+ रें: https://daily-word-reflections.github.io/?d=2026-11-22&r=smk&
+ l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-22&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम को शुभ संदेश का रविवा
+ र
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:ईश्वर की माता मरियम को शु
+ भ संदेश के रविवार के बाद सोम
+ वार · संत क्लेमेंट\, पोप\; संत 
+ फ़ेलिसिटी
+DESCRIPTION:ईश्वर की माता मरियम को 
+ शुभ संदेश के रविवार के बाद स
+ ोमवार · संत क्लेमेंट\, पोप\; स
+ ंत फ़ेलिसिटी\nफ़िलेमोन 1:1–7 · 
+ लूकस 6:43–45\nपेड़ अपने फल से पह
+ चाना जाता है।\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2026-11-23&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम को शुभ संदेश के रविवा
+ र के बाद सोमवार · संत क्लेमे
+ ंट\, पोप\; संत फ़ेलिसिटी
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:ईश्वर की माता मरियम को शु
+ भ संदेश के रविवार के बाद मंग
+ लवार
+DESCRIPTION:ईश्वर की माता मरियम को 
+ शुभ संदेश के रविवार के बाद म
+ ंगलवार\nतीतुस 2:11–15 · मत्ती 24:32
+ –36\nयेसु में अनुग्रह प्रकट ह
+ ुआ।\n\nपढ़ें और प्रार्थना कर
+ ें: https://daily-word-reflections.github.io/?d=2026-11-24&r=smk&l=h
+ i
+URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम को शुभ संदेश के रविवा
+ र के बाद मंगलवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:ईश्वर की माता मरियम को शु
+ भ संदेश के रविवार के बाद बुध
+ वार
+DESCRIPTION:ईश्वर की माता मरियम को 
+ शुभ संदेश के रविवार के बाद ब
+ ुधवार\nफ़िलिप्पियों 1:15–20 · म
+ त्ती 13:10–17\nजब भी मसीह का प्रच
+ ार होता है\, पौलुस आनंदित हो
+ ते हैं।\n\nपढ़ें और प्रार्थन
+ ा करें: https://daily-word-reflections.github.io/?d=2026-11-25
+ &r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम को शुभ संदेश के रविवा
+ र के बाद बुधवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:ईश्वर की माता मरियम को शु
+ भ संदेश के रविवार के बाद गुर
+ ुवार
+DESCRIPTION:ईश्वर की माता मरियम को 
+ शुभ संदेश के रविवार के बाद ग
+ ुरुवार\n1 कुरिंथियों 10:14–22 · ल
+ ूकस 4:31–37\nयूखरिस्त मसीह के शर
+ ीर और रक्त में सहभागिता है।\
+ n\nपढ़ें और प्रार्थना करें: http
+ s://daily-word-reflections.github.io/?d=2026-11-26&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम को शुभ संदेश के रविवा
+ र के बाद गुरुवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:ईश्वर की माता मरियम को शु
+ भ संदेश के रविवार के बाद शुक
+ ्रवार
+DESCRIPTION:ईश्वर की माता मरियम को 
+ शुभ संदेश के रविवार के बाद श
+ ुक्रवार\n2 थेसलनीकियों 3:6–15 · 
+ मरकुस 10:1–12\nईश्वर पति और पत्न
+ ी को जोड़ता है।\n\nपढ़ें और प्
+ रार्थना करें: https://daily-word-reflections.githu
+ b.io/?d=2026-11-27&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम को शुभ संदेश के रविवा
+ र के बाद शुक्रवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ईश्वर की माता मरियम को शु
+ भ संदेश के रविवार के बाद शनि
+ वार · संत कैथरीन
+DESCRIPTION:ईश्वर की माता मरियम को 
+ शुभ संदेश के रविवार के बाद श
+ निवार · संत कैथरीन\n1 कुरिंथि
+ यों 4:15–21 · मरकुस 4:30–34\nराज्य छो
+ टा शुरू होकर बड़ा बढ़ता है।\
+ n\nपढ़ें और प्रार्थना करें: http
+ s://daily-word-reflections.github.io/?d=2026-11-28&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम को शुभ संदेश के रविवा
+ र के बाद शनिवार · संत कैथरीन
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:ईश्वर की माता मरियम की एल
+ ीज़बेथ से भेंट का रविवार
+DESCRIPTION:ईश्वर की माता मरियम की 
+ एलीज़बेथ से भेंट का रविवार\n
+ लूकस 1:39–45 · उत्पत्ति 24:15–27 · 1 स
+ मुएल 2:1–11 · सूक्ति 31:10–26 · इसाय
+ ाह 29:17–24 · 1 पेत्रुस 2:6–10 · 1 तिमथ
+ ी 2:4–10 · लूकस 1:39–56\nमसीह को लिए 
+ मरियम सेवा के लिए दौड़ती है
+ ं।\n\nपढ़ें और प्रार्थना करे
+ ं: https://daily-word-reflections.github.io/?d=2026-11-29&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-29&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम की एलीज़बेथ से भेंट क
+ ा रविवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:ईश्वर की माता मरियम की एल
+ ीज़बेथ से भेंट के रविवार के 
+ बाद सोमवार · प्रेरित मार अं
+ द्रेयस
+DESCRIPTION:ईश्वर की माता मरियम की 
+ एलीज़बेथ से भेंट के रविवार 
+ के बाद सोमवार · प्रेरित मार 
+ अंद्रेयस\nगलातियों 4:12–20 · यो
+ हन 1:35–42\nआओ और देखो: विश्वास य
+ ेसु की संगति से शुरू होता है
+ ।\n\nपढ़ें और प्रार्थना करें: 
+ https://daily-word-reflections.github.io/?d=2026-11-30&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम की एलीज़बेथ से भेंट क
+ े रविवार के बाद सोमवार · प्र
+ ेरित मार अंद्रेयस
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:ईश्वर की माता मरियम की एल
+ ीज़बेथ से भेंट के रविवार के 
+ बाद मंगलवार · पच्चीस दिवसीय
+  उपवास का आरंभ
+DESCRIPTION:ईश्वर की माता मरियम की 
+ एलीज़बेथ से भेंट के रविवार 
+ के बाद मंगलवार · पच्चीस दिव
+ सीय उपवास का आरंभ\nरोमियों 13:
+ 8–14 · योहन 1:1–5\nयल्दो का शिशु श
+ ाश्वत शब्द है।\n\nपढ़ें और प्
+ रार्थना करें: https://daily-word-reflections.githu
+ b.io/?d=2026-12-01&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम की एलीज़बेथ से भेंट क
+ े रविवार के बाद मंगलवार · पच
+ ्चीस दिवसीय उपवास का आरंभ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:ईश्वर की माता मरियम की एल
+ ीज़बेथ से भेंट के रविवार के 
+ बाद बुधवार
+DESCRIPTION:ईश्वर की माता मरियम की 
+ एलीज़बेथ से भेंट के रविवार 
+ के बाद बुधवार\nरोमियों 10:14–15 ·
+  मत्ती 5:33–37\nविश्वास भेजे गए 
+ लोगों द्वारा आता है।\n\nपढ़े
+ ं और प्रार्थना करें: https://daily-word-
+ reflections.github.io/?d=2026-12-02&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम की एलीज़बेथ से भेंट क
+ े रविवार के बाद बुधवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:ईश्वर की माता मरियम की एल
+ ीज़बेथ से भेंट के रविवार के 
+ बाद गुरुवार · संत फ़्रांसिस
+  ज़ेवियर
+DESCRIPTION:ईश्वर की माता मरियम की 
+ एलीज़बेथ से भेंट के रविवार 
+ के बाद गुरुवार · संत फ़्रां
+ सिस ज़ेवियर\n1 कुरिंथियों 9:19
+ –23 · मरकुस 16:14–18\nपौलुस सबके लि
+ ए सब कुछ बने।\n\nपढ़ें और प्रा
+ र्थना करें: https://daily-word-reflections.github.io/?
+ d=2026-12-03&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम की एलीज़बेथ से भेंट क
+ े रविवार के बाद गुरुवार · सं
+ त फ़्रांसिस ज़ेवियर
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:ईश्वर की माता मरियम की एल
+ ीज़बेथ से भेंट के रविवार के 
+ बाद शुक्रवार · दमिश्क के सं
+ त योहन
+DESCRIPTION:ईश्वर की माता मरियम की 
+ एलीज़बेथ से भेंट के रविवार 
+ के बाद शुक्रवार · दमिश्क के 
+ संत योहन\nरोमियों 10:17–20 · मत्त
+ ी 5:21–26\nक्रोध हत्या की जड़ है
+ ।\n\nपढ़ें और प्रार्थना करें: 
+ https://daily-word-reflections.github.io/?d=2026-12-04&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम की एलीज़बेथ से भेंट क
+ े रविवार के बाद शुक्रवार · द
+ मिश्क के संत योहन
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:ईश्वर की माता मरियम की एल
+ ीज़बेथ से भेंट के रविवार के 
+ बाद शनिवार · मार साबा\; अलेक्
+ ज़ान्द्रिया के संत क्लेमें
+ ट
+DESCRIPTION:ईश्वर की माता मरियम की 
+ एलीज़बेथ से भेंट के रविवार 
+ के बाद शनिवार · मार साबा\; अल
+ ेक्ज़ान्द्रिया के संत क्ले
+ मेंट\n1 तिमथी 4:6–10 · योहन 7:40–53\nभ
+ क्ति में अपने को साधो।\n\nपढ़
+ ें और प्रार्थना करें: https://daily-wo
+ rd-reflections.github.io/?d=2026-12-05&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की माता 
+ मरियम की एलीज़बेथ से भेंट क
+ े रविवार के बाद शनिवार · मार 
+ साबा\; अलेक्ज़ान्द्रिया के 
+ संत क्लेमेंट
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:योहन बपतिस्ता के जन्म का 
+ रविवार
+DESCRIPTION:योहन बपतिस्ता के जन्म क
+ ा रविवार\nलूकस 1:67–80 · निर्गमन 
+ 2:1–10 · 1 समुएल 1:19–28 · स्तोत्र 127:1
+ –5 · इसायाह 62:1–12 · 1 योहन 4:1–6 · गल
+ ातियों 4:21–31 · लूकस 1:57–66\nउसका न
+ ाम योहन है: ईश्वर कृपालु है।
+ \n\nपढ़ें और प्रार्थना करें: htt
+ ps://daily-word-reflections.github.io/?d=2026-12-06&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-06&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: योहन बपतिस्त
+ ा के जन्म का रविवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:योहन बपतिस्ता के जन्म के 
+ रविवार के बाद सोमवार · संत अ
+ ंब्रोस
+DESCRIPTION:योहन बपतिस्ता के जन्म क
+ े रविवार के बाद सोमवार · संत 
+ अंब्रोस\n2 तिमथी 1:8–14 · योहन 16:25
+ –33\nपौलुस जानते हैं कि उन्हो
+ ंने किस पर भरोसा किया।\n\nपढ़
+ ें और प्रार्थना करें: https://daily-wo
+ rd-reflections.github.io/?d=2026-12-07&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: योहन बपतिस्त
+ ा के जन्म के रविवार के बाद स
+ ोमवार · संत अंब्रोस
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:ईश्वर की पवित्र माता का न
+ िष्कलंक गर्भाधान
+DESCRIPTION:ईश्वर की पवित्र माता का
+  निष्कलंक गर्भाधान\nगलातिय
+ ों 4:1–7 · लूकस 1:46–56\nमरियम गर्भ
+ ाधान से मूल पाप से सुरक्षित 
+ रखी गईं।\n\nपढ़ें और प्रार्थ
+ ना करें: https://daily-word-reflections.github.io/?d=2026-12
+ -08&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-08&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की पवित
+ ्र माता का निष्कलंक गर्भाध
+ ान
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:योहन बपतिस्ता के जन्म के 
+ रविवार के बाद बुधवार
+DESCRIPTION:योहन बपतिस्ता के जन्म क
+ े रविवार के बाद बुधवार\nइब्र
+ ानियों 1:1–4 · लूकस 7:18–23\nईश्वर 
+ ने अपने पुत्र में अंतिम बार 
+ बात की।\n\nपढ़ें और प्रार्थन
+ ा करें: https://daily-word-reflections.github.io/?d=2026-12-09
+ &r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: योहन बपतिस्त
+ ा के जन्म के रविवार के बाद ब
+ ुधवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:योहन बपतिस्ता के जन्म के 
+ रविवार के बाद गुरुवार · मार 
+ बेहनाम\, उनकी बहन सारा और चा
+ लीस शहीद
+DESCRIPTION:योहन बपतिस्ता के जन्म क
+ े रविवार के बाद गुरुवार · मा
+ र बेहनाम\, उनकी बहन सारा और च
+ ालीस शहीद\n1 थेसलनीकियों 4:9–12 
+ · मत्ती 10:26–33\nजो केवल शरीर मा
+ रते हैं\, उनसे मत डरो।\n\nपढ़े
+ ं और प्रार्थना करें: https://daily-word-
+ reflections.github.io/?d=2026-12-10&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: योहन बपतिस्त
+ ा के जन्म के रविवार के बाद ग
+ ुरुवार · मार बेहनाम\, उनकी बह
+ न सारा और चालीस शहीद
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:योहन बपतिस्ता के जन्म के 
+ रविवार के बाद शुक्रवार
+DESCRIPTION:योहन बपतिस्ता के जन्म क
+ े रविवार के बाद शुक्रवार\n1 क
+ ुरिंथियों 16:1–4 · मत्ती 12:1–8\nरव
+ िवार और गरीबों की चिंता साथ 
+ चलते हैं।\n\nपढ़ें और प्रार्
+ थना करें: https://daily-word-reflections.github.io/?d=2026
+ -12-11&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: योहन बपतिस्त
+ ा के जन्म के रविवार के बाद श
+ ुक्रवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:योहन बपतिस्ता के जन्म के 
+ रविवार के बाद शनिवार
+DESCRIPTION:योहन बपतिस्ता के जन्म क
+ े रविवार के बाद शनिवार\n1 थेस
+ लनीकियों 5:12–22 · मरकुस 9:42–50\nआन
+ ंदित रहो\, प्रार्थना करो\, धन
+ ्यवाद दो: हमारे लिए ईश्वर की
+  इच्छा।\n\nपढ़ें और प्रार्थन
+ ा करें: https://daily-word-reflections.github.io/?d=2026-12-12
+ &r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: योहन बपतिस्त
+ ा के जन्म के रविवार के बाद श
+ निवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:संत यूसुफ़ को स्वर्गदूत 
+ के दर्शन का रविवार
+DESCRIPTION:संत यूसुफ़ को स्वर्गदू
+ त के दर्शन का रविवार\nमत्ती 1:
+ 18–25 · उत्पत्ति 37:5–11 · प्रवक्त
+ ा 7:11–17 · 1 समुएल 3:10–18 · इसायाह 45:20
+ –25 · 1 पेत्रुस 2:11–17 · गलातियों 1
+ :11–24 · मत्ती 1:18–25\nधर्मी यूसुफ
+ ़ दयालु हैं।\n\nपढ़ें और प्रा
+ र्थना करें: https://daily-word-reflections.github.io/?
+ d=2026-12-13&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-13&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: संत यूसुफ़ को 
+ स्वर्गदूत के दर्शन का रविव
+ ार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:संत यूसुफ़ को स्वर्गदूत 
+ के दर्शन के रविवार के बाद सो
+ मवार · क्रूस के संत योहन
+DESCRIPTION:संत यूसुफ़ को स्वर्गदू
+ त के दर्शन के रविवार के बाद 
+ सोमवार · क्रूस के संत योहन\nइ
+ ब्रानियों 7:1–10 · लूकस 14:25–35\nरो
+ टी और दाखरस के याजक मलकीसेद
+ ेक मसीह की ओर इशारा करते हैं
+ ।\n\nपढ़ें और प्रार्थना करें: 
+ https://daily-word-reflections.github.io/?d=2026-12-14&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: संत यूसुफ़ को 
+ स्वर्गदूत के दर्शन के रविव
+ ार के बाद सोमवार · क्रूस के स
+ ंत योहन
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:संत यूसुफ़ को स्वर्गदूत 
+ के दर्शन के रविवार के बाद मं
+ गलवार
+DESCRIPTION:संत यूसुफ़ को स्वर्गदू
+ त के दर्शन के रविवार के बाद 
+ मंगलवार\n1 कुरिंथियों 2:1–5 · य
+ ोहन 16:1–4\nपौलुस ने केवल क्रूस
+ ित मसीह का प्रचार किया।\n\nपढ
+ ़ें और प्रार्थना करें: https://daily
+ -word-reflections.github.io/?d=2026-12-15&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: संत यूसुफ़ को 
+ स्वर्गदूत के दर्शन के रविव
+ ार के बाद मंगलवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:संत यूसुफ़ को स्वर्गदूत 
+ के दर्शन के रविवार के बाद बु
+ धवार
+DESCRIPTION:संत यूसुफ़ को स्वर्गदू
+ त के दर्शन के रविवार के बाद 
+ बुधवार\n2 कुरिंथियों 12:7–10 · लू
+ कस 9:18–20\nयेसु पूछते हैं: तुम क
+ ्या कहते हो\, मैं कौन हूँ?\n\nपढ
+ ़ें और प्रार्थना करें: https://daily
+ -word-reflections.github.io/?d=2026-12-16&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: संत यूसुफ़ को 
+ स्वर्गदूत के दर्शन के रविव
+ ार के बाद बुधवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:संत यूसुफ़ को स्वर्गदूत 
+ के दर्शन के रविवार के बाद गु
+ रुवार · मार रब्बूला
+DESCRIPTION:संत यूसुफ़ को स्वर्गदू
+ त के दर्शन के रविवार के बाद 
+ गुरुवार · मार रब्बूला\nरोमि
+ यों 16:17–20 · मत्ती 7:15–20\nभलाई मे
+ ं बुद्धिमान\, बुराई में भोले
+  बनो।\n\nपढ़ें और प्रार्थना क
+ रें: https://daily-word-reflections.github.io/?d=2026-12-17&r=smk&
+ l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: संत यूसुफ़ को 
+ स्वर्गदूत के दर्शन के रविव
+ ार के बाद गुरुवार · मार रब्ब
+ ूला
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:संत यूसुफ़ को स्वर्गदूत 
+ के दर्शन के रविवार के बाद शु
+ क्रवार · मायलापुर का चमत्का
+ री क्रूस
+DESCRIPTION:संत यूसुफ़ को स्वर्गदू
+ त के दर्शन के रविवार के बाद 
+ शुक्रवार · मायलापुर का चमत्
+ कारी क्रूस\nएफ़ेसियों 3:8–13 · 
+ योहन 14:1–6\nयेसु पिता के घर में
+  हमारे लिए स्थान तैयार करते 
+ हैं।\n\nपढ़ें और प्रार्थना क
+ रें: https://daily-word-reflections.github.io/?d=2026-12-18&r=smk&
+ l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: संत यूसुफ़ को 
+ स्वर्गदूत के दर्शन के रविव
+ ार के बाद शुक्रवार · मायलाप
+ ुर का चमत्कारी क्रूस
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:संत यूसुफ़ को स्वर्गदूत 
+ के दर्शन के रविवार के बाद शन
+ िवार
+DESCRIPTION:संत यूसुफ़ को स्वर्गदू
+ त के दर्शन के रविवार के बाद 
+ शनिवार\nएफ़ेसियों 2:14–22 · मत्
+ ती 11:1–6\nहम ईश्वर के निवास-स्थ
+ ान के रूप में बनाए जाते हैं।
+ \n\nपढ़ें और प्रार्थना करें: htt
+ ps://daily-word-reflections.github.io/?d=2026-12-19&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: संत यूसुफ़ को 
+ स्वर्गदूत के दर्शन के रविव
+ ार के बाद शनिवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:यल्दो से पहले का रविवार
+DESCRIPTION:यल्दो से पहले का रविवार
+ \nमत्ती 1:1–17 · उत्पत्ति 46:8–27 · 1 
+ राजा 9:3–7 · यिरमियाह 23:5–8 · इसा
+ याह 11:1–9 · प्रेरित-चरित 3:20–26 · 
+ इब्रानियों 7:14–17 · लूकस 2:1–5\nईश
+ ्वर की मुक्ति सच्चे परिवार
+ ों और सच्चे इतिहास से आती है
+ ।\n\nपढ़ें और प्रार्थना करें: 
+ https://daily-word-reflections.github.io/?d=2026-12-20&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-20&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो से पहले 
+ का रविवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:यल्दो से पहले के रविवार क
+ े बाद सोमवार
+DESCRIPTION:यल्दो से पहले के रविवार
+  के बाद सोमवार\nरोमियों 1:8–15 · 
+ योहन 1:1–5\nविश्वास दूसरों के 
+ प्रति हमारा ऋण है।\n\nपढ़ें औ
+ र प्रार्थना करें: https://daily-word-reflect
+ ions.github.io/?d=2026-12-21&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो से पहले 
+ के रविवार के बाद सोमवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:यल्दो से पहले के रविवार क
+ े बाद मंगलवार
+DESCRIPTION:यल्दो से पहले के रविवार
+  के बाद मंगलवार\nगलातियों 4:8–
+ 11 · योहन 1:6–9\nयोहन ज्योति की ग
+ वाही देने आए।\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2026-12-22&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो से पहले 
+ के रविवार के बाद मंगलवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:यल्दो से पहले के रविवार क
+ े बाद बुधवार
+DESCRIPTION:यल्दो से पहले के रविवार
+  के बाद बुधवार\nकलोसियों 2:1–5 
+ · योहन 1:10–13\nसंसार ने उसे नहीं
+  पहचाना\; अपनों ने ग्रहण नही
+ ं किया।\n\nपढ़ें और प्रार्थन
+ ा करें: https://daily-word-reflections.github.io/?d=2026-12-23
+ &r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो से पहले 
+ के रविवार के बाद बुधवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:यल्दो से पहले के रविवार क
+ े बाद गुरुवार · यल्दो की पूर
+ ्व-संध्या
+DESCRIPTION:यल्दो से पहले के रविवार
+  के बाद गुरुवार · यल्दो की पू
+ र्व-संध्या\nरोमियों 1:18–23 · यो
+ हन 1:14–18\nशब्द ने शरीर धारण कि
+ या और हमारे बीच निवास किया।\
+ n\nपढ़ें और प्रार्थना करें: http
+ s://daily-word-reflections.github.io/?d=2026-12-24&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो से पहले 
+ के रविवार के बाद गुरुवार · य
+ ल्दो की पूर्व-संध्या
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:यल्दो · हमारे प्रभु का जन
+ ्म
+DESCRIPTION:यल्दो · हमारे प्रभु का ज
+ न्म\nयोहन 1:6–18 · उत्पत्ति 21:1–8 ·
+  2 राजा 4:8–17 · मीकाह 4:14–5:3 · इसाय
+ ाह 8:23–9:6 · प्रेरित-चरित 3:20–26 · इ
+ ब्रानियों 7:14–17 · मत्ती 2:1–12\nश
+ ब्द ने शरीर धारण किया: ईश्वर
+  स्वयं आया।\n\nपढ़ें और प्रार
+ ्थना करें: https://daily-word-reflections.github.io/?d=2
+ 026-12-25&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-25&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो · हमारे 
+ प्रभु का जन्म
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:ईश्वर की पवित्र माता की स
+ ्तुति
+DESCRIPTION:ईश्वर की पवित्र माता की
+  स्तुति\nगलातियों 4:4–7 · लूकस 2:
+ 15–19\nईश्वर ने अपने पुत्र को स
+ ्त्री से जन्मा हुआ भेजा।\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2026-12-26&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-26&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: ईश्वर की पवित
+ ्र माता की स्तुति
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:यल्दो के बाद का पहला रविव
+ ार
+DESCRIPTION:यल्दो के बाद का पहला रव
+ िवार\nमत्ती 2:19–23 · उत्पत्ति 21:8
+ –14 · न्यायकर्ता 13:24–14:4 · स्तोत
+ ्र 122:1–9 · ज़कर्याह 8:3–12 · 1 पेत्
+ रुस 5:5–11 · इब्रानियों 3:1–6 · लू
+ कस 2:41–52\nईश्वर का पुत्र नाज़र
+ ेत में एक साधारण परिवार में 
+ बड़ा हुआ।\n\nपढ़ें और प्रार्
+ थना करें: https://daily-word-reflections.github.io/?d=2026
+ -12-27&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-27&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो के बाद क
+ ा पहला रविवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:यल्दो के बाद के पहले रविव
+ ार के बाद सोमवार · दाऊद\, राज
+ ा और नबी
+DESCRIPTION:यल्दो के बाद के पहले रव
+ िवार के बाद सोमवार · दाऊद\, र
+ ाजा और नबी\nइब्रानियों 11:32–40 ·
+  मत्ती 22:41–46\nईश्वर ने दाऊद को 
+ सदा का सिंहासन देने की प्रत
+ िज्ञा की।\n\nपढ़ें और प्रार्
+ थना करें: https://daily-word-reflections.github.io/?d=2026
+ -12-28&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो के बाद क
+ े पहले रविवार के बाद सोमवार 
+ · दाऊद\, राजा और नबी
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:यल्दो के बाद के पहले रविव
+ ार के बाद मंगलवार
+DESCRIPTION:यल्दो के बाद के पहले रव
+ िवार के बाद मंगलवार\nरोमियो
+ ं 11:25–32 · मत्ती 15:1–9\nईश्वर के व
+ रदान और बुलावा अपरिवर्तनीय
+  हैं।\n\nपढ़ें और प्रार्थना क
+ रें: https://daily-word-reflections.github.io/?d=2026-12-29&r=smk&
+ l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-29&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो के बाद क
+ े पहले रविवार के बाद मंगलवा
+ र
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:यल्दो के बाद के पहले रविव
+ ार के बाद बुधवार
+DESCRIPTION:यल्दो के बाद के पहले रव
+ िवार के बाद बुधवार\nरोमियों 
+ 15:7–13 · मत्ती 2:19–23\nयूसुफ़ आज्ञ
+ ा मानकर बालक को नाज़रेत लात
+ े हैं।\n\nपढ़ें और प्रार्थना 
+ करें: https://daily-word-reflections.github.io/?d=2026-12-30&r=s
+ mk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-30&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो के बाद क
+ े पहले रविवार के बाद बुधवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:यल्दो के बाद के पहले रविव
+ ार के बाद गुरुवार · वर्ष का अ
+ ंतिम दिन
+DESCRIPTION:यल्दो के बाद के पहले रव
+ िवार के बाद गुरुवार · वर्ष क
+ ा अंतिम दिन\nरोमियों 15:14–21 · ल
+ ूकस 13:6–9\nमाली एक वर्ष और के ल
+ िए विनती करता है।\n\nपढ़ें और 
+ प्रार्थना करें: https://daily-word-reflections
+ .github.io/?d=2026-12-31&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो के बाद क
+ े पहले रविवार के बाद गुरुवा
+ र · वर्ष का अंतिम दिन
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:हमारे प्रभु का नामकरण · न
+ ववर्ष का दिन
+DESCRIPTION:हमारे प्रभु का नामकरण · 
+ नववर्ष का दिन\nएफ़ेसियों 4:17–
+ 24 · लूकस 2:21–24\nयेसु का अर्थ है 
+ प्रभु बचाता है।\n\nपढ़ें और प
+ ्रार्थना करें: https://daily-word-reflections.gi
+ thub.io/?d=2027-01-01&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-01&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: हमारे प्रभु क
+ ा नामकरण · नववर्ष का दिन
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:नववर्ष के बाद का शनिवार · 
+ मार बसेलियोस और मार ग्रेगो
+ रियोस
+DESCRIPTION:नववर्ष के बाद का शनिवार
+  · मार बसेलियोस और मार ग्रेग
+ ोरियोस\n2 तिमथी 2:21–26 · योहन 3:1–14
+ \nबासिल और ग्रेगरी ने त्रित्
+ व की रक्षा की और कोमल चरवाहे
+  रहे।\n\nपढ़ें और प्रार्थना क
+ रें: https://daily-word-reflections.github.io/?d=2027-01-02&r=smk&
+ l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: नववर्ष के बाद 
+ का शनिवार · मार बसेलियोस और 
+ मार ग्रेगोरियोस
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:यल्दो के बाद का दूसरा रवि
+ वार
+DESCRIPTION:यल्दो के बाद का दूसरा र
+ विवार\nलूकस 3:7–14 · उत्पत्ति 37:1
+ –4 · 1 समुएल 2:18–21 · स्तोत्र 45:2–18 
+ · इसायाह 40:25–31 · 1 योहन 3:19–24 · इब
+ ्रानियों 11:23–31 · योहन 1:29–34\nबेथ
+ लेहेम का बालक ईश्वर का मेमन
+ ा है।\n\nपढ़ें और प्रार्थना क
+ रें: https://daily-word-reflections.github.io/?d=2027-01-03&r=smk&
+ l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-03&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो के बाद क
+ ा दूसरा रविवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:यल्दो के बाद के दूसरे रवि
+ वार के बाद सोमवार · नबी मलाक
+ ी\; संत कुरियाकोस एलियास चाव
+ रा
+DESCRIPTION:यल्दो के बाद के दूसरे र
+ विवार के बाद सोमवार · नबी मल
+ ाकी\; संत कुरियाकोस एलियास च
+ ावरा\nइब्रानियों 11:4–7 · मत्ती
+  5:1–12\nविश्वास के बिना ईश्वर क
+ ो प्रसन्न करना असंभव है।\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-01-04&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो के बाद क
+ े दूसरे रविवार के बाद सोमवा
+ र · नबी मलाकी\; संत कुरियाकोस
+  एलियास चावरा
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:यल्दो के बाद के दूसरे रवि
+ वार के बाद मंगलवार · देन्हो 
+ की पूर्व संध्या
+DESCRIPTION:यल्दो के बाद के दूसरे र
+ विवार के बाद मंगलवार · देन्
+ हो की पूर्व संध्या\nएफ़ेसिय
+ ों 4:7–16 · लूकस 12:22–28\nमसीह अपने 
+ शरीर के निर्माण के लिए वरदा
+ न देते हैं।\n\nपढ़ें और प्रार
+ ्थना करें: https://daily-word-reflections.github.io/?d=2
+ 027-01-05&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: यल्दो के बाद क
+ े दूसरे रविवार के बाद मंगलव
+ ार · देन्हो की पूर्व संध्या
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:देन्हो · हमारे प्रभु का ब
+ पतिस्मा
+DESCRIPTION:देन्हो · हमारे प्रभु का 
+ बपतिस्मा\nमरकुस 1:1–11 · उत्पत्
+ ति 24:10–20 · 2 राजाओं 3:21–27 · एज़ेक
+ िएल 47:1–12 · इसायाह 12:1–6 · प्रेरि
+ त-चरित 19:1–7 · तीतुस 2:11–3:9 · मत्त
+ ी 3:13–17\nदेन्हो: यर्दन पर परम प
+ वित्र त्रित्व प्रकट होता ह
+ ै।\n\nपढ़ें और प्रार्थना करे
+ ं: https://daily-word-reflections.github.io/?d=2027-01-06&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-06&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो · हमार
+ े प्रभु का बपतिस्मा
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:देन्हो के बाद का गुरुवार 
+ · संत योहन बपतिस्ता का गुणग
+ ान
+DESCRIPTION:देन्हो के बाद का गुरुवा
+ र · संत योहन बपतिस्ता का गुण
+ गान\nएफ़ेसियों 3:1–7 · लूकस 7:24–29
+ \nयोहन हवा से हिलता सरकंडा न
+ हीं थे।\n\nपढ़ें और प्रार्थन
+ ा करें: https://daily-word-reflections.github.io/?d=2027-01-07
+ &r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ का गुरुवार · संत योहन बपतिस
+ ्ता का गुणगान
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:देन्हो के बाद का शुक्रवा
+ र · प्रथम शहीद मार स्तेफ़ान
+ ोस
+DESCRIPTION:देन्हो के बाद का शुक्रव
+ ार · प्रथम शहीद मार स्तेफ़ा
+ नोस\nप्रेरित-चरित 7:54–60 · 1 कुर
+ िन्थियों 16:15–18 · मत्ती 23:34–36\nस
+ ्तेफ़नुस ने स्वर्ग खुला और 
+ येसु को खड़े देखा।\n\nपढ़ें औ
+ र प्रार्थना करें: https://daily-word-reflect
+ ions.github.io/?d=2027-01-08&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ का शुक्रवार · प्रथम शहीद मा
+ र स्तेफ़ानोस
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:देन्हो के बाद का शनिवार
+DESCRIPTION:देन्हो के बाद का शनिवार
+ \nरोमियों 3:1–8 · मरकुस 7:1–8\nहमार
+ ा विश्वासघात ईश्वर की सत्य
+ निष्ठा को रद्द नहीं करता।\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2027-01-09&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ का शनिवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:देन्हो के बाद का पहला रवि
+ वार
+DESCRIPTION:देन्हो के बाद का पहला र
+ विवार\nमरकुस 1:14–20 · उत्पत्ति 3
+ 0:25–43 · निर्गमन 3:1–15 · स्तोत्र 147
+ :1–11 · इसायाह 49:7–13 · प्रेरित-चर
+ ित 2:37–47 · एफ़ेसियों 1:3–14 · मत्त
+ ी 4:12–22\nयेसु लोगों को बुलाकर 
+ अपना मिशन आरंभ करते हैं।\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-01-10&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-10&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ का पहला रविवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:देन्हो के बाद के पहले रवि
+ वार के बाद सोमवार · निस्सा क
+ े मार ग्रेगोरियोस
+DESCRIPTION:देन्हो के बाद के पहले र
+ विवार के बाद सोमवार · निस्स
+ ा के मार ग्रेगोरियोस\n2 कुरि
+ न्थियों 1:3–11 · योहन 3:31–36\nईश्व
+ र दया के पिता और हर प्रकार क
+ ी सांत्वना के ईश्वर हैं।\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-01-11&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के पहले रविवार के बाद सोमवा
+ र · निस्सा के मार ग्रेगोरिय
+ ोस
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:देन्हो के बाद के पहले रवि
+ वार के बाद मंगलवार · मठाधिप
+ ति मार तेवोदोसियोस
+DESCRIPTION:देन्हो के बाद के पहले र
+ विवार के बाद मंगलवार · मठाध
+ िपति मार तेवोदोसियोस\n2 कुरि
+ न्थियों 4:1–6 · मत्ती 12:9–14\nईश्व
+ र की महिमा येसु मसीह के मुख 
+ पर चमकती है।\n\nपढ़ें और प्रा
+ र्थना करें: https://daily-word-reflections.github.io/?
+ d=2027-01-12&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के पहले रविवार के बाद मंगलव
+ ार · मठाधिपति मार तेवोदोसिय
+ ोस
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:देन्हो के बाद के पहले रवि
+ वार के बाद बुधवार
+DESCRIPTION:देन्हो के बाद के पहले र
+ विवार के बाद बुधवार\n1 तिमथी 2
+ :1–7 · मत्ती 7:1–6\nसबके लिए प्रा
+ र्थना करो\, शासकों के लिए भी
+ ।\n\nपढ़ें और प्रार्थना करें: 
+ https://daily-word-reflections.github.io/?d=2027-01-13&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के पहले रविवार के बाद बुधवा
+ र
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:देन्हो के बाद के पहले रवि
+ वार के बाद गुरुवार · सीनै के 
+ चालीस शहीद\; संत देवसहायम
+DESCRIPTION:देन्हो के बाद के पहले र
+ विवार के बाद गुरुवार · सीनै 
+ के चालीस शहीद\; संत देवसहायम
+ \nरोमियों 3:21–26 · लूकस 12:4–7\nसबने
+  पाप किया है\; सबको कृपा वरदा
+ न के रूप में दी जाती है।\n\nपढ
+ ़ें और प्रार्थना करें: https://daily
+ -word-reflections.github.io/?d=2027-01-14&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के पहले रविवार के बाद गुरुव
+ ार · सीनै के चालीस शहीद\; संत 
+ देवसहायम
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:देन्हो के बाद के पहले रवि
+ वार के बाद शुक्रवार · बीजों 
+ के लिए ईश्वर की माता मरियम क
+ ा स्मरण
+DESCRIPTION:देन्हो के बाद के पहले र
+ विवार के बाद शुक्रवार · बीज
+ ों के लिए ईश्वर की माता मरिय
+ म का स्मरण\n2 कुरिन्थियों 9:6–11
+  · लूकस 2:15–19\nजो बहुत बोता है\, 
+ वह बहुत काटेगा।\n\nपढ़ें और प
+ ्रार्थना करें: https://daily-word-reflections.gi
+ thub.io/?d=2027-01-15&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के पहले रविवार के बाद शुक्र
+ वार · बीजों के लिए ईश्वर की म
+ ाता मरियम का स्मरण
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:देन्हो के बाद के पहले रवि
+ वार के बाद शनिवार · संत पेत्
+ रुस की ज़ंजीरें
+DESCRIPTION:देन्हो के बाद के पहले र
+ विवार के बाद शनिवार · संत पे
+ त्रुस की ज़ंजीरें\nइब्रानि
+ यों 13:7–16 · मत्ती 24:45–51\nअपने अग
+ ुवों को याद करो और उनके विश्
+ वास का अनुकरण करो।\n\nपढ़ें औ
+ र प्रार्थना करें: https://daily-word-reflect
+ ions.github.io/?d=2027-01-16&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के पहले रविवार के बाद शनिवा
+ र · संत पेत्रुस की ज़ंजीरें
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:देन्हो के बाद का दूसरा रव
+ िवार
+DESCRIPTION:देन्हो के बाद का दूसरा 
+ रविवार\nलूकस 4:14–15 · लेवी ग्रं
+ थ 22:26–33 · सूक्ति 8:22–36 · मीकाह 4:14
+ –5:7 · इसायाह 51:1–8 · 1 पेत्रुस 1:13–
+ 25 · रोमियों 3:1–8 · योहन 1:43–51\nआओ 
+ और देखो: किसी को मसीह के पास 
+ लाने का सबसे अच्छा तरीक़ा।\n
+ \nपढ़ें और प्रार्थना करें: https
+ ://daily-word-reflections.github.io/?d=2027-01-17&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-17&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ का दूसरा रविवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:देन्हो के बाद के दूसरे रव
+ िवार के बाद सोमवार · नीनवे व
+ ासियों के उपवास का पहला दिन
+DESCRIPTION:देन्हो के बाद के दूसरे 
+ रविवार के बाद सोमवार · नीनव
+ े वासियों के उपवास का पहला द
+ िन\nयोना 1:1–7 · फ़िलिप्पियों 2:1
+ –11 · मत्ती 12:38–42\nयोना प्रभु के
+  सामने से भाग गए।\n\nपढ़ें और 
+ प्रार्थना करें: https://daily-word-reflections
+ .github.io/?d=2027-01-18&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के दूसरे रविवार के बाद सोमव
+ ार · नीनवे वासियों के उपवास 
+ का पहला दिन
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:देन्हो के बाद के दूसरे रव
+ िवार के बाद मंगलवार · नीनवे 
+ वासियों के उपवास का दूसरा द
+ िन · मार मकारियोस
+DESCRIPTION:देन्हो के बाद के दूसरे 
+ रविवार के बाद मंगलवार · नीन
+ वे वासियों के उपवास का दूसर
+ ा दिन · मार मकारियोस\nयोना 3:1–
+ 10 · रोमियों 12:9–15 · मत्ती 24:37–44\nन
+ ीनवे ने उपवास किया और हिंसा 
+ और बुराई से फिर गया।\n\nपढ़ें 
+ और प्रार्थना करें: https://daily-word-refl
+ ections.github.io/?d=2027-01-19&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के दूसरे रविवार के बाद मंगल
+ वार · नीनवे वासियों के उपवा
+ स का दूसरा दिन · मार मकारियो
+ स
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:देन्हो के बाद के दूसरे रव
+ िवार के बाद बुधवार · नीनवे व
+ ासियों के उपवास का तीसरा दि
+ न · संत सेबस्तियन
+DESCRIPTION:देन्हो के बाद के दूसरे 
+ रविवार के बाद बुधवार · नीनव
+ े वासियों के उपवास का तीसरा 
+ दिन · संत सेबस्तियन\nयोना 2:2–1
+ 1 · 1 थेसलनीकियों 5:1–11 · लूकस 13:1
+ –5\nयोना ने गहराई से प्रार्थ
+ ना की और ईश्वर ने उनकी सुनी।
+ \n\nपढ़ें और प्रार्थना करें: htt
+ ps://daily-word-reflections.github.io/?d=2027-01-20&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के दूसरे रविवार के बाद बुधव
+ ार · नीनवे वासियों के उपवास 
+ का तीसरा दिन · संत सेबस्तिय
+ न
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:देन्हो के बाद के दूसरे रव
+ िवार के बाद गुरुवार · नीनवे 
+ वासियों के उपवास का समापन · 
+ संत आग्नेस
+DESCRIPTION:देन्हो के बाद के दूसरे 
+ रविवार के बाद गुरुवार · नीन
+ वे वासियों के उपवास का समाप
+ न · संत आग्नेस\nलूकस 12:54–59 · उत
+ ्पत्ति 18:22–33\; योशुआ 7:6–13 · योना
+  4:1–11 · स्तोत्र 13 · प्रेरित-चरि
+ त 9:1–9 · गलातियों 1:13–24 · लूकस 11:29
+ –32\nयोना ईश्वर की दया पर क्रु
+ द्ध हुए\; ईश्वर ने उनका हृदय 
+ विशाल किया।\n\nपढ़ें और प्रा
+ र्थना करें: https://daily-word-reflections.github.io/?
+ d=2027-01-21&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के दूसरे रविवार के बाद गुरु
+ वार · नीनवे वासियों के उपवा
+ स का समापन · संत आग्नेस
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:देन्हो के बाद के दूसरे रव
+ िवार के बाद शुक्रवार · प्रे
+ रित मार तिमोथेयोस
+DESCRIPTION:देन्हो के बाद के दूसरे 
+ रविवार के बाद शुक्रवार · प्
+ रेरित मार तिमोथेयोस\n1 तिमथी
+  6:11–16 · मत्ती 5:17–20\nविश्वास की 
+ अच्छी लड़ाई लड़ो।\n\nपढ़ें औ
+ र प्रार्थना करें: https://daily-word-reflect
+ ions.github.io/?d=2027-01-22&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के दूसरे रविवार के बाद शुक्
+ रवार · प्रेरित मार तिमोथेयो
+ स
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:देन्हो के बाद के दूसरे रव
+ िवार के बाद शनिवार
+DESCRIPTION:देन्हो के बाद के दूसरे 
+ रविवार के बाद शनिवार\nइब्रा
+ नियों 8:1–6 · मत्ती 9:32–34\nयेसु ई
+ श्वर की दाहिनी ओर हमारे प्र
+ धान याजक हैं।\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2027-01-23&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: देन्हो के बाद 
+ के दूसरे रविवार के बाद शनिव
+ ार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:कोह्ने रविवार · दिवंगत प
+ ुरोहितों का स्मरण
+DESCRIPTION:कोह्ने रविवार · दिवंगत 
+ पुरोहितों का स्मरण\nलूकस 19:11
+ –27 · गणना 20:22–29 · योशुआ 24:29–33 · प्
+ रवक्ता-ग्रन्थ 45:15–22 · इसायाह 6
+ 5:13–16 · प्रेरित-चरित 20:25–38 · इब्
+ रानियों 13:7–16 · मत्ती 24:45–51\nकोह
+ ्ने रविवार: हम दिवंगत पुरोह
+ ितों को याद करते हैं।\n\nपढ़े
+ ं और प्रार्थना करें: https://daily-word-
+ reflections.github.io/?d=2027-01-24&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-24&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कोह्ने रविवा
+ र · दिवंगत पुरोहितों का स्म
+ रण
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:कोह्ने रविवार के बाद का स
+ ोमवार · संत पौलुस का मन-परिव
+ र्तन
+DESCRIPTION:कोह्ने रविवार के बाद का
+  सोमवार · संत पौलुस का मन-परि
+ वर्तन\nप्रेरित-चरित 9:1–9 · गला
+ तियों 1:13–24 · योहन 17:20–23\nअत्याच
+ ारी साऊल की भेंट पुनर्जीवि
+ त येसु से हुई।\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2027-01-25&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कोह्ने रविवा
+ र के बाद का सोमवार · संत पौलु
+ स का मन-परिवर्तन
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:कोह्ने रविवार के बाद का म
+ ंगलवार · भारत का गणतंत्र दि
+ वस
+DESCRIPTION:कोह्ने रविवार के बाद का
+  मंगलवार · भारत का गणतंत्र द
+ िवस\n2 कुरिन्थियों 3:1–5 · मत्त
+ ी 22:15–22\nतुम हृदयों पर लिखा हु
+ आ मसीह का पत्र हो।\n\nपढ़ें और
+  प्रार्थना करें: https://daily-word-reflection
+ s.github.io/?d=2027-01-26&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कोह्ने रविवा
+ र के बाद का मंगलवार · भारत का
+  गणतंत्र दिवस
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:कोह्ने रविवार के बाद का ब
+ ुधवार
+DESCRIPTION:कोह्ने रविवार के बाद का
+  बुधवार\nएफ़ेसियों 5:22–33 · मत्
+ ती 5:31–32\nमसीह के प्रति श्रद्ध
+ ा के कारण एक-दूसरे के अधीन र
+ हो।\n\nपढ़ें और प्रार्थना कर
+ ें: https://daily-word-reflections.github.io/?d=2027-01-27&r=smk&l=h
+ i
+URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कोह्ने रविवा
+ र के बाद का बुधवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:कोह्ने रविवार के बाद का ग
+ ुरुवार · संत थॉमस अक्विनास
+DESCRIPTION:कोह्ने रविवार के बाद का
+  गुरुवार · संत थॉमस अक्विना
+ स\nइब्रानियों 13:7–16 · योहन 14:1–6\n
+ अपने अगुवों को याद रखो और उन
+ के विश्वास का अनुकरण करो।\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2027-01-28&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कोह्ने रविवा
+ र के बाद का गुरुवार · संत थॉम
+ स अक्विनास
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:कोह्ने रविवार के बाद का श
+ ुक्रवार · अंताकिया के मार इ
+ ग्नातियोस नूरोनो
+DESCRIPTION:कोह्ने रविवार के बाद का
+  शुक्रवार · अंताकिया के मार 
+ इग्नातियोस नूरोनो\nरोमियों
+  12:1–8 · योहन 12:20–26\nयेसु को देखन
+ ा उस गेहूँ के दाने को देखना 
+ है जो मरकर फल लाता है।\n\nपढ़े
+ ं और प्रार्थना करें: https://daily-word-
+ reflections.github.io/?d=2027-01-29&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कोह्ने रविवा
+ र के बाद का शुक्रवार · अंताक
+ िया के मार इग्नातियोस नूरो
+ नो
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:कोह्ने रविवार के बाद का श
+ निवार · फ़ारसी ज्ञानी मार य
+ ाकूब अफ़्रहात
+DESCRIPTION:कोह्ने रविवार के बाद का
+  शनिवार · फ़ारसी ज्ञानी मार 
+ याकूब अफ़्रहात\n2 कुरिन्थिय
+ ों 13:5–8 · मत्ती 12:33–37\nअपने आप क
+ ो जाँचो: मसीह तुम में हैं।\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2027-01-30&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कोह्ने रविवा
+ र के बाद का शनिवार · फ़ारसी ज
+ ्ञानी मार याकूब अफ़्रहात
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:अनीदे रविवार · दिवंगत वि
+ श्वासियों का स्मरण
+DESCRIPTION:अनीदे रविवार · दिवंगत व
+ िश्वासियों का स्मरण\nमत्ती 2
+ 5:31–46 · उत्पत्ति 49:29–33 · 2 मक्काब
+ ियों 12:38–45 · प्रवक्ता-ग्रन्थ 4
+ 1:1–4 · इसायाह 38:9–22 · 2 पेत्रुस 3:8
+ –13 · 1 थेसलनीकियों 4:13–18 · योहन 5
+ :19–29\nअनीदे रविवार: हम सब दिवं
+ गत विश्वासियों को याद करते 
+ हैं।\n\nपढ़ें और प्रार्थना क
+ रें: https://daily-word-reflections.github.io/?d=2027-01-31&r=smk&
+ l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-01-31&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: अनीदे रविवार 
+ · दिवंगत विश्वासियों का स्म
+ रण
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:अनीदे रविवार के बाद का सो
+ मवार
+DESCRIPTION:अनीदे रविवार के बाद का 
+ सोमवार\nकलोसियों 1:9–14 · मत्ती
+  6:9–15\nपौलुस प्रार्थना करते ह
+ ैं कि हम ईश्वर की इच्छा जाने
+ ं और प्रभु के योग्य जीवन बित
+ ाएँ।\n\nपढ़ें और प्रार्थना क
+ रें: https://daily-word-reflections.github.io/?d=2027-02-01&r=smk&
+ l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: अनीदे रविवार 
+ के बाद का सोमवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:मायल्तो · हमारे प्रभु का 
+ मंदिर में प्रवेश
+DESCRIPTION:मायल्तो · हमारे प्रभु क
+ ा मंदिर में प्रवेश\nलूकस 2:22–35
+  · लेवी ग्रंथ 12:1–8 · लेवी ग्रं
+ थ 22:17–25 · 2 समुएल 5:1–5 · इसायाह 11:1
+ –9 · प्रेरित-चरित 24:14–21 · इब्रा
+ नियों 9:11–14 · लूकस 2:22–24\nप्रभु म
+ रियम की बाँहों में अपने मंद
+ िर में प्रवेश करते हैं।\n\nपढ
+ ़ें और प्रार्थना करें: https://daily
+ -word-reflections.github.io/?d=2027-02-02&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-02&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: मायल्तो · हमा
+ रे प्रभु का मंदिर में प्रवे
+ श
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:अनीदे रविवार के बाद का बु
+ धवार · मार शिमोन और मोर्त हन
+ ्ना
+DESCRIPTION:अनीदे रविवार के बाद का 
+ बुधवार · मार शिमोन और मोर्त 
+ हन्ना\nएफ़ेसियों 3:14–21 · लूकस 2
+ :25–38\nशिमोन ने इस्राएल की सां
+ त्वना की प्रतीक्षा की और आत
+ ्मा ने उनका मार्गदर्शन किय
+ ा।\n\nपढ़ें और प्रार्थना करे
+ ं: https://daily-word-reflections.github.io/?d=2027-02-03&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: अनीदे रविवार 
+ के बाद का बुधवार · मार शिमोन 
+ और मोर्त हन्ना
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:अनीदे रविवार के बाद का गु
+ रुवार · संत जॉन डी ब्रिटो
+DESCRIPTION:अनीदे रविवार के बाद का 
+ गुरुवार · संत जॉन डी ब्रिटो\n
+ रोमियों 1:13–17 · मत्ती 7:13–14\nपौल
+ ुस स्वयं को ज्ञानियों और सर
+ ल लोगों\, सब का ऋणी कहते हैं।\
+ n\nपढ़ें और प्रार्थना करें: http
+ s://daily-word-reflections.github.io/?d=2027-02-04&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: अनीदे रविवार 
+ के बाद का गुरुवार · संत जॉन ड
+ ी ब्रिटो
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:अनीदे रविवार के बाद का शु
+ क्रवार
+DESCRIPTION:अनीदे रविवार के बाद का 
+ शुक्रवार\n1 कुरिन्थियों 10:1–13 
+ · योहन 15:18–25\nईश्वर के सब वरदा
+ न होते हुए भी इस्राएल मरुभू
+ मि में गिर पड़ा।\n\nपढ़ें और प
+ ्रार्थना करें: https://daily-word-reflections.gi
+ thub.io/?d=2027-02-05&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: अनीदे रविवार 
+ के बाद का शुक्रवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:अनीदे रविवार के बाद का शन
+ िवार
+DESCRIPTION:अनीदे रविवार के बाद का 
+ शनिवार\n1 तिमथी 6:17–21 · लूकस 12:16–
+ 21\nमूर्ख धनी ने केवल अपने लिए
+  योजना बनाई और ईश्वर को भूल 
+ गया।\n\nपढ़ें और प्रार्थना क
+ रें: https://daily-word-reflections.github.io/?d=2027-02-06&r=smk&
+ l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: अनीदे रविवार 
+ के बाद का शनिवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:कोथिने रविवार · महा उपवा
+ स का पहला रविवार
+DESCRIPTION:कोथिने रविवार · महा उपव
+ ास का पहला रविवार\nयोहन 10:22–30 
+ · उत्पत्ति 9:12–17 · निर्गमन 20:7–22
+  · योएल 2:12–20 · इसायाह 58:6–14 · प्र
+ ेरित-चरित 11:19–26 · कलोसियों 3:5–1
+ 7 · योहन 2:1–11\nहमारा उपवास एक व
+ िवाह से आरंभ होता है: उपवास 
+ उदासी नहीं\, रूपांतरण है।\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-02-07&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-07&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: कोथिने रविवा
+ र · महा उपवास का पहला रविवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:महा उपवास के पहले सप्ताह 
+ का सोमवार · शुबकोनो
+DESCRIPTION:महा उपवास के पहले सप्ता
+ ह का सोमवार · शुबकोनो\nउत्पत
+ ्ति 15:1–6 · एफ़ेसियों 4:25–32 · मत्
+ ती 4:1–11\nअब्राम ने ईश्वर की प्
+ रतिज्ञा पर विश्वास किया और 
+ धार्मिक गिने गए।\n\nपढ़ें और 
+ प्रार्थना करें: https://daily-word-reflections
+ .github.io/?d=2027-02-08&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ हले सप्ताह का सोमवार · शुबक
+ ोनो
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:महा उपवास के पहले सप्ताह 
+ का मंगलवार
+DESCRIPTION:महा उपवास के पहले सप्ता
+ ह का मंगलवार\nउत्पत्ति 15:7–16 · 
+ रोमियों 8:1–11 · योहन 10:11–16\nअब्र
+ ाम ने बलि चढ़ाई और शिकारी पक
+ ्षियों को भगाया।\n\nपढ़ें और 
+ प्रार्थना करें: https://daily-word-reflections
+ .github.io/?d=2027-02-09&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ हले सप्ताह का मंगलवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:महा उपवास के पहले सप्ताह 
+ का बुधवार · सीरो-मलंकरा प्र
+ मुख महाधर्माध्यक्षीय कलीस
+ िया की वर्षगाँठ
+DESCRIPTION:महा उपवास के पहले सप्ता
+ ह का बुधवार · सीरो-मलंकरा प्
+ रमुख महाधर्माध्यक्षीय कली
+ सिया की वर्षगाँठ\nउत्पत्ति 1
+ 5:17–21 · फ़िलिप्पियों 3:12–14 · लूक
+ स 9:18–20\nकेवल ईश्वर टुकड़ों के
+  बीच से गुज़रे: उनका विधान उ
+ नकी विश्वसनीयता पर टिका है
+ ।\n\nपढ़ें और प्रार्थना करें: 
+ https://daily-word-reflections.github.io/?d=2027-02-10&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ हले सप्ताह का बुधवार · सीरो-
+ मलंकरा प्रमुख महाधर्माध्य
+ क्षीय कलीसिया की वर्षगाँठ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:महा उपवास के पहले सप्ताह 
+ का गुरुवार · लूर्द की माता म
+ रियम
+DESCRIPTION:महा उपवास के पहले सप्ता
+ ह का गुरुवार · लूर्द की माता 
+ मरियम\nउत्पत्ति 16:1–6 · कलोसिय
+ ों 3:1–4 · लूकस 1:46–55\nईश्वर के बि
+ ना बनाई गई सारय की योजना ने 
+ उनका घर तोड़ा और हागार को चो
+ ट पहुँचाई।\n\nपढ़ें और प्रार
+ ्थना करें: https://daily-word-reflections.github.io/?d=2
+ 027-02-11&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ हले सप्ताह का गुरुवार · लूर
+ ्द की माता मरियम
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:महा उपवास के पहले सप्ताह 
+ का शुक्रवार
+DESCRIPTION:महा उपवास के पहले सप्ता
+ ह का शुक्रवार\nउत्पत्ति 16:7–16 
+ · रोमियों 2:12–16 · लूकस 12:8–12\nप्र
+ भु के दूत ने निर्जन प्रदेश म
+ ें हागार को पाया\; उसने ईश्व
+ र को देखने वाला ईश्वर कहा।\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2027-02-12&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ हले सप्ताह का शुक्रवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:महा उपवास के पहले सप्ताह 
+ का शनिवार · मार अप्रेम और मा
+ र थियोडोर\; नबी हग्गय
+DESCRIPTION:महा उपवास के पहले सप्ता
+ ह का शनिवार · मार अप्रेम और म
+ ार थियोडोर\; नबी हग्गय\nउत्प
+ त्ति 17:1–8 · इब्रानियों 4:12–14 · म
+ त्ती 7:21–28\nईश्वर ने अब्राम को
+  अपने सामने चलने के लिए बुला
+ या और उन्हें नया नाम दिया\, अ
+ ब्राहम।\n\nपढ़ें और प्रार्थन
+ ा करें: https://daily-word-reflections.github.io/?d=2027-02-13
+ &r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ हले सप्ताह का शनिवार · मार अ
+ प्रेम और मार थियोडोर\; नबी ह
+ ग्गय
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:गर्बो रविवार · कोढ़ी का श
+ ुद्ध होना
+DESCRIPTION:गर्बो रविवार · कोढ़ी का 
+ शुद्ध होना\nमत्ती 8:1–4 · उत्पत
+ ्ति 7:6–16 · 2 राजा 5:1–14 · यिरमिया
+ ह 50:4–7 · इसायाह 33:2–9 · प्रेरित-च
+ रित 9:20–25 · रोमियों 3:27–4:3 · लूकस 
+ 5:12–16\nचालीसा चंगाई का समय है: 
+ चिकित्सक मसीह।\n\nपढ़ें और प
+ ्रार्थना करें: https://daily-word-reflections.gi
+ thub.io/?d=2027-02-14&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-14&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: गर्बो रविवार 
+ · कोढ़ी का शुद्ध होना
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:महा उपवास के दूसरे सप्ता
+ ह का सोमवार
+DESCRIPTION:महा उपवास के दूसरे सप्त
+ ाह का सोमवार\nउत्पत्ति 17:9–14 · 
+ कलोसियों 4:1–6 · मत्ती 6:25–34\nईश्
+ वर ने अब्राहम को ख़तना अपने 
+ विधान के चिह्न के रूप में दि
+ या।\n\nपढ़ें और प्रार्थना कर
+ ें: https://daily-word-reflections.github.io/?d=2027-02-15&r=smk&l=h
+ i
+URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के द
+ ूसरे सप्ताह का सोमवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:महा उपवास के दूसरे सप्ता
+ ह का मंगलवार
+DESCRIPTION:महा उपवास के दूसरे सप्त
+ ाह का मंगलवार\nउत्पत्ति 17:15–22
+  · एफ़ेसियों 2:1–10 · मत्ती 7:15–20\n
+ ईश्वर ने सारय का नाम बदलकर स
+ ारा रखा और अब्राहम को इसहाक 
+ नाम के पुत्र की प्रतिज्ञा द
+ ी।\n\nपढ़ें और प्रार्थना करे
+ ं: https://daily-word-reflections.github.io/?d=2027-02-16&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के द
+ ूसरे सप्ताह का मंगलवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:महा उपवास के दूसरे सप्ता
+ ह का बुधवार
+DESCRIPTION:महा उपवास के दूसरे सप्त
+ ाह का बुधवार\nउत्पत्ति 17:23–27 ·
+  कलोसियों 2:1–5 · मत्ती 8:18–22\nअब
+ ्राहम ने उसी दिन ईश्वर की आज
+ ्ञा मानी।\n\nपढ़ें और प्रार्
+ थना करें: https://daily-word-reflections.github.io/?d=2027
+ -02-17&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के द
+ ूसरे सप्ताह का बुधवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:महा उपवास के दूसरे सप्ता
+ ह का गुरुवार
+DESCRIPTION:महा उपवास के दूसरे सप्त
+ ाह का गुरुवार\nउत्पत्ति 18:1–8 
+ · 2 कुरिन्थियों 6:14–18 · मत्ती 22:1
+ –14\nअब्राहम मामरे में तीन अत
+ िथियों का स्वागत करने दौड़
+ े और उन्हें भोज दिया।\n\nपढ़े
+ ं और प्रार्थना करें: https://daily-word-
+ reflections.github.io/?d=2027-02-18&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के द
+ ूसरे सप्ताह का गुरुवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:महा उपवास के दूसरे सप्ता
+ ह का शुक्रवार · मार इसहाक
+DESCRIPTION:महा उपवास के दूसरे सप्त
+ ाह का शुक्रवार · मार इसहाक\nउ
+ त्पत्ति 18:9–15 · फ़िलिप्पियों 
+ 3:8–11 · योहन 10:27–30\nसारा अविश्वा
+ स में हँसीं\, पर ईश्वर ने पूछ
+ ा: क्या प्रभु के लिए कुछ भी अ
+ संभव है?\n\nपढ़ें और प्रार्थन
+ ा करें: https://daily-word-reflections.github.io/?d=2027-02-19
+ &r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के द
+ ूसरे सप्ताह का शुक्रवार · म
+ ार इसहाक
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:महा उपवास के दूसरे सप्ता
+ ह का शनिवार
+DESCRIPTION:महा उपवास के दूसरे सप्त
+ ाह का शनिवार\nउत्पत्ति 18:16–21 ·
+  तीतुस 3:1–7 · लूकस 12:32–34\nईश्वर न
+ े अब्राहम को इसलिए चुना कि व
+ े अपने घराने को धार्मिकता औ
+ र न्याय करना सिखाएँ।\n\nपढ़े
+ ं और प्रार्थना करें: https://daily-word-
+ reflections.github.io/?d=2027-02-20&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के द
+ ूसरे सप्ताह का शनिवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:म्शारियो रविवार · लकवे क
+ े रोगी की चंगाई
+DESCRIPTION:म्शारियो रविवार · लकवे 
+ के रोगी की चंगाई\nलूकस 5:17–26 · 
+ विधि-विवरण 31:19–30 · प्रवक्ता 9:10
+ –18 · एज़ेकिएल 33:23–33 · इसायाह 5:18
+ –25 · प्रेरित-चरित 5:12–16 · रोमिय
+ ों 5:1–11 · मरकुस 2:1–12\nचार मित्र 
+ लकवे के रोगी को येसु के पास 
+ लाते हैं: विश्वास से हम एक द
+ ूसरे को उठाकर ले जाते हैं।\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2027-02-21&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-21&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: म्शारियो रवि
+ वार · लकवे के रोगी की चंगाई
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:महा उपवास के तीसरे सप्ता
+ ह का सोमवार · अंताकिया में स
+ ंत पेत्रुस की धर्मपीठ
+DESCRIPTION:महा उपवास के तीसरे सप्त
+ ाह का सोमवार · अंताकिया में 
+ संत पेत्रुस की धर्मपीठ\nउत्
+ पत्ति 18:22–33 · इब्रानियों 13:7–16 
+ · मत्ती 24:45–51\nअब्राहम प्रभु क
+ े सामने खड़े रहे और सदोम के 
+ धर्मियों के लिए विनती की।\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2027-02-22&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-22&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के त
+ ीसरे सप्ताह का सोमवार · अंत
+ ाकिया में संत पेत्रुस की धर
+ ्मपीठ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-23-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:महा उपवास के तीसरे सप्ता
+ ह का मंगलवार · स्मिर्ना के स
+ ंत पोलीकार्प
+DESCRIPTION:महा उपवास के तीसरे सप्त
+ ाह का मंगलवार · स्मिर्ना के 
+ संत पोलीकार्प\nउत्पत्ति 19:1–1
+ 1 · रोमियों 5:1–5 · मत्ती 11:28–30\nलू
+ त ने ईश्वर के दूतों को शरण द
+ ी\, और उन्होंने उन्हें हिंसक
+  भीड़ से खींचकर सुरक्षा में 
+ पहुँचाया।\n\nपढ़ें और प्रार्
+ थना करें: https://daily-word-reflections.github.io/?d=2027
+ -02-23&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के त
+ ीसरे सप्ताह का मंगलवार · स्
+ मिर्ना के संत पोलीकार्प
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:महा उपवास के तीसरे सप्ता
+ ह का बुधवार · संत योहन बपतिस
+ ्ता के सिर की प्राप्ति
+DESCRIPTION:महा उपवास के तीसरे सप्त
+ ाह का बुधवार · संत योहन बपति
+ स्ता के सिर की प्राप्ति\nउत्
+ पत्ति 19:12–22 · रोमियों 3:10–20 · मत
+ ्ती 14:1–12\nलूत सदोम में देर कर
+ ते रहे\, पर ईश्वर की दया से स्
+ वर्गदूतों ने उनका हाथ पकड़ 
+ लिया।\n\nपढ़ें और प्रार्थना 
+ करें: https://daily-word-reflections.github.io/?d=2027-02-24&r=s
+ mk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के त
+ ीसरे सप्ताह का बुधवार · संत 
+ योहन बपतिस्ता के सिर की प्र
+ ाप्ति
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:महा उपवास के तीसरे सप्ता
+ ह का गुरुवार · धन्य रानी मार
+ िया
+DESCRIPTION:महा उपवास के तीसरे सप्त
+ ाह का गुरुवार · धन्य रानी मा
+ रिया\nउत्पत्ति 19:23–29 · 2 कुरिन
+ ्थियों 4:7–15 · मत्ती 10:16–25\nलूत क
+ ी पत्नी ने पीछे मुड़कर देखा 
+ और नमक का खंभा बन गई\; ईश्वर न
+ े अब्राहम को याद किया और लूत
+  को बचाया।\n\nपढ़ें और प्रार्
+ थना करें: https://daily-word-reflections.github.io/?d=2027
+ -02-25&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के त
+ ीसरे सप्ताह का गुरुवार · धन
+ ्य रानी मारिया
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:महा उपवास के तीसरे सप्ता
+ ह का शुक्रवार
+DESCRIPTION:महा उपवास के तीसरे सप्त
+ ाह का शुक्रवार\nउत्पत्ति 19:30
+ –38 · रोमियों 2:1–11 · मत्ती 6:5–8\nभ
+ य और अकेलेपन से जकड़े लूत और
+  उनकी बेटियाँ पाप में गिरे\; 
+ फिर भी मोआब से येसु की पूर्व
+ ज रूत आईं।\n\nपढ़ें और प्रार्
+ थना करें: https://daily-word-reflections.github.io/?d=2027
+ -02-26&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के त
+ ीसरे सप्ताह का शुक्रवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:महा उपवास के तीसरे सप्ता
+ ह का शनिवार
+DESCRIPTION:महा उपवास के तीसरे सप्त
+ ाह का शनिवार\nउत्पत्ति 20:1–7 · 
+ रोमियों 2:12–16 · लूकस 12:8–12\nभय के
+  कारण अब्राहम ने सारा को अपन
+ ी बहन कहा\; ईश्वर ने उनकी रक्
+ षा की और अबीमेलेक को पाप से 
+ रोका।\n\nपढ़ें और प्रार्थना 
+ करें: https://daily-word-reflections.github.io/?d=2027-02-27&r=s
+ mk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के त
+ ीसरे सप्ताह का शनिवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:क्नानोइथो रविवार · कनानी
+  स्त्री
+DESCRIPTION:क्नानोइथो रविवार · कना
+ नी स्त्री\nमरकुस 7:24–30 · निर्ग
+ मन 16:1–12 · 1 समूएल 7:10–17 · प्रवक्त
+ ा-ग्रन्थ 10:6–18 · इसायाह 56:1–7 · प
+ ्रेरित-चरित 20:22–32 · रोमियों 7:13
+ –25 · मत्ती 15:21–28\nदृढ़ प्रार्थ
+ ना: जब ईश्वर मौन लगें\, तब भी 
+ माँगते रहें।\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2027-02-28&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-02-28&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: क्नानोइथो रव
+ िवार · कनानी स्त्री
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-01-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:महा उपवास के चौथे सप्ताह 
+ का सोमवार
+DESCRIPTION:महा उपवास के चौथे सप्ता
+ ह का सोमवार\nउत्पत्ति 20:8–18 · 2 
+ थेसलनीकियों 3:16–18 · मत्ती 14:22–3
+ 3\nअब्राहम ने\, जिन्होंने डर क
+ े कारण अबीमेलेक के साथ अन्य
+ ाय किया था\, उनके लिए प्रार्
+ थना की\, और ईश्वर ने उनके घरा
+ ने को चंगा किया।\n\nपढ़ें और प
+ ्रार्थना करें: https://daily-word-reflections.gi
+ thub.io/?d=2027-03-01&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के च
+ ौथे सप्ताह का सोमवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:महा उपवास के चौथे सप्ताह 
+ का मंगलवार
+DESCRIPTION:महा उपवास के चौथे सप्ता
+ ह का मंगलवार\nउत्पत्ति 21:1–8 · 
+ गलातियों 3:26–29 · मत्ती 11:20–24\nईश
+ ्वर ने अपनी प्रतिज्ञा पूरी 
+ की: सारा ने इसहाक को जन्म दि
+ या\, और उसकी हँसी आनंद बन गई।\
+ n\nपढ़ें और प्रार्थना करें: http
+ s://daily-word-reflections.github.io/?d=2027-03-02&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के च
+ ौथे सप्ताह का मंगलवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:उपवास का मध्य दिवस · महा उ
+ पवास के चौथे सप्ताह का बुधव
+ ार · उपवास के मध्य में क्रूस 
+ का उत्थान
+DESCRIPTION:उपवास का मध्य दिवस · महा
+  उपवास के चौथे सप्ताह का बुध
+ वार · उपवास के मध्य में क्रू
+ स का उत्थान\nमत्ती 17:22–27 · गणन
+ ा 21:1–9 · 1 समुएल 7:5–9 · स्तोत्र 34:2
+ –10 · ज़कर्या 12:6–14 · प्रेरित-चर
+ ित 15:22–33 · 1 कुरिन्थियों 10:1–13 · 
+ योहन 3:13–21\nमहा उपवास के मध्य 
+ में कलीसिया पवित्र क्रूस क
+ ो ऊपर उठाती है\; पंचांग इसे ग
+ ोलगोथा की स्थापना कहता है।\n
+ \nपढ़ें और प्रार्थना करें: https
+ ://daily-word-reflections.github.io/?d=2027-03-03&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: उपवास का मध्य 
+ दिवस · महा उपवास के चौथे सप्
+ ताह का बुधवार · उपवास के मध्
+ य में क्रूस का उत्थान
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:महा उपवास के चौथे सप्ताह 
+ का गुरुवार
+DESCRIPTION:महा उपवास के चौथे सप्ता
+ ह का गुरुवार\nउत्पत्ति 21:9–14 · 
+ 1 कुरिन्थियों 8:1–6 · मत्ती 5:43–48
+ \nसारा ने माँग की कि हागार और 
+ इसमाएल को भेज दिया जाए\; अब्
+ राहम दुखी हुए\, और ईश्वर ने उ
+ स बालक से एक जाति बनाने की प
+ ्रतिज्ञा की।\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2027-03-04&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के च
+ ौथे सप्ताह का गुरुवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:महा उपवास के चौथे सप्ताह 
+ का शुक्रवार · हमारे प्रमुख 
+ महाधर्माध्यक्ष-काथोलिकोस 
+ के सिंहासनारोहण की वर्षगाँ
+ ठ
+DESCRIPTION:महा उपवास के चौथे सप्ता
+ ह का शुक्रवार · हमारे प्रमु
+ ख महाधर्माध्यक्ष-काथोलिको
+ स के सिंहासनारोहण की वर्षग
+ ाँठ\nउत्पत्ति 21:15–21 · 1 कुरिन्
+ थियों 16:13–24 · योहन 10:14–16\nमरुभू
+ मि में ईश्वर ने बालक इसमाएल 
+ की आवाज़ सुनी और हागार की आँ
+ खें खोलीं कि वह पानी का कुआँ
+  देख सके।\n\nपढ़ें और प्रार्थ
+ ना करें: https://daily-word-reflections.github.io/?d=2027-03
+ -05&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के च
+ ौथे सप्ताह का शुक्रवार · हम
+ ारे प्रमुख महाधर्माध्यक्ष-
+ काथोलिकोस के सिंहासनारोहण 
+ की वर्षगाँठ
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:महा उपवास के चौथे सप्ताह 
+ का शनिवार
+DESCRIPTION:महा उपवास के चौथे सप्ता
+ ह का शनिवार\nउत्पत्ति 21:22–34 · 1 
+ तिमथी 4:1–5 · लूकस 4:42–44\nअब्राहम
+  और अबीमेलेक ने बएर-शेबा में
+  वाचा बाँधी\, और अब्राहम ने स
+ नातन ईश्वर का नाम लेकर प्रा
+ र्थना की।\n\nपढ़ें और प्रार्
+ थना करें: https://daily-word-reflections.github.io/?d=2027
+ -03-06&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के च
+ ौथे सप्ताह का शनिवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:क्पीफ़्तो रविवार · कुबड़
+ ी स्त्री की चंगाई
+DESCRIPTION:क्पीफ़्तो रविवार · कुब
+ ड़ी स्त्री की चंगाई\nलूकस 10:25
+ –37 · उत्पत्ति 9:1–7 · प्रवक्ता-
+ ग्रन्थ 51:1–10 · यिरमियाह 51:1–9 · इ
+ सायाह 50:1–5 · 1 पेत्रुस 3:8–17 · रो
+ मियों 12:1–15 · लूकस 13:10–17\nयेसु क
+ ुबड़ी स्त्री को देखते हैं औ
+ र उसे मुक्त करते हैं।\n\nपढ़े
+ ं और प्रार्थना करें: https://daily-word-
+ reflections.github.io/?d=2027-03-07&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-07&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: क्पीफ़्तो रव
+ िवार · कुबड़ी स्त्री की चंग
+ ाई
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-08-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:महा उपवास के पाँचवें सप्
+ ताह का सोमवार
+DESCRIPTION:महा उपवास के पाँचवें सप
+ ्ताह का सोमवार\nउत्पत्ति 22:1–
+ 8 · 1 कुरिन्थियों 11:1–10 · लूकस 5:33
+ –39\nईश्वर ने अब्राहम की परीक
+ ्षा ली\; उन्होंने उत्तर दिया
+ \, मैं यहाँ हूँ\, और इसहाक के स
+ ाथ मोरिया की ओर चल पड़े।\n\nपढ
+ ़ें और प्रार्थना करें: https://daily
+ -word-reflections.github.io/?d=2027-03-08&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ ाँचवें सप्ताह का सोमवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:महा उपवास के पाँचवें सप्
+ ताह का मंगलवार · सेबास्ते क
+ े चालीस शहीद
+DESCRIPTION:महा उपवास के पाँचवें सप
+ ्ताह का मंगलवार · सेबास्ते 
+ के चालीस शहीद\nउत्पत्ति 22:9–19 
+ · कलोसियों 1:24–29 · मरकुस 8:31–38\nस
+ ्वर्गदूत ने अब्राहम का हाथ 
+ रोक दिया\; इसहाक के स्थान पर 
+ एक मेढ़ा चढ़ाया गया\, और उस स
+ ्थान का नाम पड़ा: प्रभु जुटा
+ एँगे।\n\nपढ़ें और प्रार्थना 
+ करें: https://daily-word-reflections.github.io/?d=2027-03-09&r=s
+ mk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ ाँचवें सप्ताह का मंगलवार · 
+ सेबास्ते के चालीस शहीद
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:महा उपवास के पाँचवें सप्
+ ताह का बुधवार
+DESCRIPTION:महा उपवास के पाँचवें सप
+ ्ताह का बुधवार\nउत्पत्ति 22:20
+ –24 · 1 तिमथी 5:17–22 · मत्ती 15:32–39\nअ
+ ब्राहम को अपने भाई नाहोर के 
+ परिवार का समाचार मिला\; बतूए
+ ल रिबका का पिता बना।\n\nपढ़ें 
+ और प्रार्थना करें: https://daily-word-refl
+ ections.github.io/?d=2027-03-10&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ ाँचवें सप्ताह का बुधवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:महा उपवास के पाँचवें सप्
+ ताह का गुरुवार
+DESCRIPTION:महा उपवास के पाँचवें सप
+ ्ताह का गुरुवार\nउत्पत्ति 23:1
+ –9 · कलोसियों 1:3–6 · मत्ती 16:1–4\n
+ सारा हेब्रोन में मर गईं\; अब
+ ्राहम ने उनके लिए शोक मनाया 
+ और रोए\, और एक परदेसी के रूप म
+ ें हित्तियों से दफ़नाने का 
+ स्थान माँगा।\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2027-03-11&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ ाँचवें सप्ताह का गुरुवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-12-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:महा उपवास के पाँचवें सप्
+ ताह का शुक्रवार
+DESCRIPTION:महा उपवास के पाँचवें सप
+ ्ताह का शुक्रवार\nउत्पत्ति 2
+ 3:10–16 · एफ़ेसियों 2:11–22 · मरकुस 8:
+ 14–21\nएफ्रोन ने खेत उपहार में 
+ देना चाहा\; अब्राहम ने चार स
+ ौ शेकेल का पूरा मूल्य चुकान
+ े का आग्रह किया।\n\nपढ़ें और प
+ ्रार्थना करें: https://daily-word-reflections.gi
+ thub.io/?d=2027-03-12&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ ाँचवें सप्ताह का शुक्रवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:महा उपवास के पाँचवें सप्
+ ताह का शनिवार
+DESCRIPTION:महा उपवास के पाँचवें सप
+ ्ताह का शनिवार\nउत्पत्ति 23:17
+ –20 · रोमियों 3:27–31 · योहन 15:11–17\nम
+ कपेला का खेत और गुफा अब्राह
+ म की संपत्ति बन गए\, और वहाँ उ
+ न्होंने प्रतिज्ञा के देश म
+ ें सारा को दफ़नाया।\n\nपढ़ें 
+ और प्रार्थना करें: https://daily-word-refl
+ ections.github.io/?d=2027-03-13&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: महा उपवास के प
+ ाँचवें सप्ताह का शनिवार
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-14-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:सामियो रविवार · अंधों की 
+ चंगाई
+DESCRIPTION:सामियो रविवार · अंधों क
+ ी चंगाई\nमरकुस 10:46–52 · विधि-वि
+ वरण 25:13–19 · अय्यूब 42:1–9 · 1 राजाओ
+ ं 3:4–15 · यिरमियाह 51:10–19 · 1 पेत्र
+ ुस 4:12–19 · रोमियों 14:10–23 · योहन 9:1
+ –41\nयेसु संसार की ज्योति हैं:
+  वे अंधी आँखें खोलते हैं।\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-03-14&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-14&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: सामियो रविवा
+ र · अंधों की चंगाई
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-15-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Monday of the sixth week of the Great Fast
+DESCRIPTION:Monday of the sixth week of the Great Fast\nGenesis 24:1–9 
+ · Ephesians 6:18–20 · Mark 11:27–33\nOld Abraham sends his servant
+  to find a wife for Isaac\, trusting God to send his angel ahead.\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-03-15&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Monday of the sixth week of the Grea
+ t Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-16-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Tuesday of the sixth week of the Great Fast
+DESCRIPTION:Tuesday of the sixth week of the Great Fast\nGenesis 24:10–
+ 14 · Colossians 1:24–29 · Mark 9:30–32\nAt the well\, Abraham's se
+ rvant prays for guidance and asks for a girl with a generous heart.\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2027-03-16&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Tuesday of the sixth week of the Gre
+ at Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Wednesday of the sixth week of the Great Fast · St Patrick
+DESCRIPTION:Wednesday of the sixth week of the Great Fast · St Patrick\n
+ Genesis 24:15–27 · Ephesians 5:1–4 · Luke 4:16–19\nRebekah gives
+  water to the servant and\, unasked\, to all his camels\; the servant bl
+ esses God.\n\nपढ़ें और प्रार्थना कर
+ ें: https://daily-word-reflections.github.io/?d=2027-03-17&r=smk&l=h
+ i
+URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Wednesday of the sixth week of the G
+ reat Fast · St Patrick
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Thursday of the sixth week of the Great Fast · Mar Cyril of Jeru
+ salem
+DESCRIPTION:Thursday of the sixth week of the Great Fast · Mar Cyril of 
+ Jerusalem\nGenesis 24:28–41 · Colossians 3:12–17 · Matthew 5:13–
+ 16\nAbraham's servant will not eat until he has told his errand\; he spe
+ aks only of his master.\n\nपढ़ें और प्रार्थ
+ ना करें: https://daily-word-reflections.github.io/?d=2027-03
+ -18&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Thursday of the sixth week of the Gr
+ eat Fast · Mar Cyril of Jerusalem
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:The Fortieth Friday · Mar Yauseph (St Joseph)
+DESCRIPTION:The Fortieth Friday · Mar Yauseph (St Joseph)\nMatthew 4:1
+ –11 · Genesis 3:1–7 · 2 Samuel 24:18–25 · Jeremiah 7:1–7 · I
+ saiah 58:1–8 · 1 Peter 1:13–21 · Romans 14:1–9 · Luke 4:1–13 
+ · Romans 4:16–18 · Matthew 1:18–25\nThe forty days are complete: J
+ esus conquers with the word of God the tempter who overcame Adam.\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-03-19&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: The Fortieth Friday · Mar Yauseph (
+ St Joseph)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Lazarus Saturday · The Saturday of the Raising of Lazarus
+DESCRIPTION:Lazarus Saturday · The Saturday of the Raising of Lazarus\nG
+ enesis 24:50–61 · 1 Corinthians 15:20–28 · John 11:28–44\nJesus 
+ weeps at the tomb of Lazarus and raises him with a loud cry: “Lazarus\
+ , come out!”\n\nपढ़ें और प्रार्थना क
+ रें: https://daily-word-reflections.github.io/?d=2027-03-20&r=smk&
+ l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Lazarus Saturday · The Saturday of 
+ the Raising of Lazarus
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Hosanna Sunday · The Lord's Entry into Jerusalem
+DESCRIPTION:Hosanna Sunday · The Lord's Entry into Jerusalem\nLuke 19:28
+ –40 · Genesis 49:8–15 · 2 Samuel 6:1–7 · Proverbs 16:13–25 ·
+  Zechariah 9:8–17 · Revelation 7:9–12 · Romans 11:17–24 · John 
+ 12:12–19\nHosanna: the humble King enters Jerusalem on a donkey.\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2027-03-21&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-21&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Hosanna Sunday · The Lord's Entry i
+ nto Jerusalem
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-22-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Hasha Monday · Monday of Passion Week
+DESCRIPTION:Hasha Monday · Monday of Passion Week\nIsaiah 28:5–13 · H
+ ebrews 1:10–14 · Matthew 21:23–27\nGod offered his people rest\, bu
+ t their leaders would not hear.\n\nपढ़ें और प्रा
+ र्थना करें: https://daily-word-reflections.github.io/?
+ d=2027-03-22&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Hasha Monday · Monday of Passion We
+ ek
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-23-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Hasha Tuesday · Tuesday of Passion Week
+DESCRIPTION:Hasha Tuesday · Tuesday of Passion Week\nDeuteronomy 31:14
+ –30 · Hebrews 4:1–5 · John 12:27–36\nBefore his death Moses comm
+ issioned Joshua: be strong and bold\; I will be with you.\n\nपढ़
+ ें और प्रार्थना करें: https://daily-wo
+ rd-reflections.github.io/?d=2027-03-23&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Hasha Tuesday · Tuesday of Passion 
+ Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Hasha Wednesday · Wednesday of Passion Week
+DESCRIPTION:Hasha Wednesday · Wednesday of Passion Week\nEzekiel 21:28
+ –32 · Hebrews 9:23–28 · Matthew 26:14–16\nJudas\, one of the twe
+ lve\, sold Jesus for thirty pieces of silver.\n\nपढ़ें और 
+ प्रार्थना करें: https://daily-word-reflections
+ .github.io/?d=2027-03-24&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Hasha Wednesday · Wednesday of Pass
+ ion Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-25-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Pesaha · The Lord's Supper
+DESCRIPTION:Pesaha · The Lord's Supper\nJohn 7:37–53 · Exodus 12:1–
+ 11 · Leviticus 16:3–10 · Proverbs 1:10–19 · Isaiah 24:16–23 · 
+ Revelation 19:5–16 · 1 Corinthians 11:23–34 · Luke 22:14–30\nOn 
+ this night Jesus gave us the Holy Qurbono.\n\nपढ़ें और प
+ ्रार्थना करें: https://daily-word-reflections.gi
+ thub.io/?d=2027-03-25&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Pesaha · The Lord's Supper
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Good Friday · The Passion and Death of our Lord
+DESCRIPTION:Good Friday · The Passion and Death of our Lord\nReadings of
+  the Hours of Good Friday · Matthew 26–27\; Mark 14–15\; Luke 22–
+ 23\; John 18–19\n“He was wounded for our transgressions.”\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-03-26&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Good Friday · The Passion and Death
+  of our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Holy Saturday · The Lord Rests in the Tomb
+DESCRIPTION:Holy Saturday · The Lord Rests in the Tomb\nAmos 6:10–14 (
+ as printed) · Romans 6:1–11 · Matthew 27:62–66\nHoly Saturday: the
+  great silence\; the Lord rests in the tomb.\n\nपढ़ें और 
+ प्रार्थना करें: https://daily-word-reflections
+ .github.io/?d=2027-03-27&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Holy Saturday · The Lord Rests in t
+ he Tomb
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-28-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Qyomtho · The Resurrection of our Lord
+DESCRIPTION:Qyomtho · The Resurrection of our Lord\nMatthew 28:1–10 ·
+  Exodus 40:17–23 · Sirach 30:21–25 · Daniel 6:18–24 · Isaiah 57
+ :14–21 · Acts 2:29–36 · 1 Corinthians 15:1–11 · John 20:1–10\
+ nChrist is risen: “He is not here\; he has been raised.”\n\nपढ
+ ़ें और प्रार्थना करें: https://daily
+ -word-reflections.github.io/?d=2027-03-28&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-28&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Qyomtho · The Resurrection of our L
+ ord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-29-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Monday of Hevoro week · Easter Monday
+DESCRIPTION:Monday of Hevoro week · Easter Monday\nRomans 7:1–6 · Mat
+ thew 28:11–15\nThe guards were paid to say that the body had been stol
+ en\; the tomb was empty because Christ was raised.\n\nपढ़ें 
+ और प्रार्थना करें: https://daily-word-refl
+ ections.github.io/?d=2027-03-29&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Monday of Hevoro week · Easter Mond
+ ay
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-30-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Tuesday of Hevoro week · Easter Tuesday
+DESCRIPTION:Tuesday of Hevoro week · Easter Tuesday\n1 Corinthians 5:6
+ –8 · Mark 4:21–25\nChrist our paschal lamb has been sacrificed\; le
+ t us keep the feast with sincerity and truth.\n\nपढ़ें और 
+ प्रार्थना करें: https://daily-word-reflections
+ .github.io/?d=2027-03-30&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Tuesday of Hevoro week · Easter Tue
+ sday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Wednesday of Hevoro week · Easter Wednesday
+DESCRIPTION:Wednesday of Hevoro week · Easter Wednesday\n1 Timothy 1:18
+ –20 · Mark 10:17–27\nPaul charges Timothy: fight the good fight wit
+ h faith and a good conscience.\n\nपढ़ें और प्रार
+ ्थना करें: https://daily-word-reflections.github.io/?d=2
+ 027-03-31&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Wednesday of Hevoro week · Easter W
+ ednesday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-04-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:New Sunday · The Lord Appears to Thomas
+DESCRIPTION:New Sunday · The Lord Appears to Thomas\nJohn 20:19–23 · 
+ Genesis 41:37–45 · 2 Kings 2:1–12 · Wisdom 3:1–9 · Isaiah 40:9
+ –15 · 1 Peter 1:3–12 · 2 Timothy 2:1–13 · John 20:19–29\nThe 
+ risen Lord gives peace\, mission\, the Spirit and forgiveness.\n\nपढ
+ ़ें और प्रार्थना करें: https://daily
+ -word-reflections.github.io/?d=2027-04-04&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-04-04&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: New Sunday · The Lord Appears to Th
+ omas
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-11-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Second Sunday after Qyomtho
+DESCRIPTION:Second Sunday after Qyomtho\nJohn 21:15–19 · Exodus 15:1
+ –8 · Wisdom 1:12–16 · Joshua 6:8–14 · Isaiah 63:1–6 · Acts 1
+ 3:26–41 · Ephesians 6:18–24 · John 21:1–14\nThe risen Lord meets
+  us in our empty nights.\n\nपढ़ें और प्रार्थ
+ ना करें: https://daily-word-reflections.github.io/?d=2027-04
+ -11&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-04-11&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Second Sunday after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-18-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Third Sunday after Qyomtho · The Road to Emmaus
+DESCRIPTION:Third Sunday after Qyomtho · The Road to Emmaus\nMark 16:9
+ –13 · Exodus 40:1–15 · Joshua 2:1–14 · Amos 4:6–13 · Isaiah 
+ 65:1–7 · Acts 4:5–22 · Ephesians 2:1–10 · Luke 24:13–35\nJesu
+ s walks with us even when we do not recognise him.\n\nपढ़ें 
+ और प्रार्थना करें: https://daily-word-refl
+ ections.github.io/?d=2027-04-18&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-04-18&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Third Sunday after Qyomtho · The Ro
+ ad to Emmaus
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-25-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Fourth Sunday after Qyomtho
+DESCRIPTION:Fourth Sunday after Qyomtho\nMatthew 28:16–20 · Exodus 34:
+ 10–17 · Job 42:7–17 · 1 Kings 3:4–15 · Isaiah 49:8–13 · Acts
+  10:34–43 · 2 Corinthians 5:17–21 · Luke 24:36–49\nThe risen Lor
+ d is real: “Touch me and see.”\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2027-04-25&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-04-25&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Fourth Sunday after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-02-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Fifth Sunday after Qyomtho
+DESCRIPTION:Fifth Sunday after Qyomtho\nJohn 16:12–15 · Deuteronomy 16
+ :10–12 · 2 Samuel 5:9–12 · Proverbs 10:1–13 · Isaiah 28:23–29
+  · Acts 13:44–52 · Colossians 3:1–11 · John 16:16–24\n“Your p
+ ain will turn into joy”: Easter joy is born through the Cross.\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-05-02&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-05-02&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Fifth Sunday after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-06-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Suloko · The Ascension of our Lord
+DESCRIPTION:Suloko · The Ascension of our Lord\nMark 16:14–20 · Deute
+ ronomy 10:1–5 · 2 Kings 2:9–15 · Jeremiah 31:31–34 · Isaiah 49:
+ 1–7 · Acts 1:6–11 · Ephesians 4:7–16 · Luke 24:50–53\nJesus a
+ scends with hands raised in blessing.\n\nपढ़ें और प्
+ रार्थना करें: https://daily-word-reflections.githu
+ b.io/?d=2027-05-06&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-05-06&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Suloko · The Ascension of our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-09-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Sixth Sunday after Qyomtho
+DESCRIPTION:Sixth Sunday after Qyomtho\nJohn 17:1–5 · Exodus 6:1–8 
+ · Joshua 1:5–9 · Wisdom 12:1–11 · Isaiah 44:21–28 · Acts 1:12
+ –14 · Ephesians 1:15–23 · John 16:5–11\n“It is to your advanta
+ ge that I go away”: the Spirit will make Christ present everywhere.\n\
+ nपढ़ें और प्रार्थना करें: https:
+ //daily-word-reflections.github.io/?d=2027-05-09&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-05-09&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Sixth Sunday after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-16-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:The Sunday of Pentecost
+DESCRIPTION:The Sunday of Pentecost\nJohn 14:25–31 · Numbers 11:16–3
+ 5 · Joshua 18:1–7 · 1 Samuel 10:9–16 · Ezekiel 36:22–38 · Acts
+  2:1–13 · 1 Corinthians 12:1–11 · John 14:15–24\nPentecost: the 
+ Spirit comes as wind and fire\; the Church is born into mission.\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-05-16&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-05-16&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: The Sunday of Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-23-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:First Sunday after Pentecost
+DESCRIPTION:First Sunday after Pentecost\nLuke 8:4–15 · Exodus 12:31
+ –42 · Joshua 5:9–12 · Micah 3:8–10 · Jeremiah 29:10–16 · Act
+ s 17:10–15 · Galatians 5:16–26 · John 6:25–33\nAfter Pentecost: 
+ the Spirit bears fruit in us.\n\nपढ़ें और प्रार
+ ्थना करें: https://daily-word-reflections.github.io/?d=2
+ 027-05-23&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-05-23&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: First Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-30-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Second Sunday after Pentecost
+DESCRIPTION:Second Sunday after Pentecost\nLuke 6:12–23 · Leviticus 19
+ :1–8 · 2 Samuel 5:1–10 · Baruch 1:2–8 · Daniel 6:25–28 · Act
+ s 2:14–21 · Romans 8:1–11 · Matthew 10:38–42\nThe Spirit is pour
+ ed out on all who call on the Lord.\n\nपढ़ें और प्र
+ ार्थना करें: https://daily-word-reflections.github.i
+ o/?d=2027-05-30&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-05-30&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Second Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-06-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Third Sunday after Pentecost
+DESCRIPTION:Third Sunday after Pentecost\nMark 6:4–13 · Genesis 42:18
+ –25 · Judges 1:8–11 · Daniel 3:1–18 · Jeremiah 3:1–5 · Acts 
+ 13:26–41 · Galatians 6:10–15 · John 6:35–46\n“I am the bread o
+ f life”: whoever comes to Jesus will never hunger.\n\nपढ़ें 
+ और प्रार्थना करें: https://daily-word-refl
+ ections.github.io/?d=2027-06-06&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-06-06&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Third Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-13-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Fourth Sunday after Pentecost
+DESCRIPTION:Fourth Sunday after Pentecost\nLuke 10:1–16 · Deuteronomy 
+ 33:23–29 · Joshua 6:14–18 · Psalm 15:1–5 · Isaiah 65:8–12 · 
+ Acts 6:1–7 · 1 Corinthians 10:14–22 · Luke 10:17–20\nBefore send
+ ing the seventy\, Jesus asks them to pray for laborers.\n\nपढ़े
+ ं और प्रार्थना करें: https://daily-word-
+ reflections.github.io/?d=2027-06-13&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-06-13&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Fourth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-20-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Fifth Sunday after Pentecost
+DESCRIPTION:Fifth Sunday after Pentecost\nMark 9:30–37 · Exodus 23:14
+ –19 · Zechariah 6:1–8 · Hosea 14:5–9 · Isaiah 40:27–31 · Act
+ s 9:10–19 · 2 Corinthians 6:14–18 · Luke 9:10–17\n“You give th
+ em something to eat”: Christ feeds his people through his disciples.\n
+ \nपढ़ें और प्रार्थना करें: https
+ ://daily-word-reflections.github.io/?d=2027-06-20&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-06-20&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Fifth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-27-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Sixth Sunday after Pentecost
+DESCRIPTION:Sixth Sunday after Pentecost\nLuke 17:1–10 · Exodus 30:34
+ –38 · 2 Samuel 3:17–21 · Psalm 20:1–9 · Isaiah 14:22–27 · Ac
+ ts 17:22–34 · 1 Corinthians 12:12–26 · Luke 15:1–7\nThe Good She
+ pherd searches for the lost one\; heaven rejoices over one sinner who re
+ pents.\n\nपढ़ें और प्रार्थना करे
+ ं: https://daily-word-reflections.github.io/?d=2027-06-27&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-06-27&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Sixth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-29-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Sts Peter and Paul\, Apostles
+DESCRIPTION:Sts Peter and Paul\, Apostles\nMatthew 16:13–20 · Genesis 
+ 12:1–8 · Proverbs 13:1–9 · Daniel 1:1–9 · Isaiah 43:1–7 · Ac
+ ts 12:6–19 · 2 Timothy 4:6–10 · John 21:15–19\n“You are Peter\
+ , and on this rock I will build my church.”\n\nपढ़ें और 
+ प्रार्थना करें: https://daily-word-reflections
+ .github.io/?d=2027-06-29&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-06-29&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Sts Peter and Paul\, Apostles
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-03-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Dukrono of St Thomas the Apostle
+DESCRIPTION:Dukrono of St Thomas the Apostle\nJohn 14:1–6 · Genesis 12
+ :1–9 · Proverbs 4:10–18 · Job 23:1–7 · Isaiah 52:1–15 · 1 Pe
+ ter 2:15–17 · 1 Corinthians 4:15–21 · John 20:19–29\nThomas move
+ d from doubt to the greatest confession: “My Lord and my God!”\n\n
+ पढ़ें और प्रार्थना करें: https:/
+ /daily-word-reflections.github.io/?d=2027-07-03&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-07-03&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Dukrono of St Thomas the Apostle
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-04-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Seventh Sunday after Pentecost
+DESCRIPTION:Seventh Sunday after Pentecost\nMatthew 12:30–37 · Levitic
+ us 16:29–34 · 1 Samuel 4:18–22 · Hosea 5:1–5 · Isaiah 57:14–2
+ 1 · Acts 4:23–31 · Ephesians 2:11–22 · Mark 3:20–30\n“A house
+  divided against itself cannot stand”: Satan divides\, Christ unites.\
+ n\nपढ़ें और प्रार्थना करें: http
+ s://daily-word-reflections.github.io/?d=2027-07-04&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-07-04&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Seventh Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-11-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Eighth Sunday after Pentecost
+DESCRIPTION:Eighth Sunday after Pentecost\nMark 4:1–12 · Exodus 3:9–
+ 15 · Job 23:1–7 · Jeremiah 7:21–25 · Isaiah 65:13–16 · 1 Peter
+  2:4–10 · Hebrews 4:12–16 · Mark 4:1–20\n“The word of God is l
+ iving and active”: Christ speaks when the Gospel is proclaimed.\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-07-11&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-07-11&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Eighth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-15-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Commemoration of Archbishop Mar Ivanios
+DESCRIPTION:Commemoration of Archbishop Mar Ivanios\nMatthew 25:14–30 
+ · Exodus 3:9–12 · Deuteronomy 34:1–8 · Sirach 7:29–36 · Isaiah
+  65:13–16 · Acts 20:25–35 · Hebrews 13:7–16 · Matthew 24:45–5
+ 1\n“Remember your leaders… imitate their faith.”\n\nपढ़े
+ ं और प्रार्थना करें: https://daily-word-
+ reflections.github.io/?d=2027-07-15&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-07-15&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Commemoration of Archbishop Mar Ivan
+ ios
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-18-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Ninth Sunday after Pentecost
+DESCRIPTION:Ninth Sunday after Pentecost\nMatthew 13:24–35 · Deuterono
+ my 4:1–6 · Sirach 13:1–7 · Psalm 22:1–11 · Isaiah 24:1–5 · A
+ cts 28:11–22 · 1 Corinthians 6:1–11 · Luke 14:7–11\n“Those who
+  humble themselves will be exalted”: let God choose our place.\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-07-18&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-07-18&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Ninth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-25-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Tenth Sunday after Pentecost
+DESCRIPTION:Tenth Sunday after Pentecost\nLuke 9:12–17 · Exodus 15:23
+ –27 · Job 42:7–17 · Psalm 112:1–10 · Isaiah 57:14–21 · Acts 
+ 28:23–30 · Romans 10:5–13 · Matthew 18:1–14\n“Unless you chang
+ e and become like children\, you will never enter the kingdom.”\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-07-25&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-07-25&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Tenth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-01-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Eleventh Sunday after Pentecost · Sunday School Day
+DESCRIPTION:Eleventh Sunday after Pentecost · Sunday School Day\nMatthew
+  18:15–20 · Leviticus 19:13–18 · Joshua 23:7–14 · Malachi 4:1
+ –6 · Sirach 7:29–36 · James 2:14–26 · 1 Corinthians 14:26–33 
+ · Mark 6:7–13\nSunday School Day: faith is handed on person to person
+ .\n\nपढ़ें और प्रार्थना करें: ht
+ tps://daily-word-reflections.github.io/?d=2027-08-01&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-08-01&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Eleventh Sunday after Pentecost · S
+ unday School Day
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-06-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:The Transfiguration of Our Lord
+DESCRIPTION:The Transfiguration of Our Lord\nMatthew 17:1–8 · Exodus 1
+ 9:24–20:6 · Deuteronomy 16:13–17 · Psalm 24:1–10 · Isaiah 60:8
+ –14 · 2 Peter 1:16–21 · Romans 11:25–36 · Luke 9:28–36\nJesus
+  is transfigured while praying\; the Law and the Prophets speak of his C
+ ross.\n\nपढ़ें और प्रार्थना करें
+ : https://daily-word-reflections.github.io/?d=2027-08-06&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-08-06&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: The Transfiguration of Our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-08-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:First Sunday after the Transfiguration
+DESCRIPTION:First Sunday after the Transfiguration\nMark 4:21–34 · Deu
+ teronomy 25:13–16 · 1 Samuel 2:31–36 · 1 Kings 18:36–46 · Ezeki
+ el 7:1–4 · James 4:7–10 · Philippians 4:8–20 · Matthew 21:28–
+ 32\nThe two sons: obedience counts more than words.\n\nपढ़ें 
+ और प्रार्थना करें: https://daily-word-refl
+ ections.github.io/?d=2027-08-08&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-08-08&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: First Sunday after the Transfigurati
+ on
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-15-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Shunoyo: the Assumption of Mary\, Mother of God
+DESCRIPTION:Shunoyo: the Assumption of Mary\, Mother of God\nMatthew 12:4
+ 6–50 · Genesis 3:14–18 · Joshua 4:1–14 · Psalm 45:9–17 · Isa
+ iah 45:9–19 · Acts 7:44–53 · Hebrews 9:1–12 · John 19:25–27\n
+ Mary\, having completed her earthly life\, was assumed body and soul int
+ o heaven.\n\nपढ़ें और प्रार्थना कर
+ ें: https://daily-word-reflections.github.io/?d=2027-08-15&r=smk&l=h
+ i
+URL:https://daily-word-reflections.github.io/?d=2027-08-15&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Shunoyo: the Assumption of Mary\, Mo
+ ther of God
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-22-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Third Sunday after the Transfiguration
+DESCRIPTION:Third Sunday after the Transfiguration\nLuke 11:5–13 · Gen
+ esis 6:1–12 · Ecclesiastes 5:1–7 · Sirach 4:1–10 · Isaiah 43:1
+ –7 · 2 Peter 3:1–7 · 2 Corinthians 12:1–10 · Luke 18:9–14\nTh
+ e tax collector\, not the proud Pharisee\, went home justified.\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-08-22&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-08-22&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Third Sunday after the Transfigurati
+ on
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-29-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Fourth Sunday after the Transfiguration
+DESCRIPTION:Fourth Sunday after the Transfiguration\nMatthew 20:20–28 
+ · Deuteronomy 18:1–8 · 2 Chronicles 19:8–11 · Psalm 119:1–8 · 
+ Ezekiel 47:1–12 · 1 Peter 4:1–11 · Philippians 2:1–11 · Mark 10
+ :35–45\nThe mother of James and John asked for high seats\; Jesus offe
+ red his cup.\n\nपढ़ें और प्रार्थना क
+ रें: https://daily-word-reflections.github.io/?d=2027-08-29&r=smk&
+ l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-08-29&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Fourth Sunday after the Transfigurat
+ ion
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-05-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Fifth Sunday after the Transfiguration
+DESCRIPTION:Fifth Sunday after the Transfiguration\nLuke 18:1–8 · Deut
+ eronomy 9:25–29 · 1 Samuel 12:16–25 · Proverbs 16:1–9 · Isaiah 
+ 40:1–11 · James 1:2–8 · Hebrews 13:5–6 · Luke 18:18–30\nThe r
+ ich ruler lacked one thing: a free heart to follow Jesus.\n\nपढ़
+ ें और प्रार्थना करें: https://daily-wo
+ rd-reflections.github.io/?d=2027-09-05&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-09-05&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Fifth Sunday after the Transfigurati
+ on
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-08-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Nativity of Mary\, Mother of God
+DESCRIPTION:Nativity of Mary\, Mother of God\nMark 3:31–35 · Genesis 3
+ :8–15 · Song of Songs 4:1–9 · Psalm 45:9–15 · Isaiah 7:1–15 
+ · Revelation 12:1–12 · Romans 6:1–11 · John 19:25–27\nMary's bi
+ rth is the dawn before the Sun of Justice\, Christ.\n\nपढ़ें 
+ और प्रार्थना करें: https://daily-word-refl
+ ections.github.io/?d=2027-09-08&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-09-08&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Nativity of Mary\, Mother of God
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-14-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Exaltation of the Holy Cross (Sleebo)
+DESCRIPTION:Exaltation of the Holy Cross (Sleebo)\nMatthew 24:29–36 · 
+ Genesis 48:13–20 · Numbers 21:4–9 · 1 Samuel 17:37–51 · Isaiah 
+ 65:1–7 · Acts 13:26–39 · Galatians 3:1–14 · Luke 21:5–28\nThe
+  Cross\, sign of shame\, has become the sign of victory and love.\n\nप
+ ढ़ें और प्रार्थना करें: https://da
+ ily-word-reflections.github.io/?d=2027-09-14&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-09-14&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: Exaltation of the Holy Cross (Sleebo
+ )
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-19-smk-hi@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:First Sunday after Sleebo
+DESCRIPTION:First Sunday after Sleebo\nLuke 17:20–35 · Genesis 42:1–
+ 8 · Hosea 5:1–7 · Daniel 4:1–9 · Isaiah 57:14–21 · Acts 3:21
+ –26 · 1 Corinthians 2:10–15 · Mark 13:28–37\n“Keep alert\; for
+  you do not know when the time will come.”\n\nपढ़ें और 
+ प्रार्थना करें: https://daily-word-reflections
+ .github.io/?d=2027-09-19&r=smk&l=hi
+URL:https://daily-word-reflections.github.io/?d=2027-09-19&r=smk&l=hi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:कल का वचन: First Sunday after Sleebo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

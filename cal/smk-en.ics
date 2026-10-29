@@ -1,0 +1,3524 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daily Word//daily-word-reflections.github.io//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Daily Word · Syro-Malankara
+X-WR-TIMEZONE:Asia/Kolkata
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:2026-11-01-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Qudos Eetho Sunday · Sanctification of the Church
+DESCRIPTION:Qudos Eetho Sunday · Sanctification of the Church\nMark 8:27
+ –30 · Exodus 10:1–5 (as printed\; see note) · 1 Kings 6:1–8 · E
+ zekiel 10:1–5\, 18–22 · Isaiah 6:1–8 · 1 Peter 2:1–12 · Ephes
+ ians 2:14–22 · Matthew 16:13–23\nOur liturgical year begins with th
+ e Church: God's dwelling among his people.\n\nRead and pray: https://dai
+ ly-word-reflections.github.io/?d=2026-11-01&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-01&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Qudos Eetho Sunday · Sanctification of the 
+ Church
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Monday after Qudos Eetho Sunday
+DESCRIPTION:Monday after Qudos Eetho Sunday\n1 Thessalonians 4:1–8 · M
+ atthew 5:1–12\nGod's will is our holiness.\n\nRead and pray: https://d
+ aily-word-reflections.github.io/?d=2026-11-02&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-02&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after Qudos Eetho Sunday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Tuesday after Qudos Eetho Sunday · The 318 Fathers of Nicaea
+DESCRIPTION:Tuesday after Qudos Eetho Sunday · The 318 Fathers of Nicaea
+ \nHebrews 13:7–16 · Matthew 24:45–51\nRemember your leaders and imi
+ tate their faith.\n\nRead and pray: https://daily-word-reflections.githu
+ b.io/?d=2026-11-03&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after Qudos Eetho Sunday · The 318 
+ Fathers of Nicaea
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Wednesday after Qudos Eetho Sunday
+DESCRIPTION:Wednesday after Qudos Eetho Sunday\n1 Corinthians 4:6–14 ·
+  Luke 6:37–42\nAll we have is gift.\n\nRead and pray: https://daily-wo
+ rd-reflections.github.io/?d=2026-11-04&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after Qudos Eetho Sunday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Thursday after Qudos Eetho Sunday
+DESCRIPTION:Thursday after Qudos Eetho Sunday\nHebrews 12:4–11 · John 
+ 5:19–23\nGod disciplines those he loves.\n\nRead and pray: https://dai
+ ly-word-reflections.github.io/?d=2026-11-05&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after Qudos Eetho Sunday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Friday after Qudos Eetho Sunday
+DESCRIPTION:Friday after Qudos Eetho Sunday\n1 Timothy 6:17–19 · Luke 
+ 7:36–50\nHope in God\, not in riches.\n\nRead and pray: https://daily-
+ word-reflections.github.io/?d=2026-11-06&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after Qudos Eetho Sunday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Saturday after Qudos Eetho Sunday · The 33 Martyrs of Melitene
+DESCRIPTION:Saturday after Qudos Eetho Sunday · The 33 Martyrs of Melite
+ ne\n1 Corinthians 1:10–17 · John 12:20–22\nChrist is not divided.\n
+ \nRead and pray: https://daily-word-reflections.github.io/?d=2026-11-07&
+ r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after Qudos Eetho Sunday · The 33 
+ Martyrs of Melitene
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Hudos Eetho Sunday · Renewal of the Church
+DESCRIPTION:Hudos Eetho Sunday · Renewal of the Church\nMark 11:15–17 
+ · Exodus 32:1–14 · 1 Kings 8:22–30 · Jeremiah 31:10–14\, 22–2
+ 6 · Isaiah 55:1–13 · Revelation 3:14–22 · Hebrews 9:1–14 · Joh
+ n 2:13–22\nThe Church is holy and always in need of renewal.\n\nRead a
+ nd pray: https://daily-word-reflections.github.io/?d=2026-11-08&r=smk&l=
+ en
+URL:https://daily-word-reflections.github.io/?d=2026-11-08&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Hudos Eetho Sunday · Renewal of the Church
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Monday after Hudos Eetho Sunday · St Theodore
+DESCRIPTION:Monday after Hudos Eetho Sunday · St Theodore\nHebrews 4:6
+ –11 · Matthew 18:10–14\nToday\, listen to his voice.\n\nRead and pr
+ ay: https://daily-word-reflections.github.io/?d=2026-11-09&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after Hudos Eetho Sunday · St Theodo
+ re
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Tuesday after Hudos Eetho Sunday · The Prophet Samuel\; St Leo t
+ he Great
+DESCRIPTION:Tuesday after Hudos Eetho Sunday · The Prophet Samuel\; St L
+ eo the Great\n1 Timothy 6:1–2 · Matthew 20:1–16\nHonest work is a w
+ itness to Christ.\n\nRead and pray: https://daily-word-reflections.githu
+ b.io/?d=2026-11-10&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after Hudos Eetho Sunday · The Prop
+ het Samuel\; St Leo the Great
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Wednesday after Hudos Eetho Sunday
+DESCRIPTION:Wednesday after Hudos Eetho Sunday\nEphesians 2:14–22 · Ma
+ tthew 9:14–17\nChrist broke down the dividing wall.\n\nRead and pray: 
+ https://daily-word-reflections.github.io/?d=2026-11-11&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after Hudos Eetho Sunday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Thursday after Hudos Eetho Sunday · St John the Almsgiver
+DESCRIPTION:Thursday after Hudos Eetho Sunday · St John the Almsgiver\nE
+ phesians 1:15–23 · Mark 4:26–29\nGod's kingdom grows quietly by his
+  power.\n\nRead and pray: https://daily-word-reflections.github.io/?d=20
+ 26-11-12&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after Hudos Eetho Sunday · St John
+  the Almsgiver
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Friday after Hudos Eetho Sunday · St John Chrysostom
+DESCRIPTION:Friday after Hudos Eetho Sunday · St John Chrysostom\n1 Cori
+ nthians 2:6–15 · Matthew 13:44–52\nThe kingdom is worth everything.
+ \n\nRead and pray: https://daily-word-reflections.github.io/?d=2026-11-1
+ 3&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after Hudos Eetho Sunday · St John C
+ hrysostom
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Saturday after Hudos Eetho Sunday · Mar Philipose Shleeha (St Ph
+ ilip the Apostle)
+DESCRIPTION:Saturday after Hudos Eetho Sunday · Mar Philipose Shleeha (S
+ t Philip the Apostle)\n1 Corinthians 4:1–5 · John 14:7–14\nStewards
+  must be trustworthy.\n\nRead and pray: https://daily-word-reflections.g
+ ithub.io/?d=2026-11-14&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after Hudos Eetho Sunday · Mar Phi
+ lipose Shleeha (St Philip the Apostle)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Sunday of the Message to Zechariah
+DESCRIPTION:Sunday of the Message to Zechariah\nLuke 1:1–17 · Genesis 
+ 17:15–22 · Ruth 1:11–18 · 1 Samuel 1:9–17 · Isaiah 41:8–17 ·
+  2 Peter 1:3–11 · Romans 4:13–25 · Luke 1:5–25\nSuboro begins: t
+ he season of the good news.\n\nRead and pray: https://daily-word-reflect
+ ions.github.io/?d=2026-11-15&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-15&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Sunday of the Message to Zechariah
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Monday after the Sunday of the Message to Zechariah · Mar Mathai
+  Shleeha (St Matthew the Apostle)
+DESCRIPTION:Monday after the Sunday of the Message to Zechariah · Mar Ma
+ thai Shleeha (St Matthew the Apostle)\nEphesians 4:1–6 · Matthew 9:9
+ –13\nJesus calls the despised to follow him.\n\nRead and pray: https:/
+ /daily-word-reflections.github.io/?d=2026-11-16&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after the Sunday of the Message to Ze
+ chariah · Mar Mathai Shleeha (St Matthew the Apostle)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Tuesday after the Sunday of the Message to Zechariah
+DESCRIPTION:Tuesday after the Sunday of the Message to Zechariah\nRomans 
+ 11:17–24 · Matthew 9:1–8\nFriends' faith brought the paralytic to J
+ esus.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2026
+ -11-17&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after the Sunday of the Message to Z
+ echariah
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Wednesday after the Sunday of the Message to Zechariah
+DESCRIPTION:Wednesday after the Sunday of the Message to Zechariah\n2 Tim
+ othy 4:19–22 · Matthew 23:37–39\nPaul's last words remember friends
+  by name.\n\nRead and pray: https://daily-word-reflections.github.io/?d=
+ 2026-11-18&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after the Sunday of the Message to
+  Zechariah
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Thursday after the Sunday of the Message to Zechariah
+DESCRIPTION:Thursday after the Sunday of the Message to Zechariah\nEphesi
+ ans 6:1–4 · Matthew 23:1–12\nHonour father and mother.\n\nRead and 
+ pray: https://daily-word-reflections.github.io/?d=2026-11-19&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after the Sunday of the Message to 
+ Zechariah
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Friday after the Sunday of the Message to Zechariah
+DESCRIPTION:Friday after the Sunday of the Message to Zechariah\nRomans 1
+ 0:5–13 · Matthew 13:1–9\nThe word is near: on your lips and in your
+  heart.\n\nRead and pray: https://daily-word-reflections.github.io/?d=20
+ 26-11-20&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after the Sunday of the Message to Ze
+ chariah
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:The Entry of Mary\, Mother of God\, into the Temple
+DESCRIPTION:The Entry of Mary\, Mother of God\, into the Temple\nPhilippi
+ ans 4:4–9 · Matthew 12:46–50\nMary belonged wholly to God from the 
+ beginning.\n\nRead and pray: https://daily-word-reflections.github.io/?d
+ =2026-11-21&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: The Entry of Mary\, Mother of God\, into the
+  Temple
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Sunday of the Annunciation to Mary\, Mother of God
+DESCRIPTION:Sunday of the Annunciation to Mary\, Mother of God\nMatthew 1
+ :1–17 · Genesis 3:8–15 · Judges 13:2–14 · Zechariah 4:1–7 · 
+ Isaiah 63:15–64:5 · 1 John 3:1–10 · Galatians 4:1–7 · Luke 1:26
+ –38\nGod keeps the first promise made in Eden.\n\nRead and pray: https
+ ://daily-word-reflections.github.io/?d=2026-11-22&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-22&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Sunday of the Annunciation to Mary\, Mother 
+ of God
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Monday after the Sunday of the Annunciation · St Clement\, Pope\
+ ; St Felicity
+DESCRIPTION:Monday after the Sunday of the Annunciation · St Clement\, P
+ ope\; St Felicity\nPhilemon 1:1–7 · Luke 6:43–45\nA tree is known b
+ y its fruit.\n\nRead and pray: https://daily-word-reflections.github.io/
+ ?d=2026-11-23&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after the Sunday of the Annunciation 
+ · St Clement\, Pope\; St Felicity
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Tuesday after the Sunday of the Annunciation
+DESCRIPTION:Tuesday after the Sunday of the Annunciation\nTitus 2:11–15
+  · Matthew 24:32–36\nGrace appeared in Jesus.\n\nRead and pray: https
+ ://daily-word-reflections.github.io/?d=2026-11-24&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after the Sunday of the Annunciation
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Wednesday after the Sunday of the Annunciation
+DESCRIPTION:Wednesday after the Sunday of the Annunciation\nPhilippians 1
+ :15–20 · Matthew 13:10–17\nPaul rejoices whenever Christ is proclai
+ med.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2026-
+ 11-25&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after the Sunday of the Annunciati
+ on
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Thursday after the Sunday of the Annunciation
+DESCRIPTION:Thursday after the Sunday of the Annunciation\n1 Corinthians 
+ 10:14–22 · Luke 4:31–37\nThe Eucharist is sharing in Christ's body 
+ and blood.\n\nRead and pray: https://daily-word-reflections.github.io/?d
+ =2026-11-26&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after the Sunday of the Annunciatio
+ n
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Friday after the Sunday of the Annunciation
+DESCRIPTION:Friday after the Sunday of the Annunciation\n2 Thessalonians 
+ 3:6–15 · Mark 10:1–12\nGod joins husband and wife.\n\nRead and pray
+ : https://daily-word-reflections.github.io/?d=2026-11-27&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after the Sunday of the Annunciation
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Saturday after the Sunday of the Annunciation · St Catherine
+DESCRIPTION:Saturday after the Sunday of the Annunciation · St Catherine
+ \n1 Corinthians 4:15–21 · Mark 4:30–34\nThe kingdom begins small an
+ d grows great.\n\nRead and pray: https://daily-word-reflections.github.i
+ o/?d=2026-11-28&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after the Sunday of the Annunciatio
+ n · St Catherine
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Sunday of the Visitation of Mary\, Mother of God\, to Elizabeth
+DESCRIPTION:Sunday of the Visitation of Mary\, Mother of God\, to Elizabe
+ th\nLuke 1:39–45 · Genesis 24:15–27 · 1 Samuel 2:1–11 · Proverb
+ s 31:10–26 · Isaiah 29:17–24 · 1 Peter 2:6–10 · 1 Timothy 2:4
+ –10 · Luke 1:39–56\nMary\, carrying Christ\, goes in haste to serve
+ .\n\nRead and pray: https://daily-word-reflections.github.io/?d=2026-11-
+ 29&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-29&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Sunday of the Visitation of Mary\, Mother of
+  God\, to Elizabeth
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Monday after the Sunday of the Visitation · Mar Andrews Shleeha 
+ (St Andrew the Apostle)
+DESCRIPTION:Monday after the Sunday of the Visitation · Mar Andrews Shle
+ eha (St Andrew the Apostle)\nGalatians 4:12–20 · John 1:35–42\n“C
+ ome and see”: faith begins with Jesus' company.\n\nRead and pray: http
+ s://daily-word-reflections.github.io/?d=2026-11-30&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after the Sunday of the Visitation ·
+  Mar Andrews Shleeha (St Andrew the Apostle)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Tuesday after the Sunday of the Visitation · The Twenty-Five Day
+ s' Fast begins
+DESCRIPTION:Tuesday after the Sunday of the Visitation · The Twenty-Five
+  Days' Fast begins\nRomans 13:8–14 · John 1:1–5\nThe child of Yaldo
+  is the eternal Word.\n\nRead and pray: https://daily-word-reflections.g
+ ithub.io/?d=2026-12-01&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after the Sunday of the Visitation 
+ · The Twenty-Five Days' Fast begins
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Wednesday after the Sunday of the Visitation
+DESCRIPTION:Wednesday after the Sunday of the Visitation\nRomans 10:14–
+ 15 · Matthew 5:33–37\nFaith comes through those who are sent.\n\nRead
+  and pray: https://daily-word-reflections.github.io/?d=2026-12-02&r=smk&
+ l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after the Sunday of the Visitation
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Thursday after the Sunday of the Visitation · St Francis Xavier
+DESCRIPTION:Thursday after the Sunday of the Visitation · St Francis Xav
+ ier\n1 Corinthians 9:19–23 · Mark 16:14–18\nPaul became all things 
+ to all people.\n\nRead and pray: https://daily-word-reflections.github.i
+ o/?d=2026-12-03&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after the Sunday of the Visitation 
+ · St Francis Xavier
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Friday after the Sunday of the Visitation · St John of Damascus
+DESCRIPTION:Friday after the Sunday of the Visitation · St John of Damas
+ cus\nRomans 10:17–20 · Matthew 5:21–26\nAnger is the root of murder
+ .\n\nRead and pray: https://daily-word-reflections.github.io/?d=2026-12-
+ 04&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after the Sunday of the Visitation ·
+  St John of Damascus
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Saturday after the Sunday of the Visitation · Mar Saba\; St Clem
+ ent of Alexandria
+DESCRIPTION:Saturday after the Sunday of the Visitation · Mar Saba\; St 
+ Clement of Alexandria\n1 Timothy 4:6–10 · John 7:40–53\nTrain yours
+ elf in godliness.\n\nRead and pray: https://daily-word-reflections.githu
+ b.io/?d=2026-12-05&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after the Sunday of the Visitation 
+ · Mar Saba\; St Clement of Alexandria
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Sunday of the Birth of John the Baptist
+DESCRIPTION:Sunday of the Birth of John the Baptist\nLuke 1:67–80 · Ex
+ odus 2:1–10 · 1 Samuel 1:19–28 · Psalm 127:1–5 · Isaiah 62:1–
+ 12 · 1 John 4:1–6 · Galatians 4:21–31 · Luke 1:57–66\n“His na
+ me is John”: God is gracious.\n\nRead and pray: https://daily-word-ref
+ lections.github.io/?d=2026-12-06&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-06&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Sunday of the Birth of John the Baptist
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Monday after the Sunday of the Birth of John the Baptist · St Am
+ brose
+DESCRIPTION:Monday after the Sunday of the Birth of John the Baptist · S
+ t Ambrose\n2 Timothy 1:8–14 · John 16:25–33\nPaul knows the one he 
+ has trusted.\n\nRead and pray: https://daily-word-reflections.github.io/
+ ?d=2026-12-07&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after the Sunday of the Birth of John
+  the Baptist · St Ambrose
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:The Immaculate Conception of the Holy Mother of God
+DESCRIPTION:The Immaculate Conception of the Holy Mother of God\nGalatian
+ s 4:1–7 · Luke 1:46–56\nMary was preserved from original sin from h
+ er conception.\n\nRead and pray: https://daily-word-reflections.github.i
+ o/?d=2026-12-08&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-08&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: The Immaculate Conception of the Holy Mother
+  of God
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Wednesday after the Sunday of the Birth of John the Baptist
+DESCRIPTION:Wednesday after the Sunday of the Birth of John the Baptist\n
+ Hebrews 1:1–4 · Luke 7:18–23\nGod has spoken finally in his Son.\n\
+ nRead and pray: https://daily-word-reflections.github.io/?d=2026-12-09&r
+ =smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after the Sunday of the Birth of J
+ ohn the Baptist
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Thursday after the Sunday of the Birth of John the Baptist · Mar
+  Behnam\, his sister Sarah and the Forty Martyrs
+DESCRIPTION:Thursday after the Sunday of the Birth of John the Baptist ·
+  Mar Behnam\, his sister Sarah and the Forty Martyrs\n1 Thessalonians 4:
+ 9–12 · Matthew 10:26–33\nDo not fear those who kill only the body.\
+ n\nRead and pray: https://daily-word-reflections.github.io/?d=2026-12-10
+ &r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after the Sunday of the Birth of Jo
+ hn the Baptist · Mar Behnam\, his sister Sarah and the Forty Martyrs
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Friday after the Sunday of the Birth of John the Baptist
+DESCRIPTION:Friday after the Sunday of the Birth of John the Baptist\n1 C
+ orinthians 16:1–4 · Matthew 12:1–8\nSunday and care for the poor be
+ long together.\n\nRead and pray: https://daily-word-reflections.github.i
+ o/?d=2026-12-11&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after the Sunday of the Birth of John
+  the Baptist
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Saturday after the Sunday of the Birth of John the Baptist
+DESCRIPTION:Saturday after the Sunday of the Birth of John the Baptist\n1
+  Thessalonians 5:12–22 · Mark 9:42–50\nRejoice\, pray\, give thanks
+ : God's will for us.\n\nRead and pray: https://daily-word-reflections.gi
+ thub.io/?d=2026-12-12&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after the Sunday of the Birth of Jo
+ hn the Baptist
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Sunday of the Apparition of the Angel to St Joseph
+DESCRIPTION:Sunday of the Apparition of the Angel to St Joseph\nMatthew 1
+ :18–25 · Genesis 37:5–11 · Sirach 7:11–17 · 1 Samuel 3:10–18 
+ · Isaiah 45:20–25 · 1 Peter 2:11–17 · Galatians 1:11–24 · Matt
+ hew 1:18–25\nJoseph the righteous man is merciful.\n\nRead and pray: h
+ ttps://daily-word-reflections.github.io/?d=2026-12-13&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-13&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Sunday of the Apparition of the Angel to St 
+ Joseph
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Monday after the Sunday of the Apparition to St Joseph · St John
+  of the Cross
+DESCRIPTION:Monday after the Sunday of the Apparition to St Joseph · St 
+ John of the Cross\nHebrews 7:1–10 · Luke 14:25–35\nMelchizedek\, pr
+ iest of bread and wine\, points to Christ.\n\nRead and pray: https://dai
+ ly-word-reflections.github.io/?d=2026-12-14&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after the Sunday of the Apparition to
+  St Joseph · St John of the Cross
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Tuesday after the Sunday of the Apparition to St Joseph
+DESCRIPTION:Tuesday after the Sunday of the Apparition to St Joseph\n1 Co
+ rinthians 2:1–5 · John 16:1–4\nPaul preached only Christ crucified.
+ \n\nRead and pray: https://daily-word-reflections.github.io/?d=2026-12-1
+ 5&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after the Sunday of the Apparition t
+ o St Joseph
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Wednesday after the Sunday of the Apparition to St Joseph
+DESCRIPTION:Wednesday after the Sunday of the Apparition to St Joseph\n2 
+ Corinthians 12:7–10 · Luke 9:18–20\nJesus asks: who do you say that
+  I am?\n\nRead and pray: https://daily-word-reflections.github.io/?d=202
+ 6-12-16&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after the Sunday of the Apparition
+  to St Joseph
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Thursday after the Sunday of the Apparition to St Joseph · Mar R
+ abbula
+DESCRIPTION:Thursday after the Sunday of the Apparition to St Joseph · M
+ ar Rabbula\nRomans 16:17–20 · Matthew 7:15–20\nBe wise in good\, in
+ nocent in evil.\n\nRead and pray: https://daily-word-reflections.github.
+ io/?d=2026-12-17&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after the Sunday of the Apparition 
+ to St Joseph · Mar Rabbula
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Friday after the Sunday of the Apparition to St Joseph · The Mir
+ aculous Cross of Mylapore
+DESCRIPTION:Friday after the Sunday of the Apparition to St Joseph · The
+  Miraculous Cross of Mylapore\nEphesians 3:8–13 · John 14:1–6\nJesu
+ s prepares a place for us in the Father's house.\n\nRead and pray: https
+ ://daily-word-reflections.github.io/?d=2026-12-18&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after the Sunday of the Apparition to
+  St Joseph · The Miraculous Cross of Mylapore
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Saturday after the Sunday of the Apparition to St Joseph
+DESCRIPTION:Saturday after the Sunday of the Apparition to St Joseph\nEph
+ esians 2:14–22 · Matthew 11:1–6\nWe are built into a dwelling place
+  for God.\n\nRead and pray: https://daily-word-reflections.github.io/?d=
+ 2026-12-19&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after the Sunday of the Apparition 
+ to St Joseph
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Sunday before Yaldo
+DESCRIPTION:Sunday before Yaldo\nMatthew 1:1–17 · Genesis 46:8–27 ·
+  1 Kings 9:3–7 · Jeremiah 23:5–8 · Isaiah 11:1–9 · Acts 3:20–
+ 26 · Hebrews 7:14–17 · Luke 2:1–5\nGod's salvation comes through r
+ eal families and real history.\n\nRead and pray: https://daily-word-refl
+ ections.github.io/?d=2026-12-20&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-20&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Sunday before Yaldo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Monday after the Sunday before Yaldo
+DESCRIPTION:Monday after the Sunday before Yaldo\nRomans 1:8–15 · John
+  1:1–5\nFaith is a gift we owe to others.\n\nRead and pray: https://da
+ ily-word-reflections.github.io/?d=2026-12-21&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after the Sunday before Yaldo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Tuesday after the Sunday before Yaldo
+DESCRIPTION:Tuesday after the Sunday before Yaldo\nGalatians 4:8–11 · 
+ John 1:6–9\nJohn came to bear witness to the light.\n\nRead and pray: 
+ https://daily-word-reflections.github.io/?d=2026-12-22&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after the Sunday before Yaldo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Wednesday after the Sunday before Yaldo
+DESCRIPTION:Wednesday after the Sunday before Yaldo\nColossians 2:1–5 
+ · John 1:10–13\nThe world did not know him\; his own did not accept h
+ im.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2026-1
+ 2-23&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after the Sunday before Yaldo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Thursday after the Sunday before Yaldo · Eve of Yaldo
+DESCRIPTION:Thursday after the Sunday before Yaldo · Eve of Yaldo\nRoman
+ s 1:18–23 · John 1:14–18\nThe Word became flesh and lived among us.
+ \n\nRead and pray: https://daily-word-reflections.github.io/?d=2026-12-2
+ 4&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after the Sunday before Yaldo · Ev
+ e of Yaldo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Yaldo · The Nativity of our Lord
+DESCRIPTION:Yaldo · The Nativity of our Lord\nJohn 1:6–18 · Genesis 2
+ 1:1–8 · 2 Kings 4:8–17 · Micah 5:1–4 · Isaiah 9:1–7 · Acts 3
+ :20–26 · Hebrews 7:14–17 · Matthew 2:1–12\nThe Word became flesh
+ : God came himself.\n\nRead and pray: https://daily-word-reflections.git
+ hub.io/?d=2026-12-25&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-25&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Yaldo · The Nativity of our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:The Praise of the Holy Mother of God
+DESCRIPTION:The Praise of the Holy Mother of God\nGalatians 4:4–7 · Lu
+ ke 2:15–19\nGod sent his Son\, born of a woman.\n\nRead and pray: http
+ s://daily-word-reflections.github.io/?d=2026-12-26&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-26&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: The Praise of the Holy Mother of God
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:First Sunday after Yaldo
+DESCRIPTION:First Sunday after Yaldo\nMatthew 2:19–23 · Genesis 21:8
+ –14 · Judges 13:24–14:4 · Psalm 122:1–9 · Zechariah 8:3–12 ·
+  1 Peter 5:5–11 · Hebrews 3:1–6 · Luke 2:41–52\nThe Son of God g
+ rew up in an ordinary family at Nazareth.\n\nRead and pray: https://dail
+ y-word-reflections.github.io/?d=2026-12-27&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-27&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: First Sunday after Yaldo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Monday after the First Sunday after Yaldo · David\, King and Pro
+ phet
+DESCRIPTION:Monday after the First Sunday after Yaldo · David\, King and
+  Prophet\nHebrews 11:32–40 · Matthew 22:41–46\nGod promised David a
+ n everlasting throne.\n\nRead and pray: https://daily-word-reflections.g
+ ithub.io/?d=2026-12-28&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after the First Sunday after Yaldo ·
+  David\, King and Prophet
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Tuesday after the First Sunday after Yaldo
+DESCRIPTION:Tuesday after the First Sunday after Yaldo\nRomans 11:25–32
+  · Matthew 15:1–9\nGod's gifts and calling are irrevocable.\n\nRead a
+ nd pray: https://daily-word-reflections.github.io/?d=2026-12-29&r=smk&l=
+ en
+URL:https://daily-word-reflections.github.io/?d=2026-12-29&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after the First Sunday after Yaldo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Wednesday after the First Sunday after Yaldo
+DESCRIPTION:Wednesday after the First Sunday after Yaldo\nRomans 15:7–1
+ 3 · Matthew 2:19–23\nJoseph obeys and brings the child home to Nazare
+ th.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2026-1
+ 2-30&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-30&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after the First Sunday after Yaldo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Thursday after the First Sunday after Yaldo · Last day of the ye
+ ar
+DESCRIPTION:Thursday after the First Sunday after Yaldo · Last day of th
+ e year\nRomans 15:14–21 · Luke 13:6–9\nThe gardener pleads for one 
+ more year.\n\nRead and pray: https://daily-word-reflections.github.io/?d
+ =2026-12-31&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after the First Sunday after Yaldo 
+ · Last day of the year
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:The Naming of our Lord · New Year's Day
+DESCRIPTION:The Naming of our Lord · New Year's Day\nEphesians 4:17–24
+  · Luke 2:21–24\nJesus means “the Lord saves”.\n\nRead and pray: 
+ https://daily-word-reflections.github.io/?d=2027-01-01&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-01&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: The Naming of our Lord · New Year's Day
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Saturday after New Year · Mar Baselios and Mar Gregorios
+DESCRIPTION:Saturday after New Year · Mar Baselios and Mar Gregorios\n2 
+ Timothy 2:21–26 · John 3:1–14\nBasil and Gregory defended the Trini
+ ty and were gentle shepherds.\n\nRead and pray: https://daily-word-refle
+ ctions.github.io/?d=2027-01-02&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after New Year · Mar Baselios and 
+ Mar Gregorios
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Second Sunday after Yaldo
+DESCRIPTION:Second Sunday after Yaldo\nLuke 3:7–14 · Genesis 37:1–4 
+ · 1 Samuel 2:18–21 · Psalm 45:1–17 · Isaiah 40:25–31 · 1 John 
+ 3:19–24 · Hebrews 11:23–31 · John 1:29–34\nThe Child of Bethlehe
+ m is the Lamb of God.\n\nRead and pray: https://daily-word-reflections.g
+ ithub.io/?d=2027-01-03&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-03&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Second Sunday after Yaldo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Monday after the Second Sunday after Yaldo · Prophet Malachi\; S
+ t Kuriakose Elias Chavara
+DESCRIPTION:Monday after the Second Sunday after Yaldo · Prophet Malachi
+ \; St Kuriakose Elias Chavara\nHebrews 11:4–7 · Matthew 5:1–12\nWit
+ hout faith it is impossible to please God.\n\nRead and pray: https://dai
+ ly-word-reflections.github.io/?d=2027-01-04&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after the Second Sunday after Yaldo 
+ · Prophet Malachi\; St Kuriakose Elias Chavara
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Tuesday after the Second Sunday after Yaldo · Eve of Denho
+DESCRIPTION:Tuesday after the Second Sunday after Yaldo · Eve of Denho\n
+ Ephesians 4:7–16 · Luke 12:22–28\nChrist gives gifts to build up hi
+ s Body.\n\nRead and pray: https://daily-word-reflections.github.io/?d=20
+ 27-01-05&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after the Second Sunday after Yaldo 
+ · Eve of Denho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Denho · The Baptism of our Lord
+DESCRIPTION:Denho · The Baptism of our Lord\nMark 1:1–11 · Genesis 24
+ :10–20 · 2 Kings 3:21–27 · Ezekiel 47:1–12 · Isaiah 12:1–6 ·
+  Acts 19:1–7 · Titus 2:11–3:9 · Matthew 3:13–17\nDenho: at the J
+ ordan the Holy Trinity is revealed.\n\nRead and pray: https://daily-word
+ -reflections.github.io/?d=2027-01-06&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-06&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Denho · The Baptism of our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Thursday after Denho · The Praise of St John the Baptist
+DESCRIPTION:Thursday after Denho · The Praise of St John the Baptist\nEp
+ hesians 3:1–7 · Luke 7:24–29\nJohn was no reed shaken by the wind.\
+ n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-01-07
+ &r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after Denho · The Praise of St Joh
+ n the Baptist
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Friday after Denho · Mar Stephanos\, the First Martyr
+DESCRIPTION:Friday after Denho · Mar Stephanos\, the First Martyr\nActs 
+ 7:54–60 · 1 Corinthians 16:15–18 · Matthew 23:34–36\nStephen saw
+  the heavens opened and Jesus standing.\n\nRead and pray: https://daily-
+ word-reflections.github.io/?d=2027-01-08&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after Denho · Mar Stephanos\, the Fi
+ rst Martyr
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Saturday after Denho
+DESCRIPTION:Saturday after Denho\nRomans 3:1–8 · Mark 7:1–8\nOur unf
+ aithfulness does not cancel God's faithfulness.\n\nRead and pray: https:
+ //daily-word-reflections.github.io/?d=2027-01-09&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after Denho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:First Sunday after Denho
+DESCRIPTION:First Sunday after Denho\nMark 1:14–20 · Genesis 30:25–4
+ 3 · Exodus 3:1–15 · Psalm 147:1–11 · Isaiah 49:7–13 · Acts 2:3
+ 7–47 · Ephesians 1:3–14 · Matthew 4:12–22\nJesus begins his miss
+ ion by calling people.\n\nRead and pray: https://daily-word-reflections.
+ github.io/?d=2027-01-10&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-10&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: First Sunday after Denho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Monday after the First Sunday after Denho · Mar Gregorios of Nys
+ sa
+DESCRIPTION:Monday after the First Sunday after Denho · Mar Gregorios of
+  Nyssa\n2 Corinthians 1:3–11 · John 3:31–36\nGod is the Father of m
+ ercies and God of all consolation.\n\nRead and pray: https://daily-word-
+ reflections.github.io/?d=2027-01-11&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after the First Sunday after Denho ·
+  Mar Gregorios of Nyssa
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Tuesday after the First Sunday after Denho · Mar Thevodosios the
+  Abbot
+DESCRIPTION:Tuesday after the First Sunday after Denho · Mar Thevodosios
+  the Abbot\n2 Corinthians 4:1–6 · Matthew 12:9–14\nGod's glory shin
+ es in the face of Jesus Christ.\n\nRead and pray: https://daily-word-ref
+ lections.github.io/?d=2027-01-12&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after the First Sunday after Denho 
+ · Mar Thevodosios the Abbot
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Wednesday after the First Sunday after Denho
+DESCRIPTION:Wednesday after the First Sunday after Denho\n1 Timothy 2:1
+ –7 · Matthew 7:1–6\nPray for everyone\, including rulers.\n\nRead a
+ nd pray: https://daily-word-reflections.github.io/?d=2027-01-13&r=smk&l=
+ en
+URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after the First Sunday after Denho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Thursday after the First Sunday after Denho · The Forty Martyrs 
+ of Sinai\; St Devasahayam
+DESCRIPTION:Thursday after the First Sunday after Denho · The Forty Mart
+ yrs of Sinai\; St Devasahayam\nRomans 3:21–26 · Luke 12:4–7\nAll ha
+ ve sinned\; all are offered grace as a gift.\n\nRead and pray: https://d
+ aily-word-reflections.github.io/?d=2027-01-14&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after the First Sunday after Denho 
+ · The Forty Martyrs of Sinai\; St Devasahayam
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Friday after the First Sunday after Denho · Commemoration of Mar
+ y\, Mother of God\, for the Seeds
+DESCRIPTION:Friday after the First Sunday after Denho · Commemoration of
+  Mary\, Mother of God\, for the Seeds\n2 Corinthians 9:6–11 · Luke 2:
+ 15–19\nThose who sow bountifully reap bountifully.\n\nRead and pray: h
+ ttps://daily-word-reflections.github.io/?d=2027-01-15&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after the First Sunday after Denho ·
+  Commemoration of Mary\, Mother of God\, for the Seeds
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Saturday after the First Sunday after Denho · The Bonds of St Pe
+ ter
+DESCRIPTION:Saturday after the First Sunday after Denho · The Bonds of S
+ t Peter\nHebrews 13:7–16 · Matthew 24:45–51\nRemember your leaders 
+ and imitate their faith.\n\nRead and pray: https://daily-word-reflection
+ s.github.io/?d=2027-01-16&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after the First Sunday after Denho 
+ · The Bonds of St Peter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Second Sunday after Denho
+DESCRIPTION:Second Sunday after Denho\nLuke 4:14–15 · Leviticus 22:26
+ –33 · Proverbs 8:22–36 · Micah 5:1–8 · Isaiah 51:1–8 · 1 Pet
+ er 1:13–25 · Romans 3:1–8 · John 1:43–51\n“Come and see”: th
+ e best way to bring someone to Christ.\n\nRead and pray: https://daily-w
+ ord-reflections.github.io/?d=2027-01-17&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-17&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Second Sunday after Denho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Monday after the Second Sunday after Denho · First Day of the Fa
+ st of the Ninevites
+DESCRIPTION:Monday after the Second Sunday after Denho · First Day of th
+ e Fast of the Ninevites\nJonah 1:1–7 · Philippians 2:1–11 · Matthe
+ w 12:38–42\nJonah fled from the presence of the Lord.\n\nRead and pray
+ : https://daily-word-reflections.github.io/?d=2027-01-18&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after the Second Sunday after Denho 
+ · First Day of the Fast of the Ninevites
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Tuesday after the Second Sunday after Denho · Second Day of the 
+ Fast of the Ninevites · Mar Macarios
+DESCRIPTION:Tuesday after the Second Sunday after Denho · Second Day of 
+ the Fast of the Ninevites · Mar Macarios\nJonah 3:1–10 · Romans 12:9
+ –15 · Matthew 24:37–44\nNineveh fasted and turned from violence and
+  evil.\n\nRead and pray: https://daily-word-reflections.github.io/?d=202
+ 7-01-19&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after the Second Sunday after Denho 
+ · Second Day of the Fast of the Ninevites · Mar Macarios
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Wednesday after the Second Sunday after Denho · Third Day of the
+  Fast of the Ninevites · St Sebastian
+DESCRIPTION:Wednesday after the Second Sunday after Denho · Third Day of
+  the Fast of the Ninevites · St Sebastian\nJonah 2:1–10 · 1 Thessalo
+ nians 5:1–11 · Luke 13:1–5\nJonah prayed from the depths and God he
+ ard him.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2
+ 027-01-20&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after the Second Sunday after Denh
+ o · Third Day of the Fast of the Ninevites · St Sebastian
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Thursday after the Second Sunday after Denho · Conclusion of the
+  Fast of the Ninevites · St Agnes
+DESCRIPTION:Thursday after the Second Sunday after Denho · Conclusion of
+  the Fast of the Ninevites · St Agnes\nLuke 12:54–59 · Genesis 18:22
+ –33\; Joshua 7:6–13 · Jonah 4:1–11 · Psalm 13 · Acts 9:1–9 ·
+  Galatians 1:13–24 · Luke 11:29–32\nJonah was angry at God's mercy\
+ ; God widened his heart.\n\nRead and pray: https://daily-word-reflection
+ s.github.io/?d=2027-01-21&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after the Second Sunday after Denho
+  · Conclusion of the Fast of the Ninevites · St Agnes
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Friday after the Second Sunday after Denho · Mar Timotheos the A
+ postle
+DESCRIPTION:Friday after the Second Sunday after Denho · Mar Timotheos t
+ he Apostle\n1 Timothy 6:11–16 · Matthew 5:17–20\nFight the good fig
+ ht of the faith.\n\nRead and pray: https://daily-word-reflections.github
+ .io/?d=2027-01-22&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after the Second Sunday after Denho 
+ · Mar Timotheos the Apostle
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Saturday after the Second Sunday after Denho
+DESCRIPTION:Saturday after the Second Sunday after Denho\nHebrews 8:1–6
+  · Matthew 9:32–34\nJesus is our high priest at God's right hand.\n\n
+ Read and pray: https://daily-word-reflections.github.io/?d=2027-01-23&r=
+ smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after the Second Sunday after Denho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Kohne Sunday · Commemoration of the Departed Priests
+DESCRIPTION:Kohne Sunday · Commemoration of the Departed Priests\nLuke 1
+ 9:11–27 · Numbers 20:22–29 · Joshua 24:29–33 · Sirach 45:15–2
+ 2 · Isaiah 65:13–16 · Acts 20:25–38 · Hebrews 13:7–16 · Matthe
+ w 24:45–51\nKohne Sunday: we remember the departed priests.\n\nRead an
+ d pray: https://daily-word-reflections.github.io/?d=2027-01-24&r=smk&l=e
+ n
+URL:https://daily-word-reflections.github.io/?d=2027-01-24&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Kohne Sunday · Commemoration of the Departe
+ d Priests
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Monday after Kohne Sunday · Conversion of St Paul
+DESCRIPTION:Monday after Kohne Sunday · Conversion of St Paul\nActs 9:1
+ –9 · Galatians 1:13–24 · John 17:20–23\nSaul the persecutor met 
+ the risen Jesus.\n\nRead and pray: https://daily-word-reflections.github
+ .io/?d=2027-01-25&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after Kohne Sunday · Conversion of S
+ t Paul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Tuesday after Kohne Sunday · Republic Day of India
+DESCRIPTION:Tuesday after Kohne Sunday · Republic Day of India\n2 Corint
+ hians 3:1–5 · Matthew 22:15–22\nYou are a letter of Christ written 
+ on hearts.\n\nRead and pray: https://daily-word-reflections.github.io/?d
+ =2027-01-26&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday after Kohne Sunday · Republic Day o
+ f India
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Wednesday after Kohne Sunday
+DESCRIPTION:Wednesday after Kohne Sunday\nEphesians 5:22–33 · Matthew 
+ 5:31–32\nBe subject to one another out of reverence for Christ.\n\nRea
+ d and pray: https://daily-word-reflections.github.io/?d=2027-01-27&r=smk
+ &l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after Kohne Sunday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Thursday after Kohne Sunday · St Thomas Aquinas
+DESCRIPTION:Thursday after Kohne Sunday · St Thomas Aquinas\nHebrews 13:
+ 7–16 · John 14:1–6\nRemember your leaders and imitate their faith.\
+ n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-01-28
+ &r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after Kohne Sunday · St Thomas Aqu
+ inas
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Friday after Kohne Sunday · Mar Ignatius Noorono of Antioch
+DESCRIPTION:Friday after Kohne Sunday · Mar Ignatius Noorono of Antioch\
+ nRomans 12:1–8 · John 12:20–26\nTo see Jesus is to see the grain of
+  wheat that dies and bears fruit.\n\nRead and pray: https://daily-word-r
+ eflections.github.io/?d=2027-01-29&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after Kohne Sunday · Mar Ignatius No
+ orono of Antioch
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Saturday after Kohne Sunday · Mar Jacob Aphrahat\, the Persian S
+ age
+DESCRIPTION:Saturday after Kohne Sunday · Mar Jacob Aphrahat\, the Persi
+ an Sage\n2 Corinthians 13:5–8 · Matthew 12:33–37\nExamine yourselve
+ s: Christ is in you.\n\nRead and pray: https://daily-word-reflections.gi
+ thub.io/?d=2027-01-30&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after Kohne Sunday · Mar Jacob Aph
+ rahat\, the Persian Sage
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Aneede Sunday · Commemoration of the Departed Faithful
+DESCRIPTION:Aneede Sunday · Commemoration of the Departed Faithful\nMatt
+ hew 25:31–46 · Genesis 49:29–33 · 2 Maccabees 12:38–45 · Sirach
+  41:1–4 · Isaiah 38:9–22 · 2 Peter 3:8–13 · 1 Thessalonians 4:1
+ 3–18 · John 5:19–29\nAneede Sunday: we remember all the faithful de
+ parted.\n\nRead and pray: https://daily-word-reflections.github.io/?d=20
+ 27-01-31&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-01-31&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Aneede Sunday · Commemoration of the Depart
+ ed Faithful
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Monday after Aneede Sunday
+DESCRIPTION:Monday after Aneede Sunday\nColossians 1:9–14 · Matthew 6:
+ 9–15\nPaul prays that we may know God's will and live worthy of the Lo
+ rd.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-0
+ 2-01&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday after Aneede Sunday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Mayaltho · The Entrance of our Lord into the Temple
+DESCRIPTION:Mayaltho · The Entrance of our Lord into the Temple\nLuke 2:
+ 22–35 · Leviticus 12:1–8 · Leviticus 22:17–25 · 2 Samuel 5:1–
+ 5 · Isaiah 11:1–9 · Acts 24:14–21 · Hebrews 9:11–14 · Luke 2:2
+ 2–24\nThe Lord enters his Temple in Mary's arms.\n\nRead and pray: htt
+ ps://daily-word-reflections.github.io/?d=2027-02-02&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-02&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Mayaltho · The Entrance of our Lord into th
+ e Temple
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Wednesday after Aneede Sunday · Mar Shem'on and Morth Hanna
+DESCRIPTION:Wednesday after Aneede Sunday · Mar Shem'on and Morth Hanna\
+ nEphesians 3:14–21 · Luke 2:25–38\nSimeon waited for the consolatio
+ n of Israel and was guided by the Spirit.\n\nRead and pray: https://dail
+ y-word-reflections.github.io/?d=2027-02-03&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday after Aneede Sunday · Mar Shem'on
+  and Morth Hanna
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Thursday after Aneede Sunday · St John de Britto
+DESCRIPTION:Thursday after Aneede Sunday · St John de Britto\nRomans 1:1
+ 3–17 · Matthew 7:13–14\nPaul calls himself a debtor to everyone\, w
+ ise and simple.\n\nRead and pray: https://daily-word-reflections.github.
+ io/?d=2027-02-04&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday after Aneede Sunday · St John de B
+ ritto
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Friday after Aneede Sunday
+DESCRIPTION:Friday after Aneede Sunday\n1 Corinthians 10:1–13 · John 1
+ 5:18–25\nIsrael had all God's gifts and still fell in the wilderness.\
+ n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-02-05
+ &r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday after Aneede Sunday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Saturday after Aneede Sunday
+DESCRIPTION:Saturday after Aneede Sunday\n1 Timothy 6:17–21 · Luke 12:
+ 16–21\nThe rich fool planned only for himself and forgot God.\n\nRead 
+ and pray: https://daily-word-reflections.github.io/?d=2027-02-06&r=smk&l
+ =en
+URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday after Aneede Sunday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Kothine Sunday · First Sunday of the Great Fast
+DESCRIPTION:Kothine Sunday · First Sunday of the Great Fast\nJohn 10:22
+ –30 · Genesis 9:12–17 · Exodus 20:7–22 · Joel 2:12–20 · Isai
+ ah 58:6–14 · Acts 11:19–26 · Colossians 3:5–17 · John 2:1–11\
+ nOur Lent begins at a wedding: the Fast is transformation\, not sadness.
+ \n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-02-0
+ 7&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-07&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Kothine Sunday · First Sunday of the Great 
+ Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Monday of the first week of the Great Fast · Shubkono
+DESCRIPTION:Monday of the first week of the Great Fast · Shubkono\nGenes
+ is 15:1–6 · Ephesians 4:25–32 · Matthew 4:1–11\nAbram believed G
+ od's promise and was reckoned righteous.\n\nRead and pray: https://daily
+ -word-reflections.github.io/?d=2027-02-08&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday of the first week of the Great Fast 
+ · Shubkono
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Tuesday of the first week of the Great Fast
+DESCRIPTION:Tuesday of the first week of the Great Fast\nGenesis 15:7–1
+ 6 · Romans 8:1–11 · John 10:11–16\nAbram offered a sacrifice and d
+ rove away the birds of prey.\n\nRead and pray: https://daily-word-reflec
+ tions.github.io/?d=2027-02-09&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday of the first week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Wednesday of the first week of the Great Fast · Anniversary of t
+ he Syro-Malankara Major Archiepiscopal Church
+DESCRIPTION:Wednesday of the first week of the Great Fast · Anniversary 
+ of the Syro-Malankara Major Archiepiscopal Church\nGenesis 15:17–21 ·
+  Philippians 3:12–14 · Luke 9:18–20\nGod alone passed between the p
+ ieces: his covenant rests on his faithfulness.\n\nRead and pray: https:/
+ /daily-word-reflections.github.io/?d=2027-02-10&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday of the first week of the Great Fas
+ t · Anniversary of the Syro-Malankara Major Archiepiscopal Church
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Thursday of the first week of the Great Fast · Our Lady of Lourd
+ es
+DESCRIPTION:Thursday of the first week of the Great Fast · Our Lady of L
+ ourdes\nGenesis 16:1–6 · Colossians 3:1–4 · Luke 1:46–55\nSarai'
+ s plan made without God broke her household and hurt Hagar.\n\nRead and 
+ pray: https://daily-word-reflections.github.io/?d=2027-02-11&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday of the first week of the Great Fast
+  · Our Lady of Lourdes
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Friday of the first week of the Great Fast
+DESCRIPTION:Friday of the first week of the Great Fast\nGenesis 16:7–16
+  · Romans 2:12–16 · Luke 12:8–12\nThe angel of the Lord found Haga
+ r in the wilderness\; she named God “the God who sees.”\n\nRead and 
+ pray: https://daily-word-reflections.github.io/?d=2027-02-12&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday of the first week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Saturday of the first week of the Great Fast · Mar Aprem and Mar
+  Theodore\; Prophet Haggai
+DESCRIPTION:Saturday of the first week of the Great Fast · Mar Aprem and
+  Mar Theodore\; Prophet Haggai\nGenesis 17:1–8 · Hebrews 4:12–14 ·
+  Matthew 7:21–28\nGod called Abram to walk before him and gave him a n
+ ew name\, Abraham.\n\nRead and pray: https://daily-word-reflections.gith
+ ub.io/?d=2027-02-13&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday of the first week of the Great Fast
+  · Mar Aprem and Mar Theodore\; Prophet Haggai
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Garbo Sunday · The Healing of the Leper
+DESCRIPTION:Garbo Sunday · The Healing of the Leper\nMatthew 8:1–4 · 
+ Genesis 7:6–16 · 2 Kings 5:1–14 · Jeremiah 50:4–7 · Isaiah 33:2
+ –9 · Acts 9:20–25 · Romans 3:27–4:3 · Luke 5:12–16\nLent is a
+  season of healing: Christ the physician.\n\nRead and pray: https://dail
+ y-word-reflections.github.io/?d=2027-02-14&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-14&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Garbo Sunday · The Healing of the Leper
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Monday of the second week of the Great Fast
+DESCRIPTION:Monday of the second week of the Great Fast\nGenesis 17:9–1
+ 4 · Colossians 4:1–6 · Matthew 6:25–34\nGod gave Abraham circumcis
+ ion as the sign of his covenant.\n\nRead and pray: https://daily-word-re
+ flections.github.io/?d=2027-02-15&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday of the second week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Tuesday of the second week of the Great Fast
+DESCRIPTION:Tuesday of the second week of the Great Fast\nGenesis 17:15
+ –22 · Ephesians 2:1–10 · Matthew 7:15–20\nGod renamed Sarai as S
+ arah and promised Abraham a son\, Isaac.\n\nRead and pray: https://daily
+ -word-reflections.github.io/?d=2027-02-16&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday of the second week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Wednesday of the second week of the Great Fast
+DESCRIPTION:Wednesday of the second week of the Great Fast\nGenesis 17:23
+ –27 · Colossians 2:1–5 · Matthew 8:18–22\nAbraham obeyed God “
+ that very day.”\n\nRead and pray: https://daily-word-reflections.githu
+ b.io/?d=2027-02-17&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday of the second week of the Great Fa
+ st
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Thursday of the second week of the Great Fast
+DESCRIPTION:Thursday of the second week of the Great Fast\nGenesis 18:1
+ –8 · 2 Corinthians 6:14–18 · Matthew 22:1–14\nAbraham ran to wel
+ come three guests at Mamre and served them a feast.\n\nRead and pray: ht
+ tps://daily-word-reflections.github.io/?d=2027-02-18&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday of the second week of the Great Fas
+ t
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Friday of the second week of the Great Fast · Mar Ishaq
+DESCRIPTION:Friday of the second week of the Great Fast · Mar Ishaq\nGen
+ esis 18:9–15 · Philippians 3:8–11 · John 10:27–30\nSarah laughed
+  in disbelief\, but God asked: is anything too wonderful for the Lord?\n
+ \nRead and pray: https://daily-word-reflections.github.io/?d=2027-02-19&
+ r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday of the second week of the Great Fast 
+ · Mar Ishaq
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Saturday of the second week of the Great Fast
+DESCRIPTION:Saturday of the second week of the Great Fast\nGenesis 18:16
+ –21 · Titus 3:1–7 · Luke 12:32–34\nGod chose Abraham to teach hi
+ s household to do righteousness and justice.\n\nRead and pray: https://d
+ aily-word-reflections.github.io/?d=2027-02-20&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday of the second week of the Great Fas
+ t
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:M'shario Sunday · The Healing of the Paralytic
+DESCRIPTION:M'shario Sunday · The Healing of the Paralytic\nLuke 5:17–
+ 26 · Deuteronomy 31:19–30 · Sirach 9:10–18 · Ezekiel 33:23–33 
+ · Isaiah 5:18–25 · Acts 5:12–16 · Romans 5:1–11 · Mark 2:1–1
+ 2\nFour friends carry the paralytic to Jesus: we carry each other by fai
+ th.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-0
+ 2-21&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-21&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: M'shario Sunday · The Healing of the Paraly
+ tic
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Monday of the third week of the Great Fast · The See of St Peter
+  at Antioch
+DESCRIPTION:Monday of the third week of the Great Fast · The See of St P
+ eter at Antioch\nGenesis 18:22–33 · Hebrews 13:7–16 · Matthew 24:4
+ 5–51\nAbraham stood before the Lord and pleaded for the righteous in S
+ odom.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027
+ -02-22&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-22&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday of the third week of the Great Fast 
+ · The See of St Peter at Antioch
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-23-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Tuesday of the third week of the Great Fast · St Polycarp of Smy
+ rna
+DESCRIPTION:Tuesday of the third week of the Great Fast · St Polycarp of
+  Smyrna\nGenesis 19:1–11 · Romans 5:1–5 · Matthew 11:28–30\nLot 
+ sheltered God's messengers\, and they pulled him to safety from the viol
+ ent crowd.\n\nRead and pray: https://daily-word-reflections.github.io/?d
+ =2027-02-23&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday of the third week of the Great Fast 
+ · St Polycarp of Smyrna
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Wednesday of the third week of the Great Fast · The Finding of t
+ he Head of St John the Baptist
+DESCRIPTION:Wednesday of the third week of the Great Fast · The Finding 
+ of the Head of St John the Baptist\nGenesis 19:12–22 · Romans 3:10–
+ 20 · Matthew 14:1–12\nLot lingered in Sodom\, but the angels took him
+  by the hand in God's mercy.\n\nRead and pray: https://daily-word-reflec
+ tions.github.io/?d=2027-02-24&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday of the third week of the Great Fas
+ t · The Finding of the Head of St John the Baptist
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Thursday of the third week of the Great Fast · Blessed Rani Mari
+ a
+DESCRIPTION:Thursday of the third week of the Great Fast · Blessed Rani 
+ Maria\nGenesis 19:23–29 · 2 Corinthians 4:7–15 · Matthew 10:16–2
+ 5\nLot's wife looked back and became a pillar of salt\; God remembered A
+ braham and saved Lot.\n\nRead and pray: https://daily-word-reflections.g
+ ithub.io/?d=2027-02-25&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday of the third week of the Great Fast
+  · Blessed Rani Maria
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Friday of the third week of the Great Fast
+DESCRIPTION:Friday of the third week of the Great Fast\nGenesis 19:30–3
+ 8 · Romans 2:1–11 · Matthew 6:5–8\nLot and his daughters\, gripped
+  by fear and isolation\, fell into sin\; yet from Moab came Ruth\, ances
+ tor of Jesus.\n\nRead and pray: https://daily-word-reflections.github.io
+ /?d=2027-02-26&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday of the third week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Saturday of the third week of the Great Fast
+DESCRIPTION:Saturday of the third week of the Great Fast\nGenesis 20:1–
+ 7 · Romans 2:12–16 · Luke 12:8–12\nOut of fear Abraham called Sara
+ h his sister\; God protected her and kept Abimelech from sin.\n\nRead an
+ d pray: https://daily-word-reflections.github.io/?d=2027-02-27&r=smk&l=e
+ n
+URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday of the third week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Knanoitho Sunday · The Canaanite Woman
+DESCRIPTION:Knanoitho Sunday · The Canaanite Woman\nMark 7:24–30 · Ex
+ odus 16:1–12 · 1 Samuel 7:10–17 · Sirach 10:6–18 · Isaiah 56:1
+ –7 · Acts 20:22–32 · Romans 7:13–25 · Matthew 15:21–28\nPerse
+ vering prayer: when God seems silent\, keep asking.\n\nRead and pray: ht
+ tps://daily-word-reflections.github.io/?d=2027-02-28&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-02-28&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Knanoitho Sunday · The Canaanite Woman
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-01-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Monday of the fourth week of the Great Fast
+DESCRIPTION:Monday of the fourth week of the Great Fast\nGenesis 20:8–1
+ 8 · 2 Thessalonians 3:16–18 · Matthew 14:22–33\nAbraham\, who wron
+ ged Abimelech out of fear\, prayed for him\, and God healed his house.\n
+ \nRead and pray: https://daily-word-reflections.github.io/?d=2027-03-01&
+ r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday of the fourth week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Tuesday of the fourth week of the Great Fast
+DESCRIPTION:Tuesday of the fourth week of the Great Fast\nGenesis 21:1–
+ 8 · Galatians 3:26–29 · Matthew 11:20–24\nGod kept his promise: Sa
+ rah bore Isaac\, and her laughter became joy.\n\nRead and pray: https://
+ daily-word-reflections.github.io/?d=2027-03-02&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday of the fourth week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Mid-Lent · Wednesday of the fourth week of the Great Fast · The
+  Exaltation of the Cross in the middle of the Fast
+DESCRIPTION:Mid-Lent · Wednesday of the fourth week of the Great Fast ·
+  The Exaltation of the Cross in the middle of the Fast\nMatthew 17:22–
+ 27 · Numbers 21:1–9 · 1 Samuel 7:5–9 · Psalm 34:1–9 · Zecharia
+ h 12:6–14 · Acts 15:22–33 · 1 Corinthians 10:1–13 · John 3:13
+ –21\nAt the middle of the Great Fast the Church lifts up the Holy Cros
+ s\; the Panchangam calls it the setting up of Golgotha.\n\nRead and pray
+ : https://daily-word-reflections.github.io/?d=2027-03-03&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Mid-Lent · Wednesday of the fourth week of 
+ the Great Fast · The Exaltation of the Cross in the middle of the Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Thursday of the fourth week of the Great Fast
+DESCRIPTION:Thursday of the fourth week of the Great Fast\nGenesis 21:9
+ –14 · 1 Corinthians 8:1–6 · Matthew 5:43–48\nSarah demanded that
+  Hagar and Ishmael be sent away\; Abraham was distressed\, and God promi
+ sed to make a nation of the boy.\n\nRead and pray: https://daily-word-re
+ flections.github.io/?d=2027-03-04&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday of the fourth week of the Great Fas
+ t
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Friday of the fourth week of the Great Fast · Anniversary of the
+  enthronement of our Major Archbishop-Catholicos
+DESCRIPTION:Friday of the fourth week of the Great Fast · Anniversary of
+  the enthronement of our Major Archbishop-Catholicos\nGenesis 21:15–21
+  · 1 Corinthians 16:13–24 · John 10:14–16\nIn the wilderness God h
+ eard the voice of the boy Ishmael and opened Hagar's eyes to a well of w
+ ater.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027
+ -03-05&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday of the fourth week of the Great Fast 
+ · Anniversary of the enthronement of our Major Archbishop-Catholicos
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Saturday of the fourth week of the Great Fast
+DESCRIPTION:Saturday of the fourth week of the Great Fast\nGenesis 21:22
+ –34 · 1 Timothy 4:1–5 · Luke 4:42–44\nAbraham and Abimelech made
+  a covenant at Beer-sheba\, and Abraham called on the name of the Everla
+ sting God.\n\nRead and pray: https://daily-word-reflections.github.io/?d
+ =2027-03-06&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday of the fourth week of the Great Fas
+ t
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:K'piphtho Sunday · The Healing of the Bent Woman
+DESCRIPTION:K'piphtho Sunday · The Healing of the Bent Woman\nLuke 10:25
+ –37 · Genesis 9:1–7 · Sirach 51:1–10 · Jeremiah 51:1–9 · Isa
+ iah 50:1–5 · 1 Peter 3:8–17 · Romans 12:1–15 · Luke 13:10–17\
+ nJesus sees the bent woman and sets her free.\n\nRead and pray: https://
+ daily-word-reflections.github.io/?d=2027-03-07&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-07&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: K'piphtho Sunday · The Healing of the Bent 
+ Woman
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-08-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Monday of the fifth week of the Great Fast
+DESCRIPTION:Monday of the fifth week of the Great Fast\nGenesis 22:1–8 
+ · 1 Corinthians 11:1–10 · Luke 5:33–39\nGod tested Abraham\, who a
+ nswered\, “Here I am\,” and set out for Moriah with Isaac.\n\nRead a
+ nd pray: https://daily-word-reflections.github.io/?d=2027-03-08&r=smk&l=
+ en
+URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday of the fifth week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Tuesday of the fifth week of the Great Fast · The Forty Martyrs 
+ of Sebaste
+DESCRIPTION:Tuesday of the fifth week of the Great Fast · The Forty Mart
+ yrs of Sebaste\nGenesis 22:9–19 · Colossians 1:24–29 · Mark 8:31
+ –38\nThe angel stopped Abraham's hand\; a ram was offered instead of I
+ saac\, and the place was called “The Lord will provide.”\n\nRead and
+  pray: https://daily-word-reflections.github.io/?d=2027-03-09&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday of the fifth week of the Great Fast 
+ · The Forty Martyrs of Sebaste
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Wednesday of the fifth week of the Great Fast
+DESCRIPTION:Wednesday of the fifth week of the Great Fast\nGenesis 22:20
+ –24 · 1 Timothy 5:17–22 · Matthew 15:32–39\nNews came to Abraham
+  of his brother Nahor's family\; Bethuel became the father of Rebekah.\n
+ \nRead and pray: https://daily-word-reflections.github.io/?d=2027-03-10&
+ r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday of the fifth week of the Great Fas
+ t
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Thursday of the fifth week of the Great Fast
+DESCRIPTION:Thursday of the fifth week of the Great Fast\nGenesis 23:1–
+ 9 · Colossians 1:3–6 · Matthew 16:1–4\nSarah died at Hebron\; Abra
+ ham mourned and wept for her and\, as a stranger\, asked the Hittites fo
+ r a burial place.\n\nRead and pray: https://daily-word-reflections.githu
+ b.io/?d=2027-03-11&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday of the fifth week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-12-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Friday of the fifth week of the Great Fast
+DESCRIPTION:Friday of the fifth week of the Great Fast\nGenesis 23:10–1
+ 6 · Ephesians 2:11–22 · Mark 8:14–21\nEphron offered the field as 
+ a gift\; Abraham insisted on paying the full price of four hundred sheke
+ ls.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-0
+ 3-12&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Friday of the fifth week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Saturday of the fifth week of the Great Fast
+DESCRIPTION:Saturday of the fifth week of the Great Fast\nGenesis 23:17
+ –20 · Romans 3:27–31 · John 15:11–17\nThe field and cave of Mach
+ pelah became Abraham's possession\, and there he buried Sarah in the lan
+ d of promise.\n\nRead and pray: https://daily-word-reflections.github.io
+ /?d=2027-03-13&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Saturday of the fifth week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-14-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Samio Sunday · The Healing of the Blind
+DESCRIPTION:Samio Sunday · The Healing of the Blind\nMark 10:46–52 · 
+ Deuteronomy 25:13–19 · Job 42:1–9 · 1 Kings 3:4–15 · Jeremiah 5
+ 1:10–19 · 1 Peter 4:12–19 · Romans 14:10–23 · John 9:1–41\nJe
+ sus is the light of the world: he opens blind eyes.\n\nRead and pray: ht
+ tps://daily-word-reflections.github.io/?d=2027-03-14&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-14&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Samio Sunday · The Healing of the Blind
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-15-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Monday of the sixth week of the Great Fast
+DESCRIPTION:Monday of the sixth week of the Great Fast\nGenesis 24:1–9 
+ · Ephesians 6:18–20 · Mark 11:27–33\nOld Abraham sends his servant
+  to find a wife for Isaac\, trusting God to send his angel ahead.\n\nRea
+ d and pray: https://daily-word-reflections.github.io/?d=2027-03-15&r=smk
+ &l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday of the sixth week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-16-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Tuesday of the sixth week of the Great Fast
+DESCRIPTION:Tuesday of the sixth week of the Great Fast\nGenesis 24:10–
+ 14 · Colossians 1:24–29 · Mark 9:30–32\nAt the well\, Abraham's se
+ rvant prays for guidance and asks for a girl with a generous heart.\n\nR
+ ead and pray: https://daily-word-reflections.github.io/?d=2027-03-16&r=s
+ mk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday of the sixth week of the Great Fast
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Wednesday of the sixth week of the Great Fast · St Patrick
+DESCRIPTION:Wednesday of the sixth week of the Great Fast · St Patrick\n
+ Genesis 24:15–27 · Ephesians 5:1–4 · Luke 4:16–19\nRebekah gives
+  water to the servant and\, unasked\, to all his camels\; the servant bl
+ esses God.\n\nRead and pray: https://daily-word-reflections.github.io/?d
+ =2027-03-17&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday of the sixth week of the Great Fas
+ t · St Patrick
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Thursday of the sixth week of the Great Fast · Mar Cyril of Jeru
+ salem
+DESCRIPTION:Thursday of the sixth week of the Great Fast · Mar Cyril of 
+ Jerusalem\nGenesis 24:28–41 · Colossians 3:12–17 · Matthew 5:13–
+ 16\nAbraham's servant will not eat until he has told his errand\; he spe
+ aks only of his master.\n\nRead and pray: https://daily-word-reflections
+ .github.io/?d=2027-03-18&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Thursday of the sixth week of the Great Fast
+  · Mar Cyril of Jerusalem
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:The Fortieth Friday · Mar Yauseph (St Joseph)
+DESCRIPTION:The Fortieth Friday · Mar Yauseph (St Joseph)\nMatthew 4:1
+ –11 · Genesis 3:1–7 · 2 Samuel 24:18–25 · Jeremiah 7:1–7 · I
+ saiah 58:1–8 · 1 Peter 1:13–21 · Romans 14:1–9 · Luke 4:1–13 
+ · Romans 4:16–18 · Matthew 1:18–25\nThe forty days are complete: J
+ esus conquers with the word of God the tempter who overcame Adam.\n\nRea
+ d and pray: https://daily-word-reflections.github.io/?d=2027-03-19&r=smk
+ &l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: The Fortieth Friday · Mar Yauseph (St Josep
+ h)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Lazarus Saturday · The Saturday of the Raising of Lazarus
+DESCRIPTION:Lazarus Saturday · The Saturday of the Raising of Lazarus\nG
+ enesis 24:50–61 · 1 Corinthians 15:20–28 · John 11:28–44\nJesus 
+ weeps at the tomb of Lazarus and raises him with a loud cry: “Lazarus\
+ , come out!”\n\nRead and pray: https://daily-word-reflections.github.i
+ o/?d=2027-03-20&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Lazarus Saturday · The Saturday of the Rais
+ ing of Lazarus
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Hosanna Sunday · The Lord's Entry into Jerusalem
+DESCRIPTION:Hosanna Sunday · The Lord's Entry into Jerusalem\nLuke 19:28
+ –40 · Genesis 49:8–15 · 2 Samuel 6:1–7 · Proverbs 16:13–25 ·
+  Zechariah 9:8–17 · Revelation 7:9–12 · Romans 11:17–24 · John 
+ 12:12–19\nHosanna: the humble King enters Jerusalem on a donkey.\n\nRe
+ ad and pray: https://daily-word-reflections.github.io/?d=2027-03-21&r=sm
+ k&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-21&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Hosanna Sunday · The Lord's Entry into Jeru
+ salem
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-22-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Hasha Monday · Monday of Passion Week
+DESCRIPTION:Hasha Monday · Monday of Passion Week\nIsaiah 28:5–13 · H
+ ebrews 1:10–14 · Matthew 21:23–27\nGod offered his people rest\, bu
+ t their leaders would not hear.\n\nRead and pray: https://daily-word-ref
+ lections.github.io/?d=2027-03-22&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Hasha Monday · Monday of Passion Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-23-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Hasha Tuesday · Tuesday of Passion Week
+DESCRIPTION:Hasha Tuesday · Tuesday of Passion Week\nDeuteronomy 31:14
+ –30 · Hebrews 4:1–5 · John 12:27–36\nBefore his death Moses comm
+ issioned Joshua: be strong and bold\; I will be with you.\n\nRead and pr
+ ay: https://daily-word-reflections.github.io/?d=2027-03-23&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Hasha Tuesday · Tuesday of Passion Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Hasha Wednesday · Wednesday of Passion Week
+DESCRIPTION:Hasha Wednesday · Wednesday of Passion Week\nEzekiel 21:28
+ –32 · Hebrews 9:23–28 · Matthew 26:14–16\nJudas\, one of the twe
+ lve\, sold Jesus for thirty pieces of silver.\n\nRead and pray: https://
+ daily-word-reflections.github.io/?d=2027-03-24&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Hasha Wednesday · Wednesday of Passion Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-25-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Pesaha · The Lord's Supper
+DESCRIPTION:Pesaha · The Lord's Supper\nJohn 7:37–53 · Exodus 12:1–
+ 11 · Leviticus 16:3–10 · Proverbs 1:10–19 · Isaiah 24:16–23 · 
+ Revelation 19:5–16 · 1 Corinthians 11:23–34 · Luke 22:14–30\nOn 
+ this night Jesus gave us the Holy Qurbono.\n\nRead and pray: https://dai
+ ly-word-reflections.github.io/?d=2027-03-25&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Pesaha · The Lord's Supper
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Good Friday · The Passion and Death of our Lord
+DESCRIPTION:Good Friday · The Passion and Death of our Lord\nReadings of
+  the Hours of Good Friday · Matthew 26–27\; Mark 14–15\; Luke 22–
+ 23\; John 18–19\n“He was wounded for our transgressions.”\n\nRead 
+ and pray: https://daily-word-reflections.github.io/?d=2027-03-26&r=smk&l
+ =en
+URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Good Friday · The Passion and Death of our 
+ Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Holy Saturday · The Lord Rests in the Tomb
+DESCRIPTION:Holy Saturday · The Lord Rests in the Tomb\nAmos 6:10–14 (
+ as printed) · Romans 6:1–11 · Matthew 27:62–66\nHoly Saturday: the
+  great silence\; the Lord rests in the tomb.\n\nRead and pray: https://d
+ aily-word-reflections.github.io/?d=2027-03-27&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Holy Saturday · The Lord Rests in the Tomb
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-28-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Qyomtho · The Resurrection of our Lord
+DESCRIPTION:Qyomtho · The Resurrection of our Lord\nMatthew 28:1–10 ·
+  Exodus 40:17–23 · Sirach 30:21–25 · Daniel 6:18–24 · Isaiah 57
+ :14–21 · Acts 2:29–36 · 1 Corinthians 15:1–11 · John 20:1–10\
+ nChrist is risen: “He is not here\; he has been raised.”\n\nRead and
+  pray: https://daily-word-reflections.github.io/?d=2027-03-28&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-28&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Qyomtho · The Resurrection of our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-29-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Monday of Hevoro week · Easter Monday
+DESCRIPTION:Monday of Hevoro week · Easter Monday\nRomans 7:1–6 · Mat
+ thew 28:11–15\nThe guards were paid to say that the body had been stol
+ en\; the tomb was empty because Christ was raised.\n\nRead and pray: htt
+ ps://daily-word-reflections.github.io/?d=2027-03-29&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Monday of Hevoro week · Easter Monday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-30-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Tuesday of Hevoro week · Easter Tuesday
+DESCRIPTION:Tuesday of Hevoro week · Easter Tuesday\n1 Corinthians 5:6
+ –8 · Mark 4:21–25\nChrist our paschal lamb has been sacrificed\; le
+ t us keep the feast with sincerity and truth.\n\nRead and pray: https://
+ daily-word-reflections.github.io/?d=2027-03-30&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tuesday of Hevoro week · Easter Tuesday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Wednesday of Hevoro week · Easter Wednesday
+DESCRIPTION:Wednesday of Hevoro week · Easter Wednesday\n1 Timothy 1:18
+ –20 · Mark 10:17–27\nPaul charges Timothy: fight the good fight wit
+ h faith and a good conscience.\n\nRead and pray: https://daily-word-refl
+ ections.github.io/?d=2027-03-31&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Wednesday of Hevoro week · Easter Wednesday
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-04-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:New Sunday · The Lord Appears to Thomas
+DESCRIPTION:New Sunday · The Lord Appears to Thomas\nJohn 20:19–23 · 
+ Genesis 41:37–45 · 2 Kings 2:1–12 · Wisdom 3:1–9 · Isaiah 40:9
+ –15 · 1 Peter 1:3–12 · 2 Timothy 2:1–13 · John 20:19–29\nThe 
+ risen Lord gives peace\, mission\, the Spirit and forgiveness.\n\nRead a
+ nd pray: https://daily-word-reflections.github.io/?d=2027-04-04&r=smk&l=
+ en
+URL:https://daily-word-reflections.github.io/?d=2027-04-04&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: New Sunday · The Lord Appears to Thomas
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-11-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Second Sunday after Qyomtho
+DESCRIPTION:Second Sunday after Qyomtho\nJohn 21:15–19 · Exodus 15:1
+ –8 · Wisdom 1:12–16 · Joshua 6:8–14 · Isaiah 63:1–6 · Acts 1
+ 3:26–41 · Ephesians 6:18–24 · John 21:1–14\nThe risen Lord meets
+  us in our empty nights.\n\nRead and pray: https://daily-word-reflection
+ s.github.io/?d=2027-04-11&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-04-11&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Second Sunday after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-18-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Third Sunday after Qyomtho · The Road to Emmaus
+DESCRIPTION:Third Sunday after Qyomtho · The Road to Emmaus\nMark 16:9
+ –13 · Exodus 40:1–15 · Joshua 2:1–14 · Amos 4:6–13 · Isaiah 
+ 65:1–7 · Acts 4:5–22 · Ephesians 2:1–10 · Luke 24:13–35\nJesu
+ s walks with us even when we do not recognise him.\n\nRead and pray: htt
+ ps://daily-word-reflections.github.io/?d=2027-04-18&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-04-18&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Third Sunday after Qyomtho · The Road to Em
+ maus
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-25-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Fourth Sunday after Qyomtho
+DESCRIPTION:Fourth Sunday after Qyomtho\nMatthew 28:16–20 · Exodus 34:
+ 10–17 · Job 42:7–17 · 1 Kings 3:4–15 · Isaiah 49:8–13 · Acts
+  10:34–43 · 2 Corinthians 5:17–21 · Luke 24:36–49\nThe risen Lor
+ d is real: “Touch me and see.”\n\nRead and pray: https://daily-word-
+ reflections.github.io/?d=2027-04-25&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-04-25&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Fourth Sunday after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-02-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Fifth Sunday after Qyomtho
+DESCRIPTION:Fifth Sunday after Qyomtho\nJohn 16:12–15 · Deuteronomy 16
+ :10–12 · 2 Samuel 5:9–12 · Proverbs 10:1–13 · Isaiah 28:23–29
+  · Acts 13:44–52 · Colossians 3:1–11 · John 16:16–24\n“Your p
+ ain will turn into joy”: Easter joy is born through the Cross.\n\nRead
+  and pray: https://daily-word-reflections.github.io/?d=2027-05-02&r=smk&
+ l=en
+URL:https://daily-word-reflections.github.io/?d=2027-05-02&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Fifth Sunday after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-06-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Suloko · The Ascension of our Lord
+DESCRIPTION:Suloko · The Ascension of our Lord\nMark 16:14–20 · Deute
+ ronomy 10:1–5 · 2 Kings 2:9–15 · Jeremiah 31:31–34 · Isaiah 49:
+ 1–7 · Acts 1:6–11 · Ephesians 4:7–16 · Luke 24:50–53\nJesus a
+ scends with hands raised in blessing.\n\nRead and pray: https://daily-wo
+ rd-reflections.github.io/?d=2027-05-06&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-05-06&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Suloko · The Ascension of our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-09-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Sixth Sunday after Qyomtho
+DESCRIPTION:Sixth Sunday after Qyomtho\nJohn 17:1–5 · Exodus 6:1–8 
+ · Joshua 1:5–9 · Wisdom 12:1–11 · Isaiah 44:21–28 · Acts 1:12
+ –14 · Ephesians 1:15–23 · John 16:5–11\n“It is to your advanta
+ ge that I go away”: the Spirit will make Christ present everywhere.\n\
+ nRead and pray: https://daily-word-reflections.github.io/?d=2027-05-09&r
+ =smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-05-09&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Sixth Sunday after Qyomtho
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-16-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:The Sunday of Pentecost
+DESCRIPTION:The Sunday of Pentecost\nJohn 14:25–31 · Numbers 11:16–3
+ 5 · Joshua 18:1–7 · 1 Samuel 10:9–16 · Ezekiel 36:22–38 · Acts
+  2:1–13 · 1 Corinthians 12:1–11 · John 14:15–24\nPentecost: the 
+ Spirit comes as wind and fire\; the Church is born into mission.\n\nRead
+  and pray: https://daily-word-reflections.github.io/?d=2027-05-16&r=smk&
+ l=en
+URL:https://daily-word-reflections.github.io/?d=2027-05-16&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: The Sunday of Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-23-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:First Sunday after Pentecost
+DESCRIPTION:First Sunday after Pentecost\nLuke 8:4–15 · Exodus 12:31
+ –42 · Joshua 5:9–12 · Micah 3:8–10 · Jeremiah 29:10–16 · Act
+ s 17:10–15 · Galatians 5:16–26 · John 6:25–33\nAfter Pentecost: 
+ the Spirit bears fruit in us.\n\nRead and pray: https://daily-word-refle
+ ctions.github.io/?d=2027-05-23&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-05-23&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: First Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-30-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Second Sunday after Pentecost
+DESCRIPTION:Second Sunday after Pentecost\nLuke 6:12–23 · Leviticus 19
+ :1–8 · 2 Samuel 5:1–10 · Baruch 1:2–8 · Daniel 6:25–28 · Act
+ s 2:14–21 · Romans 8:1–11 · Matthew 10:38–42\nThe Spirit is pour
+ ed out on all who call on the Lord.\n\nRead and pray: https://daily-word
+ -reflections.github.io/?d=2027-05-30&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-05-30&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Second Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-06-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Third Sunday after Pentecost
+DESCRIPTION:Third Sunday after Pentecost\nMark 6:4–13 · Genesis 42:18
+ –25 · Judges 1:8–11 · Daniel 3:1–18 · Jeremiah 3:1–5 · Acts 
+ 13:26–41 · Galatians 6:10–15 · John 6:35–46\n“I am the bread o
+ f life”: whoever comes to Jesus will never hunger.\n\nRead and pray: h
+ ttps://daily-word-reflections.github.io/?d=2027-06-06&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-06-06&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Third Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-13-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Fourth Sunday after Pentecost
+DESCRIPTION:Fourth Sunday after Pentecost\nLuke 10:1–16 · Deuteronomy 
+ 33:23–29 · Joshua 6:14–18 · Psalm 15:1–5 · Isaiah 65:8–12 · 
+ Acts 6:1–7 · 1 Corinthians 10:14–22 · Luke 10:17–20\nBefore send
+ ing the seventy\, Jesus asks them to pray for laborers.\n\nRead and pray
+ : https://daily-word-reflections.github.io/?d=2027-06-13&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-06-13&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Fourth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-20-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Fifth Sunday after Pentecost
+DESCRIPTION:Fifth Sunday after Pentecost\nMark 9:30–37 · Exodus 23:14
+ –19 · Zechariah 6:1–8 · Hosea 14:5–9 · Isaiah 40:27–31 · Act
+ s 9:10–19 · 2 Corinthians 6:14–18 · Luke 9:10–17\n“You give th
+ em something to eat”: Christ feeds his people through his disciples.\n
+ \nRead and pray: https://daily-word-reflections.github.io/?d=2027-06-20&
+ r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-06-20&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Fifth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-27-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Sixth Sunday after Pentecost
+DESCRIPTION:Sixth Sunday after Pentecost\nLuke 17:1–10 · Exodus 30:34
+ –38 · 2 Samuel 3:17–21 · Psalm 20:1–9 · Isaiah 14:22–27 · Ac
+ ts 17:22–34 · 1 Corinthians 12:12–26 · Luke 15:1–7\nThe Good She
+ pherd searches for the lost one\; heaven rejoices over one sinner who re
+ pents.\n\nRead and pray: https://daily-word-reflections.github.io/?d=202
+ 7-06-27&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-06-27&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Sixth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-29-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Sts Peter and Paul\, Apostles
+DESCRIPTION:Sts Peter and Paul\, Apostles\nMatthew 16:13–20 · Genesis 
+ 12:1–8 · Proverbs 13:1–9 · Daniel 1:1–9 · Isaiah 43:1–7 · Ac
+ ts 12:6–19 · 2 Timothy 4:6–10 · John 21:15–19\n“You are Peter\
+ , and on this rock I will build my church.”\n\nRead and pray: https://
+ daily-word-reflections.github.io/?d=2027-06-29&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-06-29&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Sts Peter and Paul\, Apostles
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-03-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Dukrono of St Thomas the Apostle
+DESCRIPTION:Dukrono of St Thomas the Apostle\nJohn 14:1–6 · Genesis 12
+ :1–9 · Proverbs 4:10–18 · Job 23:1–7 · Isaiah 52:1–15 · 1 Pe
+ ter 2:15–17 · 1 Corinthians 4:15–21 · John 20:19–29\nThomas move
+ d from doubt to the greatest confession: “My Lord and my God!”\n\nRe
+ ad and pray: https://daily-word-reflections.github.io/?d=2027-07-03&r=sm
+ k&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-07-03&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Dukrono of St Thomas the Apostle
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-04-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Seventh Sunday after Pentecost
+DESCRIPTION:Seventh Sunday after Pentecost\nMatthew 12:30–37 · Levitic
+ us 16:29–34 · 1 Samuel 4:18–22 · Hosea 5:1–5 · Isaiah 57:14–2
+ 1 · Acts 4:23–31 · Ephesians 2:11–22 · Mark 3:20–30\n“A house
+  divided against itself cannot stand”: Satan divides\, Christ unites.\
+ n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-07-04
+ &r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-07-04&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Seventh Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-11-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Eighth Sunday after Pentecost
+DESCRIPTION:Eighth Sunday after Pentecost\nMark 4:1–12 · Exodus 3:9–
+ 15 · Job 23:1–7 · Jeremiah 7:21–25 · Isaiah 65:13–16 · 1 Peter
+  2:4–10 · Hebrews 4:12–16 · Mark 4:1–20\n“The word of God is l
+ iving and active”: Christ speaks when the Gospel is proclaimed.\n\nRea
+ d and pray: https://daily-word-reflections.github.io/?d=2027-07-11&r=smk
+ &l=en
+URL:https://daily-word-reflections.github.io/?d=2027-07-11&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Eighth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-15-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Commemoration of Archbishop Mar Ivanios
+DESCRIPTION:Commemoration of Archbishop Mar Ivanios\nMatthew 25:14–30 
+ · Exodus 3:9–12 · Deuteronomy 34:1–8 · Sirach 7:29–36 · Isaiah
+  65:13–16 · Acts 20:25–35 · Hebrews 13:7–16 · Matthew 24:45–5
+ 1\n“Remember your leaders… imitate their faith.”\n\nRead and pray:
+  https://daily-word-reflections.github.io/?d=2027-07-15&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-07-15&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Commemoration of Archbishop Mar Ivanios
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-18-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Ninth Sunday after Pentecost
+DESCRIPTION:Ninth Sunday after Pentecost\nMatthew 13:24–35 · Deuterono
+ my 4:1–6 · Sirach 13:1–7 · Psalm 22:1–11 · Isaiah 24:1–5 · A
+ cts 28:11–22 · 1 Corinthians 6:1–11 · Luke 14:7–11\n“Those who
+  humble themselves will be exalted”: let God choose our place.\n\nRead
+  and pray: https://daily-word-reflections.github.io/?d=2027-07-18&r=smk&
+ l=en
+URL:https://daily-word-reflections.github.io/?d=2027-07-18&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Ninth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-25-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Tenth Sunday after Pentecost
+DESCRIPTION:Tenth Sunday after Pentecost\nLuke 9:12–17 · Exodus 15:23
+ –27 · Job 42:7–17 · Psalm 112:1–10 · Isaiah 57:14–21 · Acts 
+ 28:23–30 · Romans 10:5–13 · Matthew 18:1–14\n“Unless you chang
+ e and become like children\, you will never enter the kingdom.”\n\nRea
+ d and pray: https://daily-word-reflections.github.io/?d=2027-07-25&r=smk
+ &l=en
+URL:https://daily-word-reflections.github.io/?d=2027-07-25&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Tenth Sunday after Pentecost
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-01-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Eleventh Sunday after Pentecost · Sunday School Day
+DESCRIPTION:Eleventh Sunday after Pentecost · Sunday School Day\nMatthew
+  18:15–20 · Leviticus 19:13–18 · Joshua 23:7–14 · Malachi 4:1
+ –6 · Sirach 7:29–36 · James 2:14–26 · 1 Corinthians 14:26–33 
+ · Mark 6:7–13\nSunday School Day: faith is handed on person to person
+ .\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027-08-
+ 01&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-08-01&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Eleventh Sunday after Pentecost · Sunday Sc
+ hool Day
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-06-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:The Transfiguration of Our Lord
+DESCRIPTION:The Transfiguration of Our Lord\nMatthew 17:1–8 · Exodus 1
+ 9:24–20:6 · Deuteronomy 16:13–17 · Psalm 24:1–10 · Isaiah 60:8
+ –14 · 2 Peter 1:16–21 · Romans 11:25–36 · Luke 9:28–36\nJesus
+  is transfigured while praying\; the Law and the Prophets speak of his C
+ ross.\n\nRead and pray: https://daily-word-reflections.github.io/?d=2027
+ -08-06&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-08-06&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: The Transfiguration of Our Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-08-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:First Sunday after the Transfiguration
+DESCRIPTION:First Sunday after the Transfiguration\nMark 4:21–34 · Deu
+ teronomy 25:13–16 · 1 Samuel 2:31–36 · 1 Kings 18:36–46 · Ezeki
+ el 7:1–4 · James 4:7–10 · Philippians 4:8–20 · Matthew 21:28–
+ 32\nThe two sons: obedience counts more than words.\n\nRead and pray: ht
+ tps://daily-word-reflections.github.io/?d=2027-08-08&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-08-08&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: First Sunday after the Transfiguration
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-15-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Shunoyo: the Assumption of Mary\, Mother of God
+DESCRIPTION:Shunoyo: the Assumption of Mary\, Mother of God\nMatthew 12:4
+ 6–50 · Genesis 3:14–18 · Joshua 4:1–14 · Psalm 45:9–17 · Isa
+ iah 45:9–19 · Acts 7:44–53 · Hebrews 9:1–12 · John 19:25–27\n
+ Mary\, having completed her earthly life\, was assumed body and soul int
+ o heaven.\n\nRead and pray: https://daily-word-reflections.github.io/?d=
+ 2027-08-15&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-08-15&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Shunoyo: the Assumption of Mary\, Mother of 
+ God
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-22-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Third Sunday after the Transfiguration
+DESCRIPTION:Third Sunday after the Transfiguration\nLuke 11:5–13 · Gen
+ esis 6:1–12 · Ecclesiastes 5:1–7 · Sirach 4:1–10 · Isaiah 43:1
+ –7 · 2 Peter 3:1–7 · 2 Corinthians 12:1–10 · Luke 18:9–14\nTh
+ e tax collector\, not the proud Pharisee\, went home justified.\n\nRead 
+ and pray: https://daily-word-reflections.github.io/?d=2027-08-22&r=smk&l
+ =en
+URL:https://daily-word-reflections.github.io/?d=2027-08-22&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Third Sunday after the Transfiguration
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-29-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Fourth Sunday after the Transfiguration
+DESCRIPTION:Fourth Sunday after the Transfiguration\nMatthew 20:20–28 
+ · Deuteronomy 18:1–8 · 2 Chronicles 19:8–11 · Psalm 119:1–8 · 
+ Ezekiel 47:1–12 · 1 Peter 4:1–11 · Philippians 2:1–11 · Mark 10
+ :35–45\nThe mother of James and John asked for high seats\; Jesus offe
+ red his cup.\n\nRead and pray: https://daily-word-reflections.github.io/
+ ?d=2027-08-29&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-08-29&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Fourth Sunday after the Transfiguration
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-05-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Fifth Sunday after the Transfiguration
+DESCRIPTION:Fifth Sunday after the Transfiguration\nLuke 18:1–8 · Deut
+ eronomy 9:25–29 · 1 Samuel 12:16–25 · Proverbs 16:1–9 · Isaiah 
+ 40:1–11 · James 1:2–8 · Hebrews 13:5–6 · Luke 18:18–30\nThe r
+ ich ruler lacked one thing: a free heart to follow Jesus.\n\nRead and pr
+ ay: https://daily-word-reflections.github.io/?d=2027-09-05&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-09-05&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Fifth Sunday after the Transfiguration
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-08-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Nativity of Mary\, Mother of God
+DESCRIPTION:Nativity of Mary\, Mother of God\nMark 3:31–35 · Genesis 3
+ :8–15 · Song of Songs 4:1–9 · Psalm 45:9–15 · Isaiah 7:1–15 
+ · Revelation 12:1–12 · Romans 6:1–11 · John 19:25–27\nMary's bi
+ rth is the dawn before the Sun of Justice\, Christ.\n\nRead and pray: ht
+ tps://daily-word-reflections.github.io/?d=2027-09-08&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-09-08&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Nativity of Mary\, Mother of God
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-14-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Exaltation of the Holy Cross (Sleebo)
+DESCRIPTION:Exaltation of the Holy Cross (Sleebo)\nMatthew 24:29–36 · 
+ Genesis 48:13–20 · Numbers 21:4–9 · 1 Samuel 17:37–51 · Isaiah 
+ 65:1–7 · Acts 13:26–39 · Galatians 3:1–14 · Luke 21:5–28\nThe
+  Cross\, sign of shame\, has become the sign of victory and love.\n\nRea
+ d and pray: https://daily-word-reflections.github.io/?d=2027-09-14&r=smk
+ &l=en
+URL:https://daily-word-reflections.github.io/?d=2027-09-14&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: Exaltation of the Holy Cross (Sleebo)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-19-smk-en@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:First Sunday after Sleebo
+DESCRIPTION:First Sunday after Sleebo\nLuke 17:20–35 · Genesis 42:1–
+ 8 · Hosea 5:1–7 · Daniel 4:1–9 · Isaiah 57:14–21 · Acts 3:21
+ –26 · 1 Corinthians 2:10–15 · Mark 13:28–37\n“Keep alert\; for
+  you do not know when the time will come.”\n\nRead and pray: https://d
+ aily-word-reflections.github.io/?d=2027-09-19&r=smk&l=en
+URL:https://daily-word-reflections.github.io/?d=2027-09-19&r=smk&l=en
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow's Word: First Sunday after Sleebo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

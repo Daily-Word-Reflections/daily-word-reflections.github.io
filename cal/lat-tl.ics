@@ -1,0 +1,2964 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daily Word//daily-word-reflections.github.io//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Salita sa Araw-araw · Latin
+X-WR-TIMEZONE:Asia/Kolkata
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:2026-11-01-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Todos los Santos · Dakilang Kapistahan
+DESCRIPTION:Todos los Santos · Dakilang Kapistahan\nPahayag 7:2–4\, 9
+ –14 · Awit 24:1–2\, 3–4\, 5–6 · 1 Juan 3:1–3 · Mateo 5:1–
+ 12a\nAng mga santo ay napakaraming tao na walang makabilang\, mula sa ba
+ wat bansa.\n\nBasahin at ipanalangin: https://daily-word-reflections.git
+ hub.io/?d=2026-11-01&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-01&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Todos los Santos · Dakilang Kapistahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Paggunita sa Lahat ng mga Yumaong Binyagan
+DESCRIPTION:Paggunita sa Lahat ng mga Yumaong Binyagan\nKarunungan 3:1–
+ 9 · Awit 23:1–6 · Roma 5:5–11 · Juan 6:37–40\nAng ating mga yum
+ ao ay nasa kamay ng Diyos.\n\nBasahin at ipanalangin: https://daily-word
+ -reflections.github.io/?d=2026-11-02&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-02&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Paggunita sa Lahat ng mga Yumaong Binyagan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Martes ng Ika-31 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Martes ng Ika-31 na Linggo sa Karaniwang Panahon\nFilipos 2:5
+ –11 · Awit 22:26b–27\, 28–30ab\, 30e–32 · Lucas 14:15–24\nHi
+ nubad ni Kristo ang lahat\; itinaas siya ng Diyos.\n\nBasahin at ipanala
+ ngin: https://daily-word-reflections.github.io/?d=2026-11-03&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-03&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes ng Ika-31 na Linggo sa Karaniwang P
+ anahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Miyerkules ng Ika-31 na Linggo sa Karaniwang Panahon · San Carlo
+ s Borromeo\, obispo
+DESCRIPTION:Miyerkules ng Ika-31 na Linggo sa Karaniwang Panahon · San C
+ arlos Borromeo\, obispo\nFilipos 2:12–18 · Awit 27:1\, 4\, 13–14 ·
+  Lucas 14:25–33\nBuong buhay ang halaga ng pagiging alagad\, at buong 
+ buhay rin ang kapalit nito.\n\nBasahin at ipanalangin: https://daily-wor
+ d-reflections.github.io/?d=2026-11-04&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-04&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules ng Ika-31 na Linggo sa Karaniwa
+ ng Panahon · San Carlos Borromeo\, obispo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Huwebes ng Ika-31 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Huwebes ng Ika-31 na Linggo sa Karaniwang Panahon\nFilipos 3:
+ 3–8a · Awit 105:2–3\, 4–5\, 6–7 · Lucas 15:1–10\nHinahanap n
+ g Diyos ang nawawala hanggang matagpuan niya.\n\nBasahin at ipanalangin:
+  https://daily-word-reflections.github.io/?d=2026-11-05&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-05&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes ng Ika-31 na Linggo sa Karaniwang 
+ Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Biyernes ng Ika-31 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Biyernes ng Ika-31 na Linggo sa Karaniwang Panahon\nFilipos 3
+ :17–4:1 · Awit 122:1–2\, 3–4b\, 4cd–5 · Lucas 16:1–8\nMga ka
+ tiwala tayo na magsusulit.\n\nBasahin at ipanalangin: https://daily-word
+ -reflections.github.io/?d=2026-11-06&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-06&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes ng Ika-31 na Linggo sa Karaniwang
+  Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Sabado ng Ika-31 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Sabado ng Ika-31 na Linggo sa Karaniwang Panahon\nFilipos 4:1
+ 0–19 · Awit 112:1b–2\, 5–6\, 8a\, 9 · Lucas 16:9–15\nIpinapaki
+ ta ng katapatan sa maliliit na bagay ang puso.\n\nBasahin at ipanalangin
+ : https://daily-word-reflections.github.io/?d=2026-11-07&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-07&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado ng Ika-31 na Linggo sa Karaniwang P
+ anahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Ika-32 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Ika-32 na Linggo sa Karaniwang Panahon\nKarunungan 6:12–16 
+ · Awit 63:2\, 3–4\, 5–6\, 7–8 · 1 Tesalonica 4:13–18 · Mateo 
+ 25:1–13\nMadaling matagpuan ang Diyos ng naghahanap sa kanya.\n\nBasah
+ in at ipanalangin: https://daily-word-reflections.github.io/?d=2026-11-0
+ 8&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-08&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ika-32 na Linggo sa Karaniwang Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Pagtatalaga ng Basilika ng Laterano · Kapistahan
+DESCRIPTION:Pagtatalaga ng Basilika ng Laterano · Kapistahan\nEzekiel 47
+ :1–2\, 8–9\, 12 · Awit 46:2–3\, 5–6\, 8–9 · 1 Corinto 3:9c
+ –11\, 16–17 · Juan 2:13–22\nAng Laterano ang katedral ng Papa\, i
+ na ng lahat ng simbahan.\n\nBasahin at ipanalangin: https://daily-word-r
+ eflections.github.io/?d=2026-11-09&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-09&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Pagtatalaga ng Basilika ng Laterano · Kap
+ istahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Martes ng Ika-32 na Linggo sa Karaniwang Panahon · San Leon Magn
+ o\, papa at pantas ng Simbahan
+DESCRIPTION:Martes ng Ika-32 na Linggo sa Karaniwang Panahon · San Leon 
+ Magno\, papa at pantas ng Simbahan\nTito 2:1–8\, 11–14 · Awit 37:3
+ –4\, 18\, 23\, 27\, 29 · Lucas 17:7–10\nHindi natin mapagkakautangi
+ n ang Diyos.\n\nBasahin at ipanalangin: https://daily-word-reflections.g
+ ithub.io/?d=2026-11-10&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-10&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes ng Ika-32 na Linggo sa Karaniwang P
+ anahon · San Leon Magno\, papa at pantas ng Simbahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Miyerkules ng Ika-32 na Linggo sa Karaniwang Panahon · San Marti
+ n ng Tours\, obispo
+DESCRIPTION:Miyerkules ng Ika-32 na Linggo sa Karaniwang Panahon · San M
+ artin ng Tours\, obispo\nTito 3:1–7 · Awit 23:1b–3a\, 3bc–4\, 5\,
+  6 · Lucas 17:11–19\nSampu ang gumaling\; isa lamang ang bumalik at n
+ aligtas.\n\nBasahin at ipanalangin: https://daily-word-reflections.githu
+ b.io/?d=2026-11-11&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-11&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules ng Ika-32 na Linggo sa Karaniwa
+ ng Panahon · San Martin ng Tours\, obispo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Huwebes ng Ika-32 na Linggo sa Karaniwang Panahon · San Josafat\
+ , obispo at martir
+DESCRIPTION:Huwebes ng Ika-32 na Linggo sa Karaniwang Panahon · San Josa
+ fat\, obispo at martir\nFilemon 7–20 · Awit 146:7\, 8–9a\, 9bc–10
+  · Lucas 17:20–25\nNasa gitna na natin ang Kaharian kay Kristo.\n\nBa
+ sahin at ipanalangin: https://daily-word-reflections.github.io/?d=2026-1
+ 1-12&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-12&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes ng Ika-32 na Linggo sa Karaniwang 
+ Panahon · San Josafat\, obispo at martir
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Biyernes ng Ika-32 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Biyernes ng Ika-32 na Linggo sa Karaniwang Panahon\n2 Juan 4
+ –9 · Awit 119:1\, 2\, 10\, 11\, 17\, 18 · Lucas 17:26–37\nAng tuna
+ y na panganib ay ang karaniwang buhay na walang Diyos.\n\nBasahin at ipa
+ nalangin: https://daily-word-reflections.github.io/?d=2026-11-13&r=lat&l
+ =tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-13&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes ng Ika-32 na Linggo sa Karaniwang
+  Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Sabado ng Ika-32 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Sabado ng Ika-32 na Linggo sa Karaniwang Panahon\n3 Juan 5–
+ 8 · Awit 112:1–2\, 3–4\, 5–6 · Lucas 18:1–8\nManalangin palagi
+  nang hindi nanghihina ang loob.\n\nBasahin at ipanalangin: https://dail
+ y-word-reflections.github.io/?d=2026-11-14&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-14&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado ng Ika-32 na Linggo sa Karaniwang P
+ anahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Ika-33 na Linggo sa Karaniwang Panahon · Pandaigdigang Araw ng m
+ ga Dukha
+DESCRIPTION:Ika-33 na Linggo sa Karaniwang Panahon · Pandaigdigang Araw 
+ ng mga Dukha\nKawikaan 31:10–13\, 19–20\, 30–31 · Awit 128:1–2\
+ , 3\, 4–5 · 1 Tesalonica 5:1–6 · Mateo 25:14–30\nBinibigyan ng D
+ iyos ang bawat isa ng kayamanan ng mga kaloob.\n\nBasahin at ipanalangin
+ : https://daily-word-reflections.github.io/?d=2026-11-15&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-15&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ika-33 na Linggo sa Karaniwang Panahon · 
+ Pandaigdigang Araw ng mga Dukha
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Lunes ng Ika-33 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Lunes ng Ika-33 na Linggo sa Karaniwang Panahon\nPahayag 1:1
+ –4\; 2:1–5 · Awit 1:1–2\, 3\, 4\, 6 · Lucas 18:35–43\nMaaaring
+  mawala sa isang masiglang Simbahan ang unang pag-ibig.\n\nBasahin at ip
+ analangin: https://daily-word-reflections.github.io/?d=2026-11-16&r=lat&
+ l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-16&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Lunes ng Ika-33 na Linggo sa Karaniwang Pa
+ nahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Martes ng Ika-33 na Linggo sa Karaniwang Panahon · Santa Isabel 
+ ng Hungary\, relihiyosa
+DESCRIPTION:Martes ng Ika-33 na Linggo sa Karaniwang Panahon · Santa Isa
+ bel ng Hungary\, relihiyosa\nPahayag 3:1–6\, 14–22 · Awit 15:2–3a
+ \, 3bc–4ab\, 5 · Lucas 19:1–10\nKumakatok si Kristo\; hindi niya si
+ nisira ang pinto.\n\nBasahin at ipanalangin: https://daily-word-reflecti
+ ons.github.io/?d=2026-11-17&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-17&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes ng Ika-33 na Linggo sa Karaniwang P
+ anahon · Santa Isabel ng Hungary\, relihiyosa
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Miyerkules ng Ika-33 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Miyerkules ng Ika-33 na Linggo sa Karaniwang Panahon\nPahayag
+  4:1–11 · Awit 150:1b–2\, 3–4\, 5–6 · Lucas 19:11–28\nHindi 
+ tumitigil ang pagsamba sa langit\; nakikiisa rito ang bawat Misa.\n\nBas
+ ahin at ipanalangin: https://daily-word-reflections.github.io/?d=2026-11
+ -18&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-18&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules ng Ika-33 na Linggo sa Karaniwa
+ ng Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Huwebes ng Ika-33 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Huwebes ng Ika-33 na Linggo sa Karaniwang Panahon\nPahayag 5:
+ 1–10 · Awit 149:1b–2\, 3–4\, 5–6a\, 9b · Lucas 19:41–44\nAng
+  Leon ng Juda ay isang Korderong pinatay.\n\nBasahin at ipanalangin: htt
+ ps://daily-word-reflections.github.io/?d=2026-11-19&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-19&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes ng Ika-33 na Linggo sa Karaniwang 
+ Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Biyernes ng Ika-33 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Biyernes ng Ika-33 na Linggo sa Karaniwang Panahon\nPahayag 1
+ 0:8–11 · Awit 119:14\, 24\, 72\, 103\, 111\, 131 · Lucas 19:45–48\
+ nTinutunaw muna ang salita ng Diyos bago ipahayag.\n\nBasahin at ipanala
+ ngin: https://daily-word-reflections.github.io/?d=2026-11-20&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-20&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes ng Ika-33 na Linggo sa Karaniwang
+  Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Sabado ng Ika-33 na Linggo sa Karaniwang Panahon · Pagdadala kay
+  Birheng Maria sa Templo
+DESCRIPTION:Sabado ng Ika-33 na Linggo sa Karaniwang Panahon · Pagdadala
+  kay Birheng Maria sa Templo\nPahayag 11:4–12 · Awit 144:1\, 2\, 9–
+ 10 · Lucas 20:27–40\nAng Diyos ay Diyos ng mga buhay\; sa kanya ay bu
+ hay ang lahat.\n\nBasahin at ipanalangin: https://daily-word-reflections
+ .github.io/?d=2026-11-21&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-21&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado ng Ika-33 na Linggo sa Karaniwang P
+ anahon · Pagdadala kay Birheng Maria sa Templo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Ang Ating Panginoong Hesukristo\, Hari ng Sanlibutan · Dakilang 
+ Kapistahan
+DESCRIPTION:Ang Ating Panginoong Hesukristo\, Hari ng Sanlibutan · Dakil
+ ang Kapistahan\nEzekiel 34:11–12\, 15–17 · Awit 23:1–2\, 2–3\, 
+ 5–6 · 1 Corinto 15:20–26\, 28 · Mateo 25:31–46\nNaghahari si Kri
+ stong Hari bilang pastol.\n\nBasahin at ipanalangin: https://daily-word-
+ reflections.github.io/?d=2026-11-22&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-22&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ang Ating Panginoong Hesukristo\, Hari ng 
+ Sanlibutan · Dakilang Kapistahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Lunes ng Ika-34 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Lunes ng Ika-34 na Linggo sa Karaniwang Panahon\nPahayag 14:1
+ –3\, 4b–5 · Awit 24:1b–2\, 3–4ab\, 5–6 · Lucas 21:1–4\nSin
+ usukat ng Diyos ang kaloob ayon sa pag-ibig\, hindi sa halaga.\n\nBasahi
+ n at ipanalangin: https://daily-word-reflections.github.io/?d=2026-11-23
+ &r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-23&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Lunes ng Ika-34 na Linggo sa Karaniwang Pa
+ nahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Martes ng Ika-34 na Linggo sa Karaniwang Panahon · San Andres Du
+ ng-Lac at mga kasama\, mga martir
+DESCRIPTION:Martes ng Ika-34 na Linggo sa Karaniwang Panahon · San Andre
+ s Dung-Lac at mga kasama\, mga martir\nPahayag 14:14–19 · Awit 96:10\
+ , 11–12\, 13 · Lucas 21:5–11\nBabagsak maging ang mga bato ng Templ
+ o\; nananatili ang salita ng Diyos.\n\nBasahin at ipanalangin: https://d
+ aily-word-reflections.github.io/?d=2026-11-24&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-24&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes ng Ika-34 na Linggo sa Karaniwang P
+ anahon · San Andres Dung-Lac at mga kasama\, mga martir
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Miyerkules ng Ika-34 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Miyerkules ng Ika-34 na Linggo sa Karaniwang Panahon\nPahayag
+  15:1–4 · Awit 98:1\, 2–3ab\, 7–8\, 9 · Lucas 21:12–19\nNagigi
+ ng pagkakataon ng pagpapatotoo ang pag-uusig.\n\nBasahin at ipanalangin:
+  https://daily-word-reflections.github.io/?d=2026-11-25&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-25&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules ng Ika-34 na Linggo sa Karaniwa
+ ng Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Huwebes ng Ika-34 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Huwebes ng Ika-34 na Linggo sa Karaniwang Panahon\nPahayag 18
+ :1–2\, 21–23\; 19:1–3\, 9a · Awit 100:1b–2\, 3\, 4\, 5 · Lucas
+  21:20–28\nAng nagpapanghina sa iba ay nagpapatingala sa mga alagad.\n
+ \nBasahin at ipanalangin: https://daily-word-reflections.github.io/?d=20
+ 26-11-26&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-26&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes ng Ika-34 na Linggo sa Karaniwang 
+ Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Biyernes ng Ika-34 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Biyernes ng Ika-34 na Linggo sa Karaniwang Panahon\nPahayag 2
+ 0:1–4\, 11–21:2 · Awit 84:3\, 4\, 5–6a\, 8a · Lucas 21:29–33\n
+ Mas tatagal ang mga salita ni Kristo kaysa sa langit at lupa.\n\nBasahin
+  at ipanalangin: https://daily-word-reflections.github.io/?d=2026-11-27&
+ r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-27&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes ng Ika-34 na Linggo sa Karaniwang
+  Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Sabado ng Ika-34 na Linggo sa Karaniwang Panahon
+DESCRIPTION:Sabado ng Ika-34 na Linggo sa Karaniwang Panahon\nPahayag 22:
+ 1–7 · Awit 95:1–2\, 3–5\, 6–7ab · Lucas 21:34–36\nNagtatapos
+  ang Bibliya kung saan ito nagsimula: sa punungkahoy ng buhay.\n\nBasahi
+ n at ipanalangin: https://daily-word-reflections.github.io/?d=2026-11-28
+ &r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-28&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado ng Ika-34 na Linggo sa Karaniwang P
+ anahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Unang Linggo ng Adbiyento
+DESCRIPTION:Unang Linggo ng Adbiyento\nIsaias 63:16b–17\, 19b\; 64:2b
+ –7 · Awit 80:2–3\, 15–16\, 18–19 · 1 Corinto 1:3–9 · Marcos
+  13:33–37\nNagsisimula ang Adbiyento sa pananabik: punitin mo ang lang
+ it at bumaba ka.\n\nBasahin at ipanalangin: https://daily-word-reflectio
+ ns.github.io/?d=2026-11-29&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-29&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Unang Linggo ng Adbiyento
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:San Andres\, apostol · Kapistahan
+DESCRIPTION:San Andres\, apostol · Kapistahan\nRoma 10:9–18 · Awit 19
+ :8\, 9\, 10\, 11 · Mateo 4:18–22\nSi Andres ang unang tinawag.\n\nBas
+ ahin at ipanalangin: https://daily-word-reflections.github.io/?d=2026-11
+ -30&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-11-30&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: San Andres\, apostol · Kapistahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Martes sa Unang Linggo ng Adbiyento
+DESCRIPTION:Martes sa Unang Linggo ng Adbiyento\nIsaias 11:1–10 · Awit
+  72:1–2\, 7–8\, 12–13\, 17 · Lucas 10:21–24\nNagpapasibol ang D
+ iyos ng bagong buhay mula sa pinutol na tuod.\n\nBasahin at ipanalangin:
+  https://daily-word-reflections.github.io/?d=2026-12-01&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-01&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes sa Unang Linggo ng Adbiyento
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Miyerkules sa Unang Linggo ng Adbiyento
+DESCRIPTION:Miyerkules sa Unang Linggo ng Adbiyento\nIsaias 25:6–10a ·
+  Awit 23:1–3a\, 3b–4\, 5\, 6 · Mateo 15:29–37\nIpinangangako ng D
+ iyos ang piging at ang wakas ng kamatayan.\n\nBasahin at ipanalangin: ht
+ tps://daily-word-reflections.github.io/?d=2026-12-02&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-02&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules sa Unang Linggo ng Adbiyento
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Huwebes sa Unang Linggo ng Adbiyento · San Francisco Javier\, Pa
+ ri
+DESCRIPTION:Huwebes sa Unang Linggo ng Adbiyento · San Francisco Javier\
+ , Pari\nIsaias 26:1–6 · Awit 118:1 at 8–9\, 19–21\, 25–27a · M
+ ateo 7:21\, 24–27\nHindi sapat ang magsabi ng Panginoon\, Panginoon\; 
+ dapat gawin ang kanyang kalooban.\n\nBasahin at ipanalangin: https://dai
+ ly-word-reflections.github.io/?d=2026-12-03&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-03&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes sa Unang Linggo ng Adbiyento · Sa
+ n Francisco Javier\, Pari
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Biyernes sa Unang Linggo ng Adbiyento
+DESCRIPTION:Biyernes sa Unang Linggo ng Adbiyento\nIsaias 29:17–24 · A
+ wit 27:1\, 4\, 13–14 · Mateo 9:27–31\nIpinangangako ng Diyos na mak
+ akakita ang mga bulag.\n\nBasahin at ipanalangin: https://daily-word-ref
+ lections.github.io/?d=2026-12-04&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-04&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes sa Unang Linggo ng Adbiyento
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Sabado sa Unang Linggo ng Adbiyento
+DESCRIPTION:Sabado sa Unang Linggo ng Adbiyento\nIsaias 30:19–21\, 23
+ –26 · Awit 147:1–2\, 3–4\, 5–6 · Mateo 9:35–10:1\, 5a\, 6–
+ 8\nNaghihintay ang Diyos upang mahabag at naririnig niya ang ating daing
+ .\n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/?d
+ =2026-12-05&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-05&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado sa Unang Linggo ng Adbiyento
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Ikalawang Linggo ng Adbiyento
+DESCRIPTION:Ikalawang Linggo ng Adbiyento\nIsaias 40:1–5\, 9–11 · Aw
+ it 85:9–10\, 11–12\, 13–14 · 2 Pedro 3:8–14 · Marcos 1:1–8\n
+ Ang unang salita ng Diyos ay kaaliwan.\n\nBasahin at ipanalangin: https:
+ //daily-word-reflections.github.io/?d=2026-12-06&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-06&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ikalawang Linggo ng Adbiyento
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Lunes sa Ikalawang Linggo ng Adbiyento · San Ambrosio\, obispo a
+ t pantas ng Simbahan
+DESCRIPTION:Lunes sa Ikalawang Linggo ng Adbiyento · San Ambrosio\, obis
+ po at pantas ng Simbahan\nIsaias 35:1–10 · Awit 85:9ab at 10\, 11–1
+ 2\, 13–14 · Lucas 5:17–26\nPinamumulaklak ng Diyos ang ilang.\n\nBa
+ sahin at ipanalangin: https://daily-word-reflections.github.io/?d=2026-1
+ 2-07&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-07&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Lunes sa Ikalawang Linggo ng Adbiyento · 
+ San Ambrosio\, obispo at pantas ng Simbahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Kalinis-linisang Paglilihi sa Mahal na Birheng Maria · Dakilang 
+ Kapistahan
+DESCRIPTION:Kalinis-linisang Paglilihi sa Mahal na Birheng Maria · Dakil
+ ang Kapistahan\nGenesis 3:9–15\, 20 · Awit 98:1\, 2–3ab\, 3cd–4 
+ · Efeso 1:3–6\, 11–12 · Lucas 1:26–38\nIningatan si Maria sa kas
+ alanang mana mula sa unang sandali.\n\nBasahin at ipanalangin: https://d
+ aily-word-reflections.github.io/?d=2026-12-08&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-08&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Kalinis-linisang Paglilihi sa Mahal na Bir
+ heng Maria · Dakilang Kapistahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Miyerkules sa Ikalawang Linggo ng Adbiyento
+DESCRIPTION:Miyerkules sa Ikalawang Linggo ng Adbiyento\nIsaias 40:25–3
+ 1 · Awit 103:1–2\, 3–4\, 8 at 10 · Mateo 11:28–30\nHindi kailanm
+ an napapagod ang Diyos.\n\nBasahin at ipanalangin: https://daily-word-re
+ flections.github.io/?d=2026-12-09&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-09&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules sa Ikalawang Linggo ng Adbiyent
+ o
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Huwebes sa Ikalawang Linggo ng Adbiyento
+DESCRIPTION:Huwebes sa Ikalawang Linggo ng Adbiyento\nIsaias 41:13–20 
+ · Awit 145:1 at 9\, 10–11\, 12–13ab · Mateo 11:11–15\nHinahawaka
+ n ng Diyos ang ating kanang kamay.\n\nBasahin at ipanalangin: https://da
+ ily-word-reflections.github.io/?d=2026-12-10&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-10&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes sa Ikalawang Linggo ng Adbiyento
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Biyernes sa Ikalawang Linggo ng Adbiyento
+DESCRIPTION:Biyernes sa Ikalawang Linggo ng Adbiyento\nIsaias 48:17–19 
+ · Awit 1:1–2\, 3\, 4 at 6 · Mateo 11:16–19\nInaakay ng mga utos ng
+  Diyos sa kapayapaang parang ilog.\n\nBasahin at ipanalangin: https://da
+ ily-word-reflections.github.io/?d=2026-12-11&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-11&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes sa Ikalawang Linggo ng Adbiyento
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Sabado sa Ikalawang Linggo ng Adbiyento · Mahal na Birhen ng Gua
+ dalupe
+DESCRIPTION:Sabado sa Ikalawang Linggo ng Adbiyento · Mahal na Birhen ng
+  Guadalupe\nSirak 48:1–4\, 9–11 · Awit 80:2ac at 3b\, 15–16\, 18
+ –19 · Mateo 17:9a\, 10–13\nSi Elias ay propetang parang apoy.\n\nBa
+ sahin at ipanalangin: https://daily-word-reflections.github.io/?d=2026-1
+ 2-12&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-12&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado sa Ikalawang Linggo ng Adbiyento ·
+  Mahal na Birhen ng Guadalupe
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Ikatlong Linggo ng Adbiyento (Gaudete)
+DESCRIPTION:Ikatlong Linggo ng Adbiyento (Gaudete)\nIsaias 61:1–2a\, 10
+ –11 · Lucas 1:46–48\, 49–50\, 53–54 · 1 Tesalonica 5:16–24 
+ · Juan 1:6–8\, 19–28\nAng kagalakan ang puso ng Adbiyento: malapit 
+ na ang Panginoon.\n\nBasahin at ipanalangin: https://daily-word-reflecti
+ ons.github.io/?d=2026-12-13&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-13&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ikatlong Linggo ng Adbiyento (Gaudete)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Lunes sa Ikatlong Linggo ng Adbiyento · San Juan de la Cruz\, pa
+ ri at pantas ng Simbahan
+DESCRIPTION:Lunes sa Ikatlong Linggo ng Adbiyento · San Juan de la Cruz\
+ , pari at pantas ng Simbahan\nMga Bilang 24:2–7\, 15–17a · Awit 25:
+ 4–5ab\, 6 at 7bc\, 8–9 · Mateo 21:23–27\nSumisikat ang bituin ng 
+ Diyos kahit sa pamamagitan ng di-inaasahang propeta.\n\nBasahin at ipana
+ langin: https://daily-word-reflections.github.io/?d=2026-12-14&r=lat&l=t
+ l
+URL:https://daily-word-reflections.github.io/?d=2026-12-14&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Lunes sa Ikatlong Linggo ng Adbiyento · S
+ an Juan de la Cruz\, pari at pantas ng Simbahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Martes sa Ikatlong Linggo ng Adbiyento
+DESCRIPTION:Martes sa Ikatlong Linggo ng Adbiyento\nSofonias 3:1–2\, 9
+ –13 · Awit 34:2–3\, 6–7\, 17–18\, 19 at 23 · Mateo 21:28–32\
+ nAng kinabukasan ng Diyos ay para sa mapagpakumbabang nalabi.\n\nBasahin
+  at ipanalangin: https://daily-word-reflections.github.io/?d=2026-12-15&
+ r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-15&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes sa Ikatlong Linggo ng Adbiyento
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Miyerkules sa Ikatlong Linggo ng Adbiyento
+DESCRIPTION:Miyerkules sa Ikatlong Linggo ng Adbiyento\nIsaias 45:6b–8\
+ , 18\, 21b–25 · Awit 85:9ab at 10\, 11–12\, 13–14 · Lucas 7:18b
+ –23\nIpinauulan ng langit ang Matuwid\; isinisilang ng lupa ang Tagapa
+ gligtas.\n\nBasahin at ipanalangin: https://daily-word-reflections.githu
+ b.io/?d=2026-12-16&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-16&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules sa Ikatlong Linggo ng Adbiyento
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Disyembre 17 · Karaniwang Araw ng Adbiyento (O Karunungan)
+DESCRIPTION:Disyembre 17 · Karaniwang Araw ng Adbiyento (O Karunungan)\n
+ Genesis 49:2\, 8–10 · Awit 72:1–2\, 3–4ab\, 7–8\, 17 · Mateo 1
+ :1–17\nNagsisimula ang mga antipona O: O Karunungan\, pumarito ka!\n\n
+ Basahin at ipanalangin: https://daily-word-reflections.github.io/?d=2026
+ -12-17&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-17&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Disyembre 17 · Karaniwang Araw ng Adbiyen
+ to (O Karunungan)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Disyembre 18 · Karaniwang Araw ng Adbiyento (O Adonai)
+DESCRIPTION:Disyembre 18 · Karaniwang Araw ng Adbiyento (O Adonai)\nJere
+ mias 23:5–8 · Awit 72:1–2\, 12–13\, 18–19 · Mateo 1:18–25\nN
+ agpapasibol ang Diyos ng isang matuwid na Supling mula kay David.\n\nBas
+ ahin at ipanalangin: https://daily-word-reflections.github.io/?d=2026-12
+ -18&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-18&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Disyembre 18 · Karaniwang Araw ng Adbiyen
+ to (O Adonai)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Disyembre 19 · Karaniwang Araw ng Adbiyento (O Ugat ni Jesse)
+DESCRIPTION:Disyembre 19 · Karaniwang Araw ng Adbiyento (O Ugat ni Jesse
+ )\nMga Hukom 13:2–7\, 24–25a · Awit 71:3–4a\, 5–6ab\, 16–17 
+ · Lucas 1:5–25\nGinagawang buhay ng Diyos ang pagkabaog.\n\nBasahin a
+ t ipanalangin: https://daily-word-reflections.github.io/?d=2026-12-19&r=
+ lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-19&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Disyembre 19 · Karaniwang Araw ng Adbiyen
+ to (O Ugat ni Jesse)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Ikaapat na Linggo ng Adbiyento
+DESCRIPTION:Ikaapat na Linggo ng Adbiyento\n2 Samuel 7:1–5\, 8b–12\, 
+ 14a\, 16 · Awit 89:2–3\, 4–5\, 27\, 29 · Roma 16:25–27 · Lucas 
+ 1:26–38\nNais ni David na magtayo ng bahay para sa Diyos\; nagtayo ang
+  Diyos ng bahay para kay David.\n\nBasahin at ipanalangin: https://daily
+ -word-reflections.github.io/?d=2026-12-20&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-20&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ikaapat na Linggo ng Adbiyento
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Disyembre 21 · Karaniwang Araw ng Adbiyento (O Bukang-liwayway)
+DESCRIPTION:Disyembre 21 · Karaniwang Araw ng Adbiyento (O Bukang-liwayw
+ ay)\nAwit ng mga Awit 2:8–14 (o Sofonias 3:14–18a) · Awit 33:2–3\
+ , 11–12\, 20–21 · Lucas 1:39–45\nDumarating ang sinta\, lumulukso
+  sa mga bundok.\n\nBasahin at ipanalangin: https://daily-word-reflection
+ s.github.io/?d=2026-12-21&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-21&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Disyembre 21 · Karaniwang Araw ng Adbiyen
+ to (O Bukang-liwayway)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Disyembre 22 · Karaniwang Araw ng Adbiyento (O Hari ng mga Bansa
+ )
+DESCRIPTION:Disyembre 22 · Karaniwang Araw ng Adbiyento (O Hari ng mga B
+ ansa)\n1 Samuel 1:24–28 · 1 Samuel 2:1\, 4–5\, 6–7\, 8abcd · Luc
+ as 1:46–56\nIbinalik ni Ana sa Diyos ang anak na ibinigay niya sa kany
+ a.\n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/?
+ d=2026-12-22&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-22&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Disyembre 22 · Karaniwang Araw ng Adbiyen
+ to (O Hari ng mga Bansa)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Disyembre 23 · Karaniwang Araw ng Adbiyento (O Emmanuel)
+DESCRIPTION:Disyembre 23 · Karaniwang Araw ng Adbiyento (O Emmanuel)\nMa
+ lakias 3:1–4\; 4:5–6 · Awit 25:4–5ab\, 8–9\, 10\, 14 · Lucas 1
+ :57–66\nIsinilang ang sugo ni Malakias: si Juan.\n\nBasahin at ipanala
+ ngin: https://daily-word-reflections.github.io/?d=2026-12-23&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-23&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Disyembre 23 · Karaniwang Araw ng Adbiyen
+ to (O Emmanuel)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Disyembre 24 · Karaniwang Araw ng Adbiyento (Misa sa Umaga)
+DESCRIPTION:Disyembre 24 · Karaniwang Araw ng Adbiyento (Misa sa Umaga)\
+ n2 Samuel 7:1–5\, 8b–12\, 14a\, 16 · Awit 89:2–3\, 4–5\, 27\, 2
+ 9 · Lucas 1:67–79\nNagbangon ang Diyos ng makapangyarihang Tagapaglig
+ tas mula sa angkan ni David.\n\nBasahin at ipanalangin: https://daily-wo
+ rd-reflections.github.io/?d=2026-12-24&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-24&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Disyembre 24 · Karaniwang Araw ng Adbiyen
+ to (Misa sa Umaga)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Pagsilang ng Panginoon (Pasko) · Dakilang Kapistahan
+DESCRIPTION:Pagsilang ng Panginoon (Pasko) · Dakilang Kapistahan\nIsaias
+  52:7–10 · Awit 98:1\, 2–3ab\, 3cd–4\, 5–6 · Hebreo 1:1–6 ·
+  Juan 1:1–18 (o 1:1–5\, 9–14)\nAng walang hanggang Salita ay nagka
+ tawang-tao at nanirahan sa piling natin.\n\nBasahin at ipanalangin: http
+ s://daily-word-reflections.github.io/?d=2026-12-25&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-25&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Pagsilang ng Panginoon (Pasko) · Dakilang
+  Kapistahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:San Esteban\, Unang Martir · Kapistahan
+DESCRIPTION:San Esteban\, Unang Martir · Kapistahan\nMga Gawa 6:8–10\;
+  7:54–59 · Awit 31:3cd–4\, 6\, 8ab\, 16bc\, 17 · Mateo 10:17–22\
+ nKinabukasan ng Pasko\, ipinagdiriwang ng Simbahan ang kanyang unang mar
+ tir.\n\nBasahin at ipanalangin: https://daily-word-reflections.github.io
+ /?d=2026-12-26&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-26&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: San Esteban\, Unang Martir · Kapistahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Banal na Mag-anak nina Hesus\, Maria at Jose · Kapistahan
+DESCRIPTION:Banal na Mag-anak nina Hesus\, Maria at Jose · Kapistahan\nG
+ enesis 15:1–6\; 21:1–3 · Awit 105:1–2\, 3–4\, 5–6\, 8–9 · 
+ Hebreo 11:8\, 11–12\, 17–19 · Lucas 2:22–40 (o 2:22\, 39–40)\nL
+ umaki ang Anak ng Diyos sa isang pamilya.\n\nBasahin at ipanalangin: htt
+ ps://daily-word-reflections.github.io/?d=2026-12-27&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-27&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Banal na Mag-anak nina Hesus\, Maria at Jo
+ se · Kapistahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Mga Banal na Walang-malay\, mga Martir · Kapistahan
+DESCRIPTION:Mga Banal na Walang-malay\, mga Martir · Kapistahan\n1 Juan 
+ 1:5 – 2:2 · Awit 124:2–3\, 4–5\, 7b–8 · Mateo 2:13–18\nPinat
+ ay ni Herodes ang mga bata ng Betlehem upang puksain ang bagong silang n
+ a Hari.\n\nBasahin at ipanalangin: https://daily-word-reflections.github
+ .io/?d=2026-12-28&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-28&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Mga Banal na Walang-malay\, mga Martir · 
+ Kapistahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Disyembre 29 · Ikalimang Araw sa Loob ng Walong Araw ng Pasko
+DESCRIPTION:Disyembre 29 · Ikalimang Araw sa Loob ng Walong Araw ng Pask
+ o\n1 Juan 2:3–11 · Awit 96:1–2a\, 2b–3\, 5b–6 · Lucas 2:22–3
+ 5\nKinalong ni Simeon\, sa udyok ng Espiritu\, ang Tagapagligtas.\n\nBas
+ ahin at ipanalangin: https://daily-word-reflections.github.io/?d=2026-12
+ -29&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-29&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Disyembre 29 · Ikalimang Araw sa Loob ng 
+ Walong Araw ng Pasko
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Disyembre 30 · Ikaanim na Araw sa Loob ng Walong Araw ng Pasko
+DESCRIPTION:Disyembre 30 · Ikaanim na Araw sa Loob ng Walong Araw ng Pas
+ ko\n1 Juan 2:12–17 · Awit 96:7–8a\, 8b–9\, 10 · Lucas 2:36–40\
+ nAng panghabambuhay na panalangin ni Ana ang naghanda sa kanya upang mak
+ ilala si Kristo.\n\nBasahin at ipanalangin: https://daily-word-reflectio
+ ns.github.io/?d=2026-12-30&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-30&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Disyembre 30 · Ikaanim na Araw sa Loob ng
+  Walong Araw ng Pasko
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Disyembre 31 · Ikapitong Araw sa Loob ng Walong Araw ng Pasko
+DESCRIPTION:Disyembre 31 · Ikapitong Araw sa Loob ng Walong Araw ng Pask
+ o\n1 Juan 2:18–21 · Awit 96:1–2\, 11–12\, 13 · Juan 1:1–18\nAn
+ g Salitang naroon na sa simula ang Panginoon ng lahat ng panahon.\n\nBas
+ ahin at ipanalangin: https://daily-word-reflections.github.io/?d=2026-12
+ -31&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2026-12-31&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Disyembre 31 · Ikapitong Araw sa Loob ng 
+ Walong Araw ng Pasko
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Santa Maria\, Ina ng Diyos · Dakilang Kapistahan · Ikawalong Ar
+ aw ng Pasko
+DESCRIPTION:Santa Maria\, Ina ng Diyos · Dakilang Kapistahan · Ikawalon
+ g Araw ng Pasko\nMga Bilang 6:22–27 · Awit 67:1–2\, 4\, 5\, 7 · Ga
+ lacia 4:4–7 · Lucas 2:16–21\nTunay na Ina ng Diyos si Maria\, sapag
+ kat Diyos ang kanyang Anak.\n\nBasahin at ipanalangin: https://daily-wor
+ d-reflections.github.io/?d=2027-01-01&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-01&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Santa Maria\, Ina ng Diyos · Dakilang Kap
+ istahan · Ikawalong Araw ng Pasko
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Enero 2 · San Basilio Magno at San Gregorio Nazianzeno\, mga obi
+ spo at pantas ng Simbahan · Paggunita
+DESCRIPTION:Enero 2 · San Basilio Magno at San Gregorio Nazianzeno\, mga
+  obispo at pantas ng Simbahan · Paggunita\n1 Juan 2:22–28 · Awit 98:
+ 1\, 2–3ab\, 3cd–4 · Juan 1:19–28\nSi Juan Bautista ay isang tinig
+  na nagtuturo kay Kristo.\n\nBasahin at ipanalangin: https://daily-word-
+ reflections.github.io/?d=2027-01-02&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-02&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Enero 2 · San Basilio Magno at San Gregor
+ io Nazianzeno\, mga obispo at pantas ng Simbahan · Paggunita
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Pagpapakita ng Panginoon (Epipanya) · Dakilang Kapistahan
+DESCRIPTION:Pagpapakita ng Panginoon (Epipanya) · Dakilang Kapistahan\nI
+ saias 60:1–6 · Awit 72:1–2\, 7–8\, 10–11\, 12–13 · Efeso 3:2
+ –3a\, 5–6 · Mateo 2:1–12\nNahahayag si Kristo sa lahat ng bansa.\
+ n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/?d=2
+ 027-01-03&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-03&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Pagpapakita ng Panginoon (Epipanya) · Dak
+ ilang Kapistahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Enero 4 · Lunes Pagkatapos ng Pagpapakita ng Panginoon
+DESCRIPTION:Enero 4 · Lunes Pagkatapos ng Pagpapakita ng Panginoon\n1 Ju
+ an 3:22–4:6 · Awit 2:7–8\, 10–12a · Mateo 4:12–17\, 23–25\nS
+ inimulan ni Hesus ang kanyang pangangaral kung saan nananahan ang mga ta
+ o sa kadiliman.\n\nBasahin at ipanalangin: https://daily-word-reflection
+ s.github.io/?d=2027-01-04&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-04&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Enero 4 · Lunes Pagkatapos ng Pagpapakita
+  ng Panginoon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Enero 5 · Martes Pagkatapos ng Pagpapakita ng Panginoon
+DESCRIPTION:Enero 5 · Martes Pagkatapos ng Pagpapakita ng Panginoon\n1 J
+ uan 4:7–10 · Awit 72:1–2\, 3–4\, 7–8 · Marcos 6:34–44\nAng D
+ iyos ay pag-ibig\, at siya ang unang umibig sa atin.\n\nBasahin at ipana
+ langin: https://daily-word-reflections.github.io/?d=2027-01-05&r=lat&l=t
+ l
+URL:https://daily-word-reflections.github.io/?d=2027-01-05&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Enero 5 · Martes Pagkatapos ng Pagpapakit
+ a ng Panginoon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Enero 6 · Miyerkules Pagkatapos ng Pagpapakita ng Panginoon
+DESCRIPTION:Enero 6 · Miyerkules Pagkatapos ng Pagpapakita ng Panginoon\
+ n1 Juan 4:11–18 · Awit 72:1–2\, 10\, 12–13 · Marcos 6:45–52\nN
+ ananalangin si Hesus sa bundok at nakikita niya ang ating paghihirap.\n\
+ nBasahin at ipanalangin: https://daily-word-reflections.github.io/?d=202
+ 7-01-06&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-06&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Enero 6 · Miyerkules Pagkatapos ng Pagpap
+ akita ng Panginoon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Enero 7 · Huwebes Pagkatapos ng Pagpapakita ng Panginoon
+DESCRIPTION:Enero 7 · Huwebes Pagkatapos ng Pagpapakita ng Panginoon\n1 
+ Juan 4:19–5:4 · Awit 72:1–2\, 14 at 15bc\, 17 · Lucas 4:14–22a\n
+ Si Hesus ang Hinirang\, isinugo sa mga dukha at mga bihag.\n\nBasahin at
+  ipanalangin: https://daily-word-reflections.github.io/?d=2027-01-07&r=l
+ at&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-07&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Enero 7 · Huwebes Pagkatapos ng Pagpapaki
+ ta ng Panginoon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Enero 8 · Biyernes Pagkatapos ng Pagpapakita ng Panginoon
+DESCRIPTION:Enero 8 · Biyernes Pagkatapos ng Pagpapakita ng Panginoon\n1
+  Juan 5:5–13 · Awit 147:12–13\, 14–15\, 19–20 · Lucas 5:12–1
+ 6\nNagtitiwala ang ketongin sa kapangyarihan ni Hesus at itinatanong ang
+  kanyang kalooban.\n\nBasahin at ipanalangin: https://daily-word-reflect
+ ions.github.io/?d=2027-01-08&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-08&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Enero 8 · Biyernes Pagkatapos ng Pagpapak
+ ita ng Panginoon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Enero 9 · Sabado Pagkatapos ng Pagpapakita ng Panginoon
+DESCRIPTION:Enero 9 · Sabado Pagkatapos ng Pagpapakita ng Panginoon\n1 J
+ uan 5:14–21 · Awit 149:1–2\, 3–4\, 5 at 6a at 9b · Juan 3:22–3
+ 0\nSi Hesus ang Lalaking Ikakasal\; si Juan ang kanyang kaibigan.\n\nBas
+ ahin at ipanalangin: https://daily-word-reflections.github.io/?d=2027-01
+ -09&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-09&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Enero 9 · Sabado Pagkatapos ng Pagpapakit
+ a ng Panginoon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Pagbibinyag sa Panginoon · Kapistahan
+DESCRIPTION:Pagbibinyag sa Panginoon · Kapistahan\nIsaias 42:1–4\, 6
+ –7 · Awit 29:1a at 2\, 3ac–4\, 3b at 9b–10 · Gawa 10:34–38 · 
+ Marcos 1:7–11\nSa Jordan\, nabubuksan ang langit at nahahayag ang Sant
+ isima Trinidad.\n\nBasahin at ipanalangin: https://daily-word-reflection
+ s.github.io/?d=2027-01-10&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-10&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Pagbibinyag sa Panginoon · Kapistahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Lunes sa Unang Linggo ng Karaniwang Panahon
+DESCRIPTION:Lunes sa Unang Linggo ng Karaniwang Panahon\nHebreo 1:1–6 
+ · Awit 97:1 at 2b\, 6 at 7c\, 9 · Marcos 1:14–20\nSinabi ng Diyos an
+ g kanyang huling Salita sa kanyang Anak.\n\nBasahin at ipanalangin: http
+ s://daily-word-reflections.github.io/?d=2027-01-11&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-11&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Lunes sa Unang Linggo ng Karaniwang Panaho
+ n
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Martes sa Unang Linggo ng Karaniwang Panahon
+DESCRIPTION:Martes sa Unang Linggo ng Karaniwang Panahon\nHebreo 2:5–12
+  · Awit 8:1\, 4\, 5–6\, 7–8 · Marcos 1:21–28\nNagtuturo si Hesus
+  sa sarili niyang kapangyarihan.\n\nBasahin at ipanalangin: https://dail
+ y-word-reflections.github.io/?d=2027-01-12&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-12&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes sa Unang Linggo ng Karaniwang Panah
+ on
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Miyerkules sa Unang Linggo ng Karaniwang Panahon
+DESCRIPTION:Miyerkules sa Unang Linggo ng Karaniwang Panahon\nHebreo 2:14
+ –18 · Awit 105:1–2\, 3–4\, 6–7\, 8–9 · Marcos 1:29–39\nIbi
+ nangon ni Hesus ang babaing maysakit\, at naglingkod ito.\n\nBasahin at 
+ ipanalangin: https://daily-word-reflections.github.io/?d=2027-01-13&r=la
+ t&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-13&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules sa Unang Linggo ng Karaniwang P
+ anahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Huwebes sa Unang Linggo ng Karaniwang Panahon
+DESCRIPTION:Huwebes sa Unang Linggo ng Karaniwang Panahon\nHebreo 3:7–1
+ 4 · Awit 95:6–7c\, 8–9\, 10–11 · Marcos 1:40–45\nNgayon\, huwa
+ g ninyong patigasin ang inyong puso.\n\nBasahin at ipanalangin: https://
+ daily-word-reflections.github.io/?d=2027-01-14&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-14&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes sa Unang Linggo ng Karaniwang Pana
+ hon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Biyernes sa Unang Linggo ng Karaniwang Panahon
+DESCRIPTION:Biyernes sa Unang Linggo ng Karaniwang Panahon\nHebreo 4:1–
+ 5\, 11 · Awit 78:3 at 4bc\, 6c–7\, 8 · Marcos 2:1–12\nBinuhat ng a
+ pat na magkakaibigan ang paralitiko patungo kay Hesus.\n\nBasahin at ipa
+ nalangin: https://daily-word-reflections.github.io/?d=2027-01-15&r=lat&l
+ =tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-15&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes sa Unang Linggo ng Karaniwang Pan
+ ahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Sabado sa Unang Linggo ng Karaniwang Panahon
+DESCRIPTION:Sabado sa Unang Linggo ng Karaniwang Panahon\nHebreo 4:12–1
+ 6 · Awit 19:7\, 8\, 9\, 14 · Marcos 2:13–17\nBuhay ang salita ng Diy
+ os at nakikita nito ang puso.\n\nBasahin at ipanalangin: https://daily-w
+ ord-reflections.github.io/?d=2027-01-16&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-16&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado sa Unang Linggo ng Karaniwang Panah
+ on
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Ikalawang Linggo sa Karaniwang Panahon
+DESCRIPTION:Ikalawang Linggo sa Karaniwang Panahon\n1 Samuel 3:3b–10\, 
+ 19 · Awit 40:1\, 3\, 6–7\, 7–8\, 9 · 1 Corinto 6:13c–15a\, 17–
+ 20 · Juan 1:35–42\nNagtanong si Hesus: ano ang hinahanap ninyo?\n\nBa
+ sahin at ipanalangin: https://daily-word-reflections.github.io/?d=2027-0
+ 1-17&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-17&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ikalawang Linggo sa Karaniwang Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Lunes sa Ikalawang Linggo ng Karaniwang Panahon
+DESCRIPTION:Lunes sa Ikalawang Linggo ng Karaniwang Panahon\nHebreo 5:1
+ –10 · Awit 110:1\, 2\, 3\, 4 · Marcos 2:18–22\nNatuto si Kristo na
+  Punong Saserdote na sumunod sa pamamagitan ng pagdurusa.\n\nBasahin at 
+ ipanalangin: https://daily-word-reflections.github.io/?d=2027-01-18&r=la
+ t&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-18&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Lunes sa Ikalawang Linggo ng Karaniwang Pa
+ nahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Martes sa Ikalawang Linggo ng Karaniwang Panahon
+DESCRIPTION:Martes sa Ikalawang Linggo ng Karaniwang Panahon\nHebreo 6:10
+ –20 · Awit 111:1–2\, 4–5\, 9 at 10c · Marcos 2:23–28\nHindi na
+ lilimutan ng Diyos ang pag-ibig na ating ipinapakita.\n\nBasahin at ipan
+ alangin: https://daily-word-reflections.github.io/?d=2027-01-19&r=lat&l=
+ tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-19&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes sa Ikalawang Linggo ng Karaniwang P
+ anahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Miyerkules sa Ikalawang Linggo ng Karaniwang Panahon · San Fabia
+ n at San Sebastian
+DESCRIPTION:Miyerkules sa Ikalawang Linggo ng Karaniwang Panahon · San F
+ abian at San Sebastian\nHebreo 7:1–3\, 15–17 · Awit 110:1\, 2\, 3\,
+  4 · Marcos 3:1–6\nSi Kristo ay saserdote magpakailanman\, gaya ni Me
+ lquisedec.\n\nBasahin at ipanalangin: https://daily-word-reflections.git
+ hub.io/?d=2027-01-20&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-20&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules sa Ikalawang Linggo ng Karaniwa
+ ng Panahon · San Fabian at San Sebastian
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Santa Ines\, Dalaga at Martir
+DESCRIPTION:Santa Ines\, Dalaga at Martir\nHebreo 7:25–8:6 · Awit 40:6
+ –7a\, 7b–8\, 9\, 16 · Marcos 3:7–12\nLagi nang nabubuhay si Krist
+ o upang mamagitan para sa atin.\n\nBasahin at ipanalangin: https://daily
+ -word-reflections.github.io/?d=2027-01-21&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-21&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Santa Ines\, Dalaga at Martir
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Biyernes sa Ikalawang Linggo ng Karaniwang Panahon
+DESCRIPTION:Biyernes sa Ikalawang Linggo ng Karaniwang Panahon\nHebreo 8:
+ 6–13 · Awit 85:7 at 9\, 10–11\, 12–13 · Marcos 3:13–19\nSa bag
+ ong tipan\, isinusulat ng Diyos ang kanyang batas sa ating mga puso.\n\n
+ Basahin at ipanalangin: https://daily-word-reflections.github.io/?d=2027
+ -01-22&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-22&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes sa Ikalawang Linggo ng Karaniwang
+  Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Sabado sa Ikalawang Linggo ng Karaniwang Panahon
+DESCRIPTION:Sabado sa Ikalawang Linggo ng Karaniwang Panahon\nHebreo 9:2
+ –3\, 11–14 · Awit 47:1–2\, 5–6\, 7–8 · Marcos 3:20–21\nPum
+ asok si Kristo nang minsanan para sa lahat dala ang kanyang sariling dug
+ o.\n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/?
+ d=2027-01-23&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-23&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado sa Ikalawang Linggo ng Karaniwang P
+ anahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Ikatlong Linggo sa Karaniwang Panahon · Linggo ng Salita ng Diyo
+ s
+DESCRIPTION:Ikatlong Linggo sa Karaniwang Panahon · Linggo ng Salita ng 
+ Diyos\nJonas 3:1–5\, 10 · Awit 25:4–5\, 6–7\, 8–9 · 1 Corinto 
+ 7:29–31 · Marcos 1:14–20\nNaganap na ang panahon\; malapit na ang K
+ aharian.\n\nBasahin at ipanalangin: https://daily-word-reflections.githu
+ b.io/?d=2027-01-24&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-24&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ikatlong Linggo sa Karaniwang Panahon · L
+ inggo ng Salita ng Diyos
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Ang Pagbabagong-loob ni San Pablo\, Apostol
+DESCRIPTION:Ang Pagbabagong-loob ni San Pablo\, Apostol\nGawa 22:3–16 (
+ o Gawa 9:1–22) · Awit 117:1\, 2 · Marcos 16:15–18\nNakatagpo ng ma
+ ng-uusig na si Saulo ang muling nabuhay na si Hesus sa daan patungong Da
+ masco.\n\nBasahin at ipanalangin: https://daily-word-reflections.github.
+ io/?d=2027-01-25&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-25&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ang Pagbabagong-loob ni San Pablo\, Aposto
+ l
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:San Timoteo at San Tito\, mga Obispo
+DESCRIPTION:San Timoteo at San Tito\, mga Obispo\n2 Timoteo 1:1–8 (o Ti
+ to 1:1–5) · Awit 96:1–2a\, 2b–3\, 7–8a\, 10 · Marcos 3:31–35
+ \nIpinapasa ang pananampalataya sa loob ng pamilya\, gaya kay Timoteo.\n
+ \nBasahin at ipanalangin: https://daily-word-reflections.github.io/?d=20
+ 27-01-26&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-26&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: San Timoteo at San Tito\, mga Obispo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Miyerkules sa Ikatlong Linggo ng Karaniwang Panahon
+DESCRIPTION:Miyerkules sa Ikatlong Linggo ng Karaniwang Panahon\nHebreo 1
+ 0:11–18 · Awit 110:1\, 2\, 3\, 4 · Marcos 4:1–20\nPinaging-ganap t
+ ayo magpakailanman ng iisang hain ni Kristo.\n\nBasahin at ipanalangin: 
+ https://daily-word-reflections.github.io/?d=2027-01-27&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-27&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules sa Ikatlong Linggo ng Karaniwan
+ g Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Santo Tomas de Aquino\, Pari at Pantas ng Simbahan
+DESCRIPTION:Santo Tomas de Aquino\, Pari at Pantas ng Simbahan\nHebreo 10
+ :19–25 · Awit 24:1–2\, 3–4ab\, 5–6 · Marcos 4:21–25\nSa pama
+ magitan ni Hesus ay lumalapit tayo sa Diyos nang may lakas ng loob.\n\nB
+ asahin at ipanalangin: https://daily-word-reflections.github.io/?d=2027-
+ 01-28&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-28&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Santo Tomas de Aquino\, Pari at Pantas ng 
+ Simbahan
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Biyernes sa Ikatlong Linggo ng Karaniwang Panahon
+DESCRIPTION:Biyernes sa Ikatlong Linggo ng Karaniwang Panahon\nHebreo 10:
+ 32–39 · Awit 37:3–4\, 5–6\, 23–24\, 39–40 · Marcos 4:26–34
+ \nHuwag itapon ang inyong lakas ng loob\; kailangan ninyo ang pagtitiis.
+ \n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/?d=
+ 2027-01-29&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-29&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes sa Ikatlong Linggo ng Karaniwang 
+ Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Sabado sa Ikatlong Linggo ng Karaniwang Panahon
+DESCRIPTION:Sabado sa Ikatlong Linggo ng Karaniwang Panahon\nHebreo 11:1
+ –2\, 8–19 · Lucas 1:69–70\, 71–72\, 73–75 · Marcos 4:35–41
+ \nAng pananampalataya ay ang katiyakan sa mga bagay na inaasahan.\n\nBas
+ ahin at ipanalangin: https://daily-word-reflections.github.io/?d=2027-01
+ -30&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-30&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado sa Ikatlong Linggo ng Karaniwang Pa
+ nahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Ikaapat na Linggo sa Karaniwang Panahon
+DESCRIPTION:Ikaapat na Linggo sa Karaniwang Panahon\nDeuteronomio 18:15
+ –20 · Awit 95:1–2\, 6–7\, 7–9 · 1 Corinto 7:32–35 · Marcos 
+ 1:21–28\nNangako ang Diyos ng isang propetang tulad ni Moises\; si Hes
+ us ang propetang iyon.\n\nBasahin at ipanalangin: https://daily-word-ref
+ lections.github.io/?d=2027-01-31&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-01-31&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ikaapat na Linggo sa Karaniwang Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Lunes sa Ikaapat na Linggo ng Karaniwang Panahon
+DESCRIPTION:Lunes sa Ikaapat na Linggo ng Karaniwang Panahon\nHebreo 11:3
+ 2–40 · Awit 31:19\, 20\, 21\, 22\, 23 · Marcos 5:1–20\nNagdusa ang
+  mga bayani ng pananampalataya\, ngunit sumampalataya pa rin sila.\n\nBa
+ sahin at ipanalangin: https://daily-word-reflections.github.io/?d=2027-0
+ 2-01&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-01&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Lunes sa Ikaapat na Linggo ng Karaniwang P
+ anahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Pagdadala kay Hesus sa Templo
+DESCRIPTION:Pagdadala kay Hesus sa Templo\nMalakias 3:1–4 (o Hebreo 2:1
+ 4–18) · Awit 24:7\, 8\, 9\, 10 · Lucas 2:22–40 (o 2:22–32)\nApat
+ napung araw matapos isilang\, iniharap si Hesus sa templo.\n\nBasahin at
+  ipanalangin: https://daily-word-reflections.github.io/?d=2027-02-02&r=l
+ at&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-02&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Pagdadala kay Hesus sa Templo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Miyerkules sa Ikaapat na Linggo ng Karaniwang Panahon · San Blas
+ \; San Ansgar
+DESCRIPTION:Miyerkules sa Ikaapat na Linggo ng Karaniwang Panahon · San 
+ Blas\; San Ansgar\nHebreo 12:4–7\, 11–15 · Awit 103:1–2\, 13–14
+ \, 17–18a · Marcos 6:1–6\nDinidisiplina tayo ng Diyos bilang Ama\, 
+ para sa ating kabanalan.\n\nBasahin at ipanalangin: https://daily-word-r
+ eflections.github.io/?d=2027-02-03&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-03&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules sa Ikaapat na Linggo ng Karaniw
+ ang Panahon · San Blas\; San Ansgar
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Huwebes sa Ikaapat na Linggo ng Karaniwang Panahon
+DESCRIPTION:Huwebes sa Ikaapat na Linggo ng Karaniwang Panahon\nHebreo 12
+ :18–19\, 21–24 · Awit 48:1–2a\, 2b–3\, 8\, 9–10 · Marcos 6:7
+ –13\nHindi tayo lumapit sa nakasisindak na Sinai kundi sa masayang Sio
+ n.\n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/?
+ d=2027-02-04&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-04&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes sa Ikaapat na Linggo ng Karaniwang
+  Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Santa Agueda\, Birhen at Martir
+DESCRIPTION:Santa Agueda\, Birhen at Martir\nHebreo 13:1–8 · Awit 27:1
+ \, 3\, 5\, 8b–9abc · Marcos 6:14–29\nMagpatuloy ang pag-ibig sa isa
+ 't isa at ang pagtanggap sa dayuhan.\n\nBasahin at ipanalangin: https://
+ daily-word-reflections.github.io/?d=2027-02-05&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-05&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Santa Agueda\, Birhen at Martir
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:San Pablo Miki at mga Kasama\, mga Martir
+DESCRIPTION:San Pablo Miki at mga Kasama\, mga Martir\nHebreo 13:15–17\
+ , 20–21 · Awit 23:1–3a\, 3b–4\, 5\, 6 · Marcos 6:30–34\nMaghan
+ dog sa Diyos ng hain ng papuri at ng pagbabahagi.\n\nBasahin at ipanalan
+ gin: https://daily-word-reflections.github.io/?d=2027-02-06&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-06&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: San Pablo Miki at mga Kasama\, mga Martir
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Ikalimang Linggo sa Karaniwang Panahon
+DESCRIPTION:Ikalimang Linggo sa Karaniwang Panahon\nJob 7:1–4\, 6–7 
+ · Awit 147:1–2\, 3–4\, 5–6 · 1 Corinto 9:16–19\, 22–23 · Ma
+ rcos 1:29–39\nDumadaing si Job sa kanyang mahabang gabi ng pagdurusa.\
+ n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/?d=2
+ 027-02-07&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-07&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ikalimang Linggo sa Karaniwang Panahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Lunes sa Ikalimang Linggo sa Karaniwang Panahon
+DESCRIPTION:Lunes sa Ikalimang Linggo sa Karaniwang Panahon\nGenesis 1:1
+ –19 · Awit 104:1–2a\, 5–6\, 10 at 12\, 24 at 35c · Marcos 6:53
+ –56\nSa simula ay nilikha ng Diyos ang langit at ang lupa.\n\nBasahin 
+ at ipanalangin: https://daily-word-reflections.github.io/?d=2027-02-08&r
+ =lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-08&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Lunes sa Ikalimang Linggo sa Karaniwang Pa
+ nahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Martes sa Ikalimang Linggo sa Karaniwang Panahon
+DESCRIPTION:Martes sa Ikalimang Linggo sa Karaniwang Panahon\nGenesis 1:2
+ 0–2:4a · Awit 8:3–4\, 5–6\, 7–8 · Marcos 7:1–13\nNilalang ng
+  Diyos ang tao ayon sa kanyang larawan\, lalaki at babae.\n\nBasahin at 
+ ipanalangin: https://daily-word-reflections.github.io/?d=2027-02-09&r=la
+ t&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-09&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes sa Ikalimang Linggo sa Karaniwang P
+ anahon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Miyerkules ng Abo
+DESCRIPTION:Miyerkules ng Abo\nJoel 2:12–18 · Awit 51:1–2\, 3–4a\,
+  10–11\, 12 at 15 · 2 Corinto 5:20–6:2 · Mateo 6:1–6\, 16–18\n
+ Manumbalik kayo sa Panginoon nang buong puso\; punitin ang inyong puso\,
+  hindi ang inyong damit.\n\nBasahin at ipanalangin: https://daily-word-r
+ eflections.github.io/?d=2027-02-10&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-10&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules ng Abo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Huwebes pagkatapos ng Miyerkules ng Abo
+DESCRIPTION:Huwebes pagkatapos ng Miyerkules ng Abo\nDeuteronomio 30:15
+ –20 · Awit 1:1–2\, 3\, 4 at 6 · Lucas 9:22–25\nInilalagay ng Diy
+ os sa harap natin ang buhay at kamatayan: piliin ang buhay.\n\nBasahin a
+ t ipanalangin: https://daily-word-reflections.github.io/?d=2027-02-11&r=
+ lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-11&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes pagkatapos ng Miyerkules ng Abo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Biyernes pagkatapos ng Miyerkules ng Abo
+DESCRIPTION:Biyernes pagkatapos ng Miyerkules ng Abo\nIsaias 58:1–9a ·
+  Awit 51:1–2\, 3–4a\, 16–17 · Mateo 9:14–15\nTinatanggihan ng D
+ iyos ang pag-aayunong nagwawalang-bahala sa dukha at umaapi sa manggagaw
+ a.\n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/?
+ d=2027-02-12&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-12&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes pagkatapos ng Miyerkules ng Abo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Sabado pagkatapos ng Miyerkules ng Abo
+DESCRIPTION:Sabado pagkatapos ng Miyerkules ng Abo\nIsaias 58:9b–14 · 
+ Awit 86:1–2\, 3–4\, 5–6 · Lucas 5:27–32\nAlisin ang pagturo ng 
+ daliri at ang pagsasalita ng masama.\n\nBasahin at ipanalangin: https://
+ daily-word-reflections.github.io/?d=2027-02-13&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-13&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado pagkatapos ng Miyerkules ng Abo
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Unang Linggo ng Kuwaresma
+DESCRIPTION:Unang Linggo ng Kuwaresma\nGenesis 9:8–15 · Awit 25:4–5\
+ , 6–7\, 8–9 · 1 Pedro 3:18–22 · Marcos 1:12–15\nInilagay ng Di
+ yos ang kanyang bahaghari sa mga ulap bilang tanda ng kanyang tipan sa b
+ uong sangnilikha.\n\nBasahin at ipanalangin: https://daily-word-reflecti
+ ons.github.io/?d=2027-02-14&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-14&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Unang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Lunes sa Unang Linggo ng Kuwaresma
+DESCRIPTION:Lunes sa Unang Linggo ng Kuwaresma\nLevitico 19:1–2\, 11–
+ 18 · Awit 19:7\, 8\, 9\, 14 · Mateo 25:31–46\nSabi ng Diyos: magpaka
+ banal kayo\, sapagkat ako ay banal\; huwag mandaya\, magsinungaling o ma
+ gtanim ng sama ng loob.\n\nBasahin at ipanalangin: https://daily-word-re
+ flections.github.io/?d=2027-02-15&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-15&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Lunes sa Unang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Martes sa Unang Linggo ng Kuwaresma
+DESCRIPTION:Martes sa Unang Linggo ng Kuwaresma\nIsaias 55:10–11 · Awi
+ t 34:3–4\, 5–6\, 15–16\, 17–18 · Mateo 6:7–15\nAng Salita ng 
+ Diyos ay gaya ng ulan: lagi itong namumunga.\n\nBasahin at ipanalangin: 
+ https://daily-word-reflections.github.io/?d=2027-02-16&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-16&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes sa Unang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Miyerkules sa Unang Linggo ng Kuwaresma
+DESCRIPTION:Miyerkules sa Unang Linggo ng Kuwaresma\nJonas 3:1–10 · Aw
+ it 51:1–2\, 10–11\, 16–17 · Lucas 11:29–32\nBinigyan ng Diyos s
+ i Jonas ng ikalawang pagkakataon\, at nangaral si Jonas sa Nineve.\n\nBa
+ sahin at ipanalangin: https://daily-word-reflections.github.io/?d=2027-0
+ 2-17&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-17&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules sa Unang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Huwebes sa Unang Linggo ng Kuwaresma
+DESCRIPTION:Huwebes sa Unang Linggo ng Kuwaresma\nEster C:12\, 14–16\, 
+ 23–25 (mga dagdag na Griyego\; sa maraming Bibliya 14:1\, 3–5\, 12
+ –14) · Awit 138:1–2a\, 2bc–3\, 7c–8 · Mateo 7:7–12\nSi Reyna
+  Ester\, nag-iisa at nasa panganib\, ay nanalangin sa Diyos para sa laka
+ s ng loob at tulong.\n\nBasahin at ipanalangin: https://daily-word-refle
+ ctions.github.io/?d=2027-02-18&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-18&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes sa Unang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Biyernes sa Unang Linggo ng Kuwaresma
+DESCRIPTION:Biyernes sa Unang Linggo ng Kuwaresma\nEzekiel 18:21–28 · 
+ Awit 130:1–2\, 3–4\, 5–6\, 7–8 · Mateo 5:20–26\nNais ng Diyos
+  na tumalikod at mabuhay ang makasalanan\, hindi mamatay.\n\nBasahin at 
+ ipanalangin: https://daily-word-reflections.github.io/?d=2027-02-19&r=la
+ t&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-19&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes sa Unang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Sabado sa Unang Linggo ng Kuwaresma
+DESCRIPTION:Sabado sa Unang Linggo ng Kuwaresma\nDeuteronomio 26:16–19 
+ · Awit 119:1–2\, 4–5\, 7–8 · Mateo 5:43–48\nNakipagtipan ang D
+ iyos at ang Israel: ikaw ang aking bayang itinatangi.\n\nBasahin at ipan
+ alangin: https://daily-word-reflections.github.io/?d=2027-02-20&r=lat&l=
+ tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-20&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado sa Unang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Ikalawang Linggo ng Kuwaresma
+DESCRIPTION:Ikalawang Linggo ng Kuwaresma\nGenesis 22:1–2\, 9a\, 10–1
+ 3\, 15–18 · Awit 116:10\, 15\, 16–17\, 18–19 · Roma 8:31b–34 
+ · Marcos 9:2–10\nHanda si Abraham na ibigay sa Diyos ang kanyang kais
+ a-isang anak\, at naglaan ang Diyos ng tupang lalaki bilang kapalit.\n\n
+ Basahin at ipanalangin: https://daily-word-reflections.github.io/?d=2027
+ -02-21&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-21&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ikalawang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Luklukan ni San Pedro\, Apostol
+DESCRIPTION:Luklukan ni San Pedro\, Apostol\n1 Pedro 5:1–4 · Awit 23:1
+ –3a\, 4\, 5\, 6 · Mateo 16:13–19\nIpinahayag ni Pedro si Hesus bila
+ ng ang Kristo\, ang Anak ng Diyos na buhay.\n\nBasahin at ipanalangin: h
+ ttps://daily-word-reflections.github.io/?d=2027-02-22&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-22&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Luklukan ni San Pedro\, Apostol
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-23-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Martes sa Ikalawang Linggo ng Kuwaresma
+DESCRIPTION:Martes sa Ikalawang Linggo ng Kuwaresma\nIsaias 1:10\, 16–2
+ 0 · Awit 50:8–9\, 16–17\, 21 at 23 · Mateo 23:1–12\nInaanyayahan
+  ng Diyos ang mga makasalanan: maging kasimpula man ng iskarlata ang iny
+ ong mga kasalanan\, magiging kasimputi ng niyebe ang mga ito.\n\nBasahin
+  at ipanalangin: https://daily-word-reflections.github.io/?d=2027-02-23&
+ r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-23&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes sa Ikalawang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Miyerkules sa Ikalawang Linggo ng Kuwaresma
+DESCRIPTION:Miyerkules sa Ikalawang Linggo ng Kuwaresma\nJeremias 18:18
+ –20 · Awit 31:4–5\, 13\, 14–15 · Mateo 20:17–28\nGinantihan ng
+  masama si Jeremias sa kabutihang ginawa niya\, at nanalangin pa rin siy
+ a.\n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/?
+ d=2027-02-24&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-24&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules sa Ikalawang Linggo ng Kuwaresm
+ a
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Huwebes sa Ikalawang Linggo ng Kuwaresma
+DESCRIPTION:Huwebes sa Ikalawang Linggo ng Kuwaresma\nJeremias 17:5–10 
+ · Awit 1:1–2\, 3\, 4 at 6 · Lucas 16:19–31\nAng mga nagtitiwala sa
+  Panginoon ay tulad ng punong nakatanim sa tabi ng tubig.\n\nBasahin at 
+ ipanalangin: https://daily-word-reflections.github.io/?d=2027-02-25&r=la
+ t&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-25&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes sa Ikalawang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Biyernes sa Ikalawang Linggo ng Kuwaresma
+DESCRIPTION:Biyernes sa Ikalawang Linggo ng Kuwaresma\nGenesis 37:3–4\,
+  12–13a\, 17b–28 · Awit 105:16–17\, 18–19\, 20–21 · Mateo 21
+ :33–43\, 45–46\nSi Jose\, ang minamahal na anak\, ay ipinagbili ng k
+ anyang mga mainggiting kapatid\; ginawa itong mabuti ng Diyos.\n\nBasahi
+ n at ipanalangin: https://daily-word-reflections.github.io/?d=2027-02-26
+ &r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-26&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes sa Ikalawang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Sabado sa Ikalawang Linggo ng Kuwaresma
+DESCRIPTION:Sabado sa Ikalawang Linggo ng Kuwaresma\nMikas 7:14–15\, 18
+ –20 · Awit 103:1–2\, 3–4\, 9–10\, 11–12 · Lucas 15:1–3\, 1
+ 1–32\nNalulugod ang Diyos sa awa at itinatapon ang ating mga kasalanan
+  sa kalaliman ng dagat.\n\nBasahin at ipanalangin: https://daily-word-re
+ flections.github.io/?d=2027-02-27&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-27&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado sa Ikalawang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Ikatlong Linggo ng Kuwaresma
+DESCRIPTION:Ikatlong Linggo ng Kuwaresma\nExodo 20:1–17 (o 20:1–3\, 7
+ –8\, 12–17) · Awit 19:7\, 8\, 9\, 10 · 1 Corinto 1:22–25 · Juan
+  2:13–25\nIbinigay ng Diyos ang Sampung Utos sa isang bayang kanyang p
+ inalaya.\n\nBasahin at ipanalangin: https://daily-word-reflections.githu
+ b.io/?d=2027-02-28&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-02-28&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ikatlong Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-01-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Lunes sa Ikatlong Linggo ng Kuwaresma
+DESCRIPTION:Lunes sa Ikatlong Linggo ng Kuwaresma\n2 Hari 5:1–15ab · A
+ wit 42:1–2\; 43:3–4 · Lucas 4:24–30\nSi Naaman\, isang mapagmataa
+ s na pinuno ng hukbo\, ay gumaling sa ketong nang maligo siya nang piton
+ g ulit sa Jordan.\n\nBasahin at ipanalangin: https://daily-word-reflecti
+ ons.github.io/?d=2027-03-01&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-01&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Lunes sa Ikatlong Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Martes sa Ikatlong Linggo ng Kuwaresma
+DESCRIPTION:Martes sa Ikatlong Linggo ng Kuwaresma\nDaniel 3:25\, 34–43
+  · Awit 25:4–5ab\, 6 at 7bc\, 8–9 · Mateo 18:21–35\nSa hurno\, i
+ nihandog ni Azarias sa Diyos ang pusong nagsisisi at diwang mapagpakumba
+ ba.\n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/
+ ?d=2027-03-02&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-02&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes sa Ikatlong Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Miyerkules sa Ikatlong Linggo ng Kuwaresma
+DESCRIPTION:Miyerkules sa Ikatlong Linggo ng Kuwaresma\nDeuteronomio 4:1\
+ , 5–9 · Awit 147:12–13\, 15–16\, 19–20 · Mateo 5:17–19\nItin
+ uro ni Moises sa Israel na ang kautusan ng Diyos ay para sa buhay\, at w
+ alang bansang may Diyos na kasinlapit nito.\n\nBasahin at ipanalangin: h
+ ttps://daily-word-reflections.github.io/?d=2027-03-03&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-03&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules sa Ikatlong Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Huwebes sa Ikatlong Linggo ng Kuwaresma
+DESCRIPTION:Huwebes sa Ikatlong Linggo ng Kuwaresma\nJeremias 7:23–28 
+ · Awit 95:1–2\, 6–7\, 8–9 · Lucas 11:14–23\nTinangisan ni Jere
+ mias ang isang bayang ayaw makinig sa tinig ng Diyos.\n\nBasahin at ipan
+ alangin: https://daily-word-reflections.github.io/?d=2027-03-04&r=lat&l=
+ tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-04&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes sa Ikatlong Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Biyernes sa Ikatlong Linggo ng Kuwaresma
+DESCRIPTION:Biyernes sa Ikatlong Linggo ng Kuwaresma\nOseas 14:1–9 · A
+ wit 81:5c–7a\, 7bc–8\, 9–10ab\, 13 at 16 · Marcos 12:28–34\nSa 
+ pamamagitan ni Oseas\, itinuturo ng Diyos sa Israel ang mga salita ng pa
+ gbabalik at nangangakong iibigin sila nang kusang-loob.\n\nBasahin at ip
+ analangin: https://daily-word-reflections.github.io/?d=2027-03-05&r=lat&
+ l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-05&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes sa Ikatlong Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Sabado sa Ikatlong Linggo ng Kuwaresma
+DESCRIPTION:Sabado sa Ikatlong Linggo ng Kuwaresma\nOseas 6:1–6 · Awit
+  51:1–2\, 16–17\, 18–19 · Lucas 18:9–14\nNagbabala si Oseas na 
+ maaaring maglaho ang ating pag-ibig gaya ng hamog sa umaga\; tapat na pa
+ g-ibig ang nais ng Diyos\, hindi hain.\n\nBasahin at ipanalangin: https:
+ //daily-word-reflections.github.io/?d=2027-03-06&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-06&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado sa Ikatlong Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Ikaapat na Linggo ng Kuwaresma (Laetare)
+DESCRIPTION:Ikaapat na Linggo ng Kuwaresma (Laetare)\n2 Cronica 36:14–1
+ 6\, 19–23 · Awit 137:1–2\, 3\, 4–5\, 6 · Efeso 2:4–10 · Juan 
+ 3:14–21\nPinauwi ng Diyos ang kanyang bayan mula sa pagkatapon dahil n
+ ahabag siya sa kanila.\n\nBasahin at ipanalangin: https://daily-word-ref
+ lections.github.io/?d=2027-03-07&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-07&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ikaapat na Linggo ng Kuwaresma (Laetare)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-08-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Lunes sa Ikaapat na Linggo ng Kuwaresma
+DESCRIPTION:Lunes sa Ikaapat na Linggo ng Kuwaresma\nIsaias 65:17–21 ·
+  Awit 30:1\, 3\, 4–5\, 10–12 · Juan 4:43–54\nNangangako ang Diyos
+  ng bagong langit at bagong lupa\, isang mundong walang pagtangis.\n\nBa
+ sahin at ipanalangin: https://daily-word-reflections.github.io/?d=2027-0
+ 3-08&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-08&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Lunes sa Ikaapat na Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Martes sa Ikaapat na Linggo ng Kuwaresma
+DESCRIPTION:Martes sa Ikaapat na Linggo ng Kuwaresma\nEzekiel 47:1–9\, 
+ 12 · Awit 46:1–2\, 4–5\, 7–8 · Juan 5:1–16\nNakita ni Ezekiel 
+ ang isang ilog na umaagos mula sa Templo at nagdadala ng buhay saanman i
+ to dumaloy.\n\nBasahin at ipanalangin: https://daily-word-reflections.gi
+ thub.io/?d=2027-03-09&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-09&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Martes sa Ikaapat na Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Miyerkules sa Ikaapat na Linggo ng Kuwaresma
+DESCRIPTION:Miyerkules sa Ikaapat na Linggo ng Kuwaresma\nIsaias 49:8–1
+ 5 · Awit 145:8–9\, 13c–14\, 17–18 · Juan 5:17–30\nSabi ng Diyo
+ s: kahit malimutan ng isang ina ang kanyang anak\, hindi kita malilimuta
+ n.\n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/?
+ d=2027-03-10&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-10&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Miyerkules sa Ikaapat na Linggo ng Kuwares
+ ma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Huwebes sa Ikaapat na Linggo ng Kuwaresma
+DESCRIPTION:Huwebes sa Ikaapat na Linggo ng Kuwaresma\nExodo 32:7–14 ·
+  Awit 106:19–20\, 21–22\, 23 · Juan 5:31–47\nGumawa ang Israel ng
+  guyang ginto\; namagitan si Moises at iniligtas sila ng Diyos.\n\nBasah
+ in at ipanalangin: https://daily-word-reflections.github.io/?d=2027-03-1
+ 1&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-11&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Huwebes sa Ikaapat na Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-12-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Biyernes sa Ikaapat na Linggo ng Kuwaresma
+DESCRIPTION:Biyernes sa Ikaapat na Linggo ng Kuwaresma\nKarunungan 2:1a\,
+  12–22 · Awit 34:16–20\, 22 · Juan 7:1–2\, 10\, 25–30\nIpinahi
+ hiwatig ng Aklat ng Karunungan ang pakana laban sa matuwid na tumatawag 
+ sa Diyos na kanyang Ama.\n\nBasahin at ipanalangin: https://daily-word-r
+ eflections.github.io/?d=2027-03-12&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-12&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Biyernes sa Ikaapat na Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Sabado sa Ikaapat na Linggo ng Kuwaresma
+DESCRIPTION:Sabado sa Ikaapat na Linggo ng Kuwaresma\nJeremias 11:18–20
+  · Awit 7:1–2\, 8b–11 · Juan 7:40–53\nSi Jeremias\, na pinagbala
+ kan ng masama\, ay tulad ng isang maamong kordero na dinadala sa katayan
+ \, larawan ni Kristo.\n\nBasahin at ipanalangin: https://daily-word-refl
+ ections.github.io/?d=2027-03-13&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-13&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Sabado sa Ikaapat na Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-14-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Ikalimang Linggo ng Kuwaresma
+DESCRIPTION:Ikalimang Linggo ng Kuwaresma\nJeremias 31:31–34 · Awit 51
+ :1–2\, 10–13 · Hebreo 5:7–9 · Juan 12:20–33\nNangangako ang Di
+ yos ng isang bagong tipang nakasulat sa ating mga puso\, na may kapatawa
+ ran ng mga kasalanan.\n\nBasahin at ipanalangin: https://daily-word-refl
+ ections.github.io/?d=2027-03-14&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-14&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Ikalimang Linggo ng Kuwaresma
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-15-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Monday of the Fifth Week of Lent
+DESCRIPTION:Monday of the Fifth Week of Lent\nDaniel 13:1–9\, 15–17\,
+  19–30\, 33–62 (or 13:41c–62) · Psalm 23:1–3a\, 3b–4\, 5\, 6 
+ · John 8:1–11\nSusanna chose to fall into the hands of the wicked rat
+ her than sin before the Lord.\n\nBasahin at ipanalangin: https://daily-w
+ ord-reflections.github.io/?d=2027-03-15&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-15&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Monday of the Fifth Week of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-16-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Tuesday of the Fifth Week of Lent
+DESCRIPTION:Tuesday of the Fifth Week of Lent\nNumbers 21:4–9 · Psalm 
+ 102:1–2\, 15–17\, 18–20 · John 8:21–30\nIsrael grew impatient a
+ nd complained against God and the manna.\n\nBasahin at ipanalangin: http
+ s://daily-word-reflections.github.io/?d=2027-03-16&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-16&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Tuesday of the Fifth Week of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Wednesday of the Fifth Week of Lent
+DESCRIPTION:Wednesday of the Fifth Week of Lent\nDaniel 3:14–20\, 91–
+ 92\, 95 · Daniel 3:52\, 53\, 54\, 55\, 56 · John 8:31–42\nThree youn
+ g men refused to worship the golden statue\, even if God did not rescue 
+ them.\n\nBasahin at ipanalangin: https://daily-word-reflections.github.i
+ o/?d=2027-03-17&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-17&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Wednesday of the Fifth Week of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Thursday of the Fifth Week of Lent
+DESCRIPTION:Thursday of the Fifth Week of Lent\nGenesis 17:3–9 · Psalm
+  105:4–5\, 6–7\, 8–9 · John 8:51–59\nGod made an everlasting co
+ venant with Abraham and gave him a new name.\n\nBasahin at ipanalangin: 
+ https://daily-word-reflections.github.io/?d=2027-03-18&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-18&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Thursday of the Fifth Week of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:St Joseph\, Spouse of the Blessed Virgin Mary
+DESCRIPTION:St Joseph\, Spouse of the Blessed Virgin Mary\n2 Samuel 7:4
+ –5a\, 12–14a\, 16 · Psalm 89:1–2\, 3–4\, 26 and 28 · Romans 4:
+ 13\, 16–18\, 22 · Matthew 1:16\, 18–21\, 24a (or Luke 2:41–51a)\n
+ God's promise to David was fulfilled through Joseph\, who gave Jesus his
+  name and his place in David's line.\n\nBasahin at ipanalangin: https://
+ daily-word-reflections.github.io/?d=2027-03-19&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-19&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: St Joseph\, Spouse of the Blessed Virgin M
+ ary
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Saturday of the Fifth Week of Lent
+DESCRIPTION:Saturday of the Fifth Week of Lent\nEzekiel 37:21–28 · Jer
+ emiah 31:10\, 11–12ab\, 13 · John 11:45–56\nEzekiel promises that G
+ od will make his scattered people one nation with one shepherd.\n\nBasah
+ in at ipanalangin: https://daily-word-reflections.github.io/?d=2027-03-2
+ 0&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-20&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Saturday of the Fifth Week of Lent
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Palm Sunday of the Passion of the Lord
+DESCRIPTION:Palm Sunday of the Passion of the Lord\nMark 11:1–10 (or Jo
+ hn 12:12–16) · Isaiah 50:4–7 · Psalm 22:7–8\, 16–17\, 18–19\
+ , 22–23 · Philippians 2:6–11 · Mark 14:1–15:47 (shorter form: 15
+ :1–39)\nJesus enters Jerusalem as a humble King on a colt\, greeted wi
+ th Hosanna.\n\nBasahin at ipanalangin: https://daily-word-reflections.gi
+ thub.io/?d=2027-03-21&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-21&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Palm Sunday of the Passion of the Lord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-22-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Monday of Holy Week
+DESCRIPTION:Monday of Holy Week\nIsaiah 42:1–7 · Psalm 27:1\, 2\, 3\, 
+ 13–14 · John 12:1–11\nThe Servant of the Lord is gentle: he does no
+ t break the bruised reed.\n\nBasahin at ipanalangin: https://daily-word-
+ reflections.github.io/?d=2027-03-22&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-22&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Monday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-23-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Tuesday of Holy Week
+DESCRIPTION:Tuesday of Holy Week\nIsaiah 49:1–6 · Psalm 71:1–2\, 3
+ –4a\, 5–6ab\, 15 and 17 · John 13:21–33\, 36–38\nThe Servant is
+  called from the womb and made a light to the nations.\n\nBasahin at ipa
+ nalangin: https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l
+ =tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-23&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Tuesday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Wednesday of Holy Week
+DESCRIPTION:Wednesday of Holy Week\nIsaiah 50:4–9a · Psalm 69:7–9\, 
+ 20–21\, 30 and 32–33 · Matthew 26:14–25\nThe Servant listens to G
+ od every morning and does not turn back from suffering.\n\nBasahin at ip
+ analangin: https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&
+ l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-24&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Wednesday of Holy Week
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-25-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Holy Thursday: Evening Mass of the Lord's Supper
+DESCRIPTION:Holy Thursday: Evening Mass of the Lord's Supper\nExodus 12:1
+ –8\, 11–14 · Psalm 116:12–13\, 15–16bc\, 17–18 · 1 Corinthia
+ ns 11:23–26 · John 13:1–15\nJesus\, our Passover Lamb\, gives his B
+ ody and Blood in the Eucharist.\n\nBasahin at ipanalangin: https://daily
+ -word-reflections.github.io/?d=2027-03-25&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-25&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Holy Thursday: Evening Mass of the Lord's 
+ Supper
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Friday of the Passion of the Lord (Good Friday)
+DESCRIPTION:Friday of the Passion of the Lord (Good Friday)\nIsaiah 52:13
+ –53:12 · Psalm 31:1\, 5\, 11–12\, 14–15\, 16\, 24 · Hebrews 4:14
+ –16\; 5:7–9 · John 18:1–19:42\nThe Suffering Servant was wounded 
+ for our sins\; by his bruises we are healed.\n\nBasahin at ipanalangin: 
+ https://daily-word-reflections.github.io/?d=2027-03-26&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-26&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Friday of the Passion of the Lord (Good Fr
+ iday)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Holy Saturday · The Easter Vigil in the Holy Night
+DESCRIPTION:Holy Saturday · The Easter Vigil in the Holy Night\nGenesis 
+ 1:1–2:2 (or 1:1\, 26–31a)\; Psalm 104 (or Psalm 33) · Genesis 22:1
+ –18 (or 22:1–2\, 9a\, 10–13\, 15–18)\; Psalm 16 · Exodus 14:15
+ –15:1\; Canticle Exodus 15:1–6\, 17–18 · Isaiah 54:5–14\; Psalm
+  30 · Isaiah 55:1–11\; Canticle Isaiah 12:2–6 · Baruch 3:9–15\, 
+ 32–4:4\; Psalm 19:7–10 · Ezekiel 36:16–17a\, 18–28\; Psalms 42:
+ 2\, 4 and 43:3–4 (or Isaiah 12\, or Psalm 51) · Romans 6:3–11 · Ps
+ alm 118:1–2\, 16–17\, 22–23 · Mark 16:1–7\nHoly Saturday: Chris
+ t lies in the tomb and descends among the dead\; the Church waits in sil
+ ence.\n\nBasahin at ipanalangin: https://daily-word-reflections.github.i
+ o/?d=2027-03-27&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-27&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Holy Saturday · The Easter Vigil in the H
+ oly Night
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-28-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Easter Sunday of the Resurrection of the Lord
+DESCRIPTION:Easter Sunday of the Resurrection of the Lord\nActs 10:34a\, 
+ 37–43 · Psalm 118:1–2\, 16–17\, 22–23 · Colossians 3:1–4 (or
+  1 Corinthians 5:6b–8) · Victimae paschali laudes · John 20:1–9\nP
+ eter: God raised Jesus on the third day\, and we ate and drank with him.
+ \n\nBasahin at ipanalangin: https://daily-word-reflections.github.io/?d=
+ 2027-03-28&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-28&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Easter Sunday of the Resurrection of the L
+ ord
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-29-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Monday within the Octave of Easter
+DESCRIPTION:Monday within the Octave of Easter\nActs 2:14\, 22–33 · Ps
+ alm 16:1–2a\, 5\, 7–8\, 9–10\, 11 · Matthew 28:8–15\nPeter: God
+  raised Jesus up\; death could not hold him\; we are all witnesses.\n\nB
+ asahin at ipanalangin: https://daily-word-reflections.github.io/?d=2027-
+ 03-29&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-29&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Monday within the Octave of Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-30-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Tuesday within the Octave of Easter
+DESCRIPTION:Tuesday within the Octave of Easter\nActs 2:36–41 · Psalm 
+ 33:4–5\, 18–19\, 20 and 22 · John 20:11–18\nCut to the heart\, th
+ e crowd asked: What should we do? Peter: repent and be baptized.\n\nBasa
+ hin at ipanalangin: https://daily-word-reflections.github.io/?d=2027-03-
+ 30&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-30&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Tuesday within the Octave of Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-lat-tl@daily-word-reflections.github.io
+DTSTAMP:20261029T025454Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Wednesday within the Octave of Easter
+DESCRIPTION:Wednesday within the Octave of Easter\nActs 3:1–10 · Psalm
+  105:1–2\, 3–4\, 6–7\, 8–9 · Luke 24:13–35\nPeter healed the 
+ lame man: what I have I give you\; in the name of Jesus\, walk.\n\nBasah
+ in at ipanalangin: https://daily-word-reflections.github.io/?d=2027-03-3
+ 1&r=lat&l=tl
+URL:https://daily-word-reflections.github.io/?d=2027-03-31&r=lat&l=tl
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Salita para bukas: Wednesday within the Octave of Easter
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
