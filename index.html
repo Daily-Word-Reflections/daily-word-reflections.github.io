@@ -4088,7 +4088,7 @@ pt:{tab:"Exegese",lead:"As leituras como uma só lição",set:"Contexto",str:"Es
 fr:{tab:"Exégèse",lead:"Les lectures comme une seule leçon",set:"Contexte",str:"Structure",kw:"Mots clés",vv:"Verset par verset",ch:"Comment l'Église le lit",qa:"Questions fréquentes",study:"Pour l'étude et la catéchèse",none:"L'exégèse de ce jour est en préparation.",fb:"En anglais en attendant la traduction.",rite:{lat:"Pour le lecteur du rite latin"}},
 tl:{tab:"Eksehesis",lead:"Ang mga pagbasa bilang iisang aral",set:"Konteksto",str:"Balangkas",kw:"Mahahalagang salita",vv:"Talata por talata",ch:"Paano ito binabasa ng Simbahan",qa:"Mga tanong ng mga tao",study:"Para sa pag-aaral at pagtuturo",none:"Inihahanda pa ang eksehesis para sa araw na ito.",fb:"Sa Ingles habang inihahanda ang salin.",rite:{lat:"Para sa mambabasa ng Ritong Latino"}},
 sw:{tab:"Ufafanuzi wa Maandiko",lead:"Masomo kama fundisho moja",set:"Mazingira",str:"Muundo",kw:"Maneno muhimu",vv:"Mstari kwa mstari",ch:"Jinsi Kanisa linavyoyasoma",qa:"Maswali ya watu",study:"Kwa kujifunza na kufundisha",none:"Ufafanuzi wa siku hii unaandaliwa.",fb:"Kwa Kiingereza hadi tafsiri iwe tayari.",rite:{lat:"Kwa msomaji wa Ibada ya Kilatini"}}};
-function exText(s){return esc(s==null?"":s).replace(/&lt;i&gt;/g,"<i>").replace(/&lt;\/i&gt;/g,"</i>")}
+function exText(s){return esc(s==null?"":s).replace(/&lt;(\/?)i>/g,"<$1i>")}
 function renderExeg(){var L=Object.assign({},EXL.en,EXL[S.lang]||{}),RT=Object.assign({},EXL.en.rite,(EXL[S.lang]||{}).rite||{}),d=EXEG[S.date],z=d&&d[S.rite],o=z&&z[S.lang],h="";
  if(!o&&z&&z.en){o=z.en;h+='<p class="exfb">'+esc(L.fb)+"</p>"}
  if(!o)return '<p class="exnone">'+esc(L.none)+"</p>";
