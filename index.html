@@ -372,7 +372,7 @@ details.about li b{display:block;color:var(--ink)}
   <div class="totopwrap"><button id="tohome" class="totop" type="button"></button><button id="totop" class="totop" type="button"></button></div>
   <details class="about" id="about"><summary id="about-s"></summary><div id="about-b"></div></details>
   <footer id="foot"></footer>
-  <div class="copyr">© 2026 VC · v2026.10.30.1957</div>
+  <div class="copyr">© 2026 VC · v2026.10.30.2102</div>
 </div>
 <div class="welcome" id="welcome" hidden role="dialog" aria-modal="true" aria-labelledby="w-h"><div class="wbox" id="wbox"></div></div>
 
@@ -595,7 +595,7 @@ document.addEventListener("toggle",function(e){var d=e.target;if(!d.classList||!
  var L=d.dataset.lang||"",bb=L&&BIB[L];
  Promise.all(chs.map(function(c){return pocChapter(d.dataset.b,c,L).then(function(j){return [c,j]})})).then(function(res){var J={};res.forEach(function(x){J[x[0]]=x[1]});var out=[],seen={},multi=chs.length>1,eu=BIBEURO[L];
   segs.forEach(function(s){for(var c=s[0];c<=s[2];c++){var j=J[c]||{},a=c===s[0]?s[1]:1,z=c===s[2]?s[3]:999;Object.keys(j).sort(function(x,y){return (parseInt(x)-parseInt(y))||(x<y?-1:x>y?1:0)}).forEach(function(v){var n=parseInt(v);if(n>=a&&n<=z&&!seen[c+":"+v]){seen[c+":"+v]=1;out.push('<sup>'+(multi?c+(eu?",":":"):"")+v+'</sup> '+esc(j[v]))}})}});
-  body.innerHTML=out.length?'<p>'+out.join(" ")+'</p><p class="psrc">— '+(bb?esc(bb[0]):'പി.ഒ.സി. ബൈബിൾ (KCBC)')+'</p>':'<p class="psrc">'+(bb?"…":'ഈ ഭാഗം ഇപ്പോൾ ലഭ്യമല്ല.')+'</p>'}).catch(function(){d.dataset.done="";body.innerHTML=bb?'<p class="psrc">'+esc(bb[2])+'</p>':'<p class="psrc">ലോഡ് ചെയ്യാനായില്ല. വീണ്ടും തുറന്നുനോക്കുക, അല്ലെങ്കിൽ <a href="'+SITE+'?d='+S.date+'&r='+S.rite+'&l=ml" target="_blank" rel="noopener">വെബ്സൈറ്റിൽ തുറക്കുക</a>.</p>'})},true);
+  body.innerHTML=out.length?'<p>'+out.join(" ")+'</p><p class="psrc">'+(bb?esc(bb[0]):'പി.ഒ.സി. ബൈബിൾ (KCBC)')+'</p>':'<p class="psrc">'+(bb?"…":'ഈ ഭാഗം ഇപ്പോൾ ലഭ്യമല്ല.')+'</p>'}).catch(function(){d.dataset.done="";body.innerHTML=bb?'<p class="psrc">'+esc(bb[2])+'</p>':'<p class="psrc">ലോഡ് ചെയ്യാനായില്ല. വീണ്ടും തുറന്നുനോക്കുക, അല്ലെങ്കിൽ <a href="'+SITE+'?d='+S.date+'&r='+S.rite+'&l=ml" target="_blank" rel="noopener">വെബ്സൈറ്റിൽ തുറക്കുക</a>.</p>'})},true);
 
 function shareText(title,C,X){
  var ml=S.lang==="ml",u=UI[S.lang]||UI.en,v=U2[S.lang]||U2.en,link=SITE+"?d="+S.date+"&r="+S.rite+"&l="+S.lang,o=[];
@@ -603,9 +603,9 @@ function shareText(title,C,X){
  function IT(a){return (a||[]).filter(function(x){return x&&x[1]}).map(function(x){return "▪ *"+x[0]+"* "+x[1]}).join("\n")}
  o.push("📖 *"+(ml?"അനുദിന വചനം":"Daily Word")+"* · "+u.rites[S.rite]);o.push(dateLabel(parseISO(S.date),S.lang));o.push("*"+title+"*");
  if(C){
-  if(C.verse)o.push("\n“"+C.verse+"”\n— "+C.cite);else if(C.cite)o.push("\n📖 "+C.cite);
+  if(C.verse)o.push("\n“"+C.verse+"”\n("+C.cite+")");else if(C.cite)o.push("\n📖 "+C.cite);
   if(X&&X.quick){o.push(H(v.quick));o.push(X.quick.map(function(q){return "✦ "+q}).join("\n"));if(X.action)o.push("*"+v.action+":* "+X.action)}
-  if(C.readings&&C.readings.length){o.push(H(C.readTitle||u.h.readings));o.push(C.readings.map(function(r){return "• "+r[0]+": "+r[1]+(r[2]?" — "+r[2]:"")}).join("\n"))}
+  if(C.readings&&C.readings.length){o.push(H(C.readTitle||u.h.readings));o.push(C.readings.map(function(r){return "• "+r[0]+": "+r[1]+(r[2]?" · "+r[2]:"")}).join("\n"))}
   if(C.theo&&C.theo.length){o.push(H(u.h.theo));o.push(C.theo.join("\n\n"))}
   if(C.conn&&C.conn.length){o.push(H(u.h.conn));o.push(IT(C.conn))}
   if(C.fathers&&C.fathers.length){o.push(H(u.h.fathers));o.push(IT(C.fathers))}
@@ -613,7 +613,7 @@ function shareText(title,C,X){
   if(X&&X.question){o.push(H(v.question));o.push(X.question)}
   if(C.saints&&C.saints.length){o.push(H(u.h.saints));o.push(IT(C.saints))}
   if(C.prayer)o.push("\n🙏 "+C.prayer);
- } else if(S.rite==="smc"&&SMC[S.date]){o.push(H(u.h.readings));SMC[S.date].g.forEach(function(g){g.r.forEach(function(r){o.push("• "+r[0]+(r[1]?" — "+r[1]:""))})})}
+ } else if(S.rite==="smc"&&SMC[S.date]){o.push(H(u.h.readings));SMC[S.date].g.forEach(function(g){g.r.forEach(function(r){o.push("• "+r[0]+(r[1]?": "+r[1]:""))})})}
  o.push("\n"+(ml?"ആപ്പിൽ തുറക്കാൻ (വിചിന്തനം, പ്രസംഗക്കുറിപ്പുകൾ, വായനകൾ മുഴുവൻ):":"Open in the app (reflection, homily notes, full readings):")+"\n"+link);
  return o.join("\n")}
 function shareBar(title,C,X,LNK){
@@ -1139,15 +1139,25 @@ function doSearch(q){
  if(!IDX[S.lang])IDX[S.lang]=buildIdx(S.lang);
  if(S.lang!=="en"&&!IDX["x"+S.lang]){if(!IDX.en)IDX.en=buildIdx("en");IDX["x"+S.lang]=IDX[S.lang].concat(IDX.en)}
  var words=q.split(/\s+/),hits=(S.lang==="en"?IDX.en:IDX["x"+S.lang]).filter(function(e){return words.every(function(w){return e.s.indexOf(w)>=0})});
- var sts=hits.filter(function(h){return h.sid&&(!h.z.rites||h.z.rites.indexOf(S.rite)>=0)}).sort(function(a,b){return (b.nm.indexOf(q)>=0)-(a.nm.indexOf(q)>=0)}).filter(function(h,i,arr){return arr.findIndex(function(z){return z.sid===h.sid})===i}).slice(0,8);
- var ocs=hits.filter(function(h){return h.oid&&(!h.o.rites||h.o.rites.indexOf(S.rite)>=0)}).sort(function(a,b){return (b.nm.indexOf(q)>=0)-(a.nm.indexOf(q)>=0)}).filter(function(h,i,arr){return arr.findIndex(function(z){return z.oid===h.oid})===i}).slice(0,6);
- var days=hits.filter(function(h){return h.k});
- days.sort(function(a,b){return (a.r===S.rite?0:1)-(b.r===S.rite?0:1)||(b.prep||0)-(a.prep||0)||(a.k<b.k?-1:1)});
+ /* Ranking: a date typed as "25 december" or "dec 25", or words found in a day's title or a saint's or occasion's name, come first; matches only inside the text follow */
+ var MO=["jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],dm=null,mm=-1,dd=0;words.forEach(function(w){var mi=MO.indexOf(w.slice(0,3));if(mi>=0&&w.length>=3)mm=mi;else if(/^\d{1,2}$/.test(w))dd=+w});
+ var dq=q.match(/^(\d{1,2})[\/.-](\d{1,2})$/);if(dq){dd=+dq[1];mm=+dq[2]-1}if(mm>=0&&dd>=1&&dd<=31)dm=String(mm+1).padStart(2,"0")+"-"+String(dd).padStart(2,"0");
+ function inName(s){s=String(s||"").toLowerCase();return words.every(function(w){return s.indexOf(w)>=0})}
+ var sts=hits.filter(function(h){return h.sid&&(!h.z.rites||h.z.rites.indexOf(S.rite)>=0)}).sort(function(a,b){return inName(b.nm)-inName(a.nm)}).filter(function(h,i,arr){return arr.findIndex(function(z){return z.sid===h.sid})===i});
+ var ocs=hits.filter(function(h){return h.oid&&(!h.o.rites||h.o.rites.indexOf(S.rite)>=0)}).sort(function(a,b){return inName(b.nm)-inName(a.nm)}).filter(function(h,i,arr){return arr.findIndex(function(z){return z.oid===h.oid})===i});
+ var first=(typeof HAS!=="undefined"&&HAS[S.rite]&&HAS[S.rite][0])||"2026-11-01";
+ var days=IDX[S.lang===("en")?"en":"x"+S.lang].filter(function(h){return h.k&&h.k>=first&&(hits.indexOf(h)>=0||(dm&&h.k.slice(5)===dm))});
+ function dscore(h){return (dm&&h.k.slice(5)===dm?4:0)+(inName(h.t)?2:0)+(h.r===S.rite?1:0)}
+ var own=new Set(IDX[S.lang]||[]),ownT={};(IDX[S.lang]||[]).forEach(function(e){if(e.k)ownT[e.k+e.r]=e.t});days.sort(function(a,b){return dscore(b)-dscore(a)||(own.has(b)?1:0)-(own.has(a)?1:0)||(b.prep||0)-(a.prep||0)||(a.k<b.k?-1:1)});
  var seen={};days=days.filter(function(h){var id=h.k+h.r;if(seen[id])return false;seen[id]=1;return true}).slice(0,40);
+ var sTop=sts.filter(function(h){return inName(h.nm)}),oTop=ocs.filter(function(h){return inName(h.nm)}),dTop=days.filter(function(h){return dscore(h)>=2});
+ sts=sTop.concat(sts.filter(function(h){return sTop.indexOf(h)<0})).slice(0,8);ocs=oTop.concat(ocs.filter(function(h){return oTop.indexOf(h)<0})).slice(0,6);
  var qn=(QNAME[S.lang]||QNAME.en)[S.rite],oh=(OCT[S.lang]||OCT.en).h;
- var html=sts.map(function(h){return '<button class="res" data-rsaint="'+h.sid+'"><b><span class="kd">'+esc(st.g2)+"</span>"+esc(saintMD(saintDate(h.z,S.rite),S.lang))+"</b><span>"+esc(h.t)+"</span></button>"}).join("")+
-  ocs.map(function(h){return '<button class="res" data-rocc="'+h.oid+'"><b><span class="kd">'+esc(oh)+"</span></b><span>"+esc(String(h.t).replace(/\{Q\}/g,qn))+"</span></button>"}).join("")+
-  days.map(function(h){return '<button class="res" data-go="'+h.k+'" data-r="'+h.r+'"><b>'+esc(dateLabel(parseISO(h.k),S.lang))+" · "+esc(u.rites[h.r])+"</b><span>"+esc(h.t||"")+"</span></button>"}).join("");
+ function rS(h){return '<button class="res" data-rsaint="'+h.sid+'"><b><span class="kd">'+esc(st.g2)+"</span>"+esc(saintMD(saintDate(h.z,S.rite),S.lang))+"</b><span>"+esc(h.t)+"</span></button>"}
+ function rO(h){return '<button class="res" data-rocc="'+h.oid+'"><b><span class="kd">'+esc(oh)+"</span></b><span>"+esc(String(h.t).replace(/\{Q\}/g,qn))+"</span></button>"}
+ function rD(h){return '<button class="res" data-go="'+h.k+'" data-r="'+h.r+'"><b>'+esc(dateLabel(parseISO(h.k),S.lang))+" · "+esc(u.rites[h.r])+"</b><span>"+esc(ownT[h.k+h.r]||h.t||"")+"</span></button>"}
+ var dRest=days.filter(function(h){return dTop.indexOf(h)<0}),sT=sts.filter(function(h){return sTop.indexOf(h)>=0}),oT=ocs.filter(function(h){return oTop.indexOf(h)>=0});
+ var html=dTop.filter(function(h){return dm&&h.k.slice(5)===dm}).map(rD).join("")+sT.map(rS).join("")+oT.map(rO).join("")+dTop.filter(function(h){return !(dm&&h.k.slice(5)===dm)}).map(rD).join("")+(/\d/.test(q)?dRest.map(rD).join(""):"")+sts.filter(function(h){return sT.indexOf(h)<0}).map(rS).join("")+ocs.filter(function(h){return oT.indexOf(h)<0}).map(rO).join("")+(/\d/.test(q)?"":dRest.map(rD).join(""));
  box.hidden=false;
  box.innerHTML=html||'<div class="placeholder">'+esc(v.noresult)+"</div>";
 }
