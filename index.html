@@ -4323,7 +4323,7 @@ if(PVON){var pvb=document.createElement("div");pvb.className="pvbar";var pd=PVD|
  pvb.addEventListener("change",function(e){if(e.target.id==="pv-dt"&&e.target.value)pvgo(e.target.value)});
  pvb.addEventListener("click",function(e){var b=e.target.closest("[data-pv]");if(!b)return;var v=b.dataset.pv,d=($("pv-dt").value||cur).slice(0,10);if(v==="off")pvgo(null);else if(v==="sat"){var x=new Date(d+"T12:00");x.setDate(x.getDate()+((6-x.getDay()+7)%7));pvgo(x.getFullYear()+"-"+pad(x.getMonth()+1)+"-"+pad(x.getDate())+"T19:00")}else pvgo(d+"T"+v)})}
 applyFS();
-if(!S.fromLink&&S.view==="day"&&!/[?&](s|o|v)=/.test(location.search))S.view="home";
+if((!S.fromLink||(PVON&&!/[?&]d=/.test(location.search)))&&!/[?&](s|o|v)=/.test(location.search))S.view="home";
 render();
 showWelcome();
 </script>
