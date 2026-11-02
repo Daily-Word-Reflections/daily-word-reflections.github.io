@@ -163,7 +163,7 @@ body.onhome .fhome{display:none!important}.fhome{position:fixed;z-index:40;left:
 body.onhome #bandsub{font-style:italic;color:var(--gold);opacity:.95;font-size:.95em;margin-top:2px}body.v-lit .datebar,body.v-lit .tabs,body.v-lit #note,body.v-lit #botnav,body.v-saints #contact,body.v-saints #calspot{display:none!important}
 .hg0 .hrow .htx span{white-space:normal}
 .hsmset{position:relative;cursor:pointer}.hsmset .hbset,.hsmset .rwrap{position:static}.hsmset .rsetbtn{width:38px;height:38px;min-width:38px;border-radius:50%}.hsmset .rpanel{top:auto;bottom:calc(100% + 6px);right:0;left:auto;text-align:left;font-weight:400}
-.hshare{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:10px;background:var(--paper);border:1px solid var(--rule);border-radius:16px;padding:12px}.hshare .sharebar{margin:0}
+.hshare{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:10px;background:var(--paper);border:1px solid var(--rule);border-radius:16px;padding:12px}.hshare .sharebar{margin:0}.shb.soc.ig{background:radial-gradient(circle at 30% 107%,#fdf497 0%,#fd5949 45%,#d6249f 60%,#285AEB 90%)}.shb.soc.fb{background:#1877F2}
 .lgrid{grid-template-columns:minmax(0,1fr)}.lcard{width:100%;box-sizing:border-box;min-width:0}.lcard .ltx b,.lcard .ltx span{overflow-wrap:break-word}.orow{display:flex}.orow .lback{margin:0}
 body.onhome #eyebrow,body.onhome #bandverse{display:none!important}body.onhome .band{text-align:center;padding-block:18px}body.onhome #brand{margin:0}
 .home{font-size:.9em}.home .hrow{padding-block:11px}body.onhome .hchips{font-size:.92em}
@@ -372,7 +372,7 @@ details.about li b{display:block;color:var(--ink)}
   <div class="totopwrap"><button id="tohome" class="totop" type="button"></button><button id="totop" class="totop" type="button"></button></div>
   <details class="about" id="about"><summary id="about-s"></summary><div id="about-b"></div></details>
   <footer id="foot"></footer>
-  <div class="copyr">© 2026 VC · v2026.11.02.0924</div>
+  <div class="copyr">© 2026 VC · v2026.11.02.0940</div>
 </div>
 <div class="welcome" id="welcome" hidden role="dialog" aria-modal="true" aria-labelledby="w-h"><div class="wbox" id="wbox"></div></div>
 
@@ -755,6 +755,8 @@ setTimeout(function(){try{if(window.matchMedia&&matchMedia("(display-mode: stand
 var CHAN="https://whatsapp.com/channel/0029VbDiJlE0VycBkew3eI1X";
 var CHANT={en:"Follow Daily Word on WhatsApp",ml:"അനുദിന വചനം വാട്ട്സ്ആപ്പിൽ ഫോളോ ചെയ്യുക",ta:"அனுதின இறைவார்த்தையை வாட்ஸ்அப்பில் பின்தொடருங்கள்",hi:"दैनिक वचन को व्हाट्सऐप पर फ़ॉलो करें",te:"అనుదిన వాక్యాన్ని వాట్సాప్‌లో ఫాలో అవ్వండి",kn:"ಅನುದಿನ ವಾಕ್ಯವನ್ನು ವಾಟ್ಸ್ಆ್ಯಪ್‌ನಲ್ಲಿ ಫಾಲೋ ಮಾಡಿ",de:"Das Wort des Tages auf WhatsApp folgen",it:"Segui La Parola di ogni giorno su WhatsApp",es:"Siga La Palabra de cada día en WhatsApp",pt:"Siga A Palavra de cada dia no WhatsApp",fr:"Suivre La Parole du jour sur WhatsApp",tl:"I-follow ang Daily Word sa WhatsApp",sw:"Fuata Daily Word kwenye WhatsApp"};
 var CHANF={en:"Follow channel",ml:"Follow channel",ta:"பின்தொடர்",hi:"फ़ॉलो",te:"ఫాలో",kn:"ಫಾಲೋ",de:"Folgen",it:"Segui",es:"Seguir",pt:"Seguir",fr:"Suivre",tl:"I-follow",sw:"Fuata"};
+var SOC=[["ig","https://www.instagram.com/dailyword_reflections/","Instagram",'<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="#fff" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="#fff" stroke-width="2"/><circle cx="17.3" cy="6.7" r="1.2" fill="#fff"/></svg>']];
+function socBtns(){return SOC.map(function(s){return '<a class="shb soc '+s[0]+'" href="'+s[1]+'" target="_blank" rel="noopener" aria-label="'+s[2]+'" title="'+s[2]+'">'+s[3]+"</a>"}).join("")}
 function chanBtn(){var t=CHANT[S.lang]||CHANT.en;return '<a class="shb chf" href="'+CHAN+'" target="_blank" rel="noopener" aria-label="'+esc(t)+'" title="'+esc(t)+'"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="#fff" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.3a.5.5 0 0 0 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.8 11.9 11.9 0 0 0 4.6 4c1.7.7 2.4.8 3.2.7a2.8 2.8 0 0 0 1.8-1.3 2.3 2.3 0 0 0 .2-1.3c-.1-.1-.3-.2-.5-.3z"/></svg><span>'+esc(CHANF[S.lang]||CHANF.en)+'</span></a>'}
 function calBox(){var l=(" "+(CALS[S.rite]||"")+" ").indexOf(" "+S.lang+" ")>=0?S.lang:"en",T=CALT[S.lang]||CALT.en,w="webcal://daily-word-reflections.github.io/cal/"+S.rite+"-"+l+".ics",g="https://calendar.google.com/calendar/r?cid="+encodeURIComponent(w);
  return '<details class="calbox"><summary><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" style="vertical-align:-3px"><rect x="3" y="5" width="18" height="16" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M3 10h18M8 3v4M16 3v4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> '+esc(T[0])+'</summary><div class="calbtns"><a class="calb" href="'+w+'">'+esc(T[1])+'</a><a class="calb" href="'+g+'" target="_blank" rel="noopener">'+esc(T[2])+'</a></div><p class="calnote">'+esc(T[3])+'</p></details>'}
@@ -3465,7 +3467,7 @@ document.addEventListener("click",function(e){if(e.target.id==="s-prev"){S.smon=
 /* Analytics events for shares and contacts (key events: share, sos_contact) */
 document.addEventListener("click",function(e){if(typeof gtag!=="function"||!e.target.closest)return;var t=e.target,ctx={language:S.lang,rite:S.rite,view:S.view,item:S.saint||S.date};
  function ev(n,p){try{for(var k in ctx)if(!(k in p))p[k]=ctx[k];gtag("event",n,p)}catch(x){}}
- if(t.closest(".chf"))ev("follow_channel",{method:"whatsapp"});
+ if(t.closest(".chf"))ev("follow_channel",{method:"whatsapp"});else if(t.closest(".shb.soc"))ev("follow_channel",{method:t.closest(".shb.soc").classList.contains("ig")?"instagram":"facebook"});
  else if(t.closest(".calb"))ev("calendar_subscribe",{method:t.closest(".calb").href.indexOf("google")>=0?"google":"webcal"});
  else if(t.closest(".shb.wa"))ev("share",{method:"whatsapp"});
  else if(t.closest(".shb.tg"))ev("share",{method:"telegram"});
@@ -4490,7 +4492,7 @@ function drawHome(){var H=HOMEL[S.lang]||HOMEL.en,u=UI[S.lang]||UI.en,td=hDate()
  var tsn=[];try{tsn=saintsToday()}catch(e){}var g2='<div class="hgroup">'+hRow("saints",$("r-saints").textContent,"",tsn.length?' data-sid="'+tsn[0].id+'"':"")+hRow("lit",$("r-lit").textContent,"")+hRow("occ",$("r-occ").textContent,"")+hRow("docs",$("r-docs").textContent,"")+"</div>";
  function sm(k,lab,st){return '<button class="hsm" type="button" data-h="'+k+'"><span class="hic"'+(st||"")+">"+(k==="follow"?'<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#fff" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2z"/></svg>':hIco(k))+"</span>"+esc(lab)+"</button>"}
  var hs2=HSL[S.lang]||HSL.en,g3='<div class="hsmall">'+sm("intent",H.intent)+sm("cal",H.cal)+sm("search",hs2[0])+'<div class="hsm hsmset"><span class="hbset" id="hbset"></span>'+esc(hs2[1])+"</div></div>";
- var gsh='<div class="hshare">'+chanBtn()+shareBar("Daily Word",null,null,SITE+"?r="+S.rite)+"</div>";
+ var gsh='<div class="hshare">'+chanBtn()+socBtns()+shareBar("Daily Word",null,null,SITE+"?r="+S.rite)+"</div>";
  var sos=window.SOS?(SOS.t[S.lang]||SOS.t.en)[0]:"";var g4='<div class="hgroup hsos">'+hRow("sos",["ml","ta","hi","te","kn"].indexOf(S.lang)>=0?PRN.en:(PRN[S.lang]||PRN.en),"")+"</div>";
  var cpk=$("calpop"),dpk=$("dpick");if(cpk&&dpk&&cpk.parentNode!==dpk.parentNode)dpk.parentNode.insertBefore(cpk,dpk.nextSibling);var rw0=document.querySelector(".rwrap"),bar0=document.querySelector(".bar");if(rw0&&bar0&&rw0.parentNode!==bar0)bar0.appendChild(rw0);
  $("bandsub").textContent=TAGL[S.lang]||TAGL.en;$("card").innerHTML='<div class="home">'+head+nowc+nx+cont+g1+g2+(window.HSTRIP||"")+g3+gsh+g4+"</div>";var hs3=$("hbset");if(rw0&&hs3)hs3.appendChild(rw0)}
