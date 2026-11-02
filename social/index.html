@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Daily Word posts</title>
+<style>
+:root{--bg:#f4f1ea;--paper:#fff;--ink:#22213a;--muted:#6b6878;--rule:#ddd6c8;--accent:#7e2635;--gold:#b8892f;--ok:#1f7a3d}
+@media(prefers-color-scheme:dark){:root{--bg:#15141f;--paper:#1e1d2b;--ink:#ece8df;--muted:#a9a4b5;--rule:#34323f;--accent:#e08a97;--gold:#e2b85c;--ok:#5fcf86}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:0 16px}
+.w{max-width:760px;margin:0 auto;padding:22px 0 60px}h1{font-size:24px;margin:0 0 4px}.sub{color:var(--muted);margin:0 0 16px}
+.tabs{display:flex;gap:8px;margin:0 0 16px;flex-wrap:wrap}.tabs button{border:1px solid var(--rule);background:var(--paper);color:var(--ink);border-radius:999px;padding:6px 14px;font:600 14px inherit;cursor:pointer}.tabs button[aria-pressed=true]{background:var(--accent);color:#fff;border-color:var(--accent)}
+.day{margin:22px 0 8px;font-weight:700;color:var(--gold);text-transform:uppercase;letter-spacing:.06em;font-size:13px}
+.p{background:var(--paper);border:1px solid var(--rule);border-radius:14px;padding:12px;display:grid;grid-template-columns:120px 1fr;gap:12px;margin-bottom:10px}
+.p img{width:120px;border-radius:8px;display:block;cursor:zoom-in}.meta{font-size:13px;color:var(--muted)}.meta b{color:var(--ink)}
+.st{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0}.st span{font-size:12px;border-radius:999px;padding:2px 9px;border:1px solid var(--rule)}.st .ok{color:var(--ok);border-color:var(--ok)}.st .err{color:#c33;border-color:#c33}
+.cap{white-space:pre-wrap;font-size:13.5px;margin:6px 0;max-height:7.5em;overflow:hidden}.cap.open{max-height:none}
+.acts{display:flex;gap:6px;flex-wrap:wrap}.acts button,.acts a{border:1px solid var(--rule);background:var(--bg);color:var(--ink);border-radius:8px;padding:6px 10px;font:600 13px inherit;text-decoration:none;cursor:pointer}.acts .wa{background:#1FA855;color:#fff;border-color:#1FA855}
+@media(max-width:520px){.p{grid-template-columns:1fr}.p img{width:100%;max-width:340px}}
+.big{position:fixed;inset:0;background:rgba(0,0,0,.85);display:flex;align-items:center;justify-content:center;z-index:9}.big img{max-width:94vw;max-height:94vh;border-radius:10px}
+</style></head><body><div class="w">
+<h1>Daily Word posts</h1>
+<p class="sub">Every queued card with its time (India), its captions, and whether it has gone out on Facebook and Instagram. For the WhatsApp channel, use Share (phone) or Copy text and Save image.</p>
+<div class="tabs"><button data-f="up" aria-pressed="true">Coming</button><button data-f="done" aria-pressed="false">Posted</button><button data-f="all" aria-pressed="false">All</button></div>
+<div id="list">Loading…</div></div>
+<script>
+var Q=[],F="up";
+function fmt(d){return d.toLocaleString("en-IN",{timeZone:"Asia/Kolkata",weekday:"short",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})}
+function esc(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;")}
+function draw(){var now=Date.now(),h="",last="";
+ Q.filter(function(x){var t=Date.parse(x.at);return F==="all"||(F==="up"?t>now-3600e3:t<=now)}).forEach(function(x,i){var t=new Date(x.at),day=t.toLocaleDateString("en-IN",{timeZone:"Asia/Kolkata",weekday:"long",day:"numeric",month:"long"});
+  if(day!==last){h+='<div class="day">'+day+"</div>";last=day}
+  var fb=x.fb_id?'<span class="ok">Facebook ✓</span>':x.fb_err?'<span class="err">Facebook error</span>':'<span>Facebook waiting</span>',ig=x.ig_id?'<span class="ok">Instagram ✓</span>':x.ig_err?'<span class="err">Instagram error</span>':'<span>Instagram waiting</span>';
+  var k=Q.indexOf(x);h+='<div class="p"><img src="../'+x.img+'" alt="" data-big="../'+x.img+'"><div><div class="meta"><b>'+fmt(t)+"</b> · "+esc(x.id.split("_").pop())+'</div><div class="st">'+fb+ig+'</div><div class="cap" data-k="'+k+'">'+esc(x.wa||x.fb)+'</div><div class="acts"><button class="wa" data-share="'+k+'">Share</button><button data-copy="'+k+'|wa">Copy WhatsApp text</button><a href="../'+x.img+'" download>Save image</a><button data-copy="'+k+'|fb">Copy Facebook</button><button data-copy="'+k+'|ig">Copy Instagram</button></div></div></div>'});
+ document.getElementById("list").innerHTML=h||'<p class="sub">Nothing here.</p>'}
+fetch("queue.json?"+Date.now()).then(function(r){return r.json()}).then(function(q){Q=q;draw()}).catch(function(){document.getElementById("list").textContent="Could not load the queue."});
+document.addEventListener("click",function(e){var t=e.target;
+ var f=t.closest("[data-f]");if(f){F=f.dataset.f;document.querySelectorAll("[data-f]").forEach(function(b){b.setAttribute("aria-pressed",b===f)});draw();return}
+ var c=t.closest("[data-copy]");if(c){var p=c.dataset.copy.split("|"),x=Q[+p[0]],s=x[p[1]]||x.fb;navigator.clipboard.writeText(s).then(function(){var o=c.textContent;c.textContent="Copied ✓";setTimeout(function(){c.textContent=o},1500)});return}
+ var s=t.closest("[data-share]");if(s){var x=Q[+s.dataset.share];fetch("../"+x.img).then(function(r){return r.blob()}).then(function(b){var file=new File([b],x.id+".jpg",{type:"image/jpeg"}),d={text:x.wa||x.fb,files:[file]};if(navigator.canShare&&navigator.canShare(d))return navigator.share(d);return navigator.share?navigator.share({text:x.wa||x.fb}):navigator.clipboard.writeText(x.wa||x.fb)}).catch(function(){});return}
+ var g=t.closest("[data-big]");if(g){var d=document.createElement("div");d.className="big";d.innerHTML='<img src="'+g.dataset.big+'" alt="">';d.onclick=function(){d.remove()};document.body.appendChild(d);return}
+ var cp=t.closest(".cap");if(cp)cp.classList.toggle("open")});
+</script></body></html>
