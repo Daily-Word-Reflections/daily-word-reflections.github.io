@@ -9,7 +9,7 @@ function keep(req,res){if(res&&res.ok&&res.type==="basic"){var cp=res.clone();ca
 self.addEventListener("fetch",function(e){
   var req=e.request;if(req.method!=="GET")return;
   var u=new URL(req.url);if(u.origin!==location.origin)return;
-  if(/\.ics$/.test(u.pathname))return;
+  if(/\.ics$/.test(u.pathname)||/\/version\.txt$/.test(u.pathname)||u.pathname.indexOf("/audio/")===0)return;
   var nav=req.mode==="navigate";
   /* Other pages (SOS, landing pages): always from the network, kept copy only when offline */
   var sp=new URL(self.registration.scope).pathname;
