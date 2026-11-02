@@ -1,0 +1,28 @@
+name: Social posts
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: social
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Post due cards
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_IG_ID: ${{ secrets.META_IG_ID }}
+        run: python3 .github/social_post.py
+      - name: Save what was posted
+        run: |
+          if ! git diff --quiet social/queue.json; then
+            git config user.name "Daily Word bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add social/queue.json
+            git commit -m "Social: record posted cards"
+            git push
+          fi
