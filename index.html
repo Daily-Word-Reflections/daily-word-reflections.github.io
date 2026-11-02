@@ -373,7 +373,7 @@ details.about li b{display:block;color:var(--ink)}
   <div class="totopwrap"><button id="tohome" class="totop" type="button"></button><button id="totop" class="totop" type="button"></button></div>
   <details class="about" id="about"><summary id="about-s"></summary><div id="about-b"></div></details>
   <footer id="foot"></footer>
-  <div class="copyr">© 2026 VC · v2026.11.02.1623</div>
+  <div class="copyr">© 2026 VC · v2026.11.02.1630</div>
 </div>
 <div class="welcome" id="welcome" hidden role="dialog" aria-modal="true" aria-labelledby="w-h"><div class="wbox" id="wbox"></div></div>
 
@@ -664,7 +664,7 @@ function lchunks(){var out=[],els=document.querySelectorAll("#card h2,#card h3,#
   var s=(e.innerText||"").replace(/\s+/g," ").trim();if(!s)return;var parts=s.match(/[^.!?।]+[.!?।]*\s*/g)||[s],buf="";
   parts.forEach(function(x){if((buf+x).length>220&&buf){out.push({el:e,t:buf.trim()});buf=""}buf+=x});if(buf.trim())out.push({el:e,t:buf.trim()})});return out}
 function lmark(e){if(LS.el===e)return;if(LS.el)LS.el.classList.remove("lnow");LS.el=e;if(!e)return;e.classList.add("lnow");var r=e.getBoundingClientRect();if(r.top<70||r.bottom>innerHeight-50){try{e.scrollIntoView({block:"center",behavior:"smooth"})}catch(x){e.scrollIntoView()}}}
-/* Natural voices: English and Malayalam are read from recorded clips (Google voices Kore and Orus), one clip per piece of text, named by a fingerprint of the text. A piece with no clip is read by the phone's own voice. */
+/* Natural voices: English and Malayalam are read from recorded clips (Google voices Kore and Orus), one clip per piece of text, named by a fingerprint of the text. A piece with no clip is skipped. */
 var AUD_L={en:1,ml:1},VOICE="auto",AU=null;
 var VLAB={en:{t:"Listening voice",auto:"Automatic",kore:"Woman",orus:"Man",phone:"Phone voice"},ml:{t:"കേൾക്കുന്ന ശബ്ദം",auto:"സ്വയമേവ",kore:"സ്ത്രീശബ്ദം",orus:"പുരുഷശബ്ദം",phone:"ഫോണിന്റെ ശബ്ദം"}};
 function ahash(s){var a=0x811c9dc5,b=0x5bd1e995;for(var i=0;i<s.length;i++){var c=s.charCodeAt(i);a=Math.imul(a^c,16777619);b=Math.imul(b^c,2246822507)}return ("0000000"+(a>>>0).toString(16)).slice(-8)+("0000000"+(b>>>0).toString(16)).slice(-8)}
@@ -674,7 +674,7 @@ function aurl(t){return "/audio/"+LS.lang+"/"+avoice()+"/"+ahash(t)+".m4a"}
 function lhalt(){try{speechSynthesis.cancel()}catch(e){}try{if(AU)AU.pause()}catch(e){}}
 function lnext(){if(!LS.on)return;if(LS.i>=LS.q.length){lstop();return}var it=LS.q[LS.i],tok=LS.tok;lmark(it.el);
  if(auOn()&&!it.np){if(!AU)AU=new Audio();AU.onended=function(){if(!LS.on||tok!==LS.tok)return;LS.i++;lnext()};AU.onerror=function(){if(!LS.on||tok!==LS.tok)return;it.np=1;lnext()};AU.src=aurl(it.t);AU.defaultPlaybackRate=LS.rate;AU.playbackRate=LS.rate;var pp=AU.play();if(pp&&pp.catch)pp.catch(function(er){if(tok===LS.tok&&er&&er.name==="NotAllowedError")lstop()});return}
- if(!window.speechSynthesis||!lvoice(LS.lang)&&LS.lang==="ml"){LS.i++;lnext();return}
+ if(auOn()||!window.speechSynthesis){LS.i++;lnext();return}
  var u=new SpeechSynthesisUtterance(it.t),v=lvoice(LS.lang);if(v){u.voice=v;u.lang=v.lang}else u.lang=LS.lang;u.rate=LS.rate;
  u.onend=function(){if(!LS.on||tok!==LS.tok)return;LS.err=0;LS.i++;lnext()};u.onerror=function(ev){if(!LS.on||tok!==LS.tok)return;var c=ev&&ev.error;if(c==="interrupted"||c==="canceled")return;LS.err=(LS.err||0)+1;if(LS.err>3){lstop();return}LS.i++;setTimeout(lnext,150)};speechSynthesis.speak(u)}
 function lstart(){lhalt();LS.q=lchunks();LS.i=0;for(var qi=0;qi<LS.q.length;qi++){var rb=LS.q[qi].el.getBoundingClientRect();if(rb.bottom>90){LS.i=qi;break}}LS.err=0;LS.on=true;LS.paused=false;LS.tok++;ldraw();if(auOn()){lnext();return}var tk=LS.tok;setTimeout(function(){if(LS.on&&tk===LS.tok)lnext()},120)}
@@ -762,7 +762,7 @@ document.addEventListener("click",function(e){var x=e.target.closest&&e.target;i
  if(!x.closest(".rwrap")&&$("rpanel")&&!$("rpanel").hidden){$("rpanel").hidden=true;$("rset").setAttribute("aria-expanded","false")}});
 applyRead();
 /* Updates: the site checks version.txt; when a newer version is published, a bar offers to load it (also inside the home-screen app, which otherwise keeps showing the copy saved on the phone). */
-var APPV="2026.11.02.1623";
+var APPV="2026.11.02.1630";
 var UPL={en:{t:"Updates",c:"Check for updates",ok:"You have the latest version",n:"A new version of Daily Word is ready.",u:"Update now"},
 ml:{t:"പുതുക്കൽ",c:"പുതിയ പതിപ്പുണ്ടോ എന്നു നോക്കുക",ok:"ഏറ്റവും പുതിയ പതിപ്പാണ്",n:"Daily Word-ന്റെ പുതിയ പതിപ്പ് തയ്യാർ.",u:"ഇപ്പോൾ പുതുക്കുക"},
 ta:{t:"புதுப்பிப்பு",c:"புதுப்பிப்பைச் சரிபார்",ok:"இது சமீபத்திய பதிப்பு",n:"Daily Word புதிய பதிப்பு தயார்.",u:"இப்போது புதுப்பி"},
