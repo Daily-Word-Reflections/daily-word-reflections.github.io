@@ -373,7 +373,7 @@ details.about li b{display:block;color:var(--ink)}
   <div class="totopwrap"><button id="tohome" class="totop" type="button"></button><button id="totop" class="totop" type="button"></button></div>
   <details class="about" id="about"><summary id="about-s"></summary><div id="about-b"></div></details>
   <footer id="foot"></footer>
-  <div class="copyr">© 2026 VC · v2026.11.02.1605</div>
+  <div class="copyr">© 2026 VC · v2026.11.02.1623</div>
 </div>
 <div class="welcome" id="welcome" hidden role="dialog" aria-modal="true" aria-labelledby="w-h"><div class="wbox" id="wbox"></div></div>
 
@@ -762,7 +762,7 @@ document.addEventListener("click",function(e){var x=e.target.closest&&e.target;i
  if(!x.closest(".rwrap")&&$("rpanel")&&!$("rpanel").hidden){$("rpanel").hidden=true;$("rset").setAttribute("aria-expanded","false")}});
 applyRead();
 /* Updates: the site checks version.txt; when a newer version is published, a bar offers to load it (also inside the home-screen app, which otherwise keeps showing the copy saved on the phone). */
-var APPV="2026.11.02.1605";
+var APPV="2026.11.02.1623";
 var UPL={en:{t:"Updates",c:"Check for updates",ok:"You have the latest version",n:"A new version of Daily Word is ready.",u:"Update now"},
 ml:{t:"പുതുക്കൽ",c:"പുതിയ പതിപ്പുണ്ടോ എന്നു നോക്കുക",ok:"ഏറ്റവും പുതിയ പതിപ്പാണ്",n:"Daily Word-ന്റെ പുതിയ പതിപ്പ് തയ്യാർ.",u:"ഇപ്പോൾ പുതുക്കുക"},
 ta:{t:"புதுப்பிப்பு",c:"புதுப்பிப்பைச் சரிபார்",ok:"இது சமீபத்திய பதிப்பு",n:"Daily Word புதிய பதிப்பு தயார்.",u:"இப்போது புதுப்பி"},
@@ -787,11 +787,11 @@ document.addEventListener("click",function(e){var x=e.target.closest&&e.target;i
 function upAuto(){upCheck(false).then(function(n){if(n)upBar()})}
 setTimeout(upAuto,2500);document.addEventListener("visibilitychange",function(){if(document.visibilityState==="visible")upAuto()});
 /* Audio maker only: #audiodump=rite,lang,from,to lists every piece Listen would read on those days (all tabs and homily parts, all folds open). */
-function audioDump(){var a=decodeURIComponent(location.hash.slice(11)).split(","),out={},T=[["lectern",1],["exeg",1],["homily",1],["homily",2]],t=parseISO(a[2]),end=parseISO(a[3]),i=0;
+function audioDump(){var a=decodeURIComponent(location.hash.slice(11)).split(","),out={},T=[["lectern",1],["exeg",1],["homily",1],["homily",2],["lectern",1,"read"],["lectern",1,"glance"],["lectern",1,"refl"],["exeg",1,"exeg"],["homily",1,"homily"]],t=parseISO(a[2]),end=parseISO(a[3]),i=0;
  S.rite=a[0];S.lang=a[1];S.view="day";S.focus="";LISTEN_ON=false;
  function wait(ms){return new Promise(function(r){setTimeout(r,ms)})}
  function step(){if(t>end){var p=document.createElement("pre");p.id="adump";p.textContent=JSON.stringify(out);document.body.innerHTML="";document.body.appendChild(p);return}
-  S.date=iso(t);S.tab=T[i][0];S.part=T[i][1];var pg=S.date+"|"+S.tab+"|"+S.part;
+  S.date=iso(t);S.tab=T[i][0];S.part=T[i][1];S.focus=T[i][2]||null;S.fdate=S.date;S.ftab=S.tab;var pg=S.date+"|"+S.tab+"|"+S.part;
   Promise.all(needChunks().map(loadChunk)).then(function(){render();document.querySelectorAll("#card details").forEach(function(d){d.open=true});return wait(150)}).then(function poll(n){n=n||0;var busy=Array.prototype.some.call(document.querySelectorAll("#card .pbody"),function(b){return b.textContent==="…"});return busy&&n<80?wait(100).then(function(){return poll(n+1)}):0}).then(function(){
    var l=document.querySelector("#card .exfb")?"en":S.lang;lchunks().forEach(function(c){if(S.tab==="homily"&&S.part>2)return;var k=l+"|"+(S.tab==="homily"?"o":"k");out[k]=out[k]||{};out[k][ahash(c.t)]=c.t});
    i++;if(i>=T.length){i=0;t+=DAY}step()})}
