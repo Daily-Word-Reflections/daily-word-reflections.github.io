@@ -34,14 +34,18 @@ def main():
             continue
         url = SITE + it['img']
         if PAGE and not it.get('fb_id') and it.get('tries_fb', 0) < 3:
-            r = call(PAGE + '/photos', {'url': url, 'caption': it['fb']})
+            r = call(PAGE + '/photos', {'url': url, 'caption': it['fb'], 'alt_text_custom': it.get('alt', '')})
+            if 'error' in r and 'alt_text' in r['error']:
+                r = call(PAGE + '/photos', {'url': url, 'caption': it['fb']})
             it['tries_fb'] = it.get('tries_fb', 0) + 1
             if 'error' in r: it['fb_err'] = r['error']
             else: it['fb_id'] = r.get('post_id') or r.get('id'); it.pop('fb_err', None)
             changed = True
         if IG and not it.get('ig_id') and it.get('tries_ig', 0) < 3:
             it['tries_ig'] = it.get('tries_ig', 0) + 1
-            c = call(IG + '/media', {'image_url': url, 'caption': it['ig']})
+            c = call(IG + '/media', {'image_url': url, 'caption': it['ig'], 'alt_text': it.get('alt', '')})
+            if 'error' in c and 'alt_text' in c['error']:
+                c = call(IG + '/media', {'image_url': url, 'caption': it['ig']})
             if 'error' in c: it['ig_err'] = c['error']
             else:
                 for _ in range(12):
