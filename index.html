@@ -375,7 +375,7 @@ details.about li b{display:block;color:var(--ink)}
   <details class="about" id="about"><summary id="about-s"></summary><div id="about-b"></div></details>
   <footer id="foot"></footer>
   <nav class="seolinks" aria-label="Browse"><a href="library/">Library: study guides</a> · <a href="library/ml/">ഗ്രന്ഥശാല</a><br><a href="h/en/">All homilies and reflections (English)</a> · <a href="h/ml/">എല്ലാ പ്രസംഗങ്ങളും വിചിന്തനങ്ങളും (മലയാളം)</a><br><a href="en/">English</a> · <a href="ml/">മലയാളം</a> · <a href="ta/">தமிழ்</a> · <a href="hi/">हिन्दी</a> · <a href="te/">తెలుగు</a> · <a href="kn/">ಕನ್ನಡ</a> · <a href="de/">Deutsch</a> · <a href="it/">Italiano</a> · <a href="es/">Español</a> · <a href="pt/">Português</a> · <a href="fr/">Français</a> · <a href="tl/">Tagalog</a> · <a href="sw/">Kiswahili</a> · <a href="sos/">Priests in need</a></nav>
-  <div class="copyr">© 2026 VC · v2026.11.05.2153</div>
+  <div class="copyr">© 2026 VC · v2026.11.06.0825</div>
 </div>
 <div class="welcome" id="welcome" hidden role="dialog" aria-modal="true" aria-labelledby="w-h"><div class="wbox" id="wbox"></div></div>
 
@@ -668,6 +668,9 @@ function lchunks(){var out=[],els=document.querySelectorAll("#card h2,#card h3,#
 function lmark(e){if(LS.el===e)return;if(LS.el)LS.el.classList.remove("lnow");LS.el=e;if(!e)return;e.classList.add("lnow");var r=e.getBoundingClientRect();if(r.top<70||r.bottom>innerHeight-50){try{e.scrollIntoView({block:"center",behavior:"smooth"})}catch(x){e.scrollIntoView()}}}
 /* Natural voices: English and Malayalam are read from recorded clips (Google voices Kore and Orus), one clip per piece of text, named by a fingerprint of the text. A piece with no clip is skipped. */
 var AUD_L={en:1,ml:1},VOICE="auto",AU=null;
+/* Listen clips are recorded only up to AUD_TILL (user, 6 Nov 2026); after that the button hides itself */
+var AUD_TILL="2026-11-20";
+function audOk(){var t=new Date(),td=t.getFullYear()+"-"+("0"+(t.getMonth()+1)).slice(-2)+"-"+("0"+t.getDate()).slice(-2);if(td>AUD_TILL)return false;if(S.view==="day"&&S.date&&S.date>AUD_TILL)return false;return true}
 var VLAB={en:{t:"Listening voice",auto:"Automatic",kore:"Woman",orus:"Man",phone:"Phone voice"},ml:{t:"കേൾക്കുന്ന ശബ്ദം",auto:"സ്വയമേവ",kore:"സ്ത്രീശബ്ദം",orus:"പുരുഷശബ്ദം",phone:"ഫോണിന്റെ ശബ്ദം"}};
 function ahash(s){var a=0x811c9dc5,b=0x5bd1e995;for(var i=0;i<s.length;i++){var c=s.charCodeAt(i);a=Math.imul(a^c,16777619);b=Math.imul(b^c,2246822507)}return ("0000000"+(a>>>0).toString(16)).slice(-8)+("0000000"+(b>>>0).toString(16)).slice(-8)}
 function auOn(){return VOICE!=="phone"&&!!AUD_L[LS.lang]}
@@ -683,7 +686,7 @@ function lstart(){lhalt();LS.q=lchunks();LS.i=0;for(var qi=0;qi<LS.q.length;qi++
 function lstop(){var was=LS.on;LS.on=false;LS.paused=false;LS.tok++;try{if(AU)AU.pause()}catch(e){}try{if(was||speechSynthesis.speaking)speechSynthesis.cancel()}catch(e){}lmark(null);ldraw()}
 function ldraw(){var b=$("lbar");if(!b)return;var L=LST[S.lang]||LST.en;$("lplay").textContent=LS.on?"■ "+L.s:"▶ "+L.l;$("lplay").classList.toggle("on",LS.on);$("lrate").textContent=(LS.rate===1?"1":String(LS.rate))+"×"}
 var LISTEN_ON=true;
-function lbarInsert(){if(LS.on)lstop();var old=$("lbar");if(old)old.remove();if(!LISTEN_ON)return;if(!AUD_L[S.lang])return;var okv=S.view==="day"?["lectern","exeg","homily"].indexOf(S.tab)>=0&&!(S.tab==="homily"&&(S.part||1)>2):S.view==="saints"?!!S.saint:S.view==="occ"?!S.oHome&&!/^st:/.test(S.occ||""):false;if(!okv)return;
+function lbarInsert(){if(LS.on)lstop();var old=$("lbar");if(old)old.remove();if(!LISTEN_ON)return;if(!AUD_L[S.lang])return;if(!audOk())return;var okv=S.view==="day"?["lectern","exeg","homily"].indexOf(S.tab)>=0&&!(S.tab==="homily"&&(S.part||1)>2):S.view==="saints"?!!S.saint:S.view==="occ"?!S.oHome&&!/^st:/.test(S.occ||""):false;if(!okv)return;
  var l=document.querySelector("#card .exfb")?"en":S.lang;LS.lang=l;var L=LST[S.lang]||LST.en,d=document.createElement("div");d.className="lbar";d.id="lbar";
  d.innerHTML='<button id="lplay" type="button"></button><button id="lrate" type="button" aria-label="'+esc(L.sp)+'" title="'+esc(L.sp)+'"></button><div class="lhelp" id="lhelp" hidden></div>';
  document.body.appendChild(d);ldraw()}
@@ -764,7 +767,7 @@ document.addEventListener("click",function(e){var x=e.target.closest&&e.target;i
  if(!x.closest(".rwrap")&&$("rpanel")&&!$("rpanel").hidden){$("rpanel").hidden=true;$("rset").setAttribute("aria-expanded","false")}});
 applyRead();
 /* Updates: the site checks version.txt; when a newer version is published, a bar offers to load it (also inside the home-screen app, which otherwise keeps showing the copy saved on the phone). */
-var APPV="2026.11.05.2153";
+var APPV="2026.11.06.0825";
 var UPL={en:{t:"Updates",c:"Check for updates",ok:"You have the latest version",n:"A new version of Daily Word is ready.",u:"Update now"},
 ml:{t:"പുതുക്കൽ",c:"പുതിയ പതിപ്പുണ്ടോ എന്നു നോക്കുക",ok:"ഏറ്റവും പുതിയ പതിപ്പാണ്",n:"Daily Word-ന്റെ പുതിയ പതിപ്പ് തയ്യാർ.",u:"ഇപ്പോൾ പുതുക്കുക"},
 ta:{t:"புதுப்பிப்பு",c:"புதுப்பிப்பைச் சரிபார்",ok:"இது சமீபத்திய பதிப்பு",n:"Daily Word புதிய பதிப்பு தயார்.",u:"இப்போது புதுப்பி"},
