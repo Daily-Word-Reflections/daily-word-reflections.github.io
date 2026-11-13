@@ -375,7 +375,7 @@ details.about li b{display:block;color:var(--ink)}
   <details class="about" id="about"><summary id="about-s"></summary><div id="about-b"></div></details>
   <footer id="foot"></footer>
   <nav class="seolinks" aria-label="Browse"><a href="library/">Library: study guides</a> · <a href="library/ml/">ഗ്രന്ഥശാല</a><br><a href="h/en/">All homilies and reflections (English)</a> · <a href="h/ml/">എല്ലാ പ്രസംഗങ്ങളും വിചിന്തനങ്ങളും (മലയാളം)</a><br><a href="en/">English</a> · <a href="ml/">മലയാളം</a> · <a href="ta/">தமிழ்</a> · <a href="hi/">हिन्दी</a> · <a href="te/">తెలుగు</a> · <a href="kn/">ಕನ್ನಡ</a> · <a href="de/">Deutsch</a> · <a href="it/">Italiano</a> · <a href="es/">Español</a> · <a href="pt/">Português</a> · <a href="fr/">Français</a> · <a href="tl/">Tagalog</a> · <a href="sw/">Kiswahili</a> · <a href="sos/">Priests in need</a></nav>
-  <div class="copyr">© 2026 VC · v2026.11.13.0754</div>
+  <div class="copyr">© 2026 VC · v2026.11.13.1344</div>
 </div>
 <div class="welcome" id="welcome" hidden role="dialog" aria-modal="true" aria-labelledby="w-h"><div class="wbox" id="wbox"></div></div>
 
@@ -767,7 +767,7 @@ document.addEventListener("click",function(e){var x=e.target.closest&&e.target;i
  if(!x.closest(".rwrap")&&$("rpanel")&&!$("rpanel").hidden){$("rpanel").hidden=true;$("rset").setAttribute("aria-expanded","false")}});
 applyRead();
 /* Updates: the site checks version.txt; when a newer version is published, a bar offers to load it (also inside the home-screen app, which otherwise keeps showing the copy saved on the phone). */
-var APPV="2026.11.13.0754";
+var APPV="2026.11.13.1344";
 var UPL={en:{t:"Updates",c:"Check for updates",ok:"You have the latest version",n:"A new version of Daily Word is ready.",u:"Update now"},
 ml:{t:"പുതുക്കൽ",c:"പുതിയ പതിപ്പുണ്ടോ എന്നു നോക്കുക",ok:"ഏറ്റവും പുതിയ പതിപ്പാണ്",n:"Daily Word-ന്റെ പുതിയ പതിപ്പ് തയ്യാർ.",u:"ഇപ്പോൾ പുതുക്കുക"},
 ta:{t:"புதுப்பிப்பு",c:"புதுப்பிப்பைச் சரிபார்",ok:"இது சமீபத்திய பதிப்பு",n:"Daily Word புதிய பதிப்பு தயார்.",u:"இப்போது புதுப்பி"},
@@ -4426,7 +4426,7 @@ function needChunks(){if(typeof CHUNKS==="undefined")return [];var ms=[];
  if(S.view==="day"){var t=parseISO(S.date),dw=new Date(t).getUTCDay();ms=monthsBetween(t-dw*DAY,t+21*DAY)}
  else if(S.view==="saints"){if(S.saint){var ss=saintsFor(S.rite).filter(function(x){return x.id===S.saint})[0];if(ss)ms=[saintYearDate(saintDate(ss,S.rite)).slice(0,7)]}
   else{var dt=new Date(parseISO(S.date));dt.setUTCDate(1);dt.setUTCMonth(dt.getUTCMonth()+(S.smon||0));ms=[iso(dt.getTime()).slice(0,7)]}}
- var ls=S.lang==="en"?["en"]:[S.lang,"en"],out=[];ms.forEach(function(m){ls.forEach(function(l){var k=S.rite+"-"+l+"-"+m;if(CHUNKS.indexOf(k)>=0&&!LOADED[k])out.push(k);if(S.view==="day"&&S.tab==="exeg"&&m===S.date.slice(0,7)){var ke="exg-"+k;if(CHUNKS.indexOf(ke)>=0&&!LOADED[ke])out.push(ke)}})});
+ var ls=S.lang==="en"?["en"]:[S.lang,"en"],out=[];ms.forEach(function(m){ls.forEach(function(l){var k=S.rite+"-"+l+"-"+m;if(CHUNKS.indexOf(k)>=0&&!LOADED["lite-"+k])out.push("lite-"+k);if(S.view==="day"&&m===S.date.slice(0,7)){var kd="day-"+S.rite+"-"+l+"-"+S.date;if(CHUNKS.indexOf(k)>=0&&!LOADED[kd])out.push(kd);var ke="exd-"+S.rite+"-"+l+"-"+S.date;if(S.tab==="exeg"&&CHUNKS.indexOf("exg-"+k)>=0&&!LOADED[ke])out.push(ke)}})});
  ls.forEach(function(l){var ex=(S.view==="saints"?["saints-"+l]:S.view==="occ"?["occ-"+l]:[]).concat(S.tab==="lit"?["lessons-"+S.rite+"-"+l]:[]);ex.forEach(function(k){if(CHUNKS.indexOf(k)>=0&&!LOADED[k])out.push(k)})});return out}
 var EXEG=window.EXEG||{};
 var EXL={en:{tab:"Exegesis",lead:"The readings as one lesson",set:"Setting",str:"Structure",kw:"Key words",vv:"Verse by verse",ch:"How the Church reads it",qa:"Questions people ask",study:"For study and teaching",none:"The exegesis for this day is being prepared.",fb:"Shown in English until the translation is ready.",rite:{smc:"For the Syro-Malabar reader",smk:"For the Syro-Malankara reader",lat:"For the Latin reader"}},
@@ -4464,16 +4464,17 @@ function loadChunk(k){if(!LOADING[k])LOADING[k]=fetch("data/"+k+".json").then(fu
   if(r==="saints"){SAINTS.forEach(function(z){if(j[z.id])z[l]=j[z.id]});LOADED[k]=1;IDX={};return}
   if(r==="occ"){OCC.forEach(function(z){if(j[z.id])z[l]=j[z.id]});LOADED[k]=1;IDX={};return}
   if(r==="lessons"){LESSONS[l]=LESSONS[l]||{};LESSONS[l][a[2]]=j;LOADED[k]=1;return}
-  if(r==="exg"){var src=j.e||{},rr=a[1],ll=a[2];Object.keys(src).forEach(function(d){EXEG[d]=EXEG[d]||{};EXEG[d][rr]=EXEG[d][rr]||{};EXEG[d][rr][ll]=src[d]});LOADED[k]=1;return}
+  if(r==="lite"||r==="day"){var r2=a[1],l2=a[2],full=r==="day";[["c",CONTENT],["x",EXTRA],["h",HOM],["s",SERMON]].forEach(function(p){var src=j[p[0]]||{},T=p[1];Object.keys(src).forEach(function(d){T[d]=T[d]||{};T[d][r2]=T[d][r2]||{};if(full||!T[d][r2][l2])T[d][r2][l2]=src[d]})});LOADED[k]=1;return}
+  if(r==="exg"||r==="exd"){var src=j.e||{},rr=a[1],ll=a[2];Object.keys(src).forEach(function(d){EXEG[d]=EXEG[d]||{};EXEG[d][rr]=EXEG[d][rr]||{};EXEG[d][rr][ll]=src[d]});LOADED[k]=1;return}
   [["c",CONTENT],["x",EXTRA],["h",HOM],["s",SERMON],["e",EXEG]].forEach(function(p){var src=j[p[0]]||{},T=p[1];Object.keys(src).forEach(function(d){T[d]=T[d]||{};T[d][r]=T[d][r]||{};T[d][r][l]=src[d]})});LOADED[k]=1}).catch(function(){LOADED[k]=1});return LOADING[k]}
 /* Offline: quietly fetch this month and next month for the chosen rite and language (plus saints, occasions, lessons) so the service worker keeps them for use without a network. */
 var WARMED={};
 function warmOffline(){if(typeof CHUNKS==="undefined"||!("serviceWorker" in navigator))return;var key=S.rite+"-"+S.lang;if(WARMED[key])return;WARMED[key]=1;
  var t=new Date(parseISO(S.date||iso(Date.now()))),ms=[];for(var i=0;i<2;i++){var d=new Date(Date.UTC(t.getUTCFullYear(),t.getUTCMonth()+i,1));ms.push(iso(d.getTime()).slice(0,7))}
- var ls=S.lang==="en"?["en"]:[S.lang,"en"],ks=[];ms.forEach(function(m){ls.forEach(function(l){ks.push(S.rite+"-"+l+"-"+m)})});
- ls.forEach(function(l){ks.push("saints-"+l,"occ-"+l,"lessons-"+S.rite+"-"+l)});
- ks=ks.filter(function(k){return CHUNKS.indexOf(k)>=0});
- var go=function(){ks.forEach(function(k,i){setTimeout(function(){fetch("data/"+k+".json").catch(function(){})},i*400)});fetch("data/search-"+S.lang+".json").catch(function(){})};
+ var ls=S.lang==="en"?["en"]:[S.lang,"en"],ks=[];ms.forEach(function(m){ls.forEach(function(l){if(CHUNKS.indexOf(S.rite+"-"+l+"-"+m)>=0)ks.push("lite-"+S.rite+"-"+l+"-"+m)})});for(var j2=0;j2<14;j2++){var dd=iso(t.getTime()+j2*DAY);ls.forEach(function(l){if(CHUNKS.indexOf(S.rite+"-"+l+"-"+dd.slice(0,7))>=0)ks.push("day-"+S.rite+"-"+l+"-"+dd)})}
+ var cn=navigator.connection||{},slow=cn.saveData||/2g|3g/.test(cn.effectiveType||"");if(!slow)ls.forEach(function(l){ks.push("saints-"+l,"occ-"+l,"lessons-"+S.rite+"-"+l)});
+ ks=ks.filter(function(k){return /^(lite|day)-/.test(k)||CHUNKS.indexOf(k)>=0});
+ var go=function(){ks.forEach(function(k,i){setTimeout(function(){fetch("data/"+k+".json").catch(function(){})},i*400)})};
  if(window.requestIdleCallback)requestIdleCallback(go,{timeout:5000});else setTimeout(go,3000)}
 /* Syro-Malabar Malayalam uses ഈശോ (and ഈശോമിശിഹാ); Bible quotations (POC) and passages keep their own wording. */
 var SMCJ=[["യേശുക്രിസ്തുവിന്റെ","ഈശോമിശിഹായുടെ"],["യേശുക്രിസ്തുവിനെ","ഈശോമിശിഹായെ"],["യേശുക്രിസ്തുവിനു","ഈശോമിശിഹായ്ക്കു"],["യേശുക്രിസ്തുവിൽ","ഈശോമിശിഹായിൽ"],["യേശുക്രിസ്തുവഴി","ഈശോമിശിഹാവഴി"],["യേശുക്രിസ്തു","ഈശോമിശിഹാ"],["യേശുവിന്റെ","ഈശോയുടെ"],["യേശുവിനെ","ഈശോയെ"],["യേശുവിനോട്","ഈശോയോട്"],["യേശുവിനോടു","ഈശോയോടു"],["യേശുവിനു","ഈശോയ്ക്കു"],["യേശുവിന്","ഈശോയ്ക്ക്"],["യേശുവിൽ","ഈശോയിൽ"],["യേശുവിലൂടെ","ഈശോയിലൂടെ"],["യേശുവിലേക്ക്","ഈശോയിലേക്ക്"],["യേശുവേ","ഈശോയേ"],["യേശുവാണ്","ഈശോയാണ്"],["യേശുവും","ഈശോയും"],["യേശുവോ","ഈശോയോ"],["യേശുവാകുന്ന","ഈശോയാകുന്ന"],["യേശു","ഈശോ"]];
@@ -4559,7 +4560,7 @@ function hX(d){var c=EXTRA[d]&&EXTRA[d][S.rite];return c&&(c[S.lang]||c.en)||nul
 function hSeason(d){var R=(window.SEASON||{})[S.rite],out="";if(!R)return "";Object.keys(R).sort().forEach(function(k){if(k<=d&&d<=R[k].end){var z=R[k][S.lang]||R[k].en;if(z&&z.t)out=z.t.split(":")[0]}});return out}
 function hRow(k,title,sub,extra,subh){return '<button class="hrow" type="button" data-h="'+k+'"'+(extra||"")+'><span class="hic">'+hIco(k)+'</span><span class="htx"><b>'+esc(title)+"</b>"+(subh?'<span class="hcol">'+subh+"</span>":sub?"<span>"+esc(sub)+"</span>":"")+"</span>"+HCHEV+"</button>"}
 function hShortRefs(C){return (C&&C.readings||[]).map(function(r){return String(r[1]||"").split(":")[0].replace(/\s*\(.*$/,"")}).filter(function(x,i,a){return x&&a.indexOf(x)===i}).slice(0,5).join(" · ")}
-function hNeed(){var ds=[hDate(),iso(parseISO(hDate())+DAY)],out=[];if(typeof CHUNKS==="undefined")return out;var ls=S.lang==="en"?["en"]:[S.lang,"en"];ds.forEach(function(d){ls.forEach(function(l){var k=S.rite+"-"+l+"-"+d.slice(0,7);if(CHUNKS.indexOf(k)>=0&&!LOADED[k]&&out.indexOf(k)<0)out.push(k)})});return out}
+function hNeed(){var ds=[hDate(),iso(parseISO(hDate())+DAY)],out=[];if(typeof CHUNKS==="undefined")return out;var ls=S.lang==="en"?["en"]:[S.lang,"en"];ds.forEach(function(d){ls.forEach(function(l){var k=S.rite+"-"+l+"-"+d.slice(0,7),kd="day-"+S.rite+"-"+l+"-"+d;if(CHUNKS.indexOf(k)>=0&&!LOADED[kd]&&out.indexOf(kd)<0)out.push(kd)})});return out}
 function drawHome(){var H=HOMEL[S.lang]||HOMEL.en,u=UI[S.lang]||UI.en,td=hDate(),tm=iso(parseISO(td)+DAY),C=hC(td),X=hX(td),C2=hC(tm),now=NOW(),hr=now.getHours(),dw=now.getDay();
  var head='<div class="hday"><div class="hdbar"><button class="hdn" type="button" data-hd="-1" aria-label="Previous day">‹</button><button class="hd1" id="hd-date" type="button"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" style="vertical-align:-2px;margin-right:6px"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>'+esc(dateLabel(parseISO(td),S.lang))+' ▾</button><button class="hdn" type="button" data-hd="1" aria-label="Next day">›</button></div>'+(td!==hToday()?'<button class="hdt" type="button" id="hd-today">'+esc(u.today||UI.en.today)+'</button>':'')+'<div class="hd2">'+esc(C?C.title:"")+'</div><div class="hd3">'+esc(hSeason(td))+"</div></div>";
  var gl0=String(H.morning).split(" · ").pop(),glab=gl0.charAt(0).toUpperCase()+gl0.slice(1),nowc="",vq=C&&C.verse?"“"+C.verse+"”":(X&&X.quick&&X.quick[0])||"",pre=td!==todayISO();
