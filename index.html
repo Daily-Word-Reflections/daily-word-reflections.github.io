@@ -133,6 +133,20 @@ body.lh1 .card select,body.lh1 .morehint{line-height:1.8!important}body.lh2 .car
 .botnav button[aria-current="true"]{color:var(--ink);border-bottom-color:var(--gold)}
 .tabs button{font:600 14px var(--sans);background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:10px 12px;cursor:pointer;white-space:nowrap}
 .tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--gold)}
+.ohrow{display:flex;align-items:flex-start;gap:10px;justify-content:space-between}.ohrow>.season{flex:1;min-width:0}.ordochip{margin-left:auto;align-self:center;cursor:pointer;display:inline-flex;align-items:center;gap:5px;border:1.5px solid var(--gold);color:var(--gold);background:transparent;border-radius:999px;padding:4px 11px;font:600 13px var(--sans);flex:none}.ordochip svg{flex:none}
+.osheet{position:fixed;inset:0;background:rgba(15,16,24,.5);z-index:1000;display:flex;align-items:flex-end;justify-content:center}body.ordo-on{overflow:hidden}
+.opanel{background:var(--paper);color:var(--ink);width:100%;max-width:640px;max-height:88vh;border-radius:18px 18px 0 0;overflow:auto;overscroll-behavior:contain;box-shadow:0 -8px 30px rgba(0,0,0,.25);font-family:var(--sans)}
+.ohead{position:sticky;top:0;z-index:2;background:var(--night);color:#f2dfae;padding:14px 16px 12px}.ohead h3{margin:0;font:600 22px var(--display);color:#f2dfae}.ohead .os{font-size:12px;color:#d9cfb8;margin-top:2px;padding-right:40px}
+.ox{position:absolute;right:12px;top:10px;border:0;background:rgba(255,255,255,.14);color:#fff;border-radius:50%;width:34px;height:34px;font-size:20px;cursor:pointer}
+.omonth{display:flex;align-items:center;gap:8px;margin-top:10px}.omonth button{flex:none;border:1px solid #6d6383;background:transparent;color:#fff;border-radius:50%;width:32px;height:32px;font-size:16px;cursor:pointer}
+.omonth select,.omonth input{min-width:0;border-radius:8px;border:0;padding:6px 6px;font:600 13px var(--sans);background:#fff;color:#222}.omonth select{flex:1 1 0}.omonth input{flex:0 0 118px;width:118px}.omonth{gap:6px}
+.oseas{position:sticky;top:0;padding:8px 16px 4px;font:700 11px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);background:var(--soft)}
+.orow{display:flex;gap:10px;width:100%;text-align:left;padding:10px 16px;border:0;border-bottom:1px solid var(--rule);background:transparent;color:inherit;align-items:flex-start;cursor:pointer;font:inherit}.orow:hover{background:var(--soft)}
+.orow.osel,.orow.ofocus{background:var(--goldsoft)}.orow.otoday .odate b{text-decoration:underline;text-decoration-color:var(--gold);text-underline-offset:3px}
+.odate{flex:0 0 46px;text-align:center}.odate b{display:block;font:600 22px var(--display);line-height:1}.odate span{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}.osun .odate b{color:var(--maroon)}
+.odot{width:12px;height:12px;border-radius:50%;flex:0 0 12px;margin-top:5px;border:1px solid var(--muted)}
+.otxt{flex:1;min-width:0;font-size:14px;display:grid;gap:3px}.ot{font-weight:600}.ork{font-size:10.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--gold)}.oopt{font-size:12.5px;font-style:italic;color:var(--muted)}.ord{font-size:12.5px;color:var(--muted)}
+.otap,.oload{margin:0;padding:12px 16px 18px;font-size:12.5px;color:var(--muted);text-align:center}
 .note{font:13.5px/1.5 var(--sans);color:var(--muted);background:var(--soft);border-radius:10px;padding:10px 14px}
 .note b{color:var(--ink)}
 
@@ -375,7 +389,7 @@ details.about li b{display:block;color:var(--ink)}
   <details class="about" id="about"><summary id="about-s"></summary><div id="about-b"></div></details>
   <footer id="foot"></footer>
   <nav class="seolinks" aria-label="Browse"><a href="library/">Library: study guides</a> · <a href="library/ml/">ഗ്രന്ഥശാല</a><br><a href="h/en/">All homilies and reflections (English)</a> · <a href="h/ml/">എല്ലാ പ്രസംഗങ്ങളും വിചിന്തനങ്ങളും (മലയാളം)</a><br><a href="en/">English</a> · <a href="ml/">മലയാളം</a> · <a href="ta/">தமிழ்</a> · <a href="hi/">हिन्दी</a> · <a href="te/">తెలుగు</a> · <a href="kn/">ಕನ್ನಡ</a> · <a href="de/">Deutsch</a> · <a href="it/">Italiano</a> · <a href="es/">Español</a> · <a href="pt/">Português</a> · <a href="fr/">Français</a> · <a href="tl/">Tagalog</a> · <a href="sw/">Kiswahili</a> · <a href="sos/">Priests in need</a></nav>
-  <div class="copyr">© 2026 VC · v2026.11.13.1344</div>
+  <div class="copyr">© 2026 VC · v2026.11.14.1001</div>
 </div>
 <div class="welcome" id="welcome" hidden role="dialog" aria-modal="true" aria-labelledby="w-h"><div class="wbox" id="wbox"></div></div>
 
@@ -767,7 +781,7 @@ document.addEventListener("click",function(e){var x=e.target.closest&&e.target;i
  if(!x.closest(".rwrap")&&$("rpanel")&&!$("rpanel").hidden){$("rpanel").hidden=true;$("rset").setAttribute("aria-expanded","false")}});
 applyRead();
 /* Updates: the site checks version.txt; when a newer version is published, a bar offers to load it (also inside the home-screen app, which otherwise keeps showing the copy saved on the phone). */
-var APPV="2026.11.13.1344";
+var APPV="2026.11.14.1001";
 var UPL={en:{t:"Updates",c:"Check for updates",ok:"You have the latest version",n:"A new version of Daily Word is ready.",u:"Update now"},
 ml:{t:"പുതുക്കൽ",c:"പുതിയ പതിപ്പുണ്ടോ എന്നു നോക്കുക",ok:"ഏറ്റവും പുതിയ പതിപ്പാണ്",n:"Daily Word-ന്റെ പുതിയ പതിപ്പ് തയ്യാർ.",u:"ഇപ്പോൾ പുതുക്കുക"},
 ta:{t:"புதுப்பிப்பு",c:"புதுப்பிப்பைச் சரிபார்",ok:"இது சமீபத்திய பதிப்பு",n:"Daily Word புதிய பதிப்பு தயார்.",u:"இப்போது புதுப்பி"},
@@ -916,6 +930,7 @@ function render(){
  de:{green:"Hoffnung und Wachstum in Christus (Zeit im Jahreskreis)",violet:"Buße und Erwartung (Advent, Fastenzeit, Gebet für die Verstorbenen)",red:"das Feuer des Heiligen Geistes und das Blut der Märtyrer",white:"Freude, Reinheit und Herrlichkeit (Feste des Herrn, Marias und der Heiligen, die nicht Märtyrer waren)",rose:"Vorfreude mitten in der Erwartung (Gaudete und Laetare)"},
  it:{green:"speranza e crescita in Cristo (Tempo Ordinario)",violet:"penitenza e attesa (Avvento, Quaresima, preghiera per i defunti)",red:"il fuoco dello Spirito Santo e il sangue dei martiri",white:"gioia, purezza e gloria (feste del Signore, di Maria e dei santi non martiri)",rose:"la gioia che affiora nell'attesa (domeniche Gaudete e Laetare)"}};if(window.LCMX)Object.assign(LCM,LCMX);
  if(L){var FXC={"01-01":"white","01-06":"white","02-02":"white","02-22":"white","03-19":"white","03-25":"white","06-24":"white","06-29":"red","07-03":"red","08-06":"white","08-15":"white","09-08":"white","09-14":"red","09-29":"white","10-18":"red","11-01":"white","11-02":"violet","11-04":"white","11-09":"white","11-10":"white","11-11":"white","11-12":"red","11-17":"white","11-21":"white","11-24":"red","11-30":"red","12-08":"white","12-25":"white","12-26":"red","12-27":"white","12-28":"red"},fx=({king:"white",bapt:"white",xmas:"white",pent:"red",palm:"red",ash:"violet"})[L.special]||FXC[S.date.slice(5)],CN={green:["Liturgical colour: green","ആരാധനക്രമനിറം: പച്ച"],violet:["Liturgical colour: violet","ആരാധനക്രമനിറം: വയലറ്റ്"],red:["Liturgical colour: red","ആരാധനക്രമനിറം: ചുവപ്പ്"],white:["Liturgical colour: white","ആരാധനക്രമനിറം: വെള്ള"]};if(fx&&!(L.s==="lent"&&fx!=="white"&&fx!=="violet"))colour=CN[fx][en?0:1]}
+ if(L){var OR=latOrdo(S.date),OK={g:"green",v:"violet",r:"red",w:"white"}[OR.col];if(OK)colour=CN[OK][en?0:1]}
  var sx=sk&&SXL[S.lang]&&SXL[S.lang][sk]?SXL[S.lang][sk]:(sk&&SX[sk]?SX[sk][li]:null);if(S.rite==="smc"&&(S.lang!=="en"||C))week="";
  var seasonName=sx?sx[0]:(S.rite==="smk"?u.rites.smk:"");if(L&&DI[S.lang])seasonName=DI[S.lang].seas[L.s];
  var title=C?C.title:(S.rite==="smc"?(week||dateLabel(t,S.lang)):L?latinLabel(L,S.lang):dateLabel(t,S.lang));
@@ -925,7 +940,7 @@ function render(){
  $("note").innerHTML=esc(src); if(S.rite==="smc"&&!S.setManual){var yy=new Date(t).getUTCFullYear(),ly2=t>=adv1(yy)?yy+1:yy;S.set=(ly2%2===0)?"2":"1"}
  if(S.rite==="smc"&&SMC[S.date]&&SMC[S.date].note==="mapped"){var MN={ta:"வாசகங்கள்: முதல் தொகுப்பு. 2026–27 அதிகாரப்பூர்வ நாள்காட்டி இன்னும் வெளியிடப்படவில்லை; 2024–25 அதிகாரப்பூர்வ முதல் தொகுப்பு நாள்காட்டியிலிருந்து திருவழிபாட்டு நாளின்படி எடுக்கப்பட்டவை. வெளியானதும் சரிபார்க்கவும்.",hi:"पाठ: प्रथम क्रम। 2026–27 का आधिकारिक पंचांग अभी प्रकाशित नहीं हुआ है; ये 2024–25 के आधिकारिक प्रथम क्रम पंचांग से धर्मविधिक दिन के अनुसार लिए गए हैं। प्रकाशित होने पर मिलान करें।",te:"పఠనాలు: మొదటి గణం. 2026–27 అధికారిక కాలెండర్ ఇంకా ప్రచురించబడలేదు; ఇవి 2024–25 అధికారిక మొదటి గణం కాలెండర్ నుండి ఆరాధనా దినం ప్రకారం తీసుకోబడ్డాయి. ప్రచురించబడినప్పుడు సరిచూడండి."};$("note").innerHTML=esc(MN[S.lang]?MN[S.lang]:S.lang==="ml"?"വായനകൾ: ഒന്നാം ഗണം (First Set). 2026–27-ലെ ഔദ്യോഗിക കലണ്ടർ ഇതുവരെ പ്രസിദ്ധീകരിച്ചിട്ടില്ല; 2024–25-ലെ ഔദ്യോഗിക ഒന്നാം ഗണം കലണ്ടറിൽനിന്ന് ആരാധനക്രമദിനമനുസരിച്ചു ക്രമീകരിച്ചത്. പ്രസിദ്ധീകരിക്കുമ്പോൾ ഒത്തുനോക്കുക.":"Readings: First Set. The official 2026–27 calendar is not yet published; these are taken from the official First Set calendar of 2024–25, matched by liturgical day. Please verify when the 2026–27 calendar appears.")} if(C&&C.partial&&(u.partial||u.allen))$("note").innerHTML=esc(src)+"<br><b>"+esc(C.partial==="all"?(u.allen||u.partial):u.partial)+"</b>";
 
- var head='<header style="display:grid;gap:4px">'+(sx?'<details class="sx season"><summary>'+esc(seasonName)+'</summary><div class="sxbody">'+esc(sx[1])+"</div></details>":'<div class="season">'+esc(seasonName)+"</div>")+
+ var head='<header style="display:grid;gap:4px"><div class="ohrow">'+(sx?'<details class="sx season"><summary>'+esc(seasonName)+'</summary><div class="sxbody">'+esc(sx[1])+"</div></details>":'<div class="season">'+esc(seasonName)+"</div>")+ordoChip()+"</div>"+
   '<h2 class="dtitle">'+esc(title)+"</h2>"+(week&&week!==title?'<div class="week">'+esc(week)+"</div>":"")+(colour?'<div class="chip"><i style="background:'+({green:"#2e7d32",violet:"#6a1b9a",red:"#c62828",white:"#ffffff",rose:"#e891b0"}[LCK]||"#2e7d32")+';border:1px solid var(--rule)"></i><span><b>'+esc(colour)+"</b>"+(LCM[S.lang]&&LCM[S.lang][LCK]?" · "+esc(LCM[S.lang][LCK]):"")+"</span></div>":"")+"</header>";
  
  var OCTN={en:["Daily Word begins on 1 November 2026.","Readings, reflections and homilies are prepared from that day onward. Please choose a date from 1 November.","Go to 1 November"],
@@ -1272,6 +1287,7 @@ function go(k){S.date=k;S.view="day";$("results").hidden=true;$("q").value="";re
 $("langsel").addEventListener("change",function(){S.lang=this.value;render()});
 $("ritesel").addEventListener("change",function(){if(!this.value)return;S.rite=this.value;S.view="day";render()});
 $("langseg").addEventListener("click",function(e){var b=e.target.closest("[data-lang]");if(b){S.lang=b.dataset.lang;render()}});
+document.addEventListener("click",function(e){if(e.target.closest&&e.target.closest("#t-ordo"))ordoOpen()});
 document.querySelectorAll("[data-tab]").forEach(function(b){b.addEventListener("click",function(){S.tab=b.dataset.tab;if(S.tab==="homily")S.part=1;render()})});
 $("botnav").addEventListener("click",function(e){var b=e.target.closest("[data-bt]");if(!b)return;S.tab=b.dataset.bt;if(S.tab==="homily")S.part=1;S.view="day";S.saint="";$("results").hidden=true;$("q").value="";render();window.scrollTo(0,0)});
 $("prev").addEventListener("click",function(){go(iso(parseISO(S.date)-DAY))});
@@ -4422,6 +4438,99 @@ if(typeof SOS!=="undefined"){
 /* ---- on-demand day data (public site: CHUNKS/HAS come from data/manifest.js; the single-file build has none) ---- */
 var LOADED={},LOADING={},SIDX={};
 function monthsBetween(a,b){var o=[];for(var t=a;t<=b;t+=DAY){var m=iso(t).slice(0,7);if(o.indexOf(m)<0)o.push(m)}return o}
+/* Ordo (Latin) and Panchangam (Syro-Malabar, Syro-Malankara): a one-touch monthly calendar sheet. */
+var ORL={
+en:{lat:"Ordo",east:"Panchangam",sub:{lat:"Latin rite liturgical calendar",smc:"Syro-Malabar liturgical calendar",smk:"Syro-Malankara liturgical calendar"},rk:{S:"Solemnity",F:"Feast",M:"Memorial",m:"Optional memorial",C:"Commemoration",T:"Paschal Triduum",sun:"Sunday",wd:"Weekday"},opt:"Optional memorial",tap:"Tap a day to open it.",close:"Close",prev:"Previous month",next:"Next month"},
+ml:{lat:"ഓർദോ",east:"പഞ്ചാംഗം",sub:{lat:"ലത്തീൻ റീത്ത് ആരാധനക്രമ കലണ്ടർ",smc:"സീറോ മലബാർ ആരാധനക്രമ കലണ്ടർ",smk:"സീറോ മലങ്കര ആരാധനക്രമ കലണ്ടർ"},rk:{S:"മഹോത്സവം",F:"തിരുനാൾ",M:"ഓർമ",m:"ഐച്ഛിക ഓർമ",C:"അനുസ്മരണം",T:"പെസഹാ ത്രിദിനം",sun:"ഞായർ",wd:"സാധാരണ ദിവസം"},opt:"ഐച്ഛിക ഓർമ",tap:"ഒരു ദിവസം തുറക്കാൻ അതിൽ തൊടുക.",close:"അടയ്ക്കുക",prev:"മുൻ മാസം",next:"അടുത്ത മാസം"},
+de:{lat:"Direktorium",east:"Panchangam",sub:{lat:"Liturgischer Kalender des römischen Ritus",smc:"Syro-malabarischer liturgischer Kalender",smk:"Syro-malankarischer liturgischer Kalender"},rk:{S:"Hochfest",F:"Fest",M:"Gedenktag",m:"Nichtgebotener Gedenktag",C:"Kommemoration",T:"Österliches Triduum",sun:"Sonntag",wd:"Wochentag"},opt:"Nichtgebotener Gedenktag",tap:"Tippen Sie auf einen Tag, um ihn zu öffnen.",close:"Schließen",prev:"Voriger Monat",next:"Nächster Monat"},
+it:{lat:"Ordo",east:"Panchangam",sub:{lat:"Calendario liturgico del rito romano",smc:"Calendario liturgico siro-malabarese",smk:"Calendario liturgico siro-malankarese"},rk:{S:"Solennità",F:"Festa",M:"Memoria",m:"Memoria facoltativa",C:"Commemorazione",T:"Triduo pasquale",sun:"Domenica",wd:"Feria"},opt:"Memoria facoltativa",tap:"Tocca un giorno per aprirlo.",close:"Chiudi",prev:"Mese precedente",next:"Mese successivo"},
+es:{lat:"Ordo",east:"Panchangam",sub:{lat:"Calendario litúrgico del rito romano",smc:"Calendario litúrgico siro-malabar",smk:"Calendario litúrgico siro-malankar"},rk:{S:"Solemnidad",F:"Fiesta",M:"Memoria",m:"Memoria libre",C:"Conmemoración",T:"Triduo pascual",sun:"Domingo",wd:"Feria"},opt:"Memoria libre",tap:"Toque un día para abrirlo.",close:"Cerrar",prev:"Mes anterior",next:"Mes siguiente"},
+pt:{lat:"Ordo",east:"Panchangam",sub:{lat:"Calendário litúrgico do rito romano",smc:"Calendário litúrgico siro-malabar",smk:"Calendário litúrgico siro-malankar"},rk:{S:"Solenidade",F:"Festa",M:"Memória",m:"Memória facultativa",C:"Comemoração",T:"Tríduo pascal",sun:"Domingo",wd:"Féria"},opt:"Memória facultativa",tap:"Toque num dia para o abrir.",close:"Fechar",prev:"Mês anterior",next:"Mês seguinte"},
+fr:{lat:"Ordo",east:"Panchangam",sub:{lat:"Calendrier liturgique du rite romain",smc:"Calendrier liturgique syro-malabar",smk:"Calendrier liturgique syro-malankar"},rk:{S:"Solennité",F:"Fête",M:"Mémoire",m:"Mémoire facultative",C:"Commémoraison",T:"Triduum pascal",sun:"Dimanche",wd:"Férie"},opt:"Mémoire facultative",tap:"Touchez un jour pour l'ouvrir.",close:"Fermer",prev:"Mois précédent",next:"Mois suivant"},
+tl:{lat:"Ordo",east:"Panchangam",sub:{lat:"Kalendaryong liturhiko ng ritong Latino",smc:"Kalendaryong liturhiko ng Syro-Malabar",smk:"Kalendaryong liturhiko ng Syro-Malankara"},rk:{S:"Dakilang Kapistahan",F:"Kapistahan",M:"Paggunita",m:"Paggunitang opsyonal",C:"Pag-alaala",T:"Banal na Tatlong Araw ng Paskuwa",sun:"Linggo",wd:"Karaniwang araw"},opt:"Paggunitang opsyonal",tap:"Pindutin ang isang araw upang buksan ito.",close:"Isara",prev:"Nakaraang buwan",next:"Susunod na buwan"},
+sw:{lat:"Ordo",east:"Panchangam",sub:{lat:"Kalenda ya liturujia ya ibada ya Kilatini",smc:"Kalenda ya liturujia ya Siro-Malabar",smk:"Kalenda ya liturujia ya Siro-Malankara"},rk:{S:"Sherehe",F:"Sikukuu",M:"Kumbukumbu",m:"Kumbukumbu ya hiari",C:"Ukumbusho",T:"Siku Tatu Kuu za Pasaka",sun:"Dominika",wd:"Siku ya kawaida"},opt:"Kumbukumbu ya hiari",tap:"Gusa siku ili kuifungua.",close:"Funga",prev:"Mwezi uliopita",next:"Mwezi ujao"},
+ta:{lat:"திருவழிபாட்டு நாள்காட்டி",east:"பஞ்சாங்கம்",sub:{lat:"இலத்தீன் வழிபாட்டு முறை நாள்காட்டி",smc:"சீரோ மலபார் திருவழிபாட்டு நாள்காட்டி",smk:"சீரோ மலங்கரா திருவழிபாட்டு நாள்காட்டி"},rk:{S:"பெருவிழா",F:"விழா",M:"நினைவு",m:"விருப்ப நினைவு",C:"நினைவுகூர்தல்",T:"பாஸ்கா மூன்று நாள்கள்",sun:"ஞாயிறு",wd:"வார நாள்"},opt:"விருப்ப நினைவு",tap:"ஒரு நாளைத் திறக்க அதைத் தொடுங்கள்.",close:"மூடு",prev:"முந்தைய மாதம்",next:"அடுத்த மாதம்"},
+hi:{lat:"ओर्दो",east:"पंचांग",sub:{lat:"लातीनी रीति का धर्मविधिक पंचांग",smc:"सीरो-मलबार धर्मविधिक पंचांग",smk:"सीरो-मलंकरा धर्मविधिक पंचांग"},rk:{S:"महापर्व",F:"पर्व",M:"स्मृति",m:"ऐच्छिक स्मृति",C:"स्मरण",T:"पास्का त्रिदिवस",sun:"रविवार",wd:"सामान्य दिन"},opt:"ऐच्छिक स्मृति",tap:"किसी दिन को खोलने के लिए उसे छुएँ।",close:"बंद करें",prev:"पिछला महीना",next:"अगला महीना"},
+te:{lat:"ఆర్డో",east:"పంచాంగం",sub:{lat:"లాటిన్ రీతి ఆరాధనా కాలెండర్",smc:"సీరో మలబార్ ఆరాధనా కాలెండర్",smk:"సీరో మలంకర ఆరాధనా కాలెండర్"},rk:{S:"మహోత్సవం",F:"పండుగ",M:"స్మరణ",m:"ఐచ్ఛిక స్మరణ",C:"జ్ఞాపకం",T:"పాస్కా త్రిదినం",sun:"ఆదివారం",wd:"సాధారణ దినం"},opt:"ఐచ్ఛిక స్మరణ",tap:"ఒక రోజును తెరవడానికి దాన్ని తాకండి.",close:"మూసివేయి",prev:"గత నెల",next:"తదుపరి నెల"},
+kn:{lat:"ಆರ್ಡೊ",east:"ಪಂಚಾಂಗ",sub:{lat:"ಲತೀನ್ ವಿಧಿಯ ಆರಾಧನಾ ಕ್ಯಾಲೆಂಡರ್",smc:"ಸೀರೋ ಮಲಬಾರ್ ಆರಾಧನಾ ಕ್ಯಾಲೆಂಡರ್",smk:"ಸೀರೋ ಮಲಂಕರ ಆರಾಧನಾ ಕ್ಯಾಲೆಂಡರ್"},rk:{S:"ಮಹೋತ್ಸವ",F:"ಹಬ್ಬ",M:"ಸ್ಮರಣೆ",m:"ಐಚ್ಛಿಕ ಸ್ಮರಣೆ",C:"ಸ್ಮರಣಾರ್ಥ",T:"ಪಾಸ್ಕ ತ್ರಿದಿನ",sun:"ಭಾನುವಾರ",wd:"ಸಾಮಾನ್ಯ ದಿನ"},opt:"ಐಚ್ಛಿಕ ಸ್ಮರಣೆ",tap:"ಒಂದು ದಿನವನ್ನು ತೆರೆಯಲು ಅದನ್ನು ಸ್ಪರ್ಶಿಸಿ.",close:"ಮುಚ್ಚಿ",prev:"ಹಿಂದಿನ ತಿಂಗಳು",next:"ಮುಂದಿನ ತಿಂಗಳು"}};
+/* General Roman Calendar, fixed dates. [rank, colour, optional-memorial names en, ml]. g=green v=violet r=red w=white */
+var OFX={"11-01":["S","w"],"11-02":["X","v"],"11-03":["m","w","St Martin de Porres","വിശുദ്ധ മാർട്ടിൻ ഡി പോറസ്"],"11-04":["M","w"],"11-09":["FL","w"],"11-10":["M","w"],"11-11":["M","w"],"11-12":["M","r"],"11-15":["m","w","St Albert the Great","മഹാനായ വിശുദ്ധ ആൽബർട്ട്"],"11-16":["m","w","St Margaret of Scotland; St Gertrude","സ്കോട്ട്ലൻഡിലെ വിശുദ്ധ മാർഗരറ്റ്; വിശുദ്ധ ജെർത്രൂദ്"],"11-17":["M","w"],"11-18":["m","w","Dedication of the Basilicas of Sts Peter and Paul","വിശുദ്ധ പത്രോസിന്റെയും വിശുദ്ധ പൗലോസിന്റെയും ബസിലിക്കകളുടെ പ്രതിഷ്ഠ"],"11-21":["M","w"],"11-22":["M","r"],"11-23":["m","r","St Clement I; St Columban","വിശുദ്ധ ക്ലെമന്റ് ഒന്നാമൻ; വിശുദ്ധ കൊളുമ്പൻ"],"11-24":["M","r"],"11-25":["m","r","St Catherine of Alexandria","അലക്സാണ്ട്രിയായിലെ വിശുദ്ധ കത്രീന"],"11-30":["F","r"],
+"12-03":["M","w"],"12-04":["m","w","St John Damascene","ഡമാസ്കസിലെ വിശുദ്ധ യോഹന്നാൻ"],"12-06":["m","w","St Nicholas","വിശുദ്ധ നിക്കോളാസ്"],"12-07":["M","w"],"12-08":["S","w"],"12-09":["m","w","St Juan Diego","വിശുദ്ധ ഹുവാൻ ഡിയേഗോ"],"12-11":["m","w","St Damasus I","വിശുദ്ധ ദമാസുസ് ഒന്നാമൻ"],"12-12":["m","w","Our Lady of Guadalupe","ഗ്വാദലൂപ്പെ മാതാവ്"],"12-13":["M","r"],"12-14":["M","w"],"12-21":["m","w","St Peter Canisius","വിശുദ്ധ പീറ്റർ കനീസിയൂസ്"],"12-23":["m","w","St John of Kanty","കാന്റിയിലെ വിശുദ്ധ യോഹന്നാൻ"],"12-25":["S","w"],"12-26":["F","r"],"12-27":["F","w"],"12-28":["F","r"],"12-29":["m","r","St Thomas Becket","വിശുദ്ധ തോമസ് ബെക്കറ്റ്"],"12-31":["m","w","St Sylvester I","വിശുദ്ധ സിൽവെസ്റ്റർ ഒന്നാമൻ"],
+"01-01":["S","w"],"01-02":["M","w"],"01-03":["m","w","The Most Holy Name of Jesus","യേശുവിന്റെ തിരുനാമം"],"01-07":["m","w","St Raymond of Penyafort","പെന്യാഫോർട്ടിലെ വിശുദ്ധ റെയ്മണ്ട്"],"01-13":["m","w","St Hilary","വിശുദ്ധ ഹിലാരി"],"01-17":["M","w"],"01-20":["m","r","St Fabian; St Sebastian","വിശുദ്ധ ഫാബിയൻ; വിശുദ്ധ സെബസ്ത്യാനോസ്"],"01-21":["M","r"],"01-22":["m","r","St Vincent","വിശുദ്ധ വിൻസെന്റ്"],"01-24":["M","w"],"01-25":["F","w"],"01-26":["M","w"],"01-27":["m","w","St Angela Merici","വിശുദ്ധ ആഞ്ചല മെരീച്ചി"],"01-28":["M","w"],"01-31":["M","w"],
+"02-02":["FL","w"],"02-03":["m","r","St Blaise; St Ansgar","വിശുദ്ധ ബ്ലെയ്സ്; വിശുദ്ധ അൻസ്ഗാർ"],"02-05":["M","r"],"02-06":["M","r"],"02-08":["m","w","St Jerome Emiliani; St Josephine Bakhita","വിശുദ്ധ ജെറോം എമിലിയാനി; വിശുദ്ധ ജോസഫൈൻ ബക്കീത്ത"],"02-10":["M","w"],"02-11":["m","w","Our Lady of Lourdes","ലൂർദ് മാതാവ്"],"02-14":["M","w"],"02-17":["m","w","Seven Holy Founders of the Servite Order","സെർവൈറ്റ് സഭയുടെ ഏഴു വിശുദ്ധ സ്ഥാപകർ"],"02-21":["m","w","St Peter Damian","വിശുദ്ധ പീറ്റർ ഡാമിയൻ"],"02-22":["F","w"],"02-23":["M","r","St Polycarp","വിശുദ്ധ പോളികാർപ്പ്"],
+"03-04":["m","w","St Casimir","വിശുദ്ധ കാസിമിർ"],"03-07":["M","r"],"03-08":["m","w","St John of God","ദൈവത്തിന്റെ വിശുദ്ധ യോഹന്നാൻ"],"03-09":["m","w","St Frances of Rome","റോമിലെ വിശുദ്ധ ഫ്രാൻസിസ്"],"03-17":["m","w","St Patrick","വിശുദ്ധ പാട്രിക്"],"03-18":["m","w","St Cyril of Jerusalem","ജറുസലേമിലെ വിശുദ്ധ സിറിൽ"],"03-19":["S","w"],"03-23":["m","w","St Turibius of Mogrovejo","മൊഗ്രോവെഹോയിലെ വിശുദ്ധ തുരീബിയൂസ്"],"03-25":["S","w"],
+"04-02":["m","w","St Francis of Paola","പാവോളയിലെ വിശുദ്ധ ഫ്രാൻസിസ്"],"04-04":["m","w","St Isidore","വിശുദ്ധ ഇസിദോർ"],"04-05":["m","w","St Vincent Ferrer","വിശുദ്ധ വിൻസെന്റ് ഫെറർ"],"04-07":["M","w"],"04-11":["M","r"],"04-13":["m","r","St Martin I","വിശുദ്ധ മാർട്ടിൻ ഒന്നാമൻ"],"04-21":["m","w","St Anselm","വിശുദ്ധ ആൻസലം"],"04-23":["m","r","St George; St Adalbert","വിശുദ്ധ ഗീവർഗീസ്; വിശുദ്ധ അഡാൽബെർട്ട്"],"04-24":["m","r","St Fidelis of Sigmaringen","സിഗ്മാരിങ്ങനിലെ വിശുദ്ധ ഫിദേലിസ്"],"04-25":["F","r"],"04-28":["m","r","St Peter Chanel; St Louis Grignion de Montfort","വിശുദ്ധ പീറ്റർ ഷനേൽ; മോൺഫോർട്ടിലെ വിശുദ്ധ ലൂയിസ് മരിയ ഗ്രിഞ്ഞോൺ"],"04-29":["M","w"],"04-30":["m","w","St Pius V","വിശുദ്ധ പീയൂസ് അഞ്ചാമൻ പാപ്പാ"]};
+function latOrdo(k){var t=parseISO(k),L=latin(t),d=new Date(t),y=d.getUTCFullYear(),w=L.w,md=k.slice(5),E=easter(y),mo=d.getUTCMonth(),da=d.getUTCDate();
+ var base={adv:"v",lent:"v",holy:"v",chr:"w",east:"w",ot:"g"}[L.s]||"g",o={rk:w===0?"sun":"wd",col:base,opt:""};
+ if(w===0&&((L.s==="adv"&&L.n===3)||(L.s==="lent"&&L.n===4)))o.col="rose";
+ /* moveable celebrations */
+ if(t===E-3*DAY||t===E-2*DAY||t===E-DAY)return {rk:"T",col:t===E-2*DAY?"r":"w",opt:""};
+ if(L.special==="palm")return {rk:"sun",col:"r",opt:""};
+ if(t>=E&&t<=E+7*DAY)return {rk:t===E+7*DAY?"sun":"S",col:"w",opt:""};
+ if(L.special==="pent"||t===E+42*DAY||t===E+56*DAY||t===E+63*DAY||t===E+68*DAY)return {rk:"S",col:L.special==="pent"?"r":"w",opt:""};
+ if(L.special==="king"||L.special==="xmas")return {rk:"S",col:"w",opt:""};
+ if(L.special==="bapt")return {rk:"F",col:"w",opt:""};
+ if(L.special==="ash")return {rk:"wd",col:"v",opt:""};
+ if(mo===0&&da>=2&&da<=8&&w===0)return {rk:"S",col:"w",opt:""};/* Epiphany, kept on the Sunday */
+ var hf=null;for(var i=26;i<=31;i++)if(new Date(Date.UTC(y,11,i)).getUTCDay()===0)hf=i;if(mo===11&&da===(hf||30))return {rk:"F",col:"w",opt:""};/* Holy Family */
+ if(t===E+50*DAY)return {rk:"M",col:"w",opt:""};/* Mary, Mother of the Church */
+ if(t===E+69*DAY)return {rk:"M",col:"w",opt:""};/* Immaculate Heart */
+ /* fixed solemnities that move */
+ var f=OFX[md],ann=Date.UTC(y,2,25),jos=Date.UTC(y,2,19),imm=Date.UTC(y,11,8);
+ if(ann>=E-7*DAY&&ann<=E+7*DAY){if(t===E+8*DAY)return {rk:"S",col:"w",opt:""};if(md==="03-25")f=null}else if(new Date(ann).getUTCDay()===0){if(t===ann+DAY)return {rk:"S",col:"w",opt:""};if(md==="03-25")f=null}
+ if(jos>=E-7*DAY){if(t===E-8*DAY)return {rk:"S",col:"w",opt:""};if(md==="03-19")f=null}else if(new Date(jos).getUTCDay()===0){if(t===jos+DAY)return {rk:"S",col:"w",opt:""};if(md==="03-19")f=null}
+ if(new Date(imm).getUTCDay()===0){if(t===imm+DAY)return {rk:"S",col:"w",opt:""};if(md==="12-08")f=null}
+ if(md==="12-27"&&hf===27)f=null;
+ if(!f)return o;
+ var r=f[0],priv=L.s==="holy"||(t>=E&&t<=E+7*DAY)||L.special==="ash";
+ if(r==="X")return {rk:"",col:f[1],opt:""};
+ if(w===0){if(r==="S"&&(L.s==="ot"||L.s==="chr"))return {rk:"S",col:f[1],opt:""};if(r==="FL"&&(L.s==="ot"||L.s==="chr"))return {rk:"F",col:f[1],opt:""};return o}
+ if(r==="S")return {rk:"S",col:f[1],opt:""};
+ if(r==="F"||r==="FL")return priv?o:{rk:"F",col:f[1],opt:""};
+ if(priv)return o;
+ var late=(mo===11&&da>=17&&da<=24)||(mo===11&&da>=29)||L.s==="lent";
+ if(late)return {rk:"C",col:base,opt:f[2]?[f[2],f[3]]:""};
+ if(r==="M")return {rk:"M",col:f[1],opt:""};
+ var et=((CONTENT[k]||{}).lat||{}).en,tk=f[2].split(";")[0].replace(/^(St|Sts|The Most|Our Lady of|Dedication of the) /,"").split(" ")[0];
+ if(et&&et.title&&et.title.indexOf(" · ")>=0&&et.title.indexOf(tk)>=0)return {rk:"m",col:f[1],opt:""};
+ return {rk:"wd",col:base,opt:[f[2],f[3]]};
+}
+var OCOL={g:"#2e7d32",v:"#6a1b9a",r:"#c62828",w:"#ffffff",rose:"#e891b0"},OCN={g:"green",v:"violet",r:"red",w:"white",rose:"rose"};
+function ordoName(){var O=ORL[S.lang]||ORL.en;return S.rite==="lat"?O.lat:O.east}
+function ordoMonths(){var ms=[];(typeof CHUNKS!=="undefined"?CHUNKS:[]).forEach(function(k){var m=k.match(/^(smc|smk|lat)-en-(\d{4}-\d\d)$/);if(m&&m[1]===S.rite&&ms.indexOf(m[2])<0)ms.push(m[2])});return ms.sort()}
+function ordoChip(){return '<button type="button" class="ordochip" id="t-ordo" aria-label="'+esc(ordoName())+'"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="4" y="5" width="16" height="15" rx="2"/><path d="M4 10h16M9 3v4M15 3v4"/><path d="M8 14h2M12 14h2M8 17h2"/></svg><span>'+esc(ordoName())+"</span></button>"}
+function ordoOpen(){var O=ORL[S.lang]||ORL.en,ms=ordoMonths();if(!ms.length)return;var m=S.date.slice(0,7);if(ms.indexOf(m)<0)m=ms[S.date<ms[0]?0:ms.length-1];
+ var w=document.createElement("div");w.className="osheet";w.setAttribute("role","dialog");w.setAttribute("aria-modal","true");w.setAttribute("aria-label",ordoName());
+ w.innerHTML='<div class="opanel"><div class="ohead"><h3>'+esc(ordoName())+'</h3><div class="os">'+esc(O.sub[S.rite])+'</div><button class="ox" type="button" aria-label="'+esc(O.close)+'">×</button><div class="omonth"><button type="button" class="omp" aria-label="'+esc(O.prev)+'">‹</button><select class="oms"></select><input type="date" class="omd"><button type="button" class="omn" aria-label="'+esc(O.next)+'">›</button></div></div><div class="olist" aria-live="polite"></div><p class="otap">'+esc(O.tap)+"</p></div>";
+ document.body.appendChild(w);document.body.classList.add("ordo-on");
+ var sel=w.querySelector(".oms"),din=w.querySelector(".omd"),u=UI[S.lang]||UI.en;
+ sel.innerHTML=ms.map(function(x){return '<option value="'+x+'">'+esc(u.months[+x.slice(5)-1]+" "+x.slice(0,4))+"</option>"}).join("");
+ din.min=ms[0]+"-01";var lm=ms[ms.length-1],ld=new Date(Date.UTC(+lm.slice(0,4),+lm.slice(5),0));din.max=iso(ld.getTime());
+ function close(){w.remove();document.body.classList.remove("ordo-on");document.removeEventListener("keydown",esck);try{$("t-ordo").focus()}catch(e){}}
+ function esck(e){if(e.key==="Escape")close()}
+ document.addEventListener("keydown",esck);
+ w.addEventListener("click",function(e){if(e.target===w)close()});w.querySelector(".ox").onclick=close;
+ function show(mm,focus){m=mm;sel.value=mm;din.value=focus||(S.date.slice(0,7)===mm?S.date:mm+"-01");var lst=w.querySelector(".olist");lst.innerHTML='<p class="oload"><span class="ldot"></span><span class="ldot"></span><span class="ldot"></span></p>';
+  var ls=S.lang==="en"?["en"]:[S.lang,"en"],ks=[];ls.forEach(function(l){var k=S.rite+"-"+l+"-"+mm;if(CHUNKS.indexOf(k)>=0&&!LOADED["lite-"+k]&&!LOADED[k])ks.push("lite-"+k)});
+  Promise.all(ks.map(loadChunk)).then(function(){if(m!==mm)return;lst.innerHTML=ordoRows(mm);var tg=lst.querySelector('[data-d="'+(focus||S.date)+'"]');if(tg){tg.classList.add("ofocus");setTimeout(function(){tg.scrollIntoView({block:"center"})},30)}else lst.scrollTop=0})}
+ sel.onchange=function(){show(sel.value)};
+ din.onchange=function(){var v=din.value;if(!/^\d{4}-\d\d-\d\d$/.test(v))return;if(ms.indexOf(v.slice(0,7))<0)return;show(v.slice(0,7),v)};
+ w.querySelector(".omp").onclick=function(){var i=ms.indexOf(m);if(i>0)show(ms[i-1])};
+ w.querySelector(".omn").onclick=function(){var i=ms.indexOf(m);if(i<ms.length-1)show(ms[i+1])};
+ w.querySelector(".olist").addEventListener("click",function(e){var r=e.target.closest("[data-d]");if(!r)return;close();S.tab="lectern";S.focus="";go(r.dataset.d);window.scrollTo(0,0)});
+ show(m);setTimeout(function(){w.querySelector(".ox").focus()},50)}
+function ordoRows(mm){var O=ORL[S.lang]||ORL.en,u=UI[S.lang]||UI.en,y=+mm.slice(0,4),mi=+mm.slice(5)-1,n=new Date(Date.UTC(y,mi+1,0)).getUTCDate(),h="",prevS="",today=hToday();
+ for(var i=1;i<=n;i++){var k=mm+"-"+(i<10?"0":"")+i,t=parseISO(k),wd=new Date(t).getUTCDay(),cc=(CONTENT[k]||{})[S.rite]||{},c=cc[S.lang]||cc.en;if(!c)continue;
+  var sn="";if(S.rite==="lat"){var L=latin(t);sn=DI[S.lang]?DI[S.lang].seas[L.s]:(SEAS[L.s]?SEAS[L.s][S.lang==="en"?0:1]:"")}else if(S.rite==="smc"){var sk=smcSeason(k),sx=sk&&SXL[S.lang]&&SXL[S.lang][sk]?SXL[S.lang][sk]:(sk&&SX[sk]?SX[sk][S.lang==="en"?0:1]:null);sn=sx?sx[0]:""}
+  if(sn&&sn!==prevS){h+='<div class="oseas">'+esc(sn)+"</div>";prevS=sn}
+  var R=S.rite==="lat"?latOrdo(k):{rk:wd===0?"sun":"",col:""},title=c.title||"",opt="",nm=R.opt?(S.lang==="ml"?R.opt[1]:S.lang==="en"?R.opt[0]:""):"";
+  if(R.rk==="C"&&!nm)R.rk="wd";
+  if(nm)opt='<span class="oopt">'+esc((R.rk==="C"?O.rk.C:O.opt)+": "+nm)+"</span>";
+  var rk=R.rk==="C"?O.rk.wd:R.rk&&R.rk!=="sun"&&O.rk[R.rk]?O.rk[R.rk]:"";
+  var rd=(c.readings||[]).map(function(x){return x[1]}).filter(Boolean).join(" · ");
+  h+='<button type="button" class="orow'+(k===S.date?" osel":"")+(k===today?" otoday":"")+(wd===0?" osun":"")+'" data-d="'+k+'"><span class="odate"><b>'+i+"</b><span>"+esc((u.days[wd]||"").slice(0,S.lang==="en"||/^(de|it|es|pt|fr|tl)$/.test(S.lang)?3:12))+"</span></span>"+(R.col?'<span class="odot" style="background:'+OCOL[R.col]+'" title="'+esc(OCN[R.col])+'"></span>':"")+'<span class="otxt"><span class="ot">'+(rk?'<span class="ork">'+esc(rk)+"</span> ":"")+esc(title)+"</span>"+opt+(rd?'<span class="ord">'+esc(rd)+"</span>":"")+"</span></button>"}
+ return h||'<p class="oload">…</p>'}
+
 function needChunks(){if(typeof CHUNKS==="undefined")return [];var ms=[];
  if(S.view==="day"){var t=parseISO(S.date),dw=new Date(t).getUTCDay();ms=monthsBetween(t-dw*DAY,t+21*DAY)}
  else if(S.view==="saints"){if(S.saint){var ss=saintsFor(S.rite).filter(function(x){return x.id===S.saint})[0];if(ss)ms=[saintYearDate(saintDate(ss,S.rite)).slice(0,7)]}
