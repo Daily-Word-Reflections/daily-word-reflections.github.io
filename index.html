@@ -390,7 +390,7 @@ details.about li b{display:block;color:var(--ink)}
   <details class="about" id="about"><summary id="about-s"></summary><div id="about-b"></div></details>
   <footer id="foot"></footer>
   <nav class="seolinks" aria-label="Browse"><a href="library/">Library: study guides</a> · <a href="library/ml/">ഗ്രന്ഥശാല</a><br><a href="h/en/">All homilies and reflections (English)</a> · <a href="h/ml/">എല്ലാ പ്രസംഗങ്ങളും വിചിന്തനങ്ങളും (മലയാളം)</a><br><a href="en/">English</a> · <a href="ml/">മലയാളം</a> · <a href="ta/">தமிழ்</a> · <a href="hi/">हिन्दी</a> · <a href="te/">తెలుగు</a> · <a href="kn/">ಕನ್ನಡ</a> · <a href="de/">Deutsch</a> · <a href="it/">Italiano</a> · <a href="es/">Español</a> · <a href="pt/">Português</a> · <a href="fr/">Français</a> · <a href="tl/">Tagalog</a> · <a href="sw/">Kiswahili</a> · <a href="sos/">Priests in need</a></nav>
-  <div class="copyr">© 2026 VC · v2026.11.14.1023</div>
+  <div class="copyr">© 2026 VC · v2026.11.14.1025</div>
 </div>
 <div class="welcome" id="welcome" hidden role="dialog" aria-modal="true" aria-labelledby="w-h"><div class="wbox" id="wbox"></div></div>
 
@@ -782,7 +782,7 @@ document.addEventListener("click",function(e){var x=e.target.closest&&e.target;i
  if(!x.closest(".rwrap")&&$("rpanel")&&!$("rpanel").hidden){$("rpanel").hidden=true;$("rset").setAttribute("aria-expanded","false")}});
 applyRead();
 /* Updates: the site checks version.txt; when a newer version is published, a bar offers to load it (also inside the home-screen app, which otherwise keeps showing the copy saved on the phone). */
-var APPV="2026.11.14.1023";
+var APPV="2026.11.14.1025";
 var UPL={en:{t:"Updates",c:"Check for updates",ok:"You have the latest version",n:"A new version of Daily Word is ready.",u:"Update now"},
 ml:{t:"പുതുക്കൽ",c:"പുതിയ പതിപ്പുണ്ടോ എന്നു നോക്കുക",ok:"ഏറ്റവും പുതിയ പതിപ്പാണ്",n:"Daily Word-ന്റെ പുതിയ പതിപ്പ് തയ്യാർ.",u:"ഇപ്പോൾ പുതുക്കുക"},
 ta:{t:"புதுப்பிப்பு",c:"புதுப்பிப்பைச் சரிபார்",ok:"இது சமீபத்திய பதிப்பு",n:"Daily Word புதிய பதிப்பு தயார்.",u:"இப்போது புதுப்பி"},
@@ -802,7 +802,7 @@ function upCheck(force){if(APPV.indexOf("__")===0||location.protocol==="file:")r
 function doUpdate(){var go=function(){location.reload()};try{gtag("event","app_update",{from:APPV})}catch(e){}
  try{Promise.resolve(window.caches?caches.keys().then(function(ks){return Promise.all(ks.map(function(k){return caches.delete(k)}))}):0).then(function(){return navigator.serviceWorker?navigator.serviceWorker.getRegistration():0}).then(function(r){return r&&r.update()}).then(go,go)}catch(e){go()}}
 function upBar(){if($("upbar"))return;var UL=UPL[S.lang]||UPL.en,d=document.createElement("div");d.id="upbar";d.className="upbar";d.setAttribute("role","status");
- d.innerHTML='<span>'+esc(UL.n)+'</span><button type="button" id="upgo">'+esc(UL.u)+'</button><button type="button" id="upx" aria-label="Close">✕</button>';document.body.appendChild(d)}
+ var wn=(typeof ordoName==="function"&&todayISO()<"2026-12-15")?'<br><b>'+esc(String((LIBL[S.lang]||LIBL.en).n).split(":")[0]+": "+ordoName())+'</b>':"";d.innerHTML='<span>'+esc(UL.n)+wn+'</span><button type="button" id="upgo">'+esc(UL.u)+'</button><button type="button" id="upx" aria-label="Close">✕</button>';document.body.appendChild(d)}
 document.addEventListener("click",function(e){var x=e.target.closest&&e.target;if(!x)return;if(x.closest("#upgo")){doUpdate();return}if(x.closest("#upx")){var b=$("upbar");if(b)b.remove()}});
 function upAuto(){upCheck(false).then(function(n){if(n)upBar()})}
 setTimeout(upAuto,2500);document.addEventListener("visibilitychange",function(){if(document.visibilityState==="visible")upAuto()});
@@ -828,7 +828,7 @@ document.addEventListener("click",function(e){var x=e.target.closest&&e.target;i
 setTimeout(libPop,3000);
 var ONEW={"en": "The liturgical calendar of each month: every day's feast and readings. Tap a day to open it.", "ml": "ഓരോ മാസത്തെയും ആരാധനക്രമ കലണ്ടർ: ഓരോ ദിവസത്തെയും തിരുനാളും വായനകളും. ഒരു ദിവസം തൊട്ടാൽ അത് തുറക്കും.", "ta": "ஒவ்வொரு மாதத்தின் திருவழிபாட்டு நாள்காட்டி: ஒவ்வொரு நாளின் விழாவும் வாசகங்களும். ஒரு நாளைத் தொட்டால் அது திறக்கும்.", "hi": "हर महीने का धर्मविधिक पंचांग: हर दिन का पर्व और पाठ। किसी दिन को छूएँ, वह खुल जाएगा।", "te": "ప్రతి నెల ఆరాధనా క్యాలెండర్: ప్రతి రోజు పండుగ, పఠనాలు. ఒక రోజును తాకితే అది తెరుచుకుంటుంది.", "kn": "ಪ್ರತಿ ತಿಂಗಳ ಆರಾಧನಾ ಪಂಚಾಂಗ: ಪ್ರತಿದಿನದ ಹಬ್ಬ ಮತ್ತು ವಾಚನಗಳು. ಒಂದು ದಿನವನ್ನು ಮುಟ್ಟಿದರೆ ಅದು ತೆರೆಯುತ್ತದೆ.", "de": "Der liturgische Kalender jedes Monats: Fest und Lesungen für jeden Tag. Tippen Sie auf einen Tag, um ihn zu öffnen.", "it": "Il calendario liturgico di ogni mese: la celebrazione e le letture di ogni giorno. Tocca un giorno per aprirlo.", "es": "El calendario litúrgico de cada mes: la celebración y las lecturas de cada día. Toque un día para abrirlo.", "pt": "O calendário litúrgico de cada mês: a celebração e as leituras de cada dia. Toque num dia para o abrir.", "fr": "Le calendrier liturgique de chaque mois : la célébration et les lectures de chaque jour. Touchez un jour pour l'ouvrir.", "tl": "Ang kalendaryo ng liturhiya bawat buwan: ang pagdiriwang at mga pagbasa sa bawat araw. Pindutin ang isang araw upang buksan ito.", "sw": "Kalenda ya liturujia ya kila mwezi: adhimisho na masomo ya kila siku. Gusa siku moja kuifungua."};
 function ordoSeen(){try{localStorage.setItem("av-ordonew","1")}catch(e){}var b=$("ordobar");if(b)b.remove()}
-function ordoPop(){try{if(localStorage.getItem("av-ordonew"))return}catch(e){return}if(S.fromLink||$("ordobar")||!$("welcome").hidden)return;var L=LIBL[S.lang]||LIBL.en,nw=String(L.n).split(":")[0],d=document.createElement("div");d.id="ordobar";d.className="upbar libbar";d.setAttribute("role","status");
+function ordoPop(){try{if(localStorage.getItem("av-ordonew"))return}catch(e){return}if(S.fromLink||$("ordobar"))return;if($("upbar")||!$("welcome").hidden){setTimeout(ordoPop,4000);return}var L=LIBL[S.lang]||LIBL.en,nw=String(L.n).split(":")[0],d=document.createElement("div");d.id="ordobar";d.className="upbar libbar";d.setAttribute("role","status");
  d.innerHTML='<span><b>'+esc(nw+": "+ordoName())+'</b><br>'+esc(ONEW[S.lang]||ONEW.en)+'</span><button type="button" id="ordogo">'+esc(L.o)+'</button><button type="button" id="ordox" aria-label="Close">✕</button>';document.body.appendChild(d)}
 document.addEventListener("click",function(e){var x=e.target.closest&&e.target;if(!x)return;if(x.closest("#ordogo")){ordoSeen();ordoOpen();return}if(x.closest("#ordox"))ordoSeen()});
 setTimeout(ordoPop,2500);
